@@ -1,0 +1,4743 @@
+1
+00:00:03,837 --> 00:00:06,738
+<i>[Typewriter Bell Dings]</i>
+<i>[Typing]</i>
+
+2
+00:00:12,979 --> 00:00:15,539
+<i>[Bell Dings, Typing]</i>
+
+3
+00:00:20,320 --> 00:00:22,345
+<i>[Birds Chirping]</i>
+
+4
+00:00:22,422 --> 00:00:26,756
+<i>[Vehicle Moving On Road]</i>
+
+5
+00:00:26,826 --> 00:00:29,818
+<i>[Door Opens, Bell Dinging]</i>
+
+6
+00:00:31,698 --> 00:00:34,030
+<i>##[Pop]</i>
+
+7
+00:00:41,941 --> 00:00:45,308
+<i>[Woman]</i>
+<i># Words disappear #</i>
+
+8
+00:00:45,378 --> 00:00:47,369
+<i>[Car Door Closes]</i>
+
+9
+00:00:47,447 --> 00:00:49,813
+<i># Words once so clear #</i>
+<i>[Vehicle Pulls Away]</i>
+
+10
+00:00:49,883 --> 00:00:52,977
+<i># Only echoes #</i>
+
+11
+00:00:53,053 --> 00:00:55,817
+<i>#Passin' through the night #</i>
+
+12
+00:00:59,526 --> 00:01:02,518
+<i># The lines on my face #</i>
+[Engine Starts]
+
+13
+00:01:04,164 --> 00:01:07,759
+<i># Your fingers once traced #</i>
+
+14
+00:01:07,834 --> 00:01:11,235
+<i>#Fade in reflection #</i>
+
+15
+00:01:11,304 --> 00:01:14,432
+<i># Of what was #</i>
+
+16
+00:01:26,586 --> 00:01:29,851
+<i># Thoughts rearrange #</i>
+
+17
+00:01:31,057 --> 00:01:34,185
+<i>#Familiar, now strange #</i>
+
+18
+00:01:35,795 --> 00:01:37,922
+<i>#All my schemes #</i>
+
+19
+00:01:37,997 --> 00:01:41,398
+<i>#Driftin' on the wind #</i>
+
+20
+00:01:44,637 --> 00:01:47,470
+<i>#Spring brings the rain #</i>
+
+21
+00:01:48,942 --> 00:01:51,968
+<i># With winter comes pain #</i>
+
+22
+00:01:53,613 --> 00:01:56,104
+<i>#Every season #</i>
+
+23
+00:01:56,182 --> 00:01:58,673
+<i>#Has an end #</i>
+
+24
+00:02:01,721 --> 00:02:03,655
+<i>#I'll try #</i>
+
+25
+00:02:03,723 --> 00:02:06,988
+<i># To see through your disguise #</i>
+
+26
+00:02:09,996 --> 00:02:12,487
+<i>#For the clouds were there #</i>
+
+27
+00:02:12,565 --> 00:02:16,262
+<i>#Blocking out the sun #</i>
+
+28
+00:02:16,336 --> 00:02:18,270
+<i># The sun #</i>
+
+29
+00:02:38,391 --> 00:02:41,224
+<i># Thoughts rearrange #</i>
+
+30
+00:02:42,629 --> 00:02:45,860
+<i>#Familiar, now strange #</i>
+
+31
+00:02:47,300 --> 00:02:49,461
+<i>#All my schemes #</i>
+
+32
+00:02:49,536 --> 00:02:52,437
+<i>#Driftin’ on the wind #</i>
+
+33
+00:02:56,209 --> 00:02:58,973
+<i>#Spring brings the rain #</i>
+
+34
+00:03:00,446 --> 00:03:03,711
+<i># With winter comes pain #</i>
+
+35
+00:03:05,285 --> 00:03:10,018
+<i>#Every season has an end #</i>
+
+36
+00:03:12,325 --> 00:03:14,725
+<i># There's an end ##</i>
+
+37
+00:03:26,706 --> 00:03:28,970
+<i>[Dog Barking]</i>
+
+38
+00:03:29,042 --> 00:03:31,533
+<i>[Children Chattering]</i>
+
+39
+00:04:33,039 --> 00:04:36,702
+<i>##[Dramatic Instrumental]</i>
+
+40
+00:04:41,714 --> 00:04:44,706
+<i>[TV: Man]</i>
+<i>Did you ever meet Don Juan?</i>
+
+41
+00:04:44,784 --> 00:04:46,945
+<i>[Woman]</i>
+<i>Never. Not once!</i>
+
+42
+00:04:47,020 --> 00:04:50,012
+<i>Then why are you in mourning?</i>
+<i>Because I've never met him.</i>
+
+43
+00:04:50,089 --> 00:04:52,023
+[Sobbing]
+
+44
+00:04:52,091 --> 00:04:55,754
+[Man Chuckles]
+It's amazing. I had no idea
+my own funeral could be so delightful.
+
+45
+00:04:55,828 --> 00:04:59,525
+It certainly brought your career
+to a happy end.
+End?
+
+46
+00:04:59,599 --> 00:05:02,261
+<i>Leave off while they still</i>
+<i>think of you as you were.</i>
+
+47
+00:05:02,335 --> 00:05:04,701
+<i>All these wrinkles,</i>
+<i>these lines, these gray hairs.</i>
+
+48
+00:05:04,771 --> 00:05:08,434
+[Don Juan]
+You'd spoil any party,
+even a funeral.
+
+49
+00:05:08,508 --> 00:05:11,909
+No, no, no, my friend.
+This is a great sight.
+
+50
+00:05:11,978 --> 00:05:14,208
+Women and women and women.
+
+51
+00:05:14,280 --> 00:05:16,612
+The eternal hunger
+of women for love.
+
+52
+00:05:25,591 --> 00:05:28,253
+I pretty much
+have all my stuff.
+
+53
+00:05:37,337 --> 00:05:39,828
+Looks like you got a love letter
+from one of your other girlfriends.
+
+54
+00:05:39,906 --> 00:05:43,307
+I don't have
+any other girlfriend, Sherry.
+Come on!
+
+55
+00:05:44,310 --> 00:05:46,301
+[Sighs]
+All right. I get it.
+
+56
+00:05:48,181 --> 00:05:51,514
+No, you don't.
+But it's okay.
+
+57
+00:05:51,584 --> 00:05:55,076
+That's the way you are.
+You're never going to change.
+
+58
+00:05:55,154 --> 00:05:58,146
+I just don't think
+I want to be with an...
+
+59
+00:05:58,224 --> 00:06:01,125
+an over-the-hill Don Juan
+anymore.
+
+60
+00:06:03,463 --> 00:06:05,556
+What do you want, Sherry?
+
+61
+00:06:05,631 --> 00:06:07,599
+What do <i>you</i> want, Don?
+
+62
+00:06:07,667 --> 00:06:11,398
+I mean, I'm like your mistress,
+
+63
+00:06:11,471 --> 00:06:13,564
+except you're not even married.
+
+64
+00:06:14,874 --> 00:06:17,570
+L- Look at your friend Winston
+next door.
+
+65
+00:06:17,643 --> 00:06:20,806
+It looks like
+they're having a great time.
+
+66
+00:06:20,880 --> 00:06:23,815
+Don't you ever want
+to have a family?
+
+67
+00:06:25,985 --> 00:06:28,647
+Well, is that what you want?
+
+68
+00:06:31,391 --> 00:06:35,760
+I don't know what I want,
+but I just want to figure it out
+by myself.
+
+69
+00:06:37,163 --> 00:06:39,131
+By yourself.
+
+70
+00:06:39,198 --> 00:06:41,132
+Yeah.
+
+71
+00:06:41,200 --> 00:06:43,930
+Maybe I'll call you sometime.
+
+72
+00:06:53,212 --> 00:06:55,146
+<i>Sherry?</i>
+
+73
+00:07:36,622 --> 00:07:39,352
+<i>##[TV: Continues]</i>
+
+74
+00:07:40,560 --> 00:07:42,892
+<i>[Woman]</i>
+<i>What are you but a female?</i>
+<i>[Woman #2] Same as you!</i>
+
+75
+00:07:42,962 --> 00:07:45,294
+<i>Nobody asked you.</i>
+<i>He never kissed you.</i>
+<i>It was an impudent lie!</i>
+
+76
+00:07:45,364 --> 00:07:47,855
+<i>[Man] Yes, it was a lie.</i>
+<i>Don Juan told me so himself.</i>
+<i>It was only publicity.</i>
+
+77
+00:07:47,934 --> 00:07:49,868
+<i>[Man #2]</i>
+<i>He did not!</i>
+<i>Don't you...</i>
+
+78
+00:07:49,936 --> 00:07:52,097
+<i>[Woman]</i>
+<i>And who are you to give orders here?</i>
+<i>[Woman #2] Who am I?</i>
+
+79
+00:07:52,171 --> 00:07:55,629
+Don Juan said I was the girl
+whose kiss he'd been seeking
+on a thousand women's lips!
+
+80
+00:07:55,708 --> 00:07:58,541
+I was the only one. He'd never love
+anybody else in his life!
+
+81
+00:07:58,611 --> 00:08:01,102
+<i>[Woman #2]</i>
+<i>Ha! He loved you so much that he went</i>
+<i>straight from you to another woman.</i>
+
+82
+00:08:01,180 --> 00:08:03,614
+<i>He loved me!</i>
+<i>And loathed young women like you.</i>
+
+83
+00:08:03,683 --> 00:08:05,378
+<i>Cat!</i>
+<i>Cow!</i>
+
+84
+00:08:05,451 --> 00:08:06,816
+Snake!
+Pig!
+
+85
+00:08:06,886 --> 00:08:08,285
+Goat!
+Weasel!
+
+86
+00:08:08,354 --> 00:08:10,083
+Worm!
+No, no, no, no!
+
+87
+00:08:10,156 --> 00:08:13,125
+<i>[Crowd Laughing]</i>
+
+88
+00:08:20,766 --> 00:08:22,996
+<i>[Laughing Continues]</i>
+
+89
+00:08:34,480 --> 00:08:37,108
+[Quiet Snoring]
+
+90
+00:08:37,183 --> 00:08:39,583
+[Phone Rings]
+
+91
+00:08:43,289 --> 00:08:46,850
+[Rings]
+
+92
+00:08:46,926 --> 00:08:48,860
+Yeah?
+
+93
+00:08:50,396 --> 00:08:52,364
+Hey, Winston.
+
+94
+00:08:52,431 --> 00:08:54,422
+You at work?
+
+95
+00:08:55,801 --> 00:08:58,429
+It's Saturday. Of course. Yeah.
+
+96
+00:09:00,439 --> 00:09:02,430
+[Clears Throat]
+
+97
+00:09:04,744 --> 00:09:06,735
+No, I just got up.
+
+98
+00:09:10,182 --> 00:09:12,343
+What, you can't access the site?
+
+99
+00:09:16,923 --> 00:09:19,414
+Yeah. All right. I'll be right over.
+
+100
+00:09:21,527 --> 00:09:24,519
+Yes. Coffee would be good.
+
+101
+00:09:26,299 --> 00:09:29,200
+Will it be a cup
+of Ethiopian coffee?
+
+102
+00:09:31,337 --> 00:09:33,362
+Okay.
+
+103
+00:10:07,039 --> 00:10:09,701
+<i>##[Stereo: Reggae]</i>
+Good morning.
+
+104
+00:10:09,775 --> 00:10:11,709
+<i>[Woman]</i>
+<i>Morning, Don!</i>
+
+105
+00:10:19,251 --> 00:10:22,516
+Hey, you two.
+Keep your eyes on the Cheerios.
+
+106
+00:10:23,756 --> 00:10:26,850
+<i>[Man]</i>
+<i># Galloping donkey #</i>
+
+107
+00:10:26,926 --> 00:10:30,259
+How's the sweetest grape
+on the vine?
+I'm good.
+
+108
+00:10:30,329 --> 00:10:33,730
+Winston is in the back,
+on his computer,
+
+109
+00:10:33,799 --> 00:10:35,790
+in his office.
+
+110
+00:10:35,868 --> 00:10:38,268
+<i>Irie.</i>
+[Chuckles]
+
+111
+00:10:43,542 --> 00:10:45,476
+Thank you, Don.
+
+112
+00:10:48,781 --> 00:10:50,874
+<i>[Keyboard Clacking]</i>
+
+113
+00:10:50,950 --> 00:10:54,579
+What's up, Winston?
+Hey, Don. Listen.
+I can't seem to access this site.
+
+114
+00:10:54,654 --> 00:10:57,748
+I... I need your computer expertise.
+Yeah? What is it?
+
+115
+00:10:57,823 --> 00:11:01,657
+It's like a whole system
+for breaking down the plots
+of detective fiction...
+
+116
+00:11:01,727 --> 00:11:03,752
+or the solution of crimes.
+
+117
+00:11:03,829 --> 00:11:06,093
+Y... Click.
+
+118
+00:11:06,165 --> 00:11:08,929
+Yes. You see?
+
+119
+00:11:09,001 --> 00:11:11,401
+And click. I tried before.
+
+120
+00:11:11,470 --> 00:11:13,961
+Stay calm.
+Click. Uh...
+
+121
+00:11:14,040 --> 00:11:16,270
+[Chuckles]
+Go get 'em, Sherlock.
+
+122
+00:11:16,342 --> 00:11:18,333
+Cool, cool, cool.
+
+123
+00:11:20,880 --> 00:11:24,213
+Oh, this is my kind
+of information, man.
+
+124
+00:11:24,283 --> 00:11:26,751
+I love the Net.
+[Laughing]
+
+125
+00:11:27,820 --> 00:11:31,551
+The whole world of information...
+through the wall, click.
+
+126
+00:11:32,658 --> 00:11:35,957
+You sure you don't want
+a computer at your house?
+No.
+
+127
+00:11:36,028 --> 00:11:38,019
+Seems awful strange to me.
+
+128
+00:11:38,097 --> 00:11:42,796
+A man who made all of his money
+off of computers doesn't want
+to have one in his house.
+
+129
+00:11:45,337 --> 00:11:47,305
+Oh!
+
+130
+00:11:49,008 --> 00:11:51,101
+Cool. Cool.
+This is fascinating.
+
+131
+00:11:51,177 --> 00:11:54,840
+Supposedly, you can use this
+to write a mystery novel...
+
+132
+00:11:54,914 --> 00:11:57,144
+or to solve
+a complicated crime.
+
+133
+00:11:57,216 --> 00:11:59,707
+If...
+
+134
+00:11:59,785 --> 00:12:02,015
+Don.
+
+135
+00:12:02,088 --> 00:12:04,022
+You all right?
+
+136
+00:12:05,124 --> 00:12:07,058
+What?
+
+137
+00:12:09,161 --> 00:12:11,152
+Is something wrong?
+
+138
+00:12:12,932 --> 00:12:14,923
+Well, it's probably nothing.
+
+139
+00:12:15,000 --> 00:12:19,994
+Uh, a love letter
+from one of your lovely ladies.
+
+140
+00:12:20,072 --> 00:12:22,438
+Something like that.
+
+141
+00:12:24,577 --> 00:12:26,772
+I'll read it to you.
+
+142
+00:12:26,846 --> 00:12:32,250
+"Dear Don, sometimes life
+brings some strange surprises.
+
+143
+00:12:32,318 --> 00:12:34,980
+"It's been almost 20 years
+since we've seen each other,
+
+144
+00:12:35,054 --> 00:12:38,615
+"but now there's something
+I need to tell you.
+
+145
+00:12:38,691 --> 00:12:42,388
+"Years ago, after our story ended,
+
+146
+00:12:42,461 --> 00:12:44,793
+"I discovered I was pregnant.
+
+147
+00:12:44,864 --> 00:12:49,665
+"I decided to go through
+with the pregnancy,
+and I had a baby, a son.
+
+148
+00:12:49,735 --> 00:12:51,703
+"Your son.
+
+149
+00:12:51,771 --> 00:12:54,865
+"I decided to raise him by myself
+because our time together...
+
+150
+00:12:54,940 --> 00:12:57,773
+"had come to a close.
+
+151
+00:12:57,843 --> 00:13:00,334
+"My son is now almost 19.
+
+152
+00:13:01,714 --> 00:13:05,548
+"He's somewhat shy and secretive,
+unlike you,
+
+153
+00:13:05,618 --> 00:13:08,018
+"but a sensitive, wonderful person.
+
+154
+00:13:08,087 --> 00:13:11,579
+"A few days ago he left
+on a mysterious road trip,
+
+155
+00:13:11,657 --> 00:13:14,888
+"but I'm almost certain
+he's searching for his father.
+
+156
+00:13:14,960 --> 00:13:17,690
+"I've told him almost nothing about you,
+
+157
+00:13:17,763 --> 00:13:21,392
+"but he's resourceful and imaginative.
+
+158
+00:13:21,467 --> 00:13:24,300
+"Anyway, if this is, in fact,
+your correct address,
+
+159
+00:13:24,370 --> 00:13:27,305
+well, I just felt
+I should let you know."
+
+160
+00:13:29,742 --> 00:13:31,733
+There's no signature...
+
+161
+00:13:33,179 --> 00:13:35,170
+and no return address.
+
+162
+00:13:35,247 --> 00:13:38,148
+Hey, congratulations!
+You're a father.
+
+163
+00:13:42,188 --> 00:13:44,952
+Uh, you're really upset by this.
+C- Can I see it?
+
+164
+00:13:54,633 --> 00:13:57,625
+Your address is handwritten,
+
+165
+00:13:57,703 --> 00:13:59,762
+but printed.
+
+166
+00:13:59,839 --> 00:14:02,239
+Red ink on pink paper.
+
+167
+00:14:04,043 --> 00:14:06,034
+Typewriter.
+
+168
+00:14:07,513 --> 00:14:10,812
+<i>A red ribbon. Curious.</i>
+
+169
+00:14:13,385 --> 00:14:17,549
+"Dear Don, sometimes"...
+
+170
+00:14:17,623 --> 00:14:19,557
+Hmm.
+
+171
+00:14:24,997 --> 00:14:27,659
+Damn. This postmark
+is too faint to read.
+That's fucked up.
+
+172
+00:14:27,733 --> 00:14:29,667
+Tsk-tsk.
+
+173
+00:14:29,735 --> 00:14:33,967
+[Chuckles]
+And you have no idea
+who this is from?
+
+174
+00:14:34,039 --> 00:14:36,337
+Nope.
+
+175
+00:14:36,408 --> 00:14:38,342
+None.
+
+176
+00:14:38,410 --> 00:14:40,571
+But from all I know,
+
+177
+00:14:40,646 --> 00:14:43,581
+you are like, uh...
+like Don Juan or something.
+[Chuckling]
+
+178
+00:14:45,951 --> 00:14:47,885
+Don Juan.
+
+179
+00:14:51,357 --> 00:14:53,518
+[Muttering]
+
+180
+00:14:55,194 --> 00:14:57,958
+I gotta go.
+
+181
+00:14:59,732 --> 00:15:03,668
+You want me to keep the letter
+for forensic evidence or... clues?
+
+182
+00:15:03,736 --> 00:15:05,897
+Or... Don.
+
+183
+00:15:08,240 --> 00:15:10,674
+[Sniffs]
+
+184
+00:15:10,743 --> 00:15:12,677
+Hmm.
+
+185
+00:15:20,853 --> 00:15:24,914
+<i>##[Stereo: Woman Singing Opera]</i>
+
+186
+00:15:29,094 --> 00:15:31,028
+<i>[Doorbell Rings]</i>
+
+187
+00:15:31,096 --> 00:15:33,030
+<i>[Door Opens]</i>
+
+188
+00:15:34,266 --> 00:15:37,030
+<i>[Winston]</i>
+<i>Hey, it's me.</i>
+
+189
+00:15:37,102 --> 00:15:39,036
+I see that.
+
+190
+00:15:46,345 --> 00:15:48,745
+It's kind of lonely in here, man.
+
+191
+00:15:53,085 --> 00:15:55,019
+Do you mind?
+
+192
+00:15:55,087 --> 00:15:57,749
+<i>##[Volume Down]</i>
+
+193
+00:16:06,632 --> 00:16:09,931
+Is Sherry coming home?
+No.
+
+194
+00:16:11,337 --> 00:16:13,828
+She left.
+
+195
+00:16:13,906 --> 00:16:16,875
+<i>What do you mean, "She left"?</i>
+<i>She went on a trip?</i>
+
+196
+00:16:16,942 --> 00:16:19,775
+No. I mean, she left.
+
+197
+00:16:21,513 --> 00:16:23,447
+Sorry, man.
+
+198
+00:16:23,515 --> 00:16:27,110
+Yeah, me too. I think.
+
+199
+00:16:31,090 --> 00:16:34,059
+Well, but knowing Sherry,
+she probably hasn't played
+her last card yet. Right?
+
+200
+00:16:34,126 --> 00:16:36,060
+Probably not.
+
+201
+00:16:37,529 --> 00:16:40,430
+Anyway, you've never had trouble
+finding interesting females.
+
+202
+00:16:40,499 --> 00:16:43,093
+I mean, uh, that's the way your life
+has been though. Right?
+
+203
+00:16:43,168 --> 00:16:45,568
+You're like, uh... like Don Juan.
+
+204
+00:16:46,672 --> 00:16:49,004
+Winston, please stop saying that.
+
+205
+00:16:54,847 --> 00:16:57,213
+Hey.
+
+206
+00:16:57,282 --> 00:17:01,912
+About this letter...
+I did examine the postmark
+under my microscope.
+
+207
+00:17:01,987 --> 00:17:05,548
+<i>And it is too faint to read,</i>
+<i>but the stamp-</i>
+
+208
+00:17:05,624 --> 00:17:07,615
+it's got on it a woodpecker.
+
+209
+00:17:08,694 --> 00:17:11,993
+<i>What does that mean to you?</i>
+<i>Anything?</i>
+
+210
+00:17:14,433 --> 00:17:16,901
+Well, what I think we should do...
+
+211
+00:17:16,969 --> 00:17:19,233
+is to narrow down the possibilities.
+
+212
+00:17:19,304 --> 00:17:22,467
+Winston, this is probably
+someone playing a joke on me.
+
+213
+00:17:22,541 --> 00:17:25,305
+If not, then...
+
+214
+00:17:25,377 --> 00:17:27,311
+whatever.
+
+215
+00:17:28,580 --> 00:17:31,879
+It seems so unfair...
+someone to write a letter like this...
+
+216
+00:17:31,950 --> 00:17:34,111
+and-and-and not sign it?
+
+217
+00:17:34,186 --> 00:17:36,677
+Don't you want to know
+who is the mother of your son?
+
+218
+00:17:36,755 --> 00:17:39,849
+My hypothetical son?
+No, Winston.
+
+219
+00:17:39,925 --> 00:17:41,859
+<i>I don't, okay?</i>
+
+220
+00:17:42,895 --> 00:17:44,829
+Okay.
+
+221
+00:17:44,897 --> 00:17:47,798
+Then we can just drop it.
+<i>We can?</i>
+
+222
+00:17:47,866 --> 00:17:50,892
+We can, of course. Okay.
+
+223
+00:17:50,969 --> 00:17:53,164
+<i>Good.</i>
+It's dropped.
+
+224
+00:18:13,125 --> 00:18:16,026
+But then how can you ignore
+something like this?
+
+225
+00:18:16,095 --> 00:18:19,587
+- You need to treat this as a sign.
+- What kind of sign?
+
+226
+00:18:19,665 --> 00:18:21,656
+<i>Of the direction of your life.</i>
+
+227
+00:18:21,733 --> 00:18:24,224
+Of this present moment.
+
+228
+00:18:24,303 --> 00:18:28,205
+<i>You need to solve this mystery...</i>
+
+229
+00:18:28,273 --> 00:18:32,972
+and find out which of your women it was
+that you impregnated with your semen
+20 years ago.
+
+230
+00:18:33,045 --> 00:18:35,036
+Winston.
+
+231
+00:18:38,717 --> 00:18:41,686
+<i>What happened to</i>
+<i>that groovin' CD I burned for you?</i>
+
+232
+00:18:45,157 --> 00:18:47,819
+Here it is. Do you mind?
+
+233
+00:18:54,833 --> 00:18:58,269
+## [World Beat]
+
+234
+00:18:59,638 --> 00:19:02,072
+Ah, that's nice.
+Ethiopian sounds.
+
+235
+00:19:02,141 --> 00:19:04,268
+It's good for the heart.
+
+236
+00:19:17,422 --> 00:19:20,823
+Look, come over tomorrow
+for, uh, Sunday brunch,
+
+237
+00:19:20,893 --> 00:19:24,090
+and, uh, we'll talk a little further
+about our investigative plan, huh?
+
+238
+00:19:24,163 --> 00:19:26,154
+So I'll leave that right there.
+
+239
+00:19:26,231 --> 00:19:28,324
+Go home
+and leave me alone.
+
+240
+00:19:28,400 --> 00:19:30,698
+Okay, man. I love you too.
+
+241
+00:19:33,972 --> 00:19:36,964
+<i>[Door Opens, Closes]</i>
+
+242
+00:19:57,596 --> 00:20:00,326
+I think your father's real name
+is Sam Spade.
+
+243
+00:20:00,399 --> 00:20:02,833
+My father isn't Sam Spade.
+
+244
+00:20:02,901 --> 00:20:06,132
+No? Think he's Sherlock Holmes?
+
+245
+00:20:06,205 --> 00:20:08,639
+No.
+
+246
+00:20:08,707 --> 00:20:12,370
+Well, I know he's one
+of those famous detectives.
+Mike Hammer!
+
+247
+00:20:12,444 --> 00:20:14,605
+No, not Mike Hammer.
+
+248
+00:20:16,014 --> 00:20:18,710
+Oh, I know.
+He's that Dolemite guy. Right?
+
+249
+00:20:18,784 --> 00:20:21,617
+No, not Dolemite.
+No?
+
+250
+00:20:23,288 --> 00:20:25,654
+[Boy Shouting]
+
+251
+00:20:25,724 --> 00:20:28,887
+[Shouts, Laughs]
+He's down.
+
+252
+00:20:33,699 --> 00:20:36,930
+Keep your eyes open.
+He may be Dolemite.
+No!
+
+253
+00:20:37,002 --> 00:20:38,936
+Mona,
+
+254
+00:20:39,004 --> 00:20:40,938
+thank you.
+
+255
+00:20:41,006 --> 00:20:44,965
+That was so delicious.
+[Chuckles]
+You're welcome. Anytime.
+
+256
+00:20:45,043 --> 00:20:46,977
+Really?
+Mm-hmm.
+
+257
+00:20:47,045 --> 00:20:48,842
+What time's dinner?
+
+258
+00:20:48,914 --> 00:20:51,542
+You are the most perfect woman
+in the world.
+
+259
+00:20:51,617 --> 00:20:54,780
+Hey, hey, hey.
+Let me tell you something.
+That's mine.
+
+260
+00:20:54,853 --> 00:20:56,980
+Come, come, come.
+
+261
+00:20:57,055 --> 00:20:59,353
+No cigarettes.
+<i>[Winston Scoffs]</i>
+
+262
+00:21:08,000 --> 00:21:10,696
+That's where you get
+your appetite.
+
+263
+00:21:10,769 --> 00:21:12,760
+Your woman cooks too good.
+
+264
+00:21:13,772 --> 00:21:17,003
+I'd like to look
+at that pink letter again.
+Let me see it.
+
+265
+00:21:17,075 --> 00:21:21,068
+I burned it last night...
+microwave.
+Yes, little Rita?
+
+266
+00:21:21,146 --> 00:21:23,205
+Papa, you're smoking again.
+
+267
+00:21:23,282 --> 00:21:26,774
+No, no, no. This is just herbs.
+It's just a little Cheeba. Hmm?
+
+268
+00:21:26,852 --> 00:21:28,843
+Let me see that.
+
+269
+00:21:34,459 --> 00:21:36,450
+He's right.
+It's just <i>cannabis sativa.</i>
+
+270
+00:21:36,528 --> 00:21:38,519
+You see?
+Just a little indigo, baby.
+
+271
+00:21:38,597 --> 00:21:42,055
+'Cause Mama says,
+"No more smoking tobacco anymore."
+
+272
+00:21:42,134 --> 00:21:44,500
+Yeah, I know.
+I gave it up.
+Never!
+
+273
+00:21:44,569 --> 00:21:48,403
+Never!
+No more tobacco. I promise.
+Okay.
+
+274
+00:21:52,544 --> 00:21:55,536
+Come, come, come, come.
+Let me see this mysterious pink letter.
+
+275
+00:22:13,899 --> 00:22:18,302
+Okay. What you have to
+do for me is make a list.
+
+276
+00:22:19,304 --> 00:22:21,636
+A list.
+
+277
+00:22:21,707 --> 00:22:25,871
+I need the possibilities
+of who the mother might be.
+
+278
+00:22:25,944 --> 00:22:30,108
+You give me a list
+of all your girlfriends
+from back then,
+
+279
+00:22:30,182 --> 00:22:32,514
+and then I can plan everything.
+
+280
+00:22:36,588 --> 00:22:38,715
+Uh, I think I'm going home,
+Sherlock.
+
+281
+00:22:38,790 --> 00:22:41,953
+Just destroy that letter
+when you're through with it,
+will you?
+
+282
+00:22:42,994 --> 00:22:44,928
+Work on that list.
+
+283
+00:22:44,996 --> 00:22:48,830
+<i>##[Stereo: Ethiopian Jazz]</i>
+
+284
+00:22:48,900 --> 00:22:51,562
+[Rings]
+
+285
+00:22:54,873 --> 00:22:57,205
+<i>[Rings]</i>
+
+286
+00:22:58,944 --> 00:23:00,878
+Hello, Winston?
+
+287
+00:23:02,814 --> 00:23:04,748
+What list?
+
+288
+00:23:07,652 --> 00:23:10,450
+<i>No, haven't even thought about it.</i>
+
+289
+00:23:10,522 --> 00:23:12,513
+Are you on a cell phone?
+
+290
+00:23:14,025 --> 00:23:17,256
+Yeah. Is it okay if I run in
+and grab that list?
+
+291
+00:23:18,330 --> 00:23:21,993
+Sure. Why not?
+Great. Hold on a second.
+
+292
+00:23:27,739 --> 00:23:30,230
+Any other info
+on where they might be?
+
+293
+00:23:30,308 --> 00:23:33,573
+Not really.
+That's where they lived
+or their families lived.
+
+294
+00:23:33,645 --> 00:23:37,046
+That's all I can remember.
+Good. Cool.
+
+295
+00:23:39,251 --> 00:23:41,515
+Okay. Sorry about that.
+It's okay.
+
+296
+00:23:41,586 --> 00:23:43,577
+Look, man. I'm all over this.
+
+297
+00:23:43,655 --> 00:23:46,624
+The day after tomorrow,
+I'll have everything ready.
+
+298
+00:23:46,691 --> 00:23:48,682
+Knock yourself out.
+
+299
+00:24:37,843 --> 00:24:42,337
+<i>[Train Whistle Blowing]</i>
+
+300
+00:24:53,959 --> 00:24:58,055
+Don, man,
+my lunch break's almost over.
+Sorry. What's up?
+
+301
+00:24:58,129 --> 00:25:01,189
+Look, I got all the info right here,
+based on your list,
+
+302
+00:25:01,266 --> 00:25:03,234
+plus the whole plan.
+
+303
+00:25:05,971 --> 00:25:07,939
+You got addresses,
+married names,
+
+304
+00:25:08,006 --> 00:25:10,167
+in some cases even their jobs.
+
+305
+00:25:10,242 --> 00:25:12,233
+I've got some sad news though.
+What?
+
+306
+00:25:12,310 --> 00:25:14,642
+That girl named Michelle Pepe?
+
+307
+00:25:14,713 --> 00:25:17,477
+She died in a car accident...
+
+308
+00:25:17,549 --> 00:25:19,483
+<i>five years ago.</i>
+
+309
+00:25:19,551 --> 00:25:24,318
+I found the name of the cemetery
+where she... well, where she is.
+
+310
+00:25:24,389 --> 00:25:26,619
+Little Michelle Pepe?
+
+311
+00:25:26,691 --> 00:25:29,421
+<i>Yeah. I'm sorry.</i>
+
+312
+00:25:29,494 --> 00:25:32,486
+<i>But the other four...</i>
+<i>I got all their info.</i>
+
+313
+00:25:33,999 --> 00:25:36,490
+Well, that's...
+very impressive, Winston.
+
+314
+00:25:36,568 --> 00:25:40,129
+I really don't know
+why you did all of this.
+What am I supposed to do about it?
+
+315
+00:25:40,205 --> 00:25:42,696
+Look, your whole trip...
+it's all planned.
+
+316
+00:25:42,774 --> 00:25:46,175
+Booked reservations, rental cars.
+Everything you need.
+
+317
+00:25:46,244 --> 00:25:50,180
+- All you have to do
+is give them the credit card.
+- What are you talking about?
+
+318
+00:25:50,248 --> 00:25:54,207
+You go visit them.
+You go to their houses.
+You see them.
+
+319
+00:25:54,286 --> 00:25:57,346
+You bring flowers, pink flowers.
+You're just checking in.
+
+320
+00:25:59,324 --> 00:26:01,258
+Just checking in.
+
+321
+00:26:01,326 --> 00:26:05,126
+<i>I even got maps.</i>
+<i>Everything you need.</i>
+
+322
+00:26:05,196 --> 00:26:09,656
+And I burned you a new CD, see?
+
+323
+00:26:09,734 --> 00:26:13,033
+That's traveling music.
+<i>That I'll take.</i>
+
+324
+00:26:14,873 --> 00:26:18,001
+Uh, just coffee, please, Avis.
+Thank you.
+
+325
+00:26:18,076 --> 00:26:21,603
+A few tips though.
+Dress conservative, a little classy.
+
+326
+00:26:21,680 --> 00:26:23,614
+Don't give anything away.
+
+327
+00:26:23,682 --> 00:26:27,812
+And always, always bring flowers.
+Pink flowers.
+
+328
+00:26:27,886 --> 00:26:30,878
+<i>And look for clues about your son...</i>
+<i>photographs, anything.</i>
+
+329
+00:26:30,956 --> 00:26:34,653
+<i>Or hints, like pink stationery</i>
+<i>and red ink.</i>
+
+330
+00:26:34,726 --> 00:26:37,217
+<i>Handwriting, if possible.</i>
+<i>And find that typewriter.</i>
+
+331
+00:26:37,295 --> 00:26:39,525
+Bring me that typewriter,
+
+332
+00:26:39,598 --> 00:26:42,328
+and then I can forensically
+match the type...
+
+333
+00:26:42,400 --> 00:26:44,334
+to the letter.
+
+334
+00:26:44,402 --> 00:26:47,166
+[Sighs]
+You're insane, Winston.
+
+335
+00:26:47,238 --> 00:26:51,072
+Even if you could possibly
+rope me into this nonsense,
+
+336
+00:26:51,142 --> 00:26:53,110
+which you can't,
+
+337
+00:26:53,178 --> 00:26:56,341
+I'm not a detective,
+I'm not a private eye
+in one of your crime novels.
+
+338
+00:26:58,984 --> 00:27:02,249
+Forget it. No fuckin' way.
+
+339
+00:27:02,320 --> 00:27:05,585
+What, after all the work I've done?
+<i>Well, you do it.</i>
+
+340
+00:27:05,657 --> 00:27:08,251
+You take the trip.
+I'll pay for it.
+
+341
+00:27:08,326 --> 00:27:11,295
+<i>Me? Impossible.</i>
+<i>I've got three jobs and five kids.</i>
+
+342
+00:27:11,363 --> 00:27:14,093
+<i>And, besides, it's your life.</i>
+
+343
+00:27:14,165 --> 00:27:17,623
+I've merely prepared the strategy.
+
+344
+00:27:17,702 --> 00:27:20,034
+But only you can solve the mystery.
+
+345
+00:27:20,105 --> 00:27:22,198
+And why is that?
+
+346
+00:27:22,273 --> 00:27:24,707
+Because you understand women.
+
+347
+00:27:39,157 --> 00:27:41,148
+Let me ask you something.
+
+348
+00:27:42,193 --> 00:27:44,787
+Suppose I took
+this ridiculous trip,
+
+349
+00:27:44,863 --> 00:27:48,128
+and say this kid really exists,
+
+350
+00:27:48,199 --> 00:27:51,032
+and he shows up...
+while I'm gone.
+
+351
+00:27:51,102 --> 00:27:53,593
+Don, don't worry.
+I'll monitor your house every day.
+
+352
+00:27:53,672 --> 00:27:56,266
+Yeah? Then what?
+What do you do?
+If he shows up?
+
+353
+00:27:56,341 --> 00:27:58,707
+He shows up.
+Don't worry.
+I apprehend him.
+
+354
+00:27:58,777 --> 00:28:02,110
+Oh, okay. Great.
+You apprehend him.
+
+355
+00:28:02,180 --> 00:28:06,776
+Look, I've got seven minutes
+before I'm due to punch in.
+
+356
+00:28:06,851 --> 00:28:11,288
+Tomorrow morning,
+on my way to the plant,
+I will drop you at the airport.
+
+357
+00:28:11,356 --> 00:28:13,824
+No problem.
+I got you an early flight.
+
+358
+00:28:13,892 --> 00:28:17,419
+It's not gonna happen.
+No way.
+
+359
+00:28:17,495 --> 00:28:20,623
+I'll pick you up tomorrow morning
+at 7:00 a.m. Sharp.
+
+360
+00:28:53,698 --> 00:28:56,826
+<i>##[R&B]</i>
+
+361
+00:29:01,940 --> 00:29:04,534
+<i>#I want you #</i>
+<i>#And I want you #</i>
+
+362
+00:29:04,609 --> 00:29:08,739
+<i># The right way</i>
+<i>I want you #</i>
+
+363
+00:29:08,813 --> 00:29:12,146
+<i>#Listen, but I want you</i>
+<i>to want me too #</i>
+
+364
+00:29:12,217 --> 00:29:14,617
+<i># The right way, babe #</i>
+
+365
+00:29:14,686 --> 00:29:18,588
+<i>#Just like I want you #</i>
+
+366
+00:29:18,656 --> 00:29:21,648
+<i># Ooh-hoo, ooh #</i>
+
+367
+00:29:21,726 --> 00:29:26,163
+<i>#I'll give you all the love #</i>
+
+368
+00:29:26,231 --> 00:29:28,927
+<i>#I want in return #</i>
+
+369
+00:29:29,000 --> 00:29:30,991
+<i>#Sweet darling #</i>
+
+370
+00:29:32,237 --> 00:29:34,171
+<i>#But half the love #</i>
+
+371
+00:29:34,239 --> 00:29:39,074
+<i>#Is all I feel #</i>
+
+372
+00:29:40,178 --> 00:29:42,305
+<i># Ooh-ooh-ooh #</i>
+
+373
+00:29:42,380 --> 00:29:44,974
+<i>#Don't play with something #</i>
+
+374
+00:29:45,049 --> 00:29:47,779
+<i># You should cherish for life #</i>
+
+375
+00:29:47,852 --> 00:29:49,786
+<i># Oh, baby #</i>
+
+376
+00:29:51,623 --> 00:29:54,922
+<i>#Don't you wanna care #</i>
+
+377
+00:29:54,993 --> 00:29:59,396
+<i>#Ain't it lonely out there #</i>
+
+378
+00:29:59,464 --> 00:30:02,126
+<i>#I want you #</i>
+
+379
+00:30:02,200 --> 00:30:04,225
+<i># The right way, baby #</i>
+
+380
+00:30:04,302 --> 00:30:06,429
+<i>#I want you, babe #</i>
+
+381
+00:30:06,504 --> 00:30:10,804
+<i>#But I want you</i>
+<i>to want me too, baby #</i>
+
+382
+00:30:10,875 --> 00:30:13,708
+<i># Got to, got to, got to #</i>
+<i># Want you to want me too #</i>
+
+383
+00:30:13,778 --> 00:30:15,712
+<i>#Love me too #</i>
+<i>#Baby #</i>
+
+384
+00:30:15,780 --> 00:30:20,615
+<i># Oh, the way that I love you #</i>
+<i>#Just like I love you ##</i>
+
+385
+00:31:27,852 --> 00:31:30,252
+<i>[Bell Chimes]</i>
+
+386
+00:31:41,399 --> 00:31:44,391
+<i>[Girl] My mom won't let me wear a bikini.</i>
+<i>[Girl #2] I can't believe your mom</i>
+<i>let you come on this trip.</i>
+
+387
+00:31:44,469 --> 00:31:47,461
+<i>Oh, she doesn't know.</i>
+<i>I mean, she knows, but she thinks</i>
+<i>that I'm with your family.</i>
+
+388
+00:31:47,538 --> 00:31:49,904
+<i>No, she wouldn't have let me come,</i>
+<i>and you would have been</i>
+<i>totally mad at me.</i>
+
+389
+00:31:49,974 --> 00:31:52,465
+<i>What if she calls my mom?</i>
+<i>She's not gonna call her.</i>
+<i>She thinks that she's here.</i>
+
+390
+00:31:52,543 --> 00:31:55,137
+See, it's perfect.
+No, it'll be fine. Don't worry.
+Wait, wait, wait. What?
+
+391
+00:31:55,213 --> 00:31:58,705
+Don't even worry about it.
+Do I need to call my mom? 'Cause
+my mom will totally lie for you.
+
+392
+00:31:58,783 --> 00:32:02,583
+<i>I want to go to the party tonight,</i>
+<i>and I really want to be able</i>
+<i>to meet some cute guys.</i>
+
+393
+00:32:02,654 --> 00:32:06,852
+That guy is so cute
+that's sitting behind me.
+Can you see him?
+
+394
+00:32:06,925 --> 00:32:09,723
+<i>Oh, my God.</i>
+<i>He's really cute though.</i>
+<i>Don't stare at him.</i>
+
+395
+00:32:09,794 --> 00:32:11,785
+<i>He is cute.</i>
+<i>He looks like a supermodel.</i>
+
+396
+00:32:11,863 --> 00:32:16,163
+<i>No, he looks like the Calvin Klein model</i>
+<i>that's on the side of the bus.</i>
+<i>Oh, my gosh. He's so cool.</i>
+
+397
+00:32:16,234 --> 00:32:19,726
+<i>He's totally staring at us right now.</i>
+<i>Think Ally will take us to get something</i>
+<i>to eat before we go? I'm starving!</i>
+
+398
+00:32:19,804 --> 00:32:22,602
+<i>That's why you need</i>
+<i>the mix-and-match</i>
+<i>for when you get fat.</i>
+
+399
+00:32:22,674 --> 00:32:25,336
+<i>Oh, my God. I know!</i>
+<i>We're such heifers.</i>
+<i>You get the bigger sizes.</i>
+
+400
+00:32:25,410 --> 00:32:27,742
+<i>I look so fat.</i>
+<i>Doughnut girl.</i>
+
+401
+00:32:27,812 --> 00:32:30,645
+[Fast Chattering]
+
+402
+00:32:54,138 --> 00:32:56,436
+[Bell Dinging]
+
+403
+00:32:58,209 --> 00:33:00,143
+[Engine Starts]
+
+404
+00:33:16,160 --> 00:33:19,755
+<i>##[Ethiopian Jazz]</i>
+
+405
+00:33:45,423 --> 00:33:47,789
+<i>Look for clues,</i>
+
+406
+00:33:47,859 --> 00:33:50,851
+<i>like a typewriter,</i>
+<i>like something pink.</i>
+
+407
+00:33:51,863 --> 00:33:54,559
+<i>This will be very easy.</i>
+
+408
+00:34:35,973 --> 00:34:38,965
+Hi, Laura. It's me, Don.
+Remember me?
+
+409
+00:35:30,228 --> 00:35:32,253
+[Door Bell: Muted Ringing]
+
+410
+00:35:45,009 --> 00:35:47,477
+Hi. Who are you?
+
+411
+00:35:47,545 --> 00:35:51,003
+Don Johnston.
+[Chuckles]
+Really?
+
+412
+00:35:51,082 --> 00:35:53,949
+You're Don Johnson?
+Yeah... No.
+
+413
+00:35:54,018 --> 00:35:56,009
+Johnston with a "T."
+Oh.
+
+414
+00:35:56,087 --> 00:35:59,215
+Uh, does Laura Daniels,
+who was formerly Laura Miller,
+live here?
+
+415
+00:35:59,290 --> 00:36:01,258
+Yeah. That's my mom.
+
+416
+00:36:01,325 --> 00:36:03,384
+Well, I'm a very old friend of hers,
+
+417
+00:36:03,461 --> 00:36:06,225
+and I haven't seen her
+in, um, in over...
+
+418
+00:36:06,297 --> 00:36:08,288
+Well, come on in.
+
+419
+00:36:10,668 --> 00:36:12,761
+<i>##[Stereo: Rock]</i>
+
+420
+00:36:14,839 --> 00:36:19,333
+So, my mom'll be home from work soon,
+so just sit down. Here.
+
+421
+00:36:19,410 --> 00:36:21,401
+Make yourself comfortable.
+
+422
+00:36:24,815 --> 00:36:27,579
+So, my name's Lola.
+
+423
+00:36:27,652 --> 00:36:32,282
+Well, sometimes people call me Lo,
+but my really real name is Lolita.
+
+424
+00:36:32,356 --> 00:36:34,290
+Lolita?
+
+425
+00:36:35,393 --> 00:36:38,726
+Yeah.
+[Chuckles]
+
+426
+00:36:41,232 --> 00:36:45,931
+Well, I... I don't...
+Do you want something?
+'Cause we've got Popsicles.
+
+427
+00:36:47,705 --> 00:36:50,936
+- No, thanks.
+- Okay.
+
+428
+00:36:51,008 --> 00:36:53,169
+<i>Lolita.</i>
+Yeah?
+
+429
+00:36:54,679 --> 00:36:57,944
+Do you have
+any brothers or sisters?
+<i>Why?</i>
+
+430
+00:36:58,015 --> 00:37:00,449
+Do you think I need some?
+
+431
+00:37:03,654 --> 00:37:06,282
+<i>[Phone Rings]</i>
+Oh, wait, that's my phone.
+
+432
+00:37:06,357 --> 00:37:08,689
+Just... Just stay there.
+I'll be right back, okay?
+
+433
+00:37:08,759 --> 00:37:11,159
+<i>Okay.</i>
+
+434
+00:37:11,229 --> 00:37:13,163
+<i>[Phone Rings]</i>
+
+435
+00:37:14,832 --> 00:37:17,630
+<i>#And it looks so high #</i>
+
+436
+00:37:17,702 --> 00:37:21,798
+<i>#And it looks so wasted #</i>
+
+437
+00:37:21,872 --> 00:37:24,966
+<i>#And, baby, I know why #</i>
+
+438
+00:37:25,042 --> 00:37:28,034
+<i>#Ba-ba, ba-ba-ba #</i>
+
+439
+00:37:28,112 --> 00:37:32,742
+<i>#Ba-ba, ba-ba-ba #</i>
+
+440
+00:37:32,817 --> 00:37:36,617
+<i>#Ba-ba, ba-ba-ba #</i>
+
+441
+00:37:36,687 --> 00:37:40,384
+<i>#Ba-ba, ba-ba-ba #</i>
+
+442
+00:37:42,360 --> 00:37:44,851
+<i># Take my money #</i>
+
+443
+00:37:46,564 --> 00:37:48,896
+<i># Take my time #</i>
+
+444
+00:37:50,334 --> 00:37:52,825
+<i># Take my sister #</i>
+
+445
+00:37:54,171 --> 00:37:58,870
+<i>#I don't mind #</i>
+
+446
+00:37:59,877 --> 00:38:03,438
+<i>#Ba-ba, ba-ba-ba #</i>
+
+447
+00:38:03,514 --> 00:38:07,211
+<i>#Ba-ba, ba-ba-ba #</i>
+
+448
+00:38:07,285 --> 00:38:09,947
+<i>#Ba-ba, ba-ba-ba ##</i>
+
+449
+00:38:10,021 --> 00:38:14,048
+<i>##[Tones Chiming]</i>
+
+450
+00:38:14,125 --> 00:38:17,754
+[Laughing]
+That's so crazy.
+
+451
+00:38:17,828 --> 00:38:20,228
+Really?
+
+452
+00:38:20,298 --> 00:38:22,095
+<i>[Giggling]</i>
+<i>That's so sick.</i>
+
+453
+00:38:22,166 --> 00:38:25,863
+He didn't. Wait. Hold on.
+My cell phone's ringing. Hello?
+
+454
+00:38:25,936 --> 00:38:29,565
+<i>[Giggling]</i>
+<i>Yeah. I know. I just talked to her.</i>
+
+455
+00:38:29,640 --> 00:38:31,733
+That's crazy, right?
+
+456
+00:38:31,809 --> 00:38:33,743
+<i>I know.</i>
+
+457
+00:39:02,506 --> 00:39:05,066
+Can I help you with something?
+
+458
+00:39:13,050 --> 00:39:15,041
+Donny, is that you?
+
+459
+00:39:17,455 --> 00:39:19,389
+Hey, Laura.
+
+460
+00:39:22,493 --> 00:39:24,484
+What are you doing here?
+
+461
+00:39:25,996 --> 00:39:27,930
+[Chuckles]
+
+462
+00:39:41,779 --> 00:39:43,713
+[Chuckles]
+
+463
+00:39:47,651 --> 00:39:50,142
+We're having chicken for dinner.
+
+464
+00:39:55,326 --> 00:39:57,920
+That was quite an outfit
+you weren't wearing earlier.
+
+465
+00:39:57,995 --> 00:40:00,725
+[Lolita Giggles]
+
+466
+00:40:00,798 --> 00:40:03,426
+[Laura]
+Well, here we are.
+
+467
+00:40:19,116 --> 00:40:23,951
+<i>Then Larry exploded</i>
+<i>in a ball of flames at the track.</i>
+
+468
+00:40:25,022 --> 00:40:28,549
+That happened,
+and now it's just me and Lo.
+
+469
+00:40:35,266 --> 00:40:37,200
+It was even on TV.
+
+470
+00:40:40,371 --> 00:40:42,839
+I'm sorry.
+
+471
+00:40:46,277 --> 00:40:48,837
+Lo, your head looks
+just like a pineapple.
+
+472
+00:40:48,913 --> 00:40:51,746
+- Mom!
+- Doesn't it?
+
+473
+00:40:51,816 --> 00:40:54,614
+Yeah, it does look like a pineapple.
+
+474
+00:40:57,455 --> 00:41:00,356
+So, what, uh...
+
+475
+00:41:01,725 --> 00:41:05,320
+Where do you work?
+Oh, Mom has her own business.
+Right?
+
+476
+00:41:05,396 --> 00:41:07,330
+Yeah.
+Really?
+
+477
+00:41:07,398 --> 00:41:09,866
+I'm a professional
+closet organizer.
+
+478
+00:41:09,934 --> 00:41:13,267
+Come on.
+No, I organize people's closets.
+
+479
+00:41:14,438 --> 00:41:16,565
+I even do their drawers.
+
+480
+00:41:16,640 --> 00:41:20,974
+I label everything.
+I get them all organized.
+
+481
+00:41:21,045 --> 00:41:23,343
+I even color coordinate them.
+
+482
+00:41:23,414 --> 00:41:26,906
+Yeah.
+And they pay her for that.
+It's amazing.
+
+483
+00:41:26,984 --> 00:41:29,851
+- Hmm.
+<i>- Mm-hmm.</i>
+
+484
+00:41:29,920 --> 00:41:32,616
+[Sighs]
+
+485
+00:41:32,690 --> 00:41:35,921
+Lolita, I said you... Lolita!
+
+486
+00:41:35,993 --> 00:41:37,927
+I said you could have a taste.
+
+487
+00:41:37,995 --> 00:41:41,897
+Now, come on.
+That's enough of that.
+That's not cool.
+
+488
+00:41:43,868 --> 00:41:46,598
+Lolita. Interesting choice
+of name, Laura.
+
+489
+00:41:49,473 --> 00:41:51,441
+What?
+
+490
+00:41:54,478 --> 00:41:58,778
+<i>So, Donny, I heard you made it big</i>
+<i>in business a few years ago?</i>
+
+491
+00:41:59,884 --> 00:42:01,943
+What are you into?
+
+492
+00:42:02,019 --> 00:42:04,783
+It was computers.
+Oh, high-tech stuff.
+
+493
+00:42:05,990 --> 00:42:07,958
+More high tech
+than pencils, I guess.
+
+494
+00:42:08,025 --> 00:42:10,516
+Mr. Fancy Pants!
+
+495
+00:42:10,594 --> 00:42:13,085
+<i>[Giggling]</i>
+
+496
+00:42:13,163 --> 00:42:16,155
+<i>Yeah, my pants are fancy.</i>
+<i>So what?</i>
+
+497
+00:42:21,505 --> 00:42:23,564
+So I see you're having
+a yard sale?
+
+498
+00:42:23,641 --> 00:42:26,974
+Uh, you got me.
+It's something we do
+on Saturdays.
+
+499
+00:42:27,044 --> 00:42:30,207
+Yeah, Larry had all this crap
+in the garage, and...
+
+500
+00:42:30,281 --> 00:42:33,682
+And then I got this neighbor
+to paint a sign for us.
+
+501
+00:42:33,751 --> 00:42:35,685
+It's fun.
+[Giggles]
+
+502
+00:42:35,753 --> 00:42:39,245
+Are you gonna be selling
+any old, uh, typewriters?
+
+503
+00:42:39,323 --> 00:42:41,587
+No.
+
+504
+00:42:41,659 --> 00:42:44,150
+Wh...
+That's so 20th century.
+
+505
+00:42:45,896 --> 00:42:49,195
+Did you come all the way down here
+to get a typewriter, Don?
+
+506
+00:42:51,035 --> 00:42:53,799
+What do you want a typewriter for?
+
+507
+00:42:55,205 --> 00:42:58,197
+An old friend asked me
+if I would look around
+for a typewriter.
+
+508
+00:42:58,275 --> 00:43:01,938
+So... I just remembered it.
+
+509
+00:43:07,918 --> 00:43:09,852
+Well...
+
+510
+00:43:11,021 --> 00:43:13,717
+You know,
+I forgot to make dessert.
+
+511
+00:43:13,791 --> 00:43:15,782
+Oh, Don doesn't like Popsicles.
+
+512
+00:43:51,829 --> 00:43:53,990
+Donny.
+
+513
+00:43:54,064 --> 00:43:56,055
+What are you doing here?
+
+514
+00:43:57,768 --> 00:44:00,669
+I was just looking
+for a typewriter.
+
+515
+00:44:00,738 --> 00:44:02,968
+Oh.
+
+516
+00:44:03,040 --> 00:44:05,600
+I remember.
+
+517
+00:44:05,676 --> 00:44:07,610
+[Sighs]
+
+518
+00:44:16,920 --> 00:44:18,854
+[Whispers]
+Bye.
+
+519
+00:44:25,162 --> 00:44:27,096
+Hey.
+
+520
+00:44:33,604 --> 00:44:35,629
+Bye, Don.
+
+521
+00:44:35,706 --> 00:44:38,231
+Good-bye, Laura.
+
+522
+00:44:42,913 --> 00:44:44,904
+<i>Come back sometime.</i>
+
+523
+00:44:44,982 --> 00:44:46,916
+<i>See you, Laura.</i>
+
+524
+00:44:46,984 --> 00:44:49,782
+<i>[Door Closes]</i>
+<i>[Engine Starts]</i>
+
+525
+00:45:05,369 --> 00:45:08,099
+Lo! Go.
+Put some clothes on.
+
+526
+00:45:29,660 --> 00:45:31,924
+## [Upbeat]
+
+527
+00:46:21,812 --> 00:46:25,304
+## [Ethiopian Jazz]
+
+528
+00:48:11,521 --> 00:48:13,455
+[Knocking]
+
+529
+00:48:13,523 --> 00:48:15,457
+[Doorbell Rings]
+
+530
+00:48:32,910 --> 00:48:35,640
+Can I help you?
+Dora?
+
+531
+00:48:35,712 --> 00:48:38,272
+Yes.
+
+532
+00:48:38,348 --> 00:48:40,543
+It's me, Don.
+
+533
+00:48:40,617 --> 00:48:43,279
+Remember me?
+
+534
+00:48:43,353 --> 00:48:45,287
+Oh, Don!
+
+535
+00:48:46,957 --> 00:48:49,448
+What... What are you doing here?
+
+536
+00:48:51,061 --> 00:48:53,052
+I brought these flowers.
+
+537
+00:48:59,002 --> 00:49:01,562
+So beautiful.
+[Inhales]
+
+538
+00:49:03,206 --> 00:49:05,140
+Wanna come in?
+
+539
+00:49:27,898 --> 00:49:29,832
+So,
+
+540
+00:49:31,802 --> 00:49:33,963
+what brings you out here?
+
+541
+00:49:35,238 --> 00:49:39,231
+Well, I was kind of in the area,
+so I thought I'd drop in.
+
+542
+00:49:39,309 --> 00:49:41,675
+I see.
+
+543
+00:49:41,745 --> 00:49:45,078
+How... How did you
+track me down, exactly?
+
+544
+00:49:45,148 --> 00:49:47,480
+Uh, on the computer.
+
+545
+00:49:47,551 --> 00:49:49,542
+They can do anything.
+
+546
+00:50:03,667 --> 00:50:05,658
+Nice place you've got here.
+
+547
+00:50:05,736 --> 00:50:08,796
+<i>Oh, thank you.</i>
+<i>It's a nice example.</i>
+
+548
+00:50:08,872 --> 00:50:10,931
+My husband and I
+are in real estate.
+
+549
+00:50:11,008 --> 00:50:13,408
+<i>We sell landscape lots...</i>
+
+550
+00:50:13,477 --> 00:50:16,878
+and preconstructed designer homes.
+
+551
+00:50:16,947 --> 00:50:20,644
+Or do you already have this information
+from your computer?
+
+552
+00:50:20,717 --> 00:50:22,878
+<i>No.</i>
+
+553
+00:50:23,887 --> 00:50:25,821
+Your card is pink.
+
+554
+00:50:27,391 --> 00:50:29,325
+Yes.
+
+555
+00:50:29,393 --> 00:50:33,124
+Ron, my husband, thought it would be cute
+if mine were pink and his blue.
+
+556
+00:50:42,372 --> 00:50:45,239
+I like those pearls.
+
+557
+00:50:47,544 --> 00:50:49,535
+<i>Did I give you those?</i>
+
+558
+00:50:54,384 --> 00:50:56,375
+I don't think so.
+
+559
+00:50:58,388 --> 00:51:00,379
+<i>I should have.</i>
+
+560
+00:51:03,126 --> 00:51:07,290
+<i>[Clock Bell Chiming]</i>
+
+561
+00:51:11,501 --> 00:51:14,334
+It's very strange,
+your showing up like this.
+
+562
+00:51:17,941 --> 00:51:19,932
+Yeah, it <i>is</i> strange.
+
+563
+00:51:23,747 --> 00:51:26,079
+<i>[Door Opens]</i>
+
+564
+00:51:26,149 --> 00:51:28,845
+It's my husband.
+<i>[Door Closes]</i>
+
+565
+00:51:29,920 --> 00:51:33,651
+<i>Hey! Where's my perfect little wi...</i>
+
+566
+00:51:33,723 --> 00:51:36,715
+<i>Well, what have we here?</i>
+
+567
+00:51:39,162 --> 00:51:41,653
+Hi. Don Johnston.
+
+568
+00:51:43,467 --> 00:51:45,731
+I'm a really old
+friend of Dora's.
+Oh.
+
+569
+00:51:45,802 --> 00:51:49,636
+You don't look <i>really</i> old.
+Just kinda old.
+
+570
+00:51:49,706 --> 00:51:52,038
+<i>I'm Ron.</i>
+
+571
+00:51:52,109 --> 00:51:55,670
+<i>Don Johnston.</i>
+Mm-hmm.
+
+572
+00:51:55,745 --> 00:51:58,714
+That's an old flame of yours,
+right, honey?
+
+573
+00:51:58,782 --> 00:52:02,149
+Don just dropped in
+completely unexpectedly.
+
+574
+00:52:02,219 --> 00:52:06,485
+<i>Wow! Nice to meet you, Don.</i>
+<i>[Chuckles]</i>
+
+575
+00:52:06,556 --> 00:52:08,717
+Ron and Don.
+
+576
+00:52:08,792 --> 00:52:10,783
+[Chuckling]
+
+577
+00:52:10,861 --> 00:52:14,297
+Hey, uh, is Don gonna stay
+for dinner? I hope.
+
+578
+00:52:14,364 --> 00:52:18,027
+No. I really couldn't.
+
+579
+00:52:18,101 --> 00:52:20,331
+Well, sure you could.
+
+580
+00:52:20,403 --> 00:52:23,201
+Right? Honey?
+
+581
+00:52:34,117 --> 00:52:37,883
+<i>[Ron]</i>
+<i>Computers, huh? Wow.</i>
+
+582
+00:52:37,954 --> 00:52:40,479
+<i>That's gotta be a lucrative field.</i>
+
+583
+00:52:40,557 --> 00:52:42,752
+Yeah, I've done pretty well.
+
+584
+00:52:42,826 --> 00:52:47,229
+Hmm. Well, the real estate biz
+has been very good to us.
+
+585
+00:52:47,297 --> 00:52:49,231
+<i>Right, hon?</i>
+
+586
+00:52:49,299 --> 00:52:52,132
+At first I had the idea
+of going into bottled water.
+
+587
+00:52:52,202 --> 00:52:56,571
+I think in the near future,
+water will be worth more
+than oil or gold.
+
+588
+00:52:56,640 --> 00:53:01,737
+<i>Yeah. You're dying of thirst,</i>
+<i>you can't take a swig of oil.</i>
+
+589
+00:53:01,811 --> 00:53:03,745
+Right?
+
+590
+00:53:03,813 --> 00:53:06,748
+Or gold, for that matter.
+[Chuckles]
+
+591
+00:53:06,816 --> 00:53:10,582
+Boy, you are certainly
+right about that.
+
+592
+00:53:10,654 --> 00:53:12,952
+But for right now,
+
+593
+00:53:13,023 --> 00:53:16,584
+we decided that real estate
+and quality prefab homes...
+
+594
+00:53:16,660 --> 00:53:18,958
+was the right way to go.
+
+595
+00:53:19,029 --> 00:53:22,226
+And it has been
+quite lucrative.
+[Chuckles]
+
+596
+00:53:28,738 --> 00:53:31,571
+Hon, those are
+beautiful flowers.
+
+597
+00:53:31,641 --> 00:53:33,632
+Mmm.
+
+598
+00:53:37,647 --> 00:53:39,877
+Hey!
+[Laughs]
+
+599
+00:53:39,950 --> 00:53:42,942
+Don, I want to
+show you something.
+Excuse me.
+
+600
+00:53:51,561 --> 00:53:53,495
+<i>[Chuckles]</i>
+
+601
+00:53:53,563 --> 00:53:55,497
+Isn't this
+the coolest photo?
+
+602
+00:53:55,565 --> 00:53:58,398
+Wow. Yeah.
+
+603
+00:53:58,468 --> 00:54:01,494
+Yeah?
+This is crazy, right?
+
+604
+00:54:01,571 --> 00:54:03,630
+My straight little Dora.
+
+605
+00:54:05,041 --> 00:54:07,532
+My adorable little Dora.
+Mmm.
+
+606
+00:54:09,079 --> 00:54:11,013
+Young hippie chick.
+[Chuckles]
+
+607
+00:54:11,081 --> 00:54:14,346
+That is great, Ron.
+Now, could you please
+put it back?
+
+608
+00:54:14,417 --> 00:54:16,408
+Sorry, baby.
+
+609
+00:54:17,988 --> 00:54:20,923
+Probably brings back
+one or two memories, huh, Don?
+
+610
+00:54:20,991 --> 00:54:22,982
+[Chuckles]
+
+611
+00:54:25,495 --> 00:54:27,429
+I took that photo,
+didn't I?
+
+612
+00:54:27,497 --> 00:54:29,431
+[Laughs]
+
+613
+00:54:29,499 --> 00:54:31,433
+Mm-hmm.
+
+614
+00:54:31,501 --> 00:54:33,435
+<i>[Sighs]</i>
+
+615
+00:54:34,437 --> 00:54:37,565
+Well, you know, it's strange...
+
+616
+00:54:37,641 --> 00:54:40,804
+how people's lives change,
+isn't it?
+
+617
+00:54:42,145 --> 00:54:44,136
+<i>[Ron Chuckles]</i>
+
+618
+00:54:51,121 --> 00:54:53,112
+So, any kids?
+
+619
+00:54:58,561 --> 00:55:02,327
+Well, that's...
+that's kind of a touchy subject.
+
+620
+00:55:02,399 --> 00:55:05,425
+See, I always wanted
+to have kids with Dora.
+
+621
+00:55:05,502 --> 00:55:07,936
+You know,
+I mean, kids of our own.
+
+622
+00:55:08,004 --> 00:55:12,441
+<i>But she didn't, really,</i>
+<i>so I respect that.</i>
+
+623
+00:55:12,509 --> 00:55:17,173
+Oh, I don't know if I would have
+had the time and patience
+to be a good mother...
+
+624
+00:55:17,247 --> 00:55:19,738
+to... to Ron's children.
+
+625
+00:55:22,485 --> 00:55:25,147
+I'm just happy to have my Dora.
+
+626
+00:55:36,333 --> 00:55:38,267
+What about you, Don?
+
+627
+00:55:38,335 --> 00:55:40,326
+You married?
+
+628
+00:55:42,205 --> 00:55:44,196
+No, I'm still a bachelor.
+
+629
+00:55:45,608 --> 00:55:48,008
+A bachelor?
+
+630
+00:55:48,078 --> 00:55:50,012
+Wow.
+
+631
+00:55:50,080 --> 00:55:53,311
+But any kids?
+He said he was still
+a bachelor.
+
+632
+00:55:53,383 --> 00:55:56,614
+[Laughs]
+Well, honey, you know...
+
+633
+00:55:56,686 --> 00:56:00,122
+You never know.
+One or two could have gotten away.
+
+634
+00:56:00,190 --> 00:56:02,055
+<i>[Chuckling]</i>
+
+635
+00:56:02,125 --> 00:56:04,059
+No. No kids I know of.
+
+636
+00:56:04,127 --> 00:56:07,290
+<i>[Chuckling Continues]</i>
+
+637
+00:57:22,472 --> 00:57:25,964
+[Rings]
+
+638
+00:57:36,653 --> 00:57:38,587
+Hello, Winston.
+
+639
+00:57:38,655 --> 00:57:41,647
+[Winston Speaking,
+Faint, Unintelligible]
+Just a crazy guess.
+
+640
+00:57:43,993 --> 00:57:46,928
+Look, I don't know
+what I'm doing up here.
+
+641
+00:57:46,996 --> 00:57:48,987
+I'm gettin' nowhere.
+
+642
+00:57:50,200 --> 00:57:52,691
+Yeah, I saw her.
+
+643
+00:57:52,769 --> 00:57:55,704
+Yeah, I saw her too.
+
+644
+00:57:55,772 --> 00:57:57,763
+Yesterday.
+
+645
+00:57:58,875 --> 00:58:01,173
+No. No clues.
+
+646
+00:58:01,244 --> 00:58:03,235
+No typewriters.
+
+647
+00:58:05,949 --> 00:58:10,886
+Couldn't you have rented me,
+like, a Porsche or some car
+that I might really drive?
+
+648
+00:58:10,954 --> 00:58:13,889
+I'm a stalker in a Taurus.
+
+649
+00:58:13,957 --> 00:58:16,892
+[Winston Continues,
+Faint, Unintelligible]
+
+650
+00:58:16,960 --> 00:58:20,896
+I have done everything
+that you wanted me to do, you know.
+
+651
+00:58:20,964 --> 00:58:23,057
+I... I... I've really had enough of this.
+
+652
+00:58:23,132 --> 00:58:25,623
+I think I oughta go back today.
+
+653
+00:58:27,303 --> 00:58:30,795
+Yeah, but I... I don't...
+I don't think I wanna see her.
+
+654
+00:58:34,677 --> 00:58:36,668
+No, Winston...
+
+655
+00:58:39,482 --> 00:58:42,212
+Winston, let me...
+let me talk to you later, okay?
+
+656
+00:58:42,285 --> 00:58:44,549
+Can I just... Yeah.
+
+657
+00:58:44,621 --> 00:58:47,089
+Let me talk to you later.
+Please?
+
+658
+00:58:47,156 --> 00:58:49,647
+Okay? Thanks.
+[Winston Continues Chattering,
+Unintelligible]
+
+659
+00:59:15,351 --> 00:59:18,343
+[Whinnying]
+
+660
+01:00:11,741 --> 01:00:14,767
+I'll talk to you in a while.
+Okay?
+
+661
+01:00:29,959 --> 01:00:31,893
+<i>[Bell Dinging]</i>
+
+662
+01:00:31,961 --> 01:00:34,896
+<i>[Flight Attendant On P.A.]</i>
+<i>Ladies and gentlemen,</i>
+<i>we're now on our final descent.</i>
+
+663
+01:00:34,964 --> 01:00:38,365
+<i>Please return to your seats</i>
+<i>and make sure your seat belts</i>
+<i>are securely fastened. Thank you.</i>
+
+664
+01:00:47,343 --> 01:00:52,337
+## [Car Stereo: Jazz]
+
+665
+01:01:58,514 --> 01:02:01,449
+## [Continues]
+
+666
+01:02:11,360 --> 01:02:13,521
+[Car Door Opens]
+
+667
+01:02:13,596 --> 01:02:15,029
+[Engine Off]
+<i>##[Stops]</i>
+
+668
+01:02:15,098 --> 01:02:17,032
+[Whispering]
+I heard what you said.
+
+669
+01:02:17,100 --> 01:02:19,227
+And I heard
+what Dr. Markowski said.
+
+670
+01:02:19,302 --> 01:02:22,237
+<i>You have to believe</i>
+<i>in yourself.</i>
+
+671
+01:02:22,305 --> 01:02:24,398
+<i>I have a lot of respect for you.</i>
+
+672
+01:02:24,474 --> 01:02:26,806
+<i>I understand how you feel.</i>
+
+673
+01:02:26,876 --> 01:02:29,811
+<i>I understand, and I'll try</i>
+<i>to do better next time.</i>
+
+674
+01:02:29,879 --> 01:02:31,813
+Hi.
+
+675
+01:02:31,881 --> 01:02:36,113
+It takes a lot of courage
+to say what you said.
+I'm very proud of you.
+
+676
+01:02:36,185 --> 01:02:40,121
+<i>And I want you to know that</i>
+<i>I think you're doing very, very well...</i>
+
+677
+01:02:40,189 --> 01:02:42,248
+<i>and I believe in you.</i>
+
+678
+01:02:42,325 --> 01:02:44,919
+Yeah, she definitely
+speaks to iguanas.
+
+679
+01:02:46,429 --> 01:02:48,363
+<i>Okay. That's right.</i>
+
+680
+01:02:48,431 --> 01:02:51,832
+<i>Call back on Monday</i>
+<i>and we'll happily schedule you and Iggy.</i>
+
+681
+01:02:51,901 --> 01:02:54,893
+Sure.
+Mm-kay. Thank you.
+
+682
+01:02:56,572 --> 01:02:59,507
+I'm sorry, Mr. Johnston,
+but Dr. Markowski
+only takes appointments,
+
+683
+01:02:59,575 --> 01:03:02,237
+and she's in a session
+right now.
+
+684
+01:03:02,311 --> 01:03:04,575
+Is your animal friend
+with you?
+
+685
+01:03:04,647 --> 01:03:07,582
+Uh, no, I... I... I don't have
+an animal friend.
+
+686
+01:03:07,650 --> 01:03:11,450
+I'm an old friend of Carm...
+uh, Dr. Markowski's.
+
+687
+01:03:11,521 --> 01:03:13,955
+Um, Carmen has
+a really tight schedule.
+
+688
+01:03:14,023 --> 01:03:16,958
+She may have a minute,
+if you want to sit down.
+
+689
+01:03:17,026 --> 01:03:19,187
+Yeah, okay.
+
+690
+01:04:22,825 --> 01:04:25,817
+<i>No, no, no.</i>
+<i>Of course I won't forget you, Cleo.</i>
+
+691
+01:04:27,196 --> 01:04:29,130
+<i>Yes, I promise.</i>
+
+692
+01:04:29,198 --> 01:04:31,632
+<i>Thank you,</i>
+<i>Dr. Markowski.</i>
+<i>Mm-hmm.</i>
+
+693
+01:04:31,701 --> 01:04:34,226
+- Bye now.
+- Bye, Cleo.
+
+694
+01:04:34,303 --> 01:04:36,294
+See you next week,
+Mrs. Dorston.
+
+695
+01:04:41,277 --> 01:04:44,940
+<i>[Door Closes]</i>
+<i>[Footsteps]</i>
+
+696
+01:04:46,015 --> 01:04:48,006
+So, what do we have next?
+
+697
+01:04:55,524 --> 01:04:58,288
+[Exhales]
+Don? [Chuckles]
+
+698
+01:05:06,435 --> 01:05:08,926
+So, you're an animal psychic?
+
+699
+01:05:09,005 --> 01:05:11,997
+No.
+I'm a communicator.
+
+700
+01:05:13,075 --> 01:05:15,475
+And you're a doctor now?
+Mmm.
+
+701
+01:05:17,013 --> 01:05:20,608
+When we were together,
+you were so passionate
+about becoming a lawyer.
+
+702
+01:05:20,683 --> 01:05:22,674
+I mean, you were...
+
+703
+01:05:24,153 --> 01:05:26,087
+very passionate.
+
+704
+01:05:26,155 --> 01:05:29,921
+Yeah, well,
+passion's a funny thing.
+
+705
+01:05:31,994 --> 01:05:34,428
+<i>I have a doctorate</i>
+<i>in animal behavior.</i>
+
+706
+01:05:34,497 --> 01:05:38,194
+But that was
+sort of after the fact.
+
+707
+01:05:39,702 --> 01:05:41,693
+It's an odd story.
+
+708
+01:05:43,005 --> 01:05:45,496
+I'm getting into odd stories.
+
+709
+01:05:45,574 --> 01:05:49,101
+[Sighs]
+Well, I was a very successful lawyer.
+
+710
+01:05:50,646 --> 01:05:53,080
+I had no life, though,
+outside my work,
+
+711
+01:05:53,149 --> 01:05:55,845
+except for my dog,
+Winston.
+
+712
+01:05:58,120 --> 01:06:00,611
+Your dog's named Winston?
+
+713
+01:06:01,857 --> 01:06:03,791
+<i>Yes.</i>
+
+714
+01:06:03,859 --> 01:06:05,793
+<i>But then he died...</i>
+
+715
+01:06:05,861 --> 01:06:07,852
+suddenly.
+
+716
+01:06:09,365 --> 01:06:12,300
+I'm sorry.
+Oh, no.
+It was, uh...
+
+717
+01:06:12,368 --> 01:06:14,302
+It was years ago.
+
+718
+01:06:14,370 --> 01:06:17,669
+But my new ability was this gift.
+
+719
+01:06:19,208 --> 01:06:21,199
+This gift from Winston.
+
+720
+01:06:39,161 --> 01:06:41,823
+All right,
+you can come in again.
+
+721
+01:06:47,203 --> 01:06:49,137
+Anyway,
+
+722
+01:06:49,205 --> 01:06:52,072
+<i>after Winston died</i>
+<i>I got this gift.</i>
+
+723
+01:06:52,141 --> 01:06:54,575
+<i>To-</i>
+
+724
+01:06:54,643 --> 01:06:56,941
+To read animals' minds?
+<i>No. I told you...</i>
+
+725
+01:06:57,013 --> 01:07:00,346
+- No.
+- I'm a communicator.
+
+726
+01:07:02,451 --> 01:07:05,284
+You see,
+soon after Winston died...
+
+727
+01:07:06,522 --> 01:07:10,117
+I realized that I could
+hear animals speak to me.
+
+728
+01:07:10,192 --> 01:07:14,754
+I mean, I certainly hadn't
+been aware of that before.
+
+729
+01:07:14,830 --> 01:07:16,991
+And I don't
+read animals' minds.
+
+730
+01:07:17,066 --> 01:07:19,796
+<i>But when they want</i>
+<i>to communicate,</i>
+
+731
+01:07:19,869 --> 01:07:22,463
+<i>I can hear them.</i>
+
+732
+01:07:22,538 --> 01:07:25,006
+You know,
+like you and I are talking.
+
+733
+01:07:25,074 --> 01:07:28,305
+<i>But we don't</i>
+<i>read each other's minds.</i>
+
+734
+01:07:33,049 --> 01:07:35,483
+Is he saying something?
+
+735
+01:07:44,060 --> 01:07:46,551
+He says
+you have a hidden agenda.
+
+736
+01:07:47,596 --> 01:07:51,225
+He... He said that?
+
+737
+01:07:53,369 --> 01:07:55,837
+I think you'd better
+go back outside now, Ramon.
+
+738
+01:08:04,413 --> 01:08:06,347
+<i>Animals can tell us</i>
+<i>what they want,</i>
+
+739
+01:08:06,415 --> 01:08:10,408
+but that doesn't mean
+that that's what's best for them.
+
+740
+01:08:13,756 --> 01:08:15,815
+<i>[Knocking]</i>
+<i>[Carmen]</i>
+<i>Yes?</i>
+
+741
+01:08:17,593 --> 01:08:21,495
+Excuse me, Carmen,
+but Mr. Renaldo and Skippy
+are here for your next session.
+
+742
+01:08:21,564 --> 01:08:23,498
+Oh. Okay.
+
+743
+01:08:23,566 --> 01:08:26,660
+Um, give me
+one more minute.
+
+744
+01:08:37,346 --> 01:08:41,248
+<i>Sorry, Don, but I really</i>
+<i>can't keep Skippy waiting.</i>
+
+745
+01:08:41,317 --> 01:08:46,755
+Do you think you could tell Skippy
+that you're just gonna walk me to my car?
+
+746
+01:08:50,159 --> 01:08:53,094
+How about later?
+Wanna get a drink?
+
+747
+01:08:53,162 --> 01:08:55,096
+No. I don't drink.
+
+748
+01:08:55,164 --> 01:08:57,098
+Maybe get something to eat?
+
+749
+01:08:57,166 --> 01:09:00,033
+I don't, uh, eat.
+
+750
+01:09:01,971 --> 01:09:03,905
+You don't?
+
+751
+01:09:03,973 --> 01:09:06,908
+Uh, take a walk?
+
+752
+01:09:06,976 --> 01:09:09,968
+I know you walk.
+I don't feel like it.
+
+753
+01:09:13,616 --> 01:09:15,550
+Do you have a typewriter?
+
+754
+01:09:15,618 --> 01:09:17,609
+A typewriter?
+
+755
+01:09:21,290 --> 01:09:23,884
+Are you married?
+
+756
+01:09:23,959 --> 01:09:27,053
+You know, I think you
+should probably go now.
+
+757
+01:09:27,129 --> 01:09:29,120
+Oh, come on, Carmen.
+
+758
+01:09:30,633 --> 01:09:32,828
+Can't you answer me?
+No.
+
+759
+01:09:34,136 --> 01:09:36,070
+"No," you won't answer me?
+
+760
+01:09:36,138 --> 01:09:39,630
+[Laughs]
+No, I'm not married.
+
+761
+01:09:41,677 --> 01:09:43,668
+I was though.
+
+762
+01:09:45,548 --> 01:09:47,778
+Any kids?
+
+763
+01:09:50,319 --> 01:09:52,310
+Yes.
+
+764
+01:09:53,956 --> 01:09:57,016
+<i>I have a daughter, Lianna.</i>
+<i>She's 16.</i>
+
+765
+01:09:57,092 --> 01:09:59,026
+[Sighs]
+
+766
+01:09:59,094 --> 01:10:01,028
+She's in Sweden.
+
+767
+01:10:01,096 --> 01:10:03,189
+Sweden.
+
+768
+01:10:03,265 --> 01:10:05,631
+Am I supposed to ask
+about you?
+
+769
+01:10:05,701 --> 01:10:08,636
+<i>It seems like I've told you</i>
+<i>my whole life story.</i>
+
+770
+01:10:08,704 --> 01:10:10,638
+<i>So-</i>
+Me? No.
+
+771
+01:10:10,706 --> 01:10:12,640
+I'm not married.
+
+772
+01:10:12,708 --> 01:10:14,699
+<i>Of course you aren't.</i>
+
+773
+01:10:16,612 --> 01:10:19,445
+And I don't have any kids.
+
+774
+01:10:19,515 --> 01:10:21,506
+Do I?
+
+775
+01:10:24,687 --> 01:10:26,678
+How would I know that?
+
+776
+01:10:28,023 --> 01:10:31,618
+Sorry, Carmen, but Mr. Renaldo
+and Skippy have been waiting
+in the session room.
+
+777
+01:10:31,694 --> 01:10:34,060
+I know. I'm sorry.
+I'll be right there.
+
+778
+01:10:34,129 --> 01:10:36,120
+Okay.
+
+779
+01:10:42,905 --> 01:10:46,170
+Well, my time is really up.
+
+780
+01:10:46,242 --> 01:10:49,507
+So, good-bye.
+
+781
+01:10:49,578 --> 01:10:51,569
+<i>Bye, Carmen.</i>
+
+782
+01:10:55,417 --> 01:10:57,408
+<i>[Door Closes]</i>
+
+783
+01:11:13,102 --> 01:11:16,663
+<i>Mr. Johnston?</i>
+<i>You forgot your flowers.</i>
+
+784
+01:11:29,018 --> 01:11:31,009
+<i>[Door Closes]</i>
+
+785
+01:11:41,363 --> 01:11:44,355
+<i>[Phone Rings]</i>
+
+786
+01:11:45,901 --> 01:11:48,301
+[Rings]
+
+787
+01:11:50,372 --> 01:11:52,840
+[Rings]
+
+788
+01:14:27,663 --> 01:14:30,223
+Hey. Excuse me!
+Excuse me.
+
+789
+01:14:32,334 --> 01:14:36,202
+Excuse me. Uh, do you know
+where Atwood Road is?
+
+790
+01:14:36,271 --> 01:14:38,899
+## [Metal]
+I'm lost.
+
+791
+01:15:48,010 --> 01:15:50,001
+<i>[Emergency Brake Sets]</i>
+
+792
+01:15:51,013 --> 01:15:53,004
+[Engine Off]
+
+793
+01:15:55,517 --> 01:15:57,849
+<i>[Door Alarm Dinging]</i>
+
+794
+01:15:57,920 --> 01:15:59,478
+<i>[Dog Barks]</i>
+Oh!
+
+795
+01:15:59,555 --> 01:16:02,547
+<i>Hey.</i>
+[Barking Continues]
+
+796
+01:16:02,624 --> 01:16:04,854
+Hey, it's okay.
+
+797
+01:16:06,628 --> 01:16:08,596
+It's okay.
+
+798
+01:16:09,598 --> 01:16:11,532
+<i>##[Metal]</i>
+Can I help you?
+
+799
+01:16:11,600 --> 01:16:13,727
+Does Penny live here?
+
+800
+01:16:13,802 --> 01:16:15,793
+Who's askin'?
+
+801
+01:16:17,172 --> 01:16:21,734
+I'm an old friend of Penny's.
+Don. Don Johnston.
+
+802
+01:16:23,979 --> 01:16:27,506
+She's in the house.
+Go around there. A screen door.
+
+803
+01:16:27,583 --> 01:16:29,574
+Thanks.
+
+804
+01:16:32,588 --> 01:16:34,715
+<i>##[Continues]</i>
+
+805
+01:17:05,621 --> 01:17:07,612
+[Knocking]
+
+806
+01:17:08,624 --> 01:17:10,615
+Penny?
+
+807
+01:17:21,436 --> 01:17:23,427
+Hello?
+
+808
+01:17:24,840 --> 01:17:27,434
+- Penny?
+- Yeah?
+
+809
+01:17:35,784 --> 01:17:37,775
+Donny.
+
+810
+01:17:44,726 --> 01:17:47,923
+So, what the fuck
+do <i>you</i> want, Donny?
+
+811
+01:17:47,996 --> 01:17:52,228
+Oh, I just thought I'd drop by.
+
+812
+01:17:52,300 --> 01:17:54,291
+Just checking in.
+
+813
+01:17:57,339 --> 01:18:00,536
+Well, I don't remember
+any happy ending
+between us, Don.
+
+814
+01:18:00,609 --> 01:18:04,636
+No... reconciliation,
+nothing.
+
+815
+01:18:04,713 --> 01:18:07,341
+You left <i>me,</i> Penny.
+Remember?
+
+816
+01:18:07,416 --> 01:18:09,884
+Yeah.
+
+817
+01:18:09,951 --> 01:18:11,942
+Very clearly.
+
+818
+01:18:14,790 --> 01:18:17,759
+So, what is it you wanted?
+
+819
+01:18:17,826 --> 01:18:19,919
+Everything okay over there, Pen?
+
+820
+01:18:21,730 --> 01:18:23,698
+Not sure yet!
+
+821
+01:18:24,700 --> 01:18:26,691
+Goddamn it.
+
+822
+01:18:27,769 --> 01:18:30,101
+What is it you wanted?
+
+823
+01:18:33,709 --> 01:18:35,700
+Penny, do you...
+
+824
+01:18:37,112 --> 01:18:39,103
+Do you have a son?
+
+825
+01:18:46,154 --> 01:18:48,145
+Fuck you, Donny!
+
+826
+01:18:56,531 --> 01:18:58,726
+Danny, grab that fucker.
+
+827
+01:19:02,771 --> 01:19:04,762
+<i>Penny!</i>
+
+828
+01:19:06,708 --> 01:19:09,108
+[Sighs]
+Shut up.
+
+829
+01:19:09,177 --> 01:19:11,168
+I didn't say anything.
+
+830
+01:19:16,618 --> 01:19:19,109
+<i>[Footsteps]</i>
+
+831
+01:19:32,134 --> 01:19:35,069
+What the hell's
+your fuckin' problem?
+I was just leaving.
+
+832
+01:19:35,137 --> 01:19:38,538
+No, what are you doing
+upsetting Penny like that, huh?
+I just needed to ask her a question.
+
+833
+01:19:38,607 --> 01:19:41,542
+Yeah, I know
+you asked her a question.
+Now, listen.
+
+834
+01:19:41,610 --> 01:19:45,569
+I just don't think
+it's very sensitive of you...
+
+835
+01:19:45,647 --> 01:19:48,582
+comin' out here
+to try to hurt Penny's feelings,
+
+836
+01:19:48,650 --> 01:19:52,347
+you know,
+to get back at her or whatever.
+
+837
+01:19:55,123 --> 01:19:57,057
+That just seems so rude.
+
+838
+01:20:24,653 --> 01:20:27,645
+<i>[Fumbling With Door Handle]</i>
+
+839
+01:20:30,592 --> 01:20:33,083
+<i>[Door Opens]</i>
+
+840
+01:21:12,400 --> 01:21:14,334
+[Engine Starts]
+
+841
+01:21:14,402 --> 01:21:16,734
+<i>[Warning Bell Dinging]</i>
+
+842
+01:21:18,840 --> 01:21:20,831
+<i>[Dinging Stops]</i>
+
+843
+01:21:24,613 --> 01:21:26,604
+[Groans Softly]
+
+844
+01:22:23,305 --> 01:22:25,000
+You said all pink, right?
+
+845
+01:22:25,073 --> 01:22:28,565
+<i>[Don]</i>
+<i>It's best that they're all pink, yeah.</i>
+
+846
+01:22:34,349 --> 01:22:36,283
+Oh, you're very good
+at this.
+
+847
+01:22:36,351 --> 01:22:39,445
+That's beautiful.
+Thanks.
+
+848
+01:22:39,521 --> 01:22:41,455
+Are you okay?
+
+849
+01:22:41,523 --> 01:22:45,459
+Uh, it was just
+a minor misunderstanding.
+
+850
+01:22:45,527 --> 01:22:48,428
+Mind if I take a look?
+
+851
+01:22:52,534 --> 01:22:54,900
+<i>Oh. That's nasty.</i>
+
+852
+01:22:54,970 --> 01:22:57,404
+Did you even wash it?
+
+853
+01:22:57,472 --> 01:23:00,066
+Sort of.
+
+854
+01:23:01,142 --> 01:23:03,133
+Let me take care of it.
+
+855
+01:23:16,324 --> 01:23:18,258
+What's your name?
+
+856
+01:23:18,326 --> 01:23:21,159
+Sun. Sun Green.
+
+857
+01:23:21,229 --> 01:23:23,493
+Sun Green?
+
+858
+01:23:23,565 --> 01:23:25,499
+Perfect.
+
+859
+01:23:25,567 --> 01:23:27,501
+What's yours?
+
+860
+01:23:27,569 --> 01:23:29,503
+Don.
+Don Johnston.
+
+861
+01:23:29,571 --> 01:23:31,596
+[Giggles]
+Really?
+
+862
+01:23:31,673 --> 01:23:34,471
+Don Johnson?
+<i>Johnston.</i>
+
+863
+01:23:34,542 --> 01:23:36,533
+With a "T."
+
+864
+01:23:38,747 --> 01:23:40,738
+So...
+
+865
+01:23:45,020 --> 01:23:47,955
+if I continue down this road,
+
+866
+01:23:48,023 --> 01:23:50,685
+I will find
+the Riverview Cemetery?
+
+867
+01:23:50,759 --> 01:23:54,991
+Yeah. You just go down the hill.
+You'll see the entrance on your right.
+
+868
+01:24:01,469 --> 01:24:03,664
+Thank you, Sun Green.
+
+869
+01:24:03,738 --> 01:24:05,729
+You're welcome.
+
+870
+01:24:08,443 --> 01:24:11,435
+[Bells Jingling]
+
+871
+01:24:33,635 --> 01:24:35,626
+Hello, beautiful.
+
+872
+01:25:43,171 --> 01:25:44,695
+Red ink on pink paper.
+
+873
+01:26:12,033 --> 01:26:15,025
+<i>##[Rock]</i>
+
+874
+01:26:16,538 --> 01:26:18,733
+I don't know what I want.
+
+875
+01:26:18,806 --> 01:26:20,967
+<i>[Carmen]</i>
+<i>He says you have a hidden agenda.</i>
+
+876
+01:26:21,042 --> 01:26:23,033
+Fuck you, Donny.
+
+877
+01:27:23,104 --> 01:27:25,595
+Circle Drive, please.
+No rush.
+
+878
+01:28:06,180 --> 01:28:08,114
+<i>[TV Clicks On]</i>
+
+879
+01:28:08,182 --> 01:28:10,673
+## [Jazz]
+
+880
+01:28:10,752 --> 01:28:14,244
+The wheel of fortune turns.
+Round and round it goes.
+
+881
+01:28:14,322 --> 01:28:16,449
+Where it stops, no one knows.
+
+882
+01:28:18,159 --> 01:28:21,253
+<i>##[Continues]</i>
+
+883
+01:28:21,329 --> 01:28:23,320
+Boy.
+
+884
+01:28:25,333 --> 01:28:27,324
+<i>[TV Clicks Off]</i>
+
+885
+01:29:17,151 --> 01:29:20,018
+That's my report,
+Sherlock.
+
+886
+01:29:20,088 --> 01:29:23,080
+The general outline
+of what you put me through.
+
+887
+01:29:24,625 --> 01:29:26,559
+That's it?
+
+888
+01:29:26,627 --> 01:29:31,030
+And after all that,
+you're still no closer to knowing
+who's the mother of your son?
+
+889
+01:29:31,099 --> 01:29:33,090
+That's right.
+
+890
+01:29:34,268 --> 01:29:36,793
+But there was
+that one typewriter.
+
+891
+01:29:36,871 --> 01:29:39,362
+And the pink motorcycle.
+
+892
+01:29:39,440 --> 01:29:42,375
+And it was Dora's pink,
+uh, business card.
+
+893
+01:29:42,443 --> 01:29:44,638
+And-And-And Laura's
+pink bathrobe.
+
+894
+01:29:44,712 --> 01:29:48,170
+I think this whole thing
+is a farce, a fiasco.
+
+895
+01:29:49,183 --> 01:29:51,310
+As far as I know,
+
+896
+01:29:51,386 --> 01:29:53,820
+you may have written
+that letter to me.
+
+897
+01:29:57,158 --> 01:30:00,594
+Look, I'm really sorry
+that you got beat up and everything.
+
+898
+01:30:00,661 --> 01:30:04,927
+I... I... I... I feel that
+it was somehow my fault.
+
+899
+01:30:04,999 --> 01:30:06,990
+It was.
+
+900
+01:30:09,504 --> 01:30:11,836
+Kind of strange, too, how, uh,
+
+901
+01:30:11,906 --> 01:30:14,898
+Carmen's magic dog
+was named Winston.
+
+902
+01:30:17,545 --> 01:30:19,979
+Yeah...
+[Stammers]
+
+903
+01:30:20,047 --> 01:30:23,175
+Look, man, I really put
+a lot of work into this thing.
+
+904
+01:30:23,251 --> 01:30:27,187
+I thought that it was
+really important that you know
+whether or not you had a son.
+
+905
+01:30:27,255 --> 01:30:30,554
+I mean, it's your life.
+You got to live your life, right?
+
+906
+01:30:30,625 --> 01:30:33,423
+I <i>was</i> living my life,
+Winston.
+
+907
+01:30:35,596 --> 01:30:38,030
+I still am.
+
+908
+01:30:38,099 --> 01:30:41,227
+What's this?
+It's pink.
+
+909
+01:30:41,302 --> 01:30:44,237
+It's a note
+I found in my foyer
+when I got back.
+
+910
+01:30:44,305 --> 01:30:47,433
+Red ink on pink paper.
+
+911
+01:30:47,508 --> 01:30:49,373
+It's from Sherry.
+
+912
+01:30:49,444 --> 01:30:51,378
+What? From Sherry?
+
+913
+01:30:51,446 --> 01:30:54,813
+Why didn't you tell me?
+May I see it?
+
+914
+01:30:54,882 --> 01:31:00,047
+Envelope and paper
+not exactly the same size.
+
+915
+01:31:02,256 --> 01:31:04,520
+You know, the handwriting...
+
+916
+01:31:04,592 --> 01:31:08,585
+seems pretty close
+to the address on the envelope,
+but I can't be sure.
+
+917
+01:31:10,898 --> 01:31:12,889
+Sherry still likes you.
+
+918
+01:31:15,470 --> 01:31:18,633
+You think that Sherry
+could have sent the first letter...
+
+919
+01:31:18,706 --> 01:31:21,937
+and made the whole thing up
+just to fuck with you?
+
+920
+01:31:22,009 --> 01:31:24,000
+Who knows?
+
+921
+01:31:25,480 --> 01:31:27,414
+You know, I've got to go.
+
+922
+01:31:27,482 --> 01:31:31,543
+I think I have just enough time
+to stop home
+and compare the handwriting...
+
+923
+01:31:31,619 --> 01:31:34,679
+and then hopefully
+punch in at work on time.
+
+924
+01:31:34,755 --> 01:31:37,622
+You coming?
+No.
+
+925
+01:31:38,826 --> 01:31:41,886
+I just need a little break
+from all of this.
+
+926
+01:31:42,897 --> 01:31:44,831
+Look, don't worry.
+
+927
+01:31:44,899 --> 01:31:47,800
+We're still going to
+solve this mystery.
+
+928
+01:31:59,046 --> 01:32:01,310
+[Engine Starts]
+
+929
+01:32:39,287 --> 01:32:42,222
+Didn't I see you
+at the airport last night?
+
+930
+01:32:42,290 --> 01:32:44,383
+I don't know.
+Did you?
+
+931
+01:32:44,458 --> 01:32:46,392
+Yeah.
+
+932
+01:32:46,460 --> 01:32:48,690
+You on a road trip?
+
+933
+01:32:48,763 --> 01:32:50,754
+Yeah.
+Something like that.
+
+934
+01:32:54,435 --> 01:32:57,370
+You look hungry.
+Can I buy you a sandwich
+or something?
+
+935
+01:32:57,438 --> 01:32:59,372
+Uh, no, that's okay.
+
+936
+01:32:59,440 --> 01:33:02,807
+You can relax.
+I'm not gay. I'm not a cop.
+
+937
+01:33:02,877 --> 01:33:05,971
+Just a guy who sees a guy
+who might need a sandwich.
+
+938
+01:33:08,316 --> 01:33:10,307
+Okay. Thanks.
+
+939
+01:33:11,385 --> 01:33:14,320
+But could you get something to go?
+I'd sorta rather stay outside.
+
+940
+01:33:14,388 --> 01:33:16,322
+Sure.
+
+941
+01:33:16,390 --> 01:33:18,517
+How about a nice
+club sandwich?
+
+942
+01:33:18,593 --> 01:33:20,584
+I'm vegetarian.
+
+943
+01:33:21,696 --> 01:33:23,755
+You eat cheese?
+
+944
+01:33:23,831 --> 01:33:26,664
+Yeah, sometimes.
+I... I like cheese.
+
+945
+01:33:27,969 --> 01:33:30,460
+Okay, I got it.
+I'll be right back.
+
+946
+01:33:32,440 --> 01:33:36,638
+<i>[Door Opens, Closes]</i>
+
+947
+01:33:46,754 --> 01:33:48,688
+Thanks.
+You're welcome.
+
+948
+01:34:19,453 --> 01:34:21,444
+Hey.
+
+949
+01:34:22,590 --> 01:34:25,286
+You found us a place.
+
+950
+01:34:25,359 --> 01:34:27,486
+All right.
+
+951
+01:34:30,831 --> 01:34:33,095
+Let's see here.
+
+952
+01:34:33,167 --> 01:34:36,000
+Big cheese and veggie sandwich...
+
+953
+01:34:36,070 --> 01:34:38,061
+with mushrooms.
+
+954
+01:34:39,907 --> 01:34:41,841
+Fries...
+Mmm.
+
+955
+01:34:41,909 --> 01:34:43,900
+Extra large.
+
+956
+01:34:47,481 --> 01:34:49,472
+Two waters.
+
+957
+01:34:52,353 --> 01:34:54,344
+Two coffees.
+
+958
+01:35:02,963 --> 01:35:05,693
+My mom put that there...
+
+959
+01:35:05,766 --> 01:35:07,757
+<i>for good luck.</i>
+
+960
+01:35:12,339 --> 01:35:14,773
+Thanks for the food.
+
+961
+01:35:14,842 --> 01:35:17,174
+Ahh.
+No problem, chief.
+
+962
+01:35:21,482 --> 01:35:23,473
+You called me chief?
+
+963
+01:35:25,853 --> 01:35:27,844
+Yeah. Why?
+
+964
+01:35:33,627 --> 01:35:35,618
+What happened to your eye?
+
+965
+01:35:37,431 --> 01:35:39,422
+I, uh...
+
+966
+01:35:41,202 --> 01:35:43,636
+I ran into somebody.
+
+967
+01:35:43,704 --> 01:35:46,229
+Somebody's fist.
+
+968
+01:35:48,008 --> 01:35:50,977
+You a gangster?
+
+969
+01:35:51,045 --> 01:35:52,979
+No. I wish.
+
+970
+01:35:53,047 --> 01:35:56,710
+No, I was, uh...
+I was in computers.
+
+971
+01:35:58,352 --> 01:36:00,343
+Computers and girls.
+
+972
+01:36:02,423 --> 01:36:04,357
+What about you, chief?
+
+973
+01:36:04,425 --> 01:36:07,485
+I'm interested
+in, uh, philosophy.
+
+974
+01:36:09,730 --> 01:36:11,721
+Philosophy and girls.
+
+975
+01:36:15,803 --> 01:36:17,794
+Sounds pretty good.
+
+976
+01:36:19,006 --> 01:36:21,497
+Think so?
+
+977
+01:36:28,149 --> 01:36:30,140
+So, uh,
+
+978
+01:36:31,786 --> 01:36:35,779
+as just a guy
+who gave another guy a sandwich,
+
+979
+01:36:38,492 --> 01:36:42,986
+you have any, like,
+philosophical tips or anything...
+
+980
+01:36:44,732 --> 01:36:47,860
+for a guy on a kind of road trip?
+
+981
+01:36:48,869 --> 01:36:51,429
+You asking me?
+
+982
+01:36:52,973 --> 01:36:54,964
+Yeah.
+
+983
+01:36:56,043 --> 01:36:58,034
+Well...
+
+984
+01:37:01,515 --> 01:37:04,279
+The past is gone.
+
+985
+01:37:04,351 --> 01:37:06,342
+I know that.
+
+986
+01:37:07,688 --> 01:37:10,384
+The future...
+
+987
+01:37:10,457 --> 01:37:12,550
+isn't here yet,
+
+988
+01:37:12,626 --> 01:37:14,617
+whatever it's going to be.
+
+989
+01:37:16,130 --> 01:37:18,064
+So,
+
+990
+01:37:18,132 --> 01:37:22,228
+all there is is...
+is this.
+
+991
+01:37:23,571 --> 01:37:25,562
+The present.
+
+992
+01:37:31,545 --> 01:37:33,536
+That's it.
+
+993
+01:37:35,883 --> 01:37:37,874
+Are you a Buddhist?
+
+994
+01:37:39,920 --> 01:37:41,911
+No. Are you?
+
+995
+01:37:43,424 --> 01:37:45,415
+Uh, I'm not sure yet.
+
+996
+01:37:46,827 --> 01:37:51,264
+I'm sorry that's the best
+I have to offer at the moment.
+
+997
+01:37:51,332 --> 01:37:53,323
+No, I appreciate it.
+
+998
+01:37:54,468 --> 01:37:56,936
+I like what you said.
+
+999
+01:37:58,138 --> 01:38:01,630
+It's better than some, like,
+
+1000
+01:38:01,709 --> 01:38:03,870
+fatherly-sounding bullshit.
+
+1001
+01:38:07,214 --> 01:38:09,148
+Is that...
+
+1002
+01:38:09,216 --> 01:38:11,377
+what your father's like?
+
+1003
+01:38:18,092 --> 01:38:21,528
+Ah, that's not a good subject.
+
+1004
+01:38:21,595 --> 01:38:24,530
+Hey, I gotta go, man.
+I'm sorry.
+
+1005
+01:38:24,598 --> 01:38:27,192
+Thanks again
+for the sandwich and stuff.
+
+1006
+01:38:27,268 --> 01:38:29,293
+Hold on a second.
+Wait.
+
+1007
+01:38:31,705 --> 01:38:35,334
+I know you think
+that I'm your father, don't you?
+
+1008
+01:38:37,444 --> 01:38:40,880
+What?
+Just tell me.
+You can talk to me, chief.
+
+1009
+01:38:40,948 --> 01:38:43,246
+Man, you're fucked up.
+
+1010
+01:38:43,317 --> 01:38:45,979
+Wait a second.
+Wait a second. Wait!
+
+1011
+01:39:18,118 --> 01:39:21,110
+## [Stereo: Ethiopian Jazz]
+
+1012
+01:39:37,771 --> 01:39:40,763
+## [Fades]
+
+1013
+01:40:24,718 --> 01:40:27,710
+<i>[Distant Train Whistle Blows]</i>
+
+1014
+01:40:41,201 --> 01:40:45,160
+<i>##[Pop Rock]</i>
+
+1015
+01:40:51,545 --> 01:40:54,639
+<i>[Woman]</i>
+<i># Words disappear #</i>
+
+1016
+01:40:55,916 --> 01:40:58,908
+<i># Words once so clear #</i>
+
+1017
+01:41:00,421 --> 01:41:02,685
+<i># Only echoes #</i>
+
+1018
+01:41:02,756 --> 01:41:05,520
+<i>#Passin’ through the night #</i>
+
+1019
+01:41:09,163 --> 01:41:12,291
+<i>#Lines on my face #</i>
+
+1020
+01:41:13,567 --> 01:41:16,730
+<i># Your fingers once traced #</i>
+
+1021
+01:41:18,338 --> 01:41:20,772
+<i>#Fade in reflection #</i>
+
+1022
+01:41:20,841 --> 01:41:23,537
+<i># Of what was #</i>
+
+1023
+01:41:36,256 --> 01:41:39,521
+<i># Thoughts rearrange #</i>
+
+1024
+01:41:40,661 --> 01:41:43,596
+<i>#Familiar, now strange #</i>
+
+1025
+01:41:45,399 --> 01:41:47,458
+<i>#All my schemes #</i>
+
+1026
+01:41:47,534 --> 01:41:50,469
+<i>#Drifting on the wind #</i>
+
+1027
+01:41:54,308 --> 01:41:57,004
+<i>#Spring brings the rain #</i>
+
+1028
+01:41:58,545 --> 01:42:01,480
+<i># With winter comes pain #</i>
+
+1029
+01:42:03,283 --> 01:42:05,683
+<i>#Every season #</i>
+
+1030
+01:42:05,752 --> 01:42:08,220
+<i>#Has an end #</i>
+
+1031
+01:42:11,225 --> 01:42:13,022
+<i>#I'll try #</i>
+
+1032
+01:42:13,093 --> 01:42:16,688
+<i># To see through your disguise #</i>
+
+1033
+01:42:19,433 --> 01:42:22,095
+<i>#For the clouds were there #</i>
+
+1034
+01:42:22,169 --> 01:42:25,866
+<i>#Blockin' out the sun #</i>
+
+1035
+01:42:25,939 --> 01:42:28,407
+<i># The sun #</i>
+
+1036
+01:42:28,475 --> 01:42:32,468
+<i>##[Continues]</i>
+
+1037
+01:42:47,961 --> 01:42:50,930
+<i># Thoughts rearrange #</i>
+
+1038
+01:42:52,132 --> 01:42:55,295
+<i>#Familiar, now strange #</i>
+
+1039
+01:42:56,803 --> 01:42:59,067
+<i>#All my schemes #</i>
+
+1040
+01:42:59,139 --> 01:43:02,165
+<i>#Drifting on the wind #</i>
+
+1041
+01:43:05,913 --> 01:43:08,711
+<i>#Spring brings the rain #</i>
+
+1042
+01:43:09,983 --> 01:43:13,180
+<i># With winter comes pain #</i>
+
+1043
+01:43:14,922 --> 01:43:17,390
+<i>#Every season #</i>
+
+1044
+01:43:17,457 --> 01:43:19,925
+<i>#Has an end #</i>
+
+1045
+01:43:21,862 --> 01:43:24,626
+<i># There's an end #</i>
+
+1046
+01:43:26,466 --> 01:43:28,696
+<i># There's an end #</i>
+
+1047
+01:43:30,737 --> 01:43:33,228
+<i># There's an end #</i>
+
+1048
+01:43:35,242 --> 01:43:37,767
+<i># There's an end ##</i>
+

@@ -1,0 +1,4699 @@
+1
+00:00:24,220 --> 00:00:25,850
+<i>Kevin Flynn: The Grid.</i>
+
+2
+00:00:27,580 --> 00:00:29,890
+<i>A digital frontier.</i>
+
+3
+00:00:31,880 --> 00:00:35,750
+<i>I tried to picture clusters of information,
+as they moved through the computer.</i>
+
+4
+00:00:37,030 --> 00:00:39,000
+<i>What did they look like?</i>
+
+5
+00:00:39,910 --> 00:00:42,190
+<i>Ships, motorcycles?</i>
+
+6
+00:00:42,970 --> 00:00:44,930
+<i>Were the circuits like freeways?</i>
+
+7
+00:00:45,590 --> 00:00:47,500
+<i>I kept dreaming of a world,</i>
+
+8
+00:00:47,501 --> 00:00:49,010
+<i>I thought I'd never see.</i>
+
+9
+00:00:50,580 --> 00:00:52,440
+<i>And then, one day.</i>
+
+10
+00:00:53,500 --> 00:00:54,640
+Sam: You got in.
+
+11
+00:00:55,060 --> 00:00:56,860
+Ha, ha, ha, that's right, man.
+
+12
+00:00:57,100 --> 00:00:58,560
+I got in.
+
+13
+00:01:11,968 --> 00:01:17,968
+-The CollectorZ -
+2011
+
+14
+00:01:19,768 --> 00:01:23,768
+1989...
+
+15
+00:01:27,400 --> 00:01:30,820
+And the world was more beautiful
+than I ever dreamed.
+
+16
+00:01:31,030 --> 00:01:33,570
+And also, more dangerous
+than I've ever dreamed.
+
+17
+00:01:33,571 --> 00:01:35,440
+Get in bed now, come on.
+
+18
+00:01:36,740 --> 00:01:39,050
+Now, I met a brave warrior.
+
+19
+00:01:39,060 --> 00:01:42,850
+-Tron.
+-Ba, ba, bom, bom, bommm.
+
+20
+00:01:42,851 --> 00:01:44,440
+TRON!
+
+21
+00:01:44,441 --> 00:01:45,950
+He fights for the users.
+
+22
+00:01:45,951 --> 00:01:47,230
+He sure does.
+
+23
+00:01:47,231 --> 00:01:50,800
+Oh man, he showed me things that no
+one had ever imagined.
+
+24
+00:01:50,801 --> 00:01:54,780
+Here at least. This battle was fought
+in spectacular arenas.
+
+25
+00:01:54,781 --> 00:01:57,810
+Cycles that raced on ribbons of light.
+
+26
+00:01:58,040 --> 00:02:02,760
+-So radical, and together,
+-You built the grid.
+
+27
+00:02:02,761 --> 00:02:04,520
+We built a new grid.
+
+28
+00:02:04,525 --> 00:02:06,599
+And programs and users.
+
+29
+00:02:06,600 --> 00:02:08,714
+Now, I couldn't be in there all the time.
+
+30
+00:02:08,715 --> 00:02:12,861
+So, I created a program in my own image.
+
+31
+00:02:12,862 --> 00:02:15,853
+That could think, like you or me.
+
+32
+00:02:16,354 --> 00:02:19,747
+And I called him,
+CLU.
+
+33
+00:02:20,383 --> 00:02:22,797
+Codified Likeness Utility.
+
+34
+00:02:22,798 --> 00:02:24,196
+That's right.
+
+35
+00:02:24,200 --> 00:02:30,010
+And CLU Tron and I, we built the
+system where all information was free,
+
+36
+00:02:30,011 --> 00:02:33,498
+And hope, beautiful.
+
+37
+00:02:35,450 --> 00:02:38,019
+And then, one day.
+
+38
+00:02:39,157 --> 00:02:40,520
+Something happened.
+
+39
+00:02:43,553 --> 00:02:46,957
+Something...extraordinary.
+
+40
+00:02:49,717 --> 00:02:51,104
+A miracle.
+
+41
+00:02:55,390 --> 00:02:56,565
+What was it?
+
+42
+00:02:58,070 --> 00:03:00,215
+That'll have to wait until next time.
+
+43
+00:03:01,088 --> 00:03:02,747
+How 'bout I get to work.
+
+44
+00:03:02,750 --> 00:03:04,727
+I'm gonna go with you, Dad.
+
+45
+00:03:04,728 --> 00:03:06,665
+Yeah, well.
+
+46
+00:03:06,666 --> 00:03:09,357
+On day, you will.
+
+47
+00:03:09,360 --> 00:03:11,094
+I promise.
+
+48
+00:03:11,100 --> 00:03:12,495
+Okay.
+
+49
+00:03:12,500 --> 00:03:14,055
+Good night, Sam.
+
+50
+00:03:16,430 --> 00:03:20,452
+All right, what do you say tomorrow,
+you and I hit the arcade?
+
+51
+00:03:20,460 --> 00:03:22,811
+You can have a crack at the old man's
+high score.
+
+52
+00:03:22,815 --> 00:03:24,715
+First games on me.
+
+53
+00:03:27,393 --> 00:03:28,700
+You want to play doubles?
+
+54
+00:03:28,701 --> 00:03:30,249
+Are we on the same team?
+
+55
+00:03:32,883 --> 00:03:35,095
+We're always on the same team.
+
+56
+00:03:57,121 --> 00:03:59,051
+Good evening, our lead story.
+
+57
+00:03:59,052 --> 00:04:02,390
+ENCOM CEO and video game Icon,
+Kevin Flynn.
+
+58
+00:04:02,391 --> 00:04:03,613
+has disappeared.
+
+59
+00:04:03,615 --> 00:04:06,992
+He was best known for designing Tron,
+and Space Paranoids.
+
+60
+00:04:06,993 --> 00:04:09,725
+The two best selling video games in history.
+
+61
+00:04:09,726 --> 00:04:12,882
+Flynn took ownership of ENCOM in 1982.
+
+62
+00:04:12,883 --> 00:04:16,478
+And the company skyrocketed to the
+top of the tech industry.
+
+63
+00:04:16,479 --> 00:04:18,929
+But things changed in 1985.
+
+64
+00:04:18,930 --> 00:04:23,038
+With the untimely death of Flynn's wife,
+the mother of his young son, Sam.
+
+65
+00:04:23,039 --> 00:04:28,087
+Recently ENCOM board members have been
+concerned by the reports of Flynn's erratic
+
+66
+00:04:28,088 --> 00:04:30,090
+even obsessive behavior.
+
+67
+00:04:30,091 --> 00:04:33,186
+With Flynn missing, the company
+is now in Chaos.
+
+68
+00:04:33,187 --> 00:04:39,103
+This afternoon ENCOM's board moved to
+seize control from Flynn's partner, Alan Bradley.
+
+69
+00:04:39,104 --> 00:04:42,090
+Vowing to return the company to
+profitability.
+
+70
+00:04:42,100 --> 00:04:47,395
+Loyal to the end, Bradley maintains
+his belief that Flynn is not missing.
+
+71
+00:04:47,755 --> 00:04:50,365
+And is instead pursuing his dream of quote:
+
+72
+00:04:50,366 --> 00:04:53,858
+"A digital frontier to reshape
+the human condition".
+
+73
+00:04:55,455 --> 00:04:58,104
+In there is a new world.
+
+74
+00:04:58,105 --> 00:05:00,179
+In there is our future.
+
+75
+00:05:00,180 --> 00:05:01,755
+In there,
+
+76
+00:05:02,113 --> 00:05:04,555
+is our destiny.
+
+77
+00:05:10,356 --> 00:05:14,471
+Even Flynn's most ardent supporters are
+now acknowledging a difficult truth.
+
+78
+00:05:14,472 --> 00:05:17,512
+Kevin Flynn may have simply, run away.
+
+79
+00:05:17,520 --> 00:05:20,729
+And often lows
+for his imminent return.
+
+80
+00:05:20,730 --> 00:05:24,780
+There is perhaps no one....
+
+81
+00:05:29,767 --> 00:05:30,990
+He's coming.
+
+82
+00:05:30,991 --> 00:05:32,394
+He promised.
+
+83
+00:05:32,395 --> 00:05:33,941
+Sam, you have to eat.
+
+84
+00:05:33,942 --> 00:05:35,064
+Let go of me.
+
+85
+00:05:35,082 --> 00:05:36,552
+Sam.
+
+86
+00:05:36,553 --> 00:05:39,240
+What will become of Flynn's legacy,
+and the future of ENCOM.
+
+87
+00:05:39,241 --> 00:05:43,226
+Will most likely depend on what becomes
+of this now orphaned little boy.
+-SAM!
+
+88
+00:05:45,920 --> 00:05:48,191
+SAM, come back.
+
+89
+00:07:42,662 --> 00:07:44,599
+Well that is a big door.
+
+90
+00:07:44,600 --> 00:07:47,595
+Welcome everybody, please settle.
+
+91
+00:07:47,596 --> 00:07:51,667
+I know it's late so I'll skip the pleasantries
+and hand things over to our chairman.
+
+92
+00:07:51,670 --> 00:07:53,147
+Richard Mackey
+
+93
+00:07:55,460 --> 00:07:58,224
+Thank you, thank you.
+Thank you, Claire.
+
+94
+00:07:59,790 --> 00:08:04,068
+Tonight I am pleased to announce that
+ENCOM's last fiscal year,
+
+95
+00:08:04,069 --> 00:08:07,560
+was our most profitable, ever.
+
+96
+00:08:08,732 --> 00:08:10,100
+Yes.
+
+97
+00:08:28,425 --> 00:08:33,089
+And at midnight tonight, the 12th version of our pledge
+of operating systems will hit the shelves.
+
+98
+00:08:33,090 --> 00:08:34,519
+Around the world.
+
+99
+00:08:34,520 --> 00:08:37,249
+I'm sure it comes as no surprise,
+
+100
+00:08:37,250 --> 00:08:40,668
+who we have to acclaim. The head of
+our software design team.
+
+101
+00:08:40,669 --> 00:08:45,733
+A man who's father own uh, notable
+history with ENCOM,
+
+102
+00:08:45,734 --> 00:08:48,255
+helped make this company, what it is today.
+
+103
+00:08:50,836 --> 00:08:52,350
+Edward Dillinger.
+
+104
+00:08:54,427 --> 00:08:55,527
+Well done.
+
+105
+00:09:04,525 --> 00:09:08,603
+We will be making our Debut on
+Tokyo's Nikkei index.
+
+106
+00:09:08,604 --> 00:09:13,188
+ENCOM's stock will now trade around the world.
+
+107
+00:09:13,189 --> 00:09:14,684
+24/7
+
+108
+00:09:15,118 --> 00:09:17,120
+Huh? We did it.
+
+109
+00:09:40,578 --> 00:09:41,601
+Excuse me,
+
+110
+00:09:41,610 --> 00:09:43,685
+Yes, Allan.
+
+111
+00:09:43,686 --> 00:09:48,843
+Given the prices we charge to students, schools.
+
+112
+00:09:49,607 --> 00:09:53,035
+What sort of improvements have been made
+in Flynn
+
+113
+00:09:53,036 --> 00:09:56,556
+I mean, uh, ENCOM O.S. twelve?
+
+114
+00:09:59,485 --> 00:10:01,372
+This year we put a twelve on the box.
+
+115
+00:10:03,592 --> 00:10:07,670
+O.S. 12 is the most secure
+operating system ever released.
+
+116
+00:10:07,671 --> 00:10:11,967
+The idea of sharing our software or
+giving it away for free.
+
+117
+00:10:11,968 --> 00:10:14,485
+Disappeared with, Kevin Flynn.
+
+118
+00:10:28,284 --> 00:10:29,862
+We know you're here.
+
+119
+00:10:31,128 --> 00:10:32,371
+Let's make this easy.
+
+120
+00:10:35,294 --> 00:10:37,092
+Come on, come on.
+
+121
+00:10:45,120 --> 00:10:46,399
+FREEZE!
+
+122
+00:10:47,271 --> 00:10:50,465
+Okay, I hope I have no more questions.
+
+123
+00:10:50,500 --> 00:10:53,199
+I would like you to meet,
+our next blockbuster.
+
+124
+00:10:54,021 --> 00:10:56,083
+ENCOM O.S. Twelve.
+
+125
+00:10:58,690 --> 00:11:00,070
+Whoa!
+
+126
+00:11:01,017 --> 00:11:02,751
+Oh, a few bugs.
+
+127
+00:11:08,577 --> 00:11:09,908
+Bare with us, one second.
+
+128
+00:11:12,218 --> 00:11:14,897
+Stop! Stop, stop.
+Stop, stop, will you just stop.
+
+129
+00:11:14,898 --> 00:11:15,900
+For one second.
+
+130
+00:11:21,177 --> 00:11:22,962
+Nikkei will be open in thirty seconds.
+
+131
+00:11:22,965 --> 00:11:24,758
+Does anyone know where the master
+file is?
+
+132
+00:11:24,759 --> 00:11:25,766
+I do.
+
+133
+00:11:27,828 --> 00:11:28,970
+It's on the web.
+
+134
+00:11:31,056 --> 00:11:32,958
+This is mad, gotta stop this.
+
+135
+00:11:36,520 --> 00:11:38,927
+We got to bring that opener, now.
+
+136
+00:11:38,928 --> 00:11:41,312
+How is this happening, we've got to stop this now.
+
+137
+00:11:41,320 --> 00:11:43,847
+No, let's just, shut it down.
+
+138
+00:11:43,850 --> 00:11:46,160
+-Shut it down, NOW!
+-Relax.
+
+139
+00:11:47,367 --> 00:11:49,327
+Relax, it's under control.
+
+140
+00:11:49,328 --> 00:11:50,483
+Relax?
+
+141
+00:11:50,485 --> 00:11:55,308
+Our most valuable and most secure
+operating system is out there for free.
+
+142
+00:11:55,309 --> 00:11:56,769
+How am I suppose to explain that?
+
+143
+00:11:56,770 --> 00:12:00,126
+I don’t' know. Say it was all part of the plan.
+
+144
+00:12:01,081 --> 00:12:03,566
+A little uh, a little gift
+from ENCOM.
+
+145
+00:12:03,567 --> 00:12:06,267
+Apparently ENCOM technologies is
+having technical difficulties.
+
+146
+00:12:06,268 --> 00:12:07,660
+No.
+
+147
+00:12:39,540 --> 00:12:40,598
+Hey, Dad.
+
+148
+00:12:41,330 --> 00:12:42,709
+What are you doing?
+
+149
+00:12:48,600 --> 00:12:50,777
+Where are you going to run to now?
+
+150
+00:12:50,778 --> 00:12:52,670
+Now you don't want to do that.
+
+151
+00:12:52,671 --> 00:12:55,270
+Didn't anyone tell you, stealing is wrong.
+
+152
+00:12:55,271 --> 00:12:57,803
+Can't steal something that was
+designed to be free.
+
+153
+00:12:57,804 --> 00:12:58,895
+Now I got you.
+
+154
+00:12:58,896 --> 00:13:01,187
+Don't sweat it, your boss is
+okay with it.
+
+155
+00:13:01,188 --> 00:13:04,579
+-The hell he is.
+-Your boss works for the CEO.
+
+156
+00:13:04,580 --> 00:13:06,411
+The CEO works for the shareholders.
+
+157
+00:13:06,412 --> 00:13:08,650
+Now do you know who the
+biggest shareholder is?
+
+158
+00:13:09,958 --> 00:13:11,198
+I don't know, some kid.
+
+159
+00:13:15,461 --> 00:13:17,011
+You're Mr. Flynn.
+
+160
+00:13:18,985 --> 00:13:20,303
+Why?
+
+161
+00:13:21,435 --> 00:13:22,911
+This is your father's company.
+
+162
+00:13:23,311 --> 00:13:24,786
+Not anymore.
+
+163
+00:13:24,869 --> 00:13:27,169
+Wha..., hey, hey kid.
+
+164
+00:13:27,170 --> 00:13:28,959
+No, NOOOOOOO!
+
+165
+00:13:36,000 --> 00:13:37,546
+Woo, hoo, hoo, hooo.
+
+166
+00:13:42,116 --> 00:13:43,658
+Yeah!
+
+167
+00:13:44,236 --> 00:13:45,775
+Whoa, whoa, whoa, whoa.
+
+168
+00:13:50,765 --> 00:13:51,779
+O...kay.
+
+169
+00:13:54,092 --> 00:13:57,180
+Hey, there he is, get him.
+
+170
+00:13:59,523 --> 00:14:00,583
+HEY!
+
+171
+00:14:21,415 --> 00:14:24,237
+Hold it right there, freeze!
+
+172
+00:14:26,962 --> 00:14:30,142
+Okay boys, you got me.
+
+173
+00:14:31,193 --> 00:14:32,880
+Hey.
+
+174
+00:15:04,551 --> 00:15:06,828
+Enjoy it Marv, you earned it.
+
+175
+00:15:11,005 --> 00:15:12,873
+Why are you in my apartment, Allen?
+
+176
+00:15:14,108 --> 00:15:16,409
+You won't answer your phone.
+
+177
+00:15:19,329 --> 00:15:20,673
+How you been, Sam?
+
+178
+00:15:20,675 --> 00:15:24,175
+Well you know, when I was twelve,
+I really appreciated the surrogate father thing.
+
+179
+00:15:24,176 --> 00:15:25,512
+But come on, Allen.
+
+180
+00:15:25,515 --> 00:15:27,742
+We're all under control now.
+
+181
+00:15:28,243 --> 00:15:30,050
+Oh, clearly.
+
+182
+00:15:30,051 --> 00:15:31,969
+What is it? You want to
+help me with my home work?
+
+183
+00:15:31,970 --> 00:15:33,520
+Like old times, care to catch.
+
+184
+00:15:35,470 --> 00:15:39,134
+Well you got a, pretty nice view here.
+
+185
+00:15:41,250 --> 00:15:44,376
+Why'd you do the triple axel off
+of a few hours ago?
+
+186
+00:15:45,880 --> 00:15:47,328
+Rough landing, huh?
+
+187
+00:15:47,330 --> 00:15:48,747
+Hmm, could have been worse.
+
+188
+00:15:48,750 --> 00:15:52,867
+I also thought your message to the
+board was very clever.
+
+189
+00:15:52,868 --> 00:15:54,178
+Oh, you like that?
+
+190
+00:15:54,179 --> 00:15:55,793
+Well, that was Marv's idea.
+
+191
+00:16:01,098 --> 00:16:03,876
+Allan, we really gonna do this again?
+
+192
+00:16:04,664 --> 00:16:07,960
+Do I really look like I'm ready to run a
+fortune 500 company?
+
+193
+00:16:08,444 --> 00:16:09,444
+No.
+
+194
+00:16:10,038 --> 00:16:14,254
+But truthfully, your father's pretty
+happy with where you are.
+
+195
+00:16:15,150 --> 00:16:18,172
+Clearly they can just keep doing
+whatever they want.
+
+196
+00:16:20,176 --> 00:16:25,452
+Well I guess what I find curious is
+the crazy charities,
+
+197
+00:16:25,453 --> 00:16:27,553
+the annual prank on the company.
+
+198
+00:16:27,554 --> 00:16:30,512
+Sure have an interesting way of being
+disinterested, Sam.
+
+199
+00:16:30,513 --> 00:16:31,766
+Why are you here, Alan?
+
+200
+00:16:35,467 --> 00:16:37,329
+I was paged last night.
+
+201
+00:16:37,330 --> 00:16:40,038
+Oh man, still rocking the pager, hey?
+
+202
+00:16:40,039 --> 00:16:41,680
+Good for you.
+
+203
+00:16:41,682 --> 00:16:46,001
+Yeah, your Dad once told me I
+had to sleep with it, I still do.
+
+204
+00:16:46,867 --> 00:16:49,488
+Page came from your Dad's office, in the arcade.
+
+205
+00:16:52,585 --> 00:16:53,898
+So.
+
+206
+00:16:54,841 --> 00:16:59,003
+So, that numbers been disconnected
+for twenty years.
+
+207
+00:17:00,310 --> 00:17:03,204
+He was talking about genetic algorithms,
+
+208
+00:17:03,205 --> 00:17:06,040
+Quantum teleportation. He said he was
+about to change everything.
+
+209
+00:17:06,041 --> 00:17:08,678
+Or science, medicine, religion.
+
+210
+00:17:09,833 --> 00:17:11,600
+He wouldn't have left that, Sam.
+
+211
+00:17:15,631 --> 00:17:17,132
+He wouldn't have left you.
+
+212
+00:17:17,220 --> 00:17:20,637
+Al, you're the only one who
+still believes that.
+
+213
+00:17:20,638 --> 00:17:23,233
+He's either dead, or chillin' in Costa Rica.
+
+214
+00:17:24,166 --> 00:17:25,631
+Probably both.
+
+215
+00:17:26,946 --> 00:17:28,069
+I'm sorry.
+
+216
+00:17:28,070 --> 00:17:29,333
+I'm tired.
+
+217
+00:17:29,334 --> 00:17:30,649
+I smell like jail.
+
+218
+00:17:31,384 --> 00:17:34,608
+Let's just reconvene in another couple
+of years, huh? What do you say?
+
+219
+00:17:39,911 --> 00:17:40,911
+Here.
+
+220
+00:17:42,191 --> 00:17:44,067
+These are the keys to the arcade.
+
+221
+00:17:45,393 --> 00:17:47,257
+I haven't gone over there, yet.
+
+222
+00:17:49,133 --> 00:17:50,366
+I thought you should be the one.
+
+223
+00:17:50,367 --> 00:17:53,182
+Alan, your acting like my father's
+sitting at work.
+
+224
+00:17:54,723 --> 00:17:57,970
+Hey kiddo, lost track of time.
+
+225
+00:18:01,722 --> 00:18:03,042
+Wouldn't that be something.
+
+226
+00:18:13,375 --> 00:18:14,415
+What?
+
+227
+00:22:11,989 --> 00:22:12,989
+Huh.
+
+228
+00:22:21,898 --> 00:22:23,836
+You got a backdoor.
+
+229
+00:23:20,586 --> 00:23:22,223
+This isn't happening.
+
+230
+00:23:39,028 --> 00:23:40,820
+Oh man, this IS happening.
+
+231
+00:23:52,350 --> 00:23:54,406
+This program has no disk.
+
+232
+00:23:54,407 --> 00:23:55,913
+Another spread.
+
+233
+00:23:56,710 --> 00:23:58,762
+Wait, I'm not a program.
+
+234
+00:24:28,079 --> 00:24:29,851
+He actually did it.
+
+235
+00:24:33,910 --> 00:24:35,250
+I'm on the grid.
+
+236
+00:24:45,316 --> 00:24:47,939
+Does the name Kevin Flynn mean
+anything to you?
+
+237
+00:24:48,780 --> 00:24:50,886
+Be quiet if you want to live.
+
+238
+00:24:51,874 --> 00:24:55,166
+Game, games, the games.
+Not the games.
+
+239
+00:24:55,168 --> 00:24:56,608
+What's his problem?
+
+240
+00:25:48,642 --> 00:25:49,797
+Rectify.
+
+241
+00:25:53,494 --> 00:25:54,810
+Rectify.
+
+242
+00:25:57,379 --> 00:26:00,845
+-Games.
+-NO!
+
+243
+00:26:00,846 --> 00:26:02,853
+-Please.
+-Rectify.
+
+244
+00:26:02,854 --> 00:26:04,489
+Look, I know you probably get this a lot,
+
+245
+00:26:04,490 --> 00:26:05,995
+But there's been a big mistake.
+
+246
+00:26:05,996 --> 00:26:06,996
+Games.
+
+247
+00:26:08,099 --> 00:26:10,370
+Please, no, no, no.
+
+248
+00:26:10,371 --> 00:26:11,815
+Whoa, hey!
+
+249
+00:26:12,223 --> 00:26:13,961
+Erase me!
+
+250
+00:26:14,515 --> 00:26:15,706
+AHHHHH!
+
+251
+00:26:18,895 --> 00:26:19,859
+No!
+
+252
+00:27:03,010 --> 00:27:05,621
+How soon will come .....
+
+253
+00:27:09,539 --> 00:27:10,887
+Hey, hey!
+
+254
+00:27:10,888 --> 00:27:12,133
+That's got a zipper.
+
+255
+00:27:29,702 --> 00:27:31,387
+He is different.
+
+256
+00:27:39,828 --> 00:27:41,440
+This can't be good.
+
+257
+00:27:50,878 --> 00:27:55,710
+Attention, program. You will receive
+an identity disc.
+
+258
+00:27:56,505 --> 00:28:01,086
+Everything you do or learn, will
+be imprinted on this disc.
+
+259
+00:28:02,402 --> 00:28:04,123
+If you lose your disc,
+
+260
+00:28:04,124 --> 00:28:06,113
+or fail to follow commands.
+
+261
+00:28:06,389 --> 00:28:10,588
+You will be subject to immediate,
+deresolution.
+
+262
+00:28:16,908 --> 00:28:20,373
+Nearly complete. Disc activated and synchronized.
+
+263
+00:28:20,375 --> 00:28:21,984
+Proceed to games.
+
+264
+00:28:23,398 --> 00:28:24,448
+Games?
+
+265
+00:28:28,701 --> 00:28:29,915
+Where you going?
+
+266
+00:28:37,361 --> 00:28:39,029
+What am I suppose to do?
+
+267
+00:28:39,794 --> 00:28:40,952
+Survive.
+
+268
+00:30:15,215 --> 00:30:17,155
+Platform eight.
+
+269
+00:30:17,430 --> 00:30:19,608
+I have a strange version of you on my shelf.
+
+270
+00:30:19,854 --> 00:30:22,463
+Combatants 3 and 11.
+
+271
+00:30:22,924 --> 00:30:24,370
+Please duel.
+
+272
+00:30:34,246 --> 00:30:36,019
+When did ..., do that?
+
+273
+00:31:08,770 --> 00:31:09,779
+Damn it.
+
+274
+00:31:17,749 --> 00:31:19,325
+So that's how it is.
+
+275
+00:31:36,925 --> 00:31:39,518
+Combatant 11, 3 resolution.
+
+276
+00:31:40,552 --> 00:31:41,636
+I won!
+
+277
+00:31:42,142 --> 00:31:43,519
+Now let me out.
+
+278
+00:31:48,320 --> 00:31:50,104
+No unusual activity on the grid.
+
+279
+00:31:50,105 --> 00:31:52,827
+Security sweeps patrolling and
+intensifying.
+
+280
+00:31:52,828 --> 00:31:54,777
+Right to par, on schedule.
+
+281
+00:31:54,780 --> 00:31:58,391
+Your initiate should be fully operational
+within twelve cycles.
+
+282
+00:31:59,845 --> 00:32:02,935
+Perhaps if you were to include me.
+
+283
+00:32:02,936 --> 00:32:06,156
+In this mission, I could be be even greater.
+
+284
+00:32:06,160 --> 00:32:11,449
+Commence 3, and 7.
+Disc closed.
+
+285
+00:32:14,981 --> 00:32:15,981
+Initiate
+
+286
+00:32:19,543 --> 00:32:20,543
+Yeah.
+
+287
+00:32:21,880 --> 00:32:23,035
+I'm out of this.
+
+288
+00:32:29,694 --> 00:32:32,066
+Combatant 3, entry.
+
+289
+00:32:36,673 --> 00:32:39,493
+Combatant 3, violation.
+
+290
+00:32:43,942 --> 00:32:45,255
+What is that program?
+
+291
+00:32:47,036 --> 00:32:48,627
+Combatant three.
+
+292
+00:32:48,628 --> 00:32:49,825
+Violation.
+
+293
+00:32:55,935 --> 00:32:57,729
+Initiate by-land brow.
+
+294
+00:33:02,323 --> 00:33:04,795
+Combatant 3, versus Rinzler.
+
+295
+00:33:08,832 --> 00:33:09,832
+(Crowd chants, Rinzler)
+
+296
+00:33:12,655 --> 00:33:13,933
+You gotta be kidding me.
+
+297
+00:33:33,818 --> 00:33:36,228
+Aw, come on, is that even legal?
+
+298
+00:33:57,855 --> 00:33:58,855
+Yeah!
+
+299
+00:34:09,260 --> 00:34:11,741
+Why did it feel like I just got
+tongue tied.
+
+300
+00:34:19,152 --> 00:34:20,535
+Come on, huh?
+
+301
+00:34:20,536 --> 00:34:21,469
+Come on.
+
+302
+00:35:14,815 --> 00:35:15,914
+User.
+
+303
+00:35:27,520 --> 00:35:30,393
+Identify yourself, program.
+
+304
+00:35:31,379 --> 00:35:33,377
+I'm not a program.
+
+305
+00:35:39,800 --> 00:35:41,120
+Identify....(Echoes)
+
+306
+00:35:42,917 --> 00:35:44,710
+My name is Sam Flynn.
+
+307
+00:35:49,809 --> 00:35:51,153
+Bring him here.
+
+308
+00:35:54,299 --> 00:35:55,539
+Let me go.
+
+309
+00:35:59,478 --> 00:36:00,817
+Reach.
+
+310
+00:36:02,723 --> 00:36:03,850
+Where am I?
+
+311
+00:36:06,845 --> 00:36:08,071
+Am I on the grid?
+
+312
+00:36:10,583 --> 00:36:11,642
+Who are you?
+
+313
+00:36:17,794 --> 00:36:19,117
+Dad.
+
+314
+00:36:19,533 --> 00:36:20,739
+Sam.
+
+315
+00:36:20,740 --> 00:36:23,851
+Look at you, man.
+
+316
+00:36:23,852 --> 00:36:24,462
+Look at the size of you.
+
+317
+00:36:26,304 --> 00:36:27,727
+How did you get in here?
+
+318
+00:36:28,407 --> 00:36:29,692
+I got your message.
+
+319
+00:36:30,452 --> 00:36:31,390
+Oh.
+
+320
+00:36:31,391 --> 00:36:32,631
+So it's just you?
+
+321
+00:36:34,072 --> 00:36:35,104
+Yeah.
+
+322
+00:36:35,105 --> 00:36:36,587
+Look at you.
+
+323
+00:36:37,036 --> 00:36:40,952
+Wow, isn't this something.
+
+324
+00:36:42,275 --> 00:36:43,509
+You look the same.
+
+325
+00:36:43,510 --> 00:36:46,150
+Oh, a lot has happened, Sam.
+More than you can imagine.
+
+326
+00:36:46,151 --> 00:36:47,167
+This.
+
+327
+00:36:51,941 --> 00:36:53,615
+Let's have a look.
+
+328
+00:37:09,364 --> 00:37:10,467
+Got it.
+
+329
+00:37:12,540 --> 00:37:14,236
+Don't expect anymore.
+
+330
+00:37:16,988 --> 00:37:19,549
+So, you were trapped in here.
+
+331
+00:37:19,555 --> 00:37:21,155
+That's right.
+
+332
+00:37:24,605 --> 00:37:25,949
+You're in charge.
+
+333
+00:37:25,950 --> 00:37:26,949
+Right again.
+
+334
+00:37:28,460 --> 00:37:30,331
+So, can we just go home now.
+
+335
+00:37:32,121 --> 00:37:34,081
+Not in the cards.
+
+336
+00:37:35,446 --> 00:37:36,983
+Not for you.
+
+337
+00:37:40,747 --> 00:37:42,981
+That's a hell of a way to treat your son.
+
+338
+00:37:45,459 --> 00:37:46,865
+Oh, that.
+
+339
+00:37:51,547 --> 00:37:53,819
+I'm not your father, Sam.
+
+340
+00:37:56,070 --> 00:37:58,393
+But I'm very, very happy to see you.
+
+341
+00:38:02,853 --> 00:38:04,162
+CLU.
+
+342
+00:38:07,461 --> 00:38:08,968
+Where is he?
+
+343
+00:38:08,969 --> 00:38:10,177
+What'd you do to him?
+
+344
+00:38:10,198 --> 00:38:12,998
+Same thing I'm going to do to you.
+
+345
+00:38:14,111 --> 00:38:15,311
+User.
+
+346
+00:38:37,298 --> 00:38:39,188
+Greetings programs.
+
+347
+00:38:42,927 --> 00:38:45,910
+Oh what a location we have here
+before us.
+
+348
+00:38:46,918 --> 00:38:51,108
+Because, your rumors are true.
+
+349
+00:38:51,109 --> 00:38:55,465
+We do indeed have in our midst,
+
+350
+00:38:55,466 --> 00:38:57,557
+a user.
+
+351
+00:39:00,239 --> 00:39:02,905
+Aaa uuuser.
+
+352
+00:39:05,348 --> 00:39:07,643
+So, what to do.
+
+353
+00:39:08,411 --> 00:39:12,726
+What can this User reserve.
+
+354
+00:39:12,730 --> 00:39:16,144
+Might I suggest perhaps,
+
+355
+00:39:16,145 --> 00:39:18,170
+the challenge of the grid.
+
+356
+00:39:22,533 --> 00:39:27,534
+And who best to battle this
+senior opponent.
+
+357
+00:39:28,611 --> 00:39:32,577
+Perhaps someone who has some experience
+in these matters.
+
+358
+00:39:36,255 --> 00:39:38,302
+Oh yes, indeed programs.
+
+359
+00:39:38,982 --> 00:39:44,139
+Your liberator, your luminary.
+
+360
+00:39:44,524 --> 00:39:47,290
+Your leader.
+
+361
+00:39:48,148 --> 00:39:52,545
+The one who vanquished the
+tyranny of the user.
+
+362
+00:39:52,546 --> 00:39:55,455
+Those many cycles before.
+
+363
+00:39:56,422 --> 00:39:58,376
+I've been waiting a long time for this.
+
+364
+00:39:59,202 --> 00:40:02,398
+CCCCLLLLLLUUUUU.
+
+365
+00:40:02,399 --> 00:40:03,814
+You wanna play?
+
+366
+00:40:04,458 --> 00:40:05,461
+I'll play.
+
+367
+00:40:12,197 --> 00:40:13,827
+Excellent work, sir.
+
+368
+00:40:14,060 --> 00:40:16,391
+Were you pleased with my execution?
+
+369
+00:40:16,876 --> 00:40:19,751
+The crowd seemed quite energized.
+
+370
+00:40:21,266 --> 00:40:22,981
+It wasn't meant for them.
+
+371
+00:40:36,168 --> 00:40:37,510
+What's this?
+
+372
+00:40:38,274 --> 00:40:39,550
+What do I do with this?
+
+373
+00:40:40,281 --> 00:40:41,651
+I'll give you a hint.
+
+374
+00:40:42,963 --> 00:40:44,564
+Na, nat.
+
+375
+00:40:54,491 --> 00:40:55,581
+Grid is live.
+
+376
+00:40:55,582 --> 00:40:58,516
+Initiate light-cycle battle.
+
+377
+00:41:14,603 --> 00:41:16,246
+You got no chance, User.
+
+378
+00:41:16,247 --> 00:41:18,510
+Their bots are faster than ours.
+Use the littlest.
+
+379
+00:41:24,200 --> 00:41:25,668
+Now this I can do.
+
+380
+00:41:58,575 --> 00:41:59,843
+Here we go.
+
+381
+00:42:55,594 --> 00:42:56,783
+Whoa.
+
+382
+00:43:06,345 --> 00:43:08,895
+Hoh, oh!
+
+383
+00:43:09,383 --> 00:43:10,589
+AAAAAH!
+
+384
+00:43:23,558 --> 00:43:24,764
+Hey.
+
+385
+00:43:25,731 --> 00:43:27,029
+We gotta work together.
+
+386
+00:43:27,030 --> 00:43:28,229
+It's the only way.
+
+387
+00:43:37,121 --> 00:43:39,042
+That's it, you got me.
+
+388
+00:43:47,468 --> 00:43:48,498
+Boo!
+
+389
+00:43:51,503 --> 00:43:52,943
+Whoo, hoo hoo, keep out.
+
+390
+00:43:52,944 --> 00:43:54,408
+Now that's what I'm talking about.
+
+391
+00:43:55,641 --> 00:43:57,056
+Another customer.
+
+392
+00:43:57,057 --> 00:43:58,198
+Let's go.
+
+393
+00:44:15,688 --> 00:44:17,301
+Hang on buddy, I'm coming.
+
+394
+00:44:26,944 --> 00:44:28,044
+Come on.
+
+395
+00:44:31,017 --> 00:44:32,332
+(Laughter)
+
+396
+00:44:40,834 --> 00:44:42,503
+This is it.
+
+397
+00:44:42,504 --> 00:44:43,780
+Come on.
+
+398
+00:45:08,682 --> 00:45:09,687
+NO!
+
+399
+00:45:13,239 --> 00:45:15,330
+Illegal combatant on grid.
+
+400
+00:45:15,366 --> 00:45:16,501
+Get in.
+
+401
+00:45:16,502 --> 00:45:18,670
+Illegal combatant on grid.
+
+402
+00:45:18,671 --> 00:45:19,671
+GET IN!
+
+403
+00:45:25,747 --> 00:45:28,552
+System failure, release Rinzler.
+
+404
+00:45:29,038 --> 00:45:30,604
+Game on old friend.
+
+405
+00:45:40,346 --> 00:45:41,617
+Who are you?
+
+406
+00:45:42,055 --> 00:45:43,278
+Hang on.
+
+407
+00:46:11,515 --> 00:46:13,122
+Oh man, you can't make that.
+
+408
+00:46:22,972 --> 00:46:24,145
+Made it.
+
+409
+00:46:33,385 --> 00:46:34,731
+I'm, Quorra.
+
+410
+00:46:40,624 --> 00:46:41,667
+They're turning around.
+
+411
+00:46:41,698 --> 00:46:43,028
+Not by choice.
+
+412
+00:46:43,370 --> 00:46:45,227
+Their vehicles aren't designed to go off grid.
+
+413
+00:46:45,228 --> 00:46:46,999
+They'll mal-function on this terrian.
+
+414
+00:46:47,000 --> 00:46:48,009
+What about us?
+
+415
+00:46:48,010 --> 00:46:50,029
+Hah, obviously not.
+
+416
+00:46:53,091 --> 00:46:54,610
+Where are you taking me?
+
+417
+00:46:54,641 --> 00:46:56,702
+Patience, Sam Flynn.
+
+418
+00:46:56,950 --> 00:46:59,600
+All your questions will be answered soon.
+
+419
+00:47:08,320 --> 00:47:09,676
+Whoa, whoa, whoa, whoa!
+
+420
+00:48:12,819 --> 00:48:14,252
+Wait here.
+
+421
+00:48:18,197 --> 00:48:19,778
+Quorra.
+
+422
+00:48:20,737 --> 00:48:22,705
+I dreamed of Tron.
+
+423
+00:48:22,710 --> 00:48:25,615
+First time in years.
+
+424
+00:48:26,622 --> 00:48:27,722
+A sign.
+
+425
+00:48:29,497 --> 00:48:32,279
+A sign my dear friend, is
+of a weary soul.
+
+426
+00:48:33,672 --> 00:48:35,581
+I'm afraid something's happened.
+
+427
+00:48:35,582 --> 00:48:37,076
+Something has happened.
+
+428
+00:48:38,030 --> 00:48:39,388
+We have a guest.
+
+429
+00:48:41,461 --> 00:48:43,863
+There are no guests here.
+
+430
+00:49:07,246 --> 00:49:09,113
+Sam.
+
+431
+00:49:10,786 --> 00:49:11,962
+Long time.
+
+432
+00:49:14,335 --> 00:49:16,046
+You have no idea.
+
+433
+00:49:23,191 --> 00:49:25,394
+You're, you're here.
+
+434
+00:49:29,460 --> 00:49:30,897
+You're here.
+
+435
+00:49:30,898 --> 00:49:33,028
+I'm here.
+
+436
+00:49:42,076 --> 00:49:43,076
+You're big.
+
+437
+00:49:47,181 --> 00:49:48,183
+Old.
+
+438
+00:49:52,676 --> 00:49:53,979
+How did you get here?
+
+439
+00:49:55,179 --> 00:49:56,615
+Alan came over.
+
+440
+00:49:57,821 --> 00:49:59,275
+Apparently
+
+441
+00:50:00,766 --> 00:50:02,576
+He got your page.
+
+442
+00:50:03,042 --> 00:50:05,927
+From your office at the arcade.
+
+443
+00:50:07,522 --> 00:50:08,647
+Page?
+
+444
+00:50:10,555 --> 00:50:13,946
+Page, of course.
+
+445
+00:50:18,104 --> 00:50:20,396
+CLU had him on the Light-Cycle grid.
+
+446
+00:50:20,397 --> 00:50:21,911
+I intervened.
+
+447
+00:50:23,282 --> 00:50:24,583
+My.
+
+448
+00:50:26,835 --> 00:50:28,098
+We may soon,
+
+449
+00:50:28,099 --> 00:50:30,008
+go find him.
+
+450
+00:50:44,741 --> 00:50:46,484
+He never thought he'd see you again.
+
+451
+00:50:50,121 --> 00:50:51,243
+Yeah.
+
+452
+00:50:58,884 --> 00:51:00,430
+Vintage.
+
+453
+00:51:01,041 --> 00:51:03,756
+Flynn built it many cycles ago for the games.
+
+454
+00:51:04,388 --> 00:51:07,164
+It doesn't get out as much
+as it used to, but.
+
+455
+00:51:07,165 --> 00:51:09,088
+Still the fastest thing on the grid.
+
+456
+00:51:33,798 --> 00:51:34,839
+Do you know it?
+
+457
+00:51:36,109 --> 00:51:38,787
+His patience usually beats out my more,
+
+458
+00:51:39,306 --> 00:51:40,774
+aggressive strategy.
+
+459
+00:51:45,506 --> 00:51:47,020
+Flynn shared them with me.
+
+460
+00:51:47,935 --> 00:51:49,035
+I've read them all.
+
+461
+00:51:49,783 --> 00:51:52,548
+Wow, you like reading.
+
+462
+00:51:53,183 --> 00:52:00,150
+Tolstoy, Dostoyevsky, Lee Chang,
+Caring without goal.
+
+463
+00:52:01,151 --> 00:52:02,858
+Must have a killer ending.
+
+464
+00:52:02,860 --> 00:52:05,553
+Flynn is teaching me about the art of the selfless.
+
+465
+00:52:05,554 --> 00:52:09,399
+It's about, removing oneself from the equation.
+
+466
+00:52:10,281 --> 00:52:12,027
+But, between you and me.
+
+467
+00:52:12,629 --> 00:52:14,834
+Jules Verne is my favorite.
+
+468
+00:52:16,450 --> 00:52:17,712
+You know Jules Verne?
+
+469
+00:52:17,713 --> 00:52:18,972
+Sure.
+
+470
+00:52:18,973 --> 00:52:21,033
+What's he like?
+
+471
+00:52:31,853 --> 00:52:34,273
+Your move Flynn, come on.
+
+472
+00:52:35,198 --> 00:52:36,458
+Come on.
+
+473
+00:52:59,563 --> 00:53:00,839
+How old are you now, Sam?
+
+474
+00:53:00,840 --> 00:53:04,176
+Uh, you should be 27.
+
+475
+00:53:04,180 --> 00:53:06,399
+27, yeah.
+
+476
+00:53:06,400 --> 00:53:08,260
+Did you attend a college?
+
+477
+00:53:09,390 --> 00:53:10,585
+Cal-Tech.
+
+478
+00:53:11,700 --> 00:53:12,888
+Cal-Tech.
+
+479
+00:53:13,757 --> 00:53:15,113
+My Alma-Mater.
+
+480
+00:53:15,820 --> 00:53:16,820
+Yeah.
+
+481
+00:53:17,088 --> 00:53:18,563
+That's why I dropped out.
+
+482
+00:53:28,078 --> 00:53:29,107
+Work?
+
+483
+00:53:29,577 --> 00:53:33,050
+A job? ENCOM or you, uh...
+
+484
+00:53:34,173 --> 00:53:36,479
+I check in once a year.
+
+485
+00:53:38,407 --> 00:53:40,680
+-Life
+-A dog.
+
+486
+00:53:41,293 --> 00:53:42,361
+I have one.
+
+487
+00:53:42,365 --> 00:53:44,645
+Rescue.
+
+488
+00:53:44,646 --> 00:53:47,043
+Well, dogs are cool.
+
+489
+00:53:56,558 --> 00:54:00,274
+I'm sure you must have a few questions
+of your own, Sam.
+
+490
+00:54:02,960 --> 00:54:04,355
+Actually, just one.
+
+491
+00:54:07,975 --> 00:54:09,822
+Why I never came home?
+
+492
+00:54:13,752 --> 00:54:16,238
+Those nights when I went to the office
+
+493
+00:54:16,905 --> 00:54:18,973
+I'm sure you figured it out by now,
+
+494
+00:54:18,974 --> 00:54:19,974
+was to come here.
+
+495
+00:54:21,371 --> 00:54:23,453
+Moving forward into digital space.
+
+496
+00:54:23,768 --> 00:54:25,448
+Maybe, still.
+
+497
+00:54:28,377 --> 00:54:30,490
+But, I also had you.
+
+498
+00:54:30,746 --> 00:54:33,396
+I had income, I couldn't be
+there all of the time.
+
+499
+00:54:33,398 --> 00:54:36,822
+I needed partners.
+
+500
+00:54:36,823 --> 00:54:38,026
+Finding CLU.
+
+501
+00:54:39,482 --> 00:54:40,482
+That's right.
+
+502
+00:54:43,222 --> 00:54:46,433
+Tron was created by Alan for the old system.
+
+503
+00:54:46,814 --> 00:54:48,862
+I brought him here to protect this one.
+
+504
+00:54:49,352 --> 00:54:51,056
+CLU was my creation.
+
+505
+00:54:51,362 --> 00:54:53,961
+Program designed to create a perfect world.
+
+506
+00:54:56,132 --> 00:54:58,933
+We were jammin' man, building utopia.
+
+507
+00:54:59,296 --> 00:55:01,604
+Hours here were just minutes back home.
+
+508
+00:55:01,970 --> 00:55:04,518
+Just when I thought it couldn't get more profound.
+
+509
+00:55:04,767 --> 00:55:06,641
+Something unexpected happened.
+
+510
+00:55:07,556 --> 00:55:08,648
+The Miracle.
+
+511
+00:55:09,345 --> 00:55:10,501
+The Miracle.
+
+512
+00:55:11,442 --> 00:55:12,960
+You remember.
+
+513
+00:55:14,402 --> 00:55:15,924
+Iso's
+
+514
+00:55:15,925 --> 00:55:17,848
+Isomorphic Algrarithm's.
+
+515
+00:55:18,414 --> 00:55:20,499
+A whole new life form.
+
+516
+00:55:20,594 --> 00:55:22,224
+And you created them?
+
+517
+00:55:26,877 --> 00:55:28,204
+No, no.
+
+518
+00:55:28,205 --> 00:55:29,905
+They manifested.
+
+519
+00:55:30,329 --> 00:55:31,714
+Like a flame.
+
+520
+00:55:31,925 --> 00:55:34,970
+They weren't really from anywhere.
+
+521
+00:55:34,971 --> 00:55:37,411
+The conditions were right, and
+they came into being.
+
+522
+00:55:38,835 --> 00:55:42,763
+For centuries we dreamed of gods, spirits, aliens.
+
+523
+00:55:42,764 --> 00:55:45,195
+Intelligence beyond our own.
+
+524
+00:55:45,196 --> 00:55:46,384
+You seeing this?
+
+525
+00:55:46,385 --> 00:55:48,418
+I found them, in here.
+
+526
+00:55:49,324 --> 00:55:51,012
+Like flowers in the waste land.
+
+527
+00:55:54,307 --> 00:55:55,977
+Profoundly naive.
+
+528
+00:55:57,748 --> 00:55:59,769
+Unimaginably wild.
+
+529
+00:56:02,638 --> 00:56:04,302
+They were spectacular.
+
+530
+00:56:05,692 --> 00:56:07,942
+Everything I'd hope to find in the system.
+
+531
+00:56:07,943 --> 00:56:11,362
+Control, order, perfection. None of it
+meant a thing.
+
+532
+00:56:11,816 --> 00:56:13,715
+But living in a hall of mirrors.
+
+533
+00:56:14,096 --> 00:56:15,482
+The Iso's.
+
+534
+00:56:15,642 --> 00:56:17,000
+Shattered.
+
+535
+00:56:17,001 --> 00:56:20,470
+The possibilities of their root code,
+their digital DNA.
+
+536
+00:56:20,471 --> 00:56:21,939
+Disease?
+
+537
+00:56:21,940 --> 00:56:23,245
+History!
+
+538
+00:56:24,069 --> 00:56:26,681
+Science, philosophy, every idea,
+
+539
+00:56:26,682 --> 00:56:29,475
+man has ever had about the universe
+up for grabs.
+
+540
+00:56:29,476 --> 00:56:32,350
+Bio digital jazz, man.
+
+541
+00:56:33,419 --> 00:56:36,527
+The Iso's, they were going to
+be my gift to the world.
+
+542
+00:56:36,940 --> 00:56:38,212
+So, what happened?
+
+543
+00:56:39,503 --> 00:56:40,845
+CLU.
+
+544
+00:56:41,365 --> 00:56:43,207
+CLU happened.
+
+545
+00:56:56,568 --> 00:56:57,637
+Flynn!
+
+546
+00:57:02,082 --> 00:57:04,705
+Am I still to create perfect system?
+
+547
+00:57:06,424 --> 00:57:07,540
+Yeah.
+
+548
+00:57:10,900 --> 00:57:12,710
+It was a coup.
+
+549
+00:57:15,318 --> 00:57:16,402
+Go!
+
+550
+00:57:30,595 --> 00:57:31,770
+You've been corrupted.
+
+551
+00:57:47,308 --> 00:57:49,216
+Flynn, go!
+
+552
+00:57:53,829 --> 00:57:54,829
+Yahhh!
+
+553
+00:57:56,445 --> 00:57:59,018
+Tron, he fought for me.
+
+554
+00:58:00,033 --> 00:58:02,051
+I never saw him again.
+
+555
+00:58:03,617 --> 00:58:05,205
+So why don't you fight?
+
+556
+00:58:06,502 --> 00:58:07,502
+He did.
+
+557
+00:58:07,510 --> 00:58:09,679
+It fed from my resistance.
+
+558
+00:58:09,680 --> 00:58:12,295
+The more I fought, the more powerful
+it became.
+
+559
+00:58:12,825 --> 00:58:14,751
+It was impressive run.
+
+560
+00:58:15,810 --> 00:58:20,422
+Then my miracle. CLU saw the
+ISO's as an imperfection.
+
+561
+00:58:21,189 --> 00:58:22,844
+So he destroyed them.
+
+562
+00:58:26,376 --> 00:58:27,680
+The purge.
+
+563
+00:58:28,626 --> 00:58:29,958
+He killed them all?
+
+564
+00:58:30,357 --> 00:58:32,114
+It was genocide.
+
+565
+00:58:33,836 --> 00:58:36,899
+I tried to get back. But I couldn't
+get to the portal.
+
+566
+00:58:37,473 --> 00:58:40,614
+It uses massive power. And it can't
+stay open forever.
+
+567
+00:58:42,433 --> 00:58:47,257
+And like a safe. It can only be opened
+from the outside.
+
+568
+00:58:49,749 --> 00:58:51,819
+It closed on me, Sam.
+
+569
+00:58:53,244 --> 00:58:55,009
+That's why I never came home.
+
+570
+00:59:02,642 --> 00:59:06,075
+So the portal. It activated when I came in.
+
+571
+00:59:06,541 --> 00:59:07,980
+So it's open, now.
+
+572
+00:59:07,981 --> 00:59:09,029
+Not for long.
+
+573
+00:59:09,030 --> 00:59:11,662
+Only one millicycle, about eight hours.
+
+574
+00:59:11,663 --> 00:59:12,934
+So, we go now.
+
+575
+00:59:13,482 --> 00:59:15,254
+Go home. Make a run for it.
+
+576
+00:59:15,255 --> 00:59:16,884
+Get you out of here. Don't rush.
+
+577
+00:59:16,885 --> 00:59:19,784
+What do you mean, don't rush. The
+portal's going to close.
+
+578
+00:59:21,440 --> 00:59:23,372
+What? What is it?
+
+579
+00:59:23,374 --> 00:59:27,643
+The moment Flynn is on the grid,
+CLU will stop at nothing to obtain his disc.
+
+580
+00:59:27,644 --> 00:59:31,067
+My disc is everything, Sam.
+It's the master key.
+
+581
+00:59:31,068 --> 00:59:33,077
+The golden ticket for the way out.
+
+582
+00:59:34,096 --> 00:59:35,670
+Not just for me.
+
+583
+00:59:35,971 --> 00:59:40,059
+You mean all the other... will  make
+a landing on those.
+
+584
+00:59:40,060 --> 00:59:42,342
+CLU figures if I can be in.
+
+585
+00:59:42,343 --> 00:59:43,729
+Yeah.
+
+586
+00:59:43,730 --> 00:59:46,661
+With my disc, it's possible.
+
+587
+00:59:46,662 --> 00:59:48,024
+Then what?
+
+588
+00:59:49,007 --> 00:59:50,107
+Game over.
+
+589
+00:59:51,226 --> 00:59:53,441
+The guy doesn't dig imperfection.
+
+590
+00:59:55,781 --> 00:59:57,555
+What more important is
+our world.
+
+591
+00:59:59,767 --> 01:00:01,420
+I can't let that happen.
+
+592
+01:00:01,687 --> 01:00:03,375
+I won't.
+
+593
+01:00:03,376 --> 01:00:04,631
+So what will we do?
+
+594
+01:00:05,761 --> 01:00:06,761
+Nothing?
+
+595
+01:00:06,762 --> 01:00:09,380
+It's amazing how productive doing
+nothing can be.
+
+596
+01:00:09,649 --> 01:00:11,318
+CLU's planning something.
+
+597
+01:00:11,319 --> 01:00:13,142
+We've known that for a while.
+
+598
+01:00:13,737 --> 01:00:16,627
+Programs have been disappearing,
+there's unrest out there.
+
+599
+01:00:16,628 --> 01:00:21,700
+Even revolution. We sit tight, we might
+be brought down from the inside.
+
+600
+01:00:22,097 --> 01:00:25,429
+The portal's closing. We can't just sit
+around. We have to move now.
+
+601
+01:00:25,430 --> 01:00:26,465
+Tell me.
+
+602
+01:00:27,283 --> 01:00:28,527
+What brought you here?
+
+603
+01:00:28,597 --> 01:00:30,015
+Through the grid.
+
+604
+01:00:30,803 --> 01:00:32,809
+Alan got your page.
+
+605
+01:00:32,810 --> 01:00:34,933
+I didn't send any page.
+
+606
+01:00:34,934 --> 01:00:38,585
+It was CLU. CLU sent that page.
+
+607
+01:00:38,586 --> 01:00:39,886
+That's why you're here.
+
+608
+01:00:40,479 --> 01:00:42,485
+This is all his design.
+
+609
+01:00:42,486 --> 01:00:45,488
+He wanted a new piece on the board
+to change the game.
+
+610
+01:00:46,000 --> 01:00:48,172
+With you he got more than he ever dreamed.
+
+611
+01:00:48,173 --> 01:00:50,476
+This is precisely what he wants.
+
+612
+01:00:50,477 --> 01:00:52,695
+Us together, heading for the portal.
+
+613
+01:00:53,380 --> 01:00:55,018
+It's his game now.
+
+614
+01:00:55,488 --> 01:00:57,529
+The only way to win is not to play.
+
+615
+01:00:59,532 --> 01:01:01,670
+Now that's a help, great way.
+
+616
+01:01:01,675 --> 01:01:03,025
+But it is a way.
+
+617
+01:01:08,137 --> 01:01:10,507
+We need you home.
+
+618
+01:01:10,510 --> 01:01:13,105
+Don't you want that?
+
+619
+01:01:14,255 --> 01:01:17,701
+Sometimes life has a way of moving
+you past things like wants and hope.
+
+620
+01:01:20,208 --> 01:01:21,868
+That's right, Dad.
+
+621
+01:01:23,052 --> 01:01:24,960
+Keep telling yourself that.
+
+622
+01:01:31,047 --> 01:01:32,257
+Goodnight, Sam.
+
+623
+01:01:55,098 --> 01:01:57,855
+How can he be so afraid
+of his own creation?
+
+624
+01:01:57,856 --> 01:02:00,357
+I mean, he built CLU.
+Why doesn't he just end him.
+
+625
+01:02:02,097 --> 01:02:04,355
+He could but it would require reintegration.
+
+626
+01:02:04,356 --> 01:02:05,384
+Yeah, all right.
+
+627
+01:02:05,711 --> 01:02:07,889
+He would never survive the effect.
+
+628
+01:02:07,890 --> 01:02:09,573
+It would mean the end of them both.
+
+629
+01:02:10,811 --> 01:02:13,163
+If he refuses to save himself, then I will.
+
+630
+01:02:17,453 --> 01:02:18,453
+How?
+
+631
+01:02:19,549 --> 01:02:20,949
+I'm going to the portal.
+
+632
+01:02:21,324 --> 01:02:23,716
+CLU wants Dad's death, not mine.
+
+633
+01:02:23,717 --> 01:02:27,009
+I'm going to fly out I'm going to figure
+this thing out from the other side.
+
+634
+01:02:27,010 --> 01:02:31,878
+If CLU finds a way to my world it will be
+gone with one keystroke.
+
+635
+01:02:31,880 --> 01:02:34,579
+I can't do anything unless I
+get to the portal.
+
+636
+01:02:36,810 --> 01:02:40,575
+He might get stuck, and you don't want to be
+stuck in this place for very long.
+
+637
+01:02:43,728 --> 01:02:46,615
+I really think you should consider
+your father's wisdom.
+
+638
+01:02:48,518 --> 01:02:49,676
+I have.
+
+639
+01:03:40,182 --> 01:03:41,391
+(Knock on door)
+
+640
+01:03:51,708 --> 01:03:53,570
+There's someone I once knew.
+
+641
+01:03:53,892 --> 01:03:57,140
+A program named Zuse, who
+fought along side the ISO's.
+
+642
+01:03:57,115 --> 01:04:01,115
+They say he can get anyone anywhere..
+
+643
+01:04:02,030 --> 01:04:03,525
+How do I find him?
+
+644
+01:04:06,884 --> 01:04:08,357
+This is his sector.
+
+645
+01:04:12,078 --> 01:04:13,722
+Make it there alive.
+
+646
+01:04:13,723 --> 01:04:14,988
+And he'll find you.
+
+647
+01:04:55,866 --> 01:04:56,906
+Sam.
+
+648
+01:05:00,679 --> 01:05:02,036
+Sam?
+
+649
+01:05:44,022 --> 01:05:46,166
+Hey man, it's your lucky day.
+
+650
+01:05:54,785 --> 01:05:55,875
+Stop it.
+
+651
+01:06:06,341 --> 01:06:07,775
+Sam Flynn.
+
+652
+01:06:08,980 --> 01:06:11,043
+-You remember me.
+-Yeah.
+
+653
+01:06:11,044 --> 01:06:13,169
+You gave me some advice.
+
+654
+01:06:13,170 --> 01:06:14,473
+And you followed it.
+
+655
+01:06:15,362 --> 01:06:17,559
+Its unfortunate we met the way we did.
+
+656
+01:06:19,423 --> 01:06:20,817
+You have a good night.
+
+657
+01:06:20,981 --> 01:06:22,449
+You're looking for someone.
+
+658
+01:06:25,874 --> 01:06:27,547
+What makes you say that.
+
+659
+01:06:28,692 --> 01:06:30,189
+Intuition.
+
+660
+01:06:32,827 --> 01:06:35,250
+Sir, sentries down town,
+
+661
+01:06:35,251 --> 01:06:37,003
+recovered Flynn's light cycle.
+
+662
+01:06:38,274 --> 01:06:40,743
+They've traced it to it's component of origin.
+
+663
+01:07:06,441 --> 01:07:08,523
+Prepare the light-runner Quorra.
+
+664
+01:07:10,287 --> 01:07:11,701
+We're going downtown.
+
+665
+01:07:34,728 --> 01:07:36,761
+Thank you for bringing my son to me.
+
+666
+01:07:37,067 --> 01:07:41,124
+Flynn, you don't need to go. I sent
+him to someone we can trust.
+
+667
+01:07:41,125 --> 01:07:43,240
+Quorra, there is no choice.
+
+668
+01:07:44,088 --> 01:07:45,978
+I won't lose him again.
+
+669
+01:07:48,304 --> 01:07:51,992
+Chaos, good news.
+
+670
+01:08:32,992 --> 01:08:35,316
+Relax, they're off the grid.
+
+671
+01:08:42,281 --> 01:08:43,812
+His name is Castor.
+
+672
+01:08:43,813 --> 01:08:46,403
+You want to speak to Zuse you're
+going to have to go to him.
+
+673
+01:08:46,404 --> 01:08:48,502
+Where is your sense of humor, my friend?
+
+674
+01:08:48,503 --> 01:08:51,893
+Programs are disappearing, Castor. Soon
+none of us will be left.
+
+675
+01:08:51,894 --> 01:08:55,020
+Zuse can make the factions, ferment the revolution.
+
+676
+01:08:55,021 --> 01:08:57,050
+Well of course Zuse can do these things.
+
+677
+01:08:57,051 --> 01:08:58,713
+Grant me an audience.
+
+678
+01:08:58,714 --> 01:09:01,649
+Your enthusiasm is intoxicating
+my dear bot,
+
+679
+01:09:01,650 --> 01:09:04,479
+But Zuse's time is precious.
+
+680
+01:09:04,480 --> 01:09:06,743
+We shall see.
+
+681
+01:09:10,819 --> 01:09:13,497
+If you'll excuse me a moment, I have to, uh...
+
+682
+01:09:14,379 --> 01:09:16,780
+Attend to something, but have a drink.
+
+683
+01:09:17,154 --> 01:09:19,557
+Courtesy of the "End of line" club.
+
+684
+01:09:20,062 --> 01:09:21,162
+It is happening.
+
+685
+01:09:21,163 --> 01:09:24,260
+Come, away from these primitive functions.
+
+686
+01:09:25,355 --> 01:09:27,775
+The son of Flynn.
+
+687
+01:09:27,776 --> 01:09:30,465
+Of all the innumerable possibilities.
+
+688
+01:09:30,534 --> 01:09:32,990
+He has to walk into mine.
+
+689
+01:09:33,709 --> 01:09:38,767
+Libations, for everybody!
+
+690
+01:09:40,700 --> 01:09:42,458
+I'm Castor.
+
+691
+01:09:42,948 --> 01:09:44,278
+Your host.
+
+692
+01:09:44,362 --> 01:09:49,604
+Provider of any and all entertainment
+and diversions.
+
+693
+01:09:49,610 --> 01:09:50,945
+At your service.
+
+694
+01:09:53,552 --> 01:09:55,081
+I'm looking for Zuse.
+
+695
+01:09:55,688 --> 01:09:56,981
+Indeed.
+
+696
+01:09:57,082 --> 01:09:58,587
+Many are.
+
+697
+01:09:59,133 --> 01:10:00,516
+Where can I find him?
+
+698
+01:10:01,200 --> 01:10:05,192
+This pretty miss, is a conversation
+best had behind closed doors.
+
+699
+01:10:05,193 --> 01:10:08,276
+Perhaps we should retire to
+my private lounge.
+
+700
+01:10:10,465 --> 01:10:13,233
+Uh, designed it myself, you know.
+
+701
+01:10:13,234 --> 01:10:14,649
+It's true.
+
+702
+01:10:14,650 --> 01:10:17,211
+I'm stepping away for a moment, boys.
+
+703
+01:10:17,212 --> 01:10:19,426
+Change the scheme, alter the mood.
+
+704
+01:10:19,427 --> 01:10:23,886
+Electrify the boys and girls,
+if you'd be so kind.
+
+705
+01:10:26,825 --> 01:10:27,949
+Thank you.
+
+706
+01:10:27,950 --> 01:10:29,159
+Gem.
+
+707
+01:10:29,160 --> 01:10:30,711
+My name is, Gem.
+
+708
+01:11:12,582 --> 01:11:14,067
+Ah, perfect.
+
+709
+01:12:34,483 --> 01:12:37,116
+-You are CLU.
+-I am CLU.
+
+710
+01:12:37,117 --> 01:12:39,875
+You will create the perfect system.
+
+711
+01:12:39,876 --> 01:12:41,943
+I will create the perfect system.
+
+712
+01:12:45,900 --> 01:12:48,451
+Together we're going to change the world, man.
+
+713
+01:12:56,197 --> 01:12:57,880
+(Angrily screams)
+
+714
+01:13:15,749 --> 01:13:17,456
+Let's move.
+
+715
+01:13:19,213 --> 01:13:23,155
+Zuse has been around since the earliest
+days of the gaming grid.
+
+716
+01:13:23,507 --> 01:13:27,443
+By necessity.
+Castor mined all the percentages.
+
+717
+01:13:27,823 --> 01:13:29,280
+All the angles.
+
+718
+01:13:29,281 --> 01:13:30,988
+So when do I meet him?
+
+719
+01:13:34,111 --> 01:13:36,960
+You...just...did.
+
+720
+01:13:40,472 --> 01:13:44,282
+After the purge, I needed
+to reinvent myself.
+
+721
+01:13:44,513 --> 01:13:46,541
+Self preservation, you understand.
+
+722
+01:13:52,128 --> 01:13:53,143
+Now.
+
+723
+01:13:54,538 --> 01:13:56,993
+What can I do, for you?
+
+724
+01:13:59,276 --> 01:14:01,176
+I need to get to the portal.
+
+725
+01:14:01,637 --> 01:14:03,686
+Well, it's closing quickly.
+
+726
+01:14:03,687 --> 01:14:05,233
+As I'm sure, you're aware.
+
+727
+01:14:05,672 --> 01:14:07,238
+Tick-tock, tick-tock.
+
+728
+01:14:07,518 --> 01:14:09,438
+And it's quite a journey.
+
+729
+01:14:09,969 --> 01:14:12,701
+Beyond the far reaches of the outland.
+
+730
+01:14:13,069 --> 01:14:18,507
+Your father didn't want any programs,
+slipping out accidentally, did he.
+
+731
+01:14:18,673 --> 01:14:19,881
+Can you help me?
+
+732
+01:14:20,335 --> 01:14:22,179
+Of course.
+
+733
+01:14:22,991 --> 01:14:27,074
+But first, as a man who prides himself
+on staying well informed.
+
+734
+01:14:27,075 --> 01:14:29,052
+I must ask, who sent you my way?
+
+735
+01:14:32,660 --> 01:14:33,802
+Her name's, Quorra.
+
+736
+01:14:34,724 --> 01:14:36,720
+Said she met you a long time ago.
+
+737
+01:14:37,379 --> 01:14:38,922
+I believe she did.
+
+738
+01:14:40,079 --> 01:14:41,790
+Many cycles ago.
+
+739
+01:14:42,964 --> 01:14:44,838
+Was a different time.
+
+740
+01:14:45,594 --> 01:14:48,065
+But we're not here to relive the past.
+
+741
+01:14:48,066 --> 01:14:49,765
+Let's see about your future, shall we?
+
+742
+01:14:49,766 --> 01:14:51,014
+Now, well have to, uh...
+
+743
+01:14:51,015 --> 01:14:53,832
+change your attire, and you'll need
+a forged disc.
+
+744
+01:14:53,833 --> 01:14:54,995
+Not easy these days.
+
+745
+01:14:54,996 --> 01:14:57,937
+But my. And of  course you'll need transport.
+
+746
+01:14:58,995 --> 01:15:01,111
+To cross the sea of simulation.
+
+747
+01:15:12,429 --> 01:15:15,083
+This is going to be quite a ride.
+
+748
+01:15:27,737 --> 01:15:30,113
+I believed in users once before.
+
+749
+01:15:31,179 --> 01:15:32,932
+Playing all the angles.
+
+750
+01:15:37,681 --> 01:15:39,290
+Revenge!
+
+751
+01:15:47,717 --> 01:15:49,666
+The game has changed.
+
+752
+01:15:49,667 --> 01:15:51,280
+Son of Flynn!
+
+753
+01:16:01,274 --> 01:16:03,288
+Ha, ha, haaa.
+
+754
+01:16:08,124 --> 01:16:09,193
+Met your friend.
+
+755
+01:16:09,194 --> 01:16:10,477
+He's fantastic.
+
+756
+01:16:10,478 --> 01:16:14,528
+Behold, the son of our maker.
+
+757
+01:16:42,230 --> 01:16:43,680
+Yeah, yeah.
+
+758
+01:17:24,381 --> 01:17:25,558
+Goes through ....
+
+759
+01:17:46,882 --> 01:17:48,007
+Whoa, whoa, whoa.
+
+760
+01:18:06,156 --> 01:18:07,737
+A little help here, maybe.
+
+761
+01:18:27,481 --> 01:18:28,695
+You did it.
+
+762
+01:18:29,678 --> 01:18:31,228
+Dad, it's gone.
+
+763
+01:18:32,029 --> 01:18:33,180
+It is.
+
+764
+01:18:36,030 --> 01:18:37,933
+I'm sorry, I know I messed up.
+
+765
+01:18:39,813 --> 01:18:41,503
+We can go back, I can go back.
+
+766
+01:18:41,504 --> 01:18:43,122
+No, we stay together.
+
+767
+01:18:43,720 --> 01:18:44,847
+Dad, I can do this.
+
+768
+01:18:44,848 --> 01:18:46,563
+You've done enough all ready.
+
+769
+01:18:52,182 --> 01:18:54,431
+Sam, you really.
+
+770
+01:18:56,439 --> 01:18:59,056
+You're messin' with my Zen thing, man.
+
+771
+01:19:01,087 --> 01:19:02,384
+She's stable.
+
+772
+01:19:03,404 --> 01:19:04,756
+So what do we do now?
+
+773
+01:19:04,757 --> 01:19:06,751
+I don't know.
+Nothing.
+
+774
+01:19:07,806 --> 01:19:08,974
+We do nothing.
+
+775
+01:19:10,138 --> 01:19:11,750
+We still,
+
+776
+01:19:14,532 --> 01:19:15,723
+Wait.
+
+777
+01:19:23,751 --> 01:19:25,581
+Ever jump a freight train?
+
+778
+01:19:27,342 --> 01:19:28,342
+Huh?
+
+779
+01:19:28,343 --> 01:19:29,728
+We do it your way.
+
+780
+01:19:29,729 --> 01:19:31,526
+It's a long sprint to the portal.
+
+781
+01:19:32,054 --> 01:19:34,198
+If we beat CLU there we have a chance.
+
+782
+01:19:34,199 --> 01:19:35,422
+Let's get her out of here.
+
+783
+01:19:54,041 --> 01:19:55,996
+This will take us there.
+
+784
+01:20:22,953 --> 01:20:24,310
+Is she going to make it?
+
+785
+01:20:24,311 --> 01:20:27,250
+I don't know, I gotta identify
+the damaged code.
+
+786
+01:20:28,288 --> 01:20:31,125
+The sequence on it is just
+enormously complex.
+
+787
+01:20:33,079 --> 01:20:34,209
+But didn't you write it?
+
+788
+01:20:34,210 --> 01:20:38,358
+Some I wrote, the rest of it is just,
+
+789
+01:20:40,341 --> 01:20:41,713
+beyond me.
+
+790
+01:20:44,271 --> 01:20:45,913
+She's an Iso.
+
+791
+01:20:46,631 --> 01:20:49,240
+Yeah, the last Iso.
+
+792
+01:20:51,049 --> 01:20:55,286
+All this time you were just, protecting her.
+
+793
+01:20:55,287 --> 01:20:57,094
+She's the miracle, man.
+
+794
+01:20:57,409 --> 01:20:59,405
+Everything I ever worked for.
+
+795
+01:21:00,608 --> 01:21:03,865
+A digital frontier to reshape
+the human condition.
+
+796
+01:21:05,186 --> 01:21:07,751
+I always thought that was just a plot line.
+
+797
+01:21:08,353 --> 01:21:11,693
+In our world, she could change everything.
+
+798
+01:21:18,723 --> 01:21:20,821
+Check that out.
+
+799
+01:21:28,498 --> 01:21:30,759
+She risked herself for me.
+
+800
+01:21:32,385 --> 01:21:34,383
+Some things are worth the risk.
+
+801
+01:21:48,148 --> 01:21:49,811
+Look at this.
+
+802
+01:21:52,669 --> 01:21:57,295
+Now that is impressive, if I do say
+so myself, huh?
+
+803
+01:21:58,151 --> 01:22:01,572
+Come on, it's going to take a while for
+her system to reboot.
+
+804
+01:22:01,705 --> 01:22:03,739
+Now it's time for you to tell me a story.
+
+805
+01:22:22,505 --> 01:22:25,139
+The boy and Flynn are gone.
+
+806
+01:22:25,140 --> 01:22:28,949
+I presume your Excellency, they
+perished in the elevator.
+
+807
+01:22:32,535 --> 01:22:33,818
+You presume.
+
+808
+01:22:36,104 --> 01:22:37,133
+Find them.
+
+809
+01:22:42,093 --> 01:22:44,355
+Ice caps were melting,
+
+810
+01:22:44,356 --> 01:22:45,892
+farmed in the middle east.
+
+811
+01:22:45,893 --> 01:22:47,970
+Lakers, Celtics, Batman.
+
+812
+01:22:49,624 --> 01:22:52,353
+Now the rich are getting richer.
+The poor are getting poorer.
+
+813
+01:22:52,354 --> 01:22:55,516
+Cell phones, online dating, Wi-Fi.
+
+814
+01:22:55,517 --> 01:22:56,826
+What's Wi-Fi?
+
+815
+01:22:56,830 --> 01:22:59,995
+-Wireless sim-linking
+-A Digital devices.
+
+816
+01:22:59,996 --> 01:23:02,562
+-Yeah.
+-Oh.
+
+817
+01:23:02,563 --> 01:23:04,418
+I thought of that when you were five.
+
+818
+01:23:09,702 --> 01:23:11,124
+Mom and Dad,
+
+819
+01:23:13,419 --> 01:23:15,479
+-I assume let go
+-Yeah.
+
+820
+01:23:17,009 --> 01:23:18,009
+Oh.
+
+821
+01:23:18,554 --> 01:23:20,651
+Back when I was twelve.
+
+822
+01:23:21,453 --> 01:23:23,358
+Gram five years later.
+
+823
+01:23:26,869 --> 01:23:28,666
+You remember that night.
+
+824
+01:23:29,295 --> 01:23:30,560
+You didn't come home.
+
+825
+01:23:30,939 --> 01:23:33,780
+Wow, I said I'd show you the grid.
+
+826
+01:23:36,108 --> 01:23:38,171
+You should have seen this place
+back then.
+
+827
+01:23:39,843 --> 01:23:41,411
+Couldn't wait to show it to you.
+
+828
+01:23:43,645 --> 01:23:45,013
+But not way.
+
+829
+01:23:45,015 --> 01:23:47,203
+Must been something before CLU screwed it up.
+
+830
+01:23:47,690 --> 01:23:49,354
+No, no, he,
+
+831
+01:23:51,008 --> 01:23:52,245
+he's me.
+
+832
+01:23:52,246 --> 01:23:53,724
+I screwed it up.
+
+833
+01:23:54,919 --> 01:23:57,081
+Crazy after perfection.
+
+834
+01:23:59,534 --> 01:24:01,625
+Using after what was right in front of me.
+
+835
+01:24:03,899 --> 01:24:05,132
+Right in front of me.
+
+836
+01:24:07,127 --> 01:24:09,456
+Look what you've accomplished.
+
+837
+01:24:10,413 --> 01:24:11,937
+It's incredible.
+
+838
+01:24:12,244 --> 01:24:13,244
+Sam.
+
+839
+01:24:14,354 --> 01:24:17,502
+I'd give it all up for one
+more day with you.
+
+840
+01:24:31,324 --> 01:24:32,324
+Hey.
+
+841
+01:24:32,325 --> 01:24:34,224
+Remember your old Ducati?
+
+842
+01:24:34,225 --> 01:24:38,387
+You kidding me. There's not a day goes
+by I don't think about that bike.
+
+843
+01:24:38,388 --> 01:24:40,059
+Yeah, well. Fixing her up.
+
+844
+01:24:40,060 --> 01:24:42,439
+What are you busting my bike?
+
+845
+01:24:42,440 --> 01:24:45,188
+Well twenty years in the shed, no
+tork, I mean.
+
+846
+01:24:46,036 --> 01:24:47,894
+She knew you were her love.
+
+847
+01:24:49,780 --> 01:24:50,992
+How's she running?
+
+848
+01:24:51,409 --> 01:24:53,463
+Well, when I'm done.
+
+849
+01:24:54,103 --> 01:24:55,473
+Better than ever.
+
+850
+01:24:55,475 --> 01:24:58,899
+Aw man, I'd like to see that.
+
+851
+01:25:00,559 --> 01:25:01,667
+You will.
+
+852
+01:25:05,878 --> 01:25:09,024
+Yeah, if your brooding, give her this.
+
+853
+01:25:09,025 --> 01:25:11,781
+Your old man is going to knock down the sky.
+
+854
+01:25:38,979 --> 01:25:44,560
+When Flynn entered the space,
+ahh, everything changed.
+
+855
+01:25:44,992 --> 01:25:47,911
+I've never seen anything quite like it.
+
+856
+01:25:49,150 --> 01:25:52,770
+Aura was palpable.
+
+857
+01:25:54,394 --> 01:25:55,766
+Was it.
+
+858
+01:25:55,767 --> 01:25:59,239
+I presume our understanding,
+
+859
+01:25:59,240 --> 01:26:01,032
+is still valid.
+
+860
+01:26:02,295 --> 01:26:03,942
+Control of the city.
+
+861
+01:26:04,888 --> 01:26:06,656
+A sizable request.
+
+862
+01:26:06,943 --> 01:26:08,763
+-I know.
+-But, uh...
+
+863
+01:26:08,765 --> 01:26:10,841
+Seemingly fitting compensation.
+
+864
+01:26:10,850 --> 01:26:12,842
+You think?
+
+865
+01:26:14,338 --> 01:26:17,126
+How long have you been searching for this?
+
+866
+01:26:17,127 --> 01:26:18,387
+Hmm?
+
+867
+01:26:18,388 --> 01:26:21,821
+A thousand cycles...huh?
+
+868
+01:26:22,377 --> 01:26:25,714
+Just imagine the secrets it holds.
+
+869
+01:26:28,672 --> 01:26:30,174
+The master key to any and all,
+
+870
+01:26:30,175 --> 01:26:33,873
+riddles of the grid.
+
+871
+01:26:37,156 --> 01:26:38,979
+There's something else, too.
+
+872
+01:26:38,980 --> 01:26:40,630
+Isn't there?
+
+873
+01:26:40,631 --> 01:26:42,647
+I heard the chatter.
+
+874
+01:26:42,650 --> 01:26:46,486
+About this private initiative.
+
+875
+01:26:55,990 --> 01:27:00,180
+I realize that uh, alliance is at times,
+
+876
+01:27:00,181 --> 01:27:01,539
+uneasy.
+
+877
+01:27:02,159 --> 01:27:03,898
+But always necessary.
+
+878
+01:27:05,755 --> 01:27:07,252
+You know you need me.
+
+879
+01:27:07,255 --> 01:27:08,953
+Right where I am.
+
+880
+01:27:08,954 --> 01:27:10,813
+True.
+
+881
+01:27:11,731 --> 01:27:13,477
+Of course, you're right.
+
+882
+01:27:13,478 --> 01:27:16,270
+You have a drink.
+
+883
+01:27:24,393 --> 01:27:26,053
+End of line, man.
+
+884
+01:27:35,957 --> 01:27:36,961
+- (Gasps for breath)
+-Hey, hey.
+
+885
+01:27:36,962 --> 01:27:38,723
+It's okay, we're safe for now.
+
+886
+01:27:38,730 --> 01:27:40,744
+We're heading east, towards the portal.
+
+887
+01:27:43,838 --> 01:27:45,839
+CLU has the disc.
+
+888
+01:27:47,128 --> 01:27:49,625
+Once I get out, I can shut him down.
+
+889
+01:27:51,809 --> 01:27:53,828
+I should never have sent you to Zuse.
+
+890
+01:27:53,829 --> 01:27:55,010
+It was a mistake.
+
+891
+01:27:55,577 --> 01:27:58,231
+It's okay, I made a few myself.
+
+892
+01:28:03,488 --> 01:28:04,865
+Where is he?
+
+893
+01:28:04,870 --> 01:28:08,329
+I think he's knocking on the sky.
+
+894
+01:28:08,330 --> 01:28:11,187
+And listening to the sound.
+
+895
+01:28:12,307 --> 01:28:13,585
+Yeah.
+
+896
+01:28:15,033 --> 01:28:16,559
+How did you find him?
+
+897
+01:28:26,521 --> 01:28:27,594
+It's okay.
+
+898
+01:28:30,495 --> 01:28:31,535
+I know.
+
+899
+01:28:37,118 --> 01:28:38,739
+It was during the purge.
+
+900
+01:28:40,497 --> 01:28:42,016
+CLU was relentless.
+
+901
+01:28:43,072 --> 01:28:45,560
+The Black guard were executing
+Iso's in the streets.
+
+902
+01:28:47,287 --> 01:28:48,771
+Everyone I knew,
+
+903
+01:28:48,978 --> 01:28:49,978
+disappeared.
+
+904
+01:28:52,740 --> 01:28:54,161
+Then they came for me.
+
+905
+01:28:57,618 --> 01:28:58,751
+So I ran.
+
+906
+01:29:00,309 --> 01:29:03,417
+As sympathetic programs smuggled me
+out of the city.
+
+907
+01:29:03,977 --> 01:29:05,676
+but soon they had me surrounded.
+
+908
+01:29:06,581 --> 01:29:08,023
+I prepared for the end.
+
+909
+01:29:09,192 --> 01:29:11,080
+And just as everything was going dark.
+
+910
+01:29:11,354 --> 01:29:12,886
+I felt a hand.
+
+911
+01:29:13,238 --> 01:29:14,624
+On my shoulder.
+
+912
+01:29:17,299 --> 01:29:18,929
+And when I opened my eyes.
+
+913
+01:29:20,738 --> 01:29:22,826
+Standing above me,
+
+914
+01:29:23,640 --> 01:29:24,894
+was the creator.
+
+915
+01:29:27,676 --> 01:29:29,071
+Your father.
+
+916
+01:29:30,843 --> 01:29:32,489
+He saved me.
+
+917
+01:29:36,600 --> 01:29:40,657
+I guess you could say I'm,
+a rescue.
+
+918
+01:29:59,995 --> 01:30:01,091
+Hell of a view.
+
+919
+01:30:01,092 --> 01:30:03,997
+It used to let us know that Flynn was here.
+
+920
+01:30:04,000 --> 01:30:06,767
+It became a symbol of something bigger.
+
+921
+01:30:06,768 --> 01:30:08,927
+Something better.
+
+922
+01:30:08,928 --> 01:30:10,144
+In this world.
+
+923
+01:30:10,618 --> 01:30:12,835
+I've never been this close before.
+
+924
+01:30:14,562 --> 01:30:16,904
+It's how I imagined the sunrise to be.
+
+925
+01:30:17,445 --> 01:30:19,386
+Ah, trust me. There's no comparison.
+
+926
+01:30:22,865 --> 01:30:24,331
+What's it like?
+
+927
+01:30:26,915 --> 01:30:29,365
+-The sun?
+-Yeah.
+
+928
+01:30:30,441 --> 01:30:31,923
+Oh yeah.
+
+929
+01:30:34,110 --> 01:30:36,153
+I never had to describe it before.
+
+930
+01:30:38,700 --> 01:30:39,706
+Warm.
+
+931
+01:30:42,045 --> 01:30:43,174
+Brave
+
+932
+01:30:46,370 --> 01:30:47,411
+Beautiful.
+
+933
+01:31:13,567 --> 01:31:15,115
+Get below.
+
+934
+01:31:15,831 --> 01:31:16,831
+MOVE!
+
+935
+01:31:18,484 --> 01:31:19,854
+This isn't suppose to be here.
+
+936
+01:31:24,971 --> 01:31:26,184
+What happened?
+
+937
+01:31:49,772 --> 01:31:51,463
+He's building an army.
+
+938
+01:31:52,018 --> 01:31:53,362
+Let's go.
+
+939
+01:32:23,677 --> 01:32:25,708
+-Goodbye.
+-Quorra!
+
+940
+01:32:25,709 --> 01:32:26,666
+-Quorra.
+-Wait.
+
+941
+01:32:26,670 --> 01:32:27,924
+What's she doing?
+
+942
+01:32:27,930 --> 01:32:29,709
+Removing herself from the equation.
+
+943
+01:32:47,533 --> 01:32:48,533
+Tron.
+
+944
+01:32:50,770 --> 01:32:51,870
+He's alive.
+
+945
+01:32:58,064 --> 01:32:59,955
+We can't just let her go.
+
+946
+01:32:59,956 --> 01:33:01,020
+Sam!
+
+947
+01:33:01,021 --> 01:33:02,359
+There's another way.
+
+948
+01:33:16,498 --> 01:33:17,700
+Well done sir.
+
+949
+01:33:32,767 --> 01:33:34,389
+Have you ever seen anything like it?
+
+950
+01:33:35,509 --> 01:33:36,813
+Humbly, sir.
+
+951
+01:33:36,820 --> 01:33:41,564
+I know you have greater designs,
+then any of us understand.
+
+952
+01:33:43,187 --> 01:33:44,228
+What does it do?
+
+953
+01:34:09,729 --> 01:34:11,999
+She's going to wind up like one of them.
+
+954
+01:34:12,895 --> 01:34:14,445
+Keep moving, Sam.
+
+955
+01:34:24,635 --> 01:34:28,242
+You are a very rare bird, aren't you.
+
+956
+01:34:36,893 --> 01:34:42,492
+Where's your disc?
+Where is he?
+
+957
+01:34:44,831 --> 01:34:47,127
+Must have been so lonely out there.
+
+958
+01:34:48,655 --> 01:34:51,389
+Tragic to be the only one.
+
+959
+01:34:53,054 --> 01:34:56,249
+I've seen what users are
+capable of, CLU.
+
+960
+01:34:56,865 --> 01:34:58,721
+You don't belong with them.
+
+961
+01:35:04,038 --> 01:35:07,102
+I have something very special
+in mind for you.
+
+962
+01:35:10,600 --> 01:35:12,199
+Take her upstairs.
+
+963
+01:35:12,590 --> 01:35:13,953
+And find them.
+
+964
+01:35:15,265 --> 01:35:18,862
+You'll have to excuse me. You know I
+was just unprepared to ....
+
+965
+01:35:35,112 --> 01:35:37,018
+Greetings programs.
+
+966
+01:35:41,035 --> 01:35:44,707
+Together we have achieved a
+great many things.
+
+967
+01:35:44,743 --> 01:35:47,840
+We have created a vast complex system.
+
+968
+01:35:48,326 --> 01:35:49,853
+We've maintained it,
+
+969
+01:35:50,738 --> 01:35:51,852
+we've improved it.
+
+970
+01:35:52,706 --> 01:35:56,518
+We have rid it of its imperfections.
+
+971
+01:35:58,449 --> 01:36:03,250
+Not to mention, ridding of the false deity
+that sought to enslave us.
+
+972
+01:36:05,554 --> 01:36:07,616
+Kevin Flynn!
+
+973
+01:36:08,857 --> 01:36:10,457
+Where are you now?
+
+974
+01:36:14,398 --> 01:36:16,795
+My fellow programs, let there
+be no doubt.
+
+975
+01:36:17,609 --> 01:36:20,230
+That our world is a cage no more.
+
+976
+01:36:20,524 --> 01:36:22,117
+For at this moment.
+
+977
+01:36:22,250 --> 01:36:27,061
+The key to the next frontier is finally
+in our possession.
+
+978
+01:36:32,837 --> 01:36:33,914
+The disc.
+
+979
+01:36:34,028 --> 01:36:40,326
+And unlike our selfish creator who preserves
+the privilege of our world only to himself.
+
+980
+01:36:40,327 --> 01:36:43,911
+I will make their world open,
+
+981
+01:36:43,912 --> 01:36:46,810
+and available to all of us.
+
+982
+01:36:49,648 --> 01:36:51,248
+YES!
+
+983
+01:36:51,249 --> 01:36:53,078
+To all of us.
+
+984
+01:37:03,337 --> 01:37:05,498
+He's taking all of us with him.
+
+985
+01:37:05,732 --> 01:37:07,423
+He's figured out how to do it.
+
+986
+01:37:07,481 --> 01:37:09,762
+And whatever we find there.
+
+987
+01:37:09,765 --> 01:37:15,036
+There our system will grow,
+there our system will blossom.
+
+988
+01:37:17,058 --> 01:37:21,277
+You have proved yourselves,
+proved yourself to me.
+
+989
+01:37:21,278 --> 01:37:22,951
+Been loyal to me.
+
+990
+01:37:22,952 --> 01:37:26,040
+And I will never betray you.
+
+991
+01:37:38,891 --> 01:37:40,319
+Dad, we have to get your disc.
+
+992
+01:37:40,401 --> 01:37:41,631
+No we gotta get to the portal.
+
+993
+01:37:41,632 --> 01:37:43,222
+You shut them down from the outside.
+
+994
+01:37:43,223 --> 01:37:45,371
+Even if I make it out you won't last
+in here.
+
+995
+01:37:45,372 --> 01:37:47,400
+-Quorra won't last..
+-I said it will be all right, come on.
+
+996
+01:37:47,401 --> 01:37:49,301
+Will you let it go, I'm not
+going home without you.
+
+997
+01:37:50,372 --> 01:37:51,502
+Sam.
+
+998
+01:37:52,262 --> 01:37:53,592
+Same team.
+
+999
+01:37:54,836 --> 01:37:55,973
+Remember?
+
+1000
+01:37:58,472 --> 01:38:00,235
+I was afraid you were going to say that.
+
+1001
+01:38:01,185 --> 01:38:03,577
+Meet me on the flight deck in five.
+And get me some wheels.
+
+1002
+01:38:03,578 --> 01:38:05,432
+Wheels? What's your plan?
+
+1003
+01:38:06,926 --> 01:38:07,941
+I'm a user.
+
+1004
+01:38:08,089 --> 01:38:09,409
+I'll improvise.
+
+1005
+01:38:13,912 --> 01:38:16,735
+Rid the new system of its imperfections.
+
+1006
+01:38:19,874 --> 01:38:21,069
+My vision is clear.
+
+1007
+01:38:24,300 --> 01:38:27,812
+Out there, is a new world!
+
+1008
+01:38:28,605 --> 01:38:31,692
+Out there is our victory.
+
+1009
+01:38:32,873 --> 01:38:34,401
+Out there,
+
+1010
+01:38:36,378 --> 01:38:38,252
+is our destiny.
+
+1011
+01:39:23,114 --> 01:39:25,425
+Identify yourself program.
+
+1012
+01:39:28,692 --> 01:39:29,972
+I'm not a program.
+
+1013
+01:39:30,168 --> 01:39:31,844
+My name is Sam Flynn.
+
+1014
+01:39:55,416 --> 01:39:56,616
+Identify yourself.
+
+1015
+01:39:56,617 --> 01:39:58,094
+I'm taking this vehicle.
+
+1016
+01:39:58,095 --> 01:39:59,890
+You are not authorized.
+
+1017
+01:40:02,411 --> 01:40:03,994
+Right away, sir.
+
+1018
+01:40:05,500 --> 01:40:08,137
+Watch your step please,
+as you board the aircraft.
+
+1019
+01:40:20,421 --> 01:40:21,684
+One of the users.
+
+1020
+01:40:29,162 --> 01:40:31,719
+<i>Master key, disengaged.</i>
+
+1021
+01:40:32,627 --> 01:40:35,112
+<i>Master key, disengaged.</i>
+
+1022
+01:40:35,190 --> 01:40:36,474
+I came with a girl.
+
+1023
+01:40:36,987 --> 01:40:39,027
+A program, where is she?
+
+1024
+01:40:42,047 --> 01:40:43,588
+Sam. GO!
+
+1025
+01:41:09,760 --> 01:41:11,092
+What are you doing here?
+
+1026
+01:41:11,093 --> 01:41:12,094
+We gotta get to the flight deck.
+
+1027
+01:41:12,095 --> 01:41:14,213
+But CLU will be here any minute.
+We'll never make it.
+
+1028
+01:41:14,755 --> 01:41:15,755
+Come on.
+
+1029
+01:41:21,583 --> 01:41:23,182
+Come on, kiddo.
+
+1030
+01:41:26,873 --> 01:41:28,923
+Radical, man.
+
+1031
+01:41:36,923 --> 01:41:37,923
+Hurry!
+
+1032
+01:41:38,270 --> 01:41:39,270
+Made it.
+
+1033
+01:41:58,538 --> 01:42:01,581
+Try to hold on to this.
+You're gonna need it.
+
+1034
+01:42:06,828 --> 01:42:08,446
+You got this, Quorra.
+
+1035
+01:42:08,924 --> 01:42:10,666
+It's all in the wrist.
+
+1036
+01:42:50,433 --> 01:42:51,992
+Death to the user.
+
+1037
+01:43:16,582 --> 01:43:18,331
+Head towards the light, Quorra.
+
+1038
+01:43:20,556 --> 01:43:22,575
+Where'd you learn that move back there?
+
+1039
+01:43:22,672 --> 01:43:24,184
+ENCOM tower.
+
+1040
+01:43:24,185 --> 01:43:25,421
+Couple nights ago.
+
+1041
+01:43:27,914 --> 01:43:29,299
+ENCOM tower.
+
+1042
+01:43:32,281 --> 01:43:33,474
+Light jets.
+
+1043
+01:43:33,844 --> 01:43:35,316
+Here they come.
+
+1044
+01:43:36,418 --> 01:43:38,410
+Sam, take the turret.
+
+1045
+01:43:46,881 --> 01:43:49,020
+Oh man, I'm all over this.
+
+1046
+01:43:52,552 --> 01:43:54,835
+Yeaah!
+
+1047
+01:44:03,155 --> 01:44:05,172
+Yeah, ha, ha, ha.
+
+1048
+01:44:05,173 --> 01:44:06,856
+One down, five to go.
+
+1049
+01:44:12,508 --> 01:44:14,325
+Nice.
+
+1050
+01:44:22,913 --> 01:44:24,425
+We gotta split them up.
+
+1051
+01:44:44,694 --> 01:44:45,694
+Come on.
+
+1052
+01:44:49,975 --> 01:44:51,470
+Have a nice swim.
+
+1053
+01:44:57,970 --> 01:44:59,330
+You gotta get behind them.
+
+1054
+01:45:07,997 --> 01:45:10,083
+I don't think this is a good idea.
+
+1055
+01:45:10,084 --> 01:45:11,317
+You're probably right.
+
+1056
+01:45:17,486 --> 01:45:18,738
+He's gaining on us.
+
+1057
+01:45:38,942 --> 01:45:39,942
+(Laughs)
+
+1058
+01:45:49,197 --> 01:45:50,380
+YES!
+
+1059
+01:46:02,232 --> 01:46:03,569
+It's jammed.
+
+1060
+01:46:08,957 --> 01:46:10,265
+Tron.
+
+1061
+01:46:10,566 --> 01:46:12,510
+What have you become?
+
+1062
+01:46:17,104 --> 01:46:18,390
+Aw, come on.
+
+1063
+01:46:22,085 --> 01:46:23,550
+Flynn, go home.
+
+1064
+01:46:28,109 --> 01:46:29,583
+My word, take a shot.
+
+1065
+01:46:33,327 --> 01:46:34,538
+Finish today.
+
+1066
+01:46:42,719 --> 01:46:44,193
+Noooooooo!
+
+1067
+01:46:57,023 --> 01:46:59,369
+I, fight for the users!
+
+1068
+01:47:00,226 --> 01:47:01,617
+Ahhhhhh!
+
+1069
+01:47:09,510 --> 01:47:10,511
+That was him.
+
+1070
+01:47:10,512 --> 01:47:11,881
+It's over.
+
+1071
+01:47:12,893 --> 01:47:14,124
+It's over!
+
+1072
+01:47:16,322 --> 01:47:17,322
+Waoooo!
+
+1073
+01:47:25,646 --> 01:47:28,505
+Quorra, there's something
+I need you to do.
+
+1074
+01:48:13,600 --> 01:48:15,451
+Let's get you home, Dad.
+
+1075
+01:48:19,715 --> 01:48:21,099
+There it is.
+
+1076
+01:48:21,556 --> 01:48:22,699
+Take her down.
+
+1077
+01:48:23,216 --> 01:48:24,316
+Hang on.
+
+1078
+01:48:24,317 --> 01:48:25,781
+This could be rough.
+
+1079
+01:49:18,150 --> 01:49:19,358
+This is mine.
+
+1080
+01:49:25,629 --> 01:49:27,386
+Had a feeling you'd be here.
+
+1081
+01:49:28,897 --> 01:49:31,292
+The cycle's haven't been kind, have they.
+
+1082
+01:49:31,709 --> 01:49:34,301
+Well, you don't look so bad.
+
+1083
+01:49:36,062 --> 01:49:37,594
+I did everything.
+
+1084
+01:49:38,025 --> 01:49:39,797
+Everything you ever asked.
+
+1085
+01:49:40,231 --> 01:49:41,445
+I know you did.
+
+1086
+01:49:41,851 --> 01:49:43,691
+I executed the plan.
+
+1087
+01:49:44,470 --> 01:49:45,509
+As you saw it.
+
+1088
+01:49:45,550 --> 01:49:50,787
+You, you promised that we would
+change the world, together.
+
+1089
+01:49:51,574 --> 01:49:52,711
+You broke your promise.
+
+1090
+01:49:52,712 --> 01:49:55,100
+I know, I understand that now.
+
+1091
+01:49:55,101 --> 01:49:58,325
+I took this system to its maximum potential.
+
+1092
+01:49:58,326 --> 01:50:00,625
+I created the perfect system.
+
+1093
+01:50:00,926 --> 01:50:04,658
+The thing about perfection, is
+that it's unknowable.
+
+1094
+01:50:05,583 --> 01:50:09,179
+It's impossible, but it's also right
+in front of us all the time.
+
+1095
+01:50:10,466 --> 01:50:13,304
+You wouldn't know that because
+I didn't when I created you.
+
+1096
+01:50:15,727 --> 01:50:17,460
+I'm sorry for.
+
+1097
+01:50:19,646 --> 01:50:21,299
+I'm sorry.
+
+1098
+01:50:44,310 --> 01:50:45,350
+Go.
+
+1099
+01:50:58,517 --> 01:50:59,535
+CLU!
+
+1100
+01:51:00,370 --> 01:51:02,263
+Remember what you came for
+
+1101
+01:51:16,525 --> 01:51:17,525
+DAD!
+
+1102
+01:51:17,635 --> 01:51:19,101
+You knew I'd beat you.
+
+1103
+01:51:19,556 --> 01:51:21,282
+And still you did all this.
+
+1104
+01:51:21,283 --> 01:51:22,283
+For him.
+
+1105
+01:51:28,765 --> 01:51:29,765
+No.
+
+1106
+01:51:37,140 --> 01:51:38,350
+Why?
+
+1107
+01:51:39,600 --> 01:51:41,133
+He's my son.
+
+1108
+01:51:47,692 --> 01:51:48,971
+Gooooo!
+
+1109
+01:51:54,507 --> 01:51:55,516
+Dad!
+
+1110
+01:52:01,665 --> 01:52:04,337
+Sam, it's time.
+
+1111
+01:52:04,338 --> 01:52:05,337
+No!
+
+1112
+01:52:05,811 --> 01:52:06,811
+Sam.
+
+1113
+01:52:07,144 --> 01:52:08,605
+It's what he wants.
+
+1114
+01:52:10,643 --> 01:52:12,504
+I'm not leaving you.
+
+1115
+01:52:12,902 --> 01:52:14,311
+You take her.
+
+1116
+01:52:26,086 --> 01:52:27,551
+Yes.
+
+1117
+01:52:55,166 --> 01:52:56,414
+Goodbye, kiddo.
+
+1118
+01:54:40,944 --> 01:54:41,967
+Alan.
+
+1119
+01:54:46,776 --> 01:54:48,229
+You paged me?
+
+1120
+01:54:49,393 --> 01:54:50,393
+Yeah.
+
+1121
+01:54:51,304 --> 01:54:53,375
+You jet ENCOM at 8AM.
+
+1122
+01:54:55,903 --> 01:54:57,182
+What about the board?
+
+1123
+01:54:59,220 --> 01:55:00,594
+you are chairman now.
+
+1124
+01:55:03,346 --> 01:55:05,205
+I'm taking the company back, Alan.
+
+1125
+01:55:10,059 --> 01:55:13,619
+Oh, and you were right.
+
+1126
+01:55:15,973 --> 01:55:17,065
+About what?
+
+1127
+01:55:18,596 --> 01:55:20,389
+About everything.
+
+1128
+01:55:45,003 --> 01:55:46,482
+What's next, Sam?
+
+1129
+01:55:51,784 --> 01:55:54,421
+Guess we're suppose to change the world.
+
+1130
+01:55:59,302 --> 01:56:02,365
+Come on, I'll wanna show you something.
+

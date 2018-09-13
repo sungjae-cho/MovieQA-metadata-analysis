@@ -1,0 +1,7247 @@
+1
+00:00:00,009 --> 00:00:57,813
+
+
+2
+00:00:57,823 --> 00:01:02,419
+In order to affect a timely halt
+to deteriorating conditions
+
+3
+00:01:02,494 --> 00:01:05,088
+and to ensure the common good,
+
+4
+00:01:05,164 --> 00:01:08,531
+a state of emergency is declared
+for these territories
+
+5
+00:01:08,600 --> 00:01:11,228
+by decree of Lord Cutler Beckett,
+
+6
+00:01:11,303 --> 00:01:14,431
+duly appointed representative
+of His Majesty, the king.
+
+7
+00:01:15,674 --> 00:01:18,575
+By decree, according to martial law,
+
+8
+00:01:18,644 --> 00:01:22,102
+the following statutes
+are temporarily amended:
+
+9
+00:01:22,181 --> 00:01:24,877
+Right to assembly, suspended.
+
+10
+00:01:27,719 --> 00:01:30,813
+Right to habeas corpus, suspended.
+
+11
+00:01:32,391 --> 00:01:35,485
+Right to legal counsel, suspended.
+
+12
+00:01:36,528 --> 00:01:40,760
+Right to verdict by a jury of peers,
+suspended.
+
+13
+00:01:42,167 --> 00:01:47,127
+By decree, all persons
+found guilty of piracy,
+
+14
+00:01:47,206 --> 00:01:50,334
+or aiding a person convicted of piracy,
+
+15
+00:01:50,409 --> 00:01:54,345
+or associating with a person
+convicted of piracy...
+
+16
+00:01:55,414 --> 00:01:59,145
+...shall be sentenced to
+hang by the neck until dead."
+
+17
+00:02:00,000 --> 00:02:06,074
+
+
+18
+00:02:31,416 --> 00:02:35,045
+<font color="#00ff00">♫</font>The king and his men<font color="#00ff00">♪</font>
+
+19
+00:02:35,120 --> 00:02:39,784
+<font color="#00ff00">♫</font>Stole the queen from her bed<font color="#00ff00">♪</font>
+
+20
+00:02:41,493 --> 00:02:47,454
+<font color="#00ff00">♫</font>And bound her in her bones<font color="#00ff00">♪</font>
+
+21
+00:02:48,500 --> 00:02:51,765
+<font color="#00ff00">♫</font>The seas be ours<font color="#00ff00">♪</font>
+
+22
+00:02:52,104 --> 00:02:56,165
+<font color="#00ff00">♫</font>And by the powers<font color="#00ff00">♪</font>
+
+23
+00:02:58,677 --> 00:03:04,411
+<font color="#00ff00">♫</font>Where we will, we'll roam<font color="#00ff00">♪</font>
+
+24
+00:03:11,590 --> 00:03:14,753
+<font color="#00ff00">♫</font>Yo ho<font color="#00ff00">♪</font>
+
+25
+00:03:15,394 --> 00:03:18,693
+<font color="#00ff00">♫</font>All hands<font color="#00ff00">♪</font>
+
+26
+00:03:19,131 --> 00:03:24,728
+<font color="#00ff00">♫</font>Hoist the colors high<font color="#00ff00">♪</font>
+
+27
+00:03:26,538 --> 00:03:29,769
+<font color="#808080">[all]</font>
+<font color="#00ff00">♫</font>Heave-ho<font color="#00ff00">♪</font>
+
+28
+00:03:30,409 --> 00:03:34,311
+<font color="#00ff00">♫</font>Thieves and beggars<font color="#00ff00">♪</font>
+
+29
+00:03:34,379 --> 00:03:40,375
+<font color="#00ff00">♫</font>Never shall we die<font color="#00ff00">♪</font>
+
+30
+00:03:42,087 --> 00:03:45,545
+<font color="#00ff00">♫</font>Yo ho<font color="#00ff00">♪</font>
+
+31
+00:03:45,624 --> 00:03:49,355
+<font color="#00ff00">♫</font>Haul together<font color="#00ff00">♪</font>
+
+32
+00:03:49,428 --> 00:03:51,555
+<font color="#00ff00">♫</font>Hoist the colors high<font color="#00ff00">♪</font>
+
+33
+00:03:51,630 --> 00:03:52,790
+Lord Beckett!
+
+34
+00:03:54,433 --> 00:03:57,061
+They've started to sing, sir.
+
+35
+00:03:59,605 --> 00:04:03,905
+- Finally.
+<font color="#00ff00">♫</font>Thieves and beggars<font color="#00ff00">♪</font>
+
+36
+00:04:04,409 --> 00:04:10,245
+<font color="#00ff00">♫</font>Never shall we die<font color="#00ff00">♪</font>
+
+37
+00:04:40,712 --> 00:04:44,876
+<i><font color="#808080">[woman]</font>
+<font color="#00ff00">♫</font>Some have died<font color="#00ff00">♪</font>
+<font color="#00ff00">♫</font>and some are alive<font color="#00ff00">♪</font>
+
+38
+00:04:45,817 --> 00:04:49,253
+<font color="#00ff00">♫</font>Others sail on the sea<font color="#00ff00">♪</font>
+
+39
+00:04:50,822 --> 00:04:53,256
+<font color="#00ff00">♫</font>With the keys to the cage<font color="#00ff00">♪</font>
+
+40
+00:04:53,425 --> 00:04:55,689
+<font color="#00ff00">♫</font>And the devil to pay<font color="#00ff00">♪</font>
+
+41
+00:04:55,827 --> 00:04:59,820
+<font color="#00ff00">♫</font>We lay to Fiddler's Green<font color="#00ff00">♪</font>
+
+42
+00:05:01,900 --> 00:05:06,860
+<font color="#00ff00">♫</font>The bell has been raised<font color="#00ff00">♪</font>
+<font color="#00ff00">♫</font>from its watery grave<font color="#00ff00">♪</font>
+
+43
+00:05:07,272 --> 00:05:10,605
+<font color="#00ff00">♫</font>Hear its sepulchral tone<font color="#00ff00">♪</font>
+
+44
+00:05:11,843 --> 00:05:16,837
+<font color="#00ff00">♫</font>A call to all<font color="#00ff00">♪</font>
+<font color="#00ff00">♫</font>Pay heed the squall<font color="#00ff00">♪</font>
+
+45
+00:05:22,654 --> 00:05:25,214
+<font color="#808080">[fireworks ignite]</font>
+
+46
+00:05:25,290 --> 00:05:28,726
+<font color="#00ff00">♫</font>Turn yöur sails to home<font color="#00ff00">♪</font>
+
+47
+00:05:30,862 --> 00:05:32,887
+<font color="#00ff00">♫</font>Yo ho<font color="#00ff00">♪</font>
+
+48
+00:05:33,598 --> 00:05:35,566
+<font color="#00ff00">♫</font>Haul together<font color="#00ff00">♪</font>
+
+49
+00:05:35,934 --> 00:05:39,233
+<font color="#00ff00">♫</font>Hoist the colors high<font color="#00ff00">♪</font>
+
+50
+00:05:40,739 --> 00:05:43,367
+<font color="#00ff00">♫</font>Heave-ho<font color="#00ff00">♪</font>
+
+51
+00:05:43,442 --> 00:05:45,603
+<font color="#00ff00">♫</font>Thieve...</i>
+<font color="#00ff00">♫</font>Thief and beggar.<font color="#00ff00">♪</font>
+
+52
+00:05:45,677 --> 00:05:48,976
+<font color="#00ff00">♫</font>Never shall we die<font color="#00ff00">♪</font>
+
+53
+00:05:51,216 --> 00:05:54,379
+A dangerous song to be singing...
+
+54
+00:05:54,586 --> 00:05:57,316
+...for any who are
+ignorant of its meaning.
+
+55
+00:05:57,923 --> 00:05:59,823
+Particularly a woman.
+
+56
+00:06:01,393 --> 00:06:03,759
+Particularly a woman alone.
+
+57
+00:06:04,529 --> 00:06:06,724
+<font color="#808080">[Man]</font> What makes yöu think
+she's alone?
+
+58
+00:06:11,336 --> 00:06:12,826
+yöu protect her?
+
+59
+00:06:13,805 --> 00:06:16,205
+And what makes yöu think
+I need protecting?
+
+60
+00:06:16,608 --> 00:06:18,906
+yöur master's expecting us.
+
+61
+00:06:18,977 --> 00:06:23,346
+And an unexpected death'd
+cast a slight pall on our meeting.
+
+62
+00:06:24,950 --> 00:06:26,383
+<font color="#808080">[Man 2]</font> Pick those feet up!
+
+63
+00:06:28,320 --> 00:06:30,049
+On the double!
+
+64
+00:06:31,456 --> 00:06:33,287
+Eyes front!
+
+65
+00:06:42,134 --> 00:06:43,761
+<font color="#808080">[Man 2]</font> No, no, no. None.
+
+66
+00:06:45,003 --> 00:06:46,994
+<font color="#808080">[Footsteps marching]</font>
+
+67
+00:07:11,897 --> 00:07:14,593
+<font color="#808080">[Man]</font> It always takes me
+about a week to get my sea legs.
+
+68
+00:07:14,666 --> 00:07:16,827
+I was throwing up horribly
+the last time.
+
+69
+00:07:28,180 --> 00:07:31,240
+- <font color="#808080">[Squawk</font>]</font> Steady as she goes.
+- <font color="#808080">[Hurdy-gurdy music plays]</font>
+
+70
+00:07:33,618 --> 00:07:34,607
+All right.
+
+71
+00:07:38,323 --> 00:07:40,223
+Have yöu heard anything from Will?
+
+72
+00:07:40,292 --> 00:07:42,624
+I trust yöung Turner
+to acquire the charts
+
+73
+00:07:42,694 --> 00:07:46,130
+and yöu to remember yöur place
+in the presence of Captain Sao Feng.
+
+74
+00:07:46,665 --> 00:07:48,724
+Is he that terrifying?
+
+75
+00:07:48,800 --> 00:07:53,737
+He's much like myself, but absent my
+merciful nature and sense of fair play.
+
+76
+00:07:58,343 --> 00:07:59,401
+<font color="#808080">[Speaks in Chinese]</font>
+
+77
+00:08:08,753 --> 00:08:11,347
+- <font color="#808080">[Metal cracks]</font>
+- We're through. Make ready.
+
+78
+00:08:11,423 --> 00:08:13,015
+<font color="#808080">[Creaking]</font>
+
+79
+00:08:17,863 --> 00:08:19,057
+Hurry now.
+
+80
+00:08:25,470 --> 00:08:29,338
+Do yöu think because she is a woman
+we would not suspect her of treachery?
+
+81
+00:08:31,676 --> 00:08:33,701
+Well, when yöu put it that way...
+
+82
+00:08:34,379 --> 00:08:36,176
+Remove. Please.
+
+83
+00:09:21,026 --> 00:09:24,052
+Remove. Please.
+
+84
+00:10:09,307 --> 00:10:13,573
+Captain Barbossa,
+welcome to Singapore.
+
+85
+00:10:16,414 --> 00:10:18,075
+<font color="#808080">[Sniffles]</font>
+
+86
+00:10:18,149 --> 00:10:19,275
+More steam.
+
+87
+00:10:22,887 --> 00:10:25,879
+- <font color="#808080">[Hissing]</font>
+- <font color="#808080">[Men shouting in Chinese]</font>
+
+88
+00:10:37,769 --> 00:10:40,101
+<font color="#808080">[Grunting]</font>
+
+89
+00:10:41,840 --> 00:10:42,829
+None of that.
+
+90
+00:10:42,907 --> 00:10:46,866
+If things don't go the way we want,
+then we're the only chance they've got.
+
+91
+00:10:53,151 --> 00:10:57,747
+I understand that yöu have
+a request to make of me.
+
+92
+00:10:57,822 --> 00:11:00,882
+More of a proposal to put to ye.
+
+93
+00:11:01,292 --> 00:11:06,696
+I've a venture underway and I find
+myself in need of a ship and a crew.
+
+94
+00:11:07,732 --> 00:11:11,532
+Hmm. It's an odd coincidence.
+
+95
+00:11:11,603 --> 00:11:14,697
+Because yöu happen to have
+a ship and a crew yöu don't need?
+
+96
+00:11:14,773 --> 00:11:17,173
+No.
+
+97
+00:11:17,242 --> 00:11:19,870
+Because earlier this day,
+not far from here,
+
+98
+00:11:19,944 --> 00:11:23,903
+a thief broke into
+my most revered uncle's temple
+
+99
+00:11:24,049 --> 00:11:27,075
+and tried to make off with these.
+
+100
+00:11:28,720 --> 00:11:31,416
+The navigational charts.
+
+101
+00:11:32,057 --> 00:11:35,788
+The route to the Farthest Gate.
+
+102
+00:11:38,296 --> 00:11:42,756
+Wouldn't it be amazing
+if this venture of yöurs
+
+103
+00:11:42,834 --> 00:11:46,235
+took yöu to the world beyond this one?
+
+104
+00:11:46,304 --> 00:11:49,171
+It would strain credulity at that.
+
+105
+00:11:56,581 --> 00:11:58,845
+<font color="#808080">[Splashing]</font>
+
+106
+00:11:58,917 --> 00:12:01,044
+<font color="#808080">[Gasping]</font>
+
+107
+00:12:03,221 --> 00:12:07,920
+This is the thief.
+Is his face familiar to yöu?
+
+108
+00:12:10,729 --> 00:12:14,165
+Then I guess he has
+no further need for it.
+
+109
+00:12:14,499 --> 00:12:15,488
+No, no!
+
+110
+00:12:24,409 --> 00:12:29,312
+yöu come into my city
+and yöu betray my hospitality.
+
+111
+00:12:30,181 --> 00:12:33,673
+- I assure yöu I had no idea...
+- That he would get caught!
+
+112
+00:12:38,089 --> 00:12:41,252
+yöu intend to attempt the voyage
+to Davy Jones' Locker.
+
+113
+00:12:41,326 --> 00:12:43,658
+But I cannot help but wonder...
+
+114
+00:12:45,330 --> 00:12:46,695
+Why?
+
+115
+00:12:56,141 --> 00:13:01,875
+The song has been sung.
+The time is upon us.
+
+116
+00:13:02,380 --> 00:13:06,146
+We must convene the Brethren Court.
+
+117
+00:13:06,217 --> 00:13:12,178
+As one of the nine pirate lords,
+yöu must honor the call.
+
+118
+00:13:14,058 --> 00:13:15,218
+More steam.
+
+119
+00:13:22,200 --> 00:13:23,724
+More steam!
+
+120
+00:13:26,237 --> 00:13:27,465
+<font color="#808080">[Groans]</font>
+
+121
+00:13:30,842 --> 00:13:34,334
+- There is a price on all our heads.
+- Aye.
+
+122
+00:13:34,412 --> 00:13:36,312
+It is true.
+
+123
+00:13:36,381 --> 00:13:39,646
+It seems the only way a pirate
+can turn a profit anymore...
+
+124
+00:13:41,286 --> 00:13:44,687
+...is by betraying other pirates.
+
+125
+00:13:44,756 --> 00:13:47,122
+<font color="#808080">[Barbossa]</font> We must put
+our differences aside.
+
+126
+00:13:47,192 --> 00:13:48,250
+Wait for the signal.
+
+127
+00:13:48,326 --> 00:13:51,489
+<font color="#808080">[Barbossa]</font> The First Brethren Court
+gave us rule of the seas.
+
+128
+00:13:51,563 --> 00:13:56,227
+But now that rule is being challenged
+by Lord Cutler Beckett.
+
+129
+00:13:56,367 --> 00:13:59,097
+<font color="#808080">[Sao Feng]</font> Against East India
+Trading Company,
+
+130
+00:13:59,170 --> 00:14:01,832
+what value is the Brethren Court?
+
+131
+00:14:02,507 --> 00:14:04,338
+What can any of us do?
+
+132
+00:14:04,409 --> 00:14:07,242
+yöu can fight!
+Get off me!
+
+133
+00:14:07,312 --> 00:14:10,770
+yöu are Sao Feng,
+the pirate lord of Singapore.
+
+134
+00:14:10,849 --> 00:14:15,548
+yöu command in an age of piracy
+where bold captains sail free waters.
+
+135
+00:14:16,054 --> 00:14:19,490
+Where waves aren't measured in feet,
+but as increments of fear,
+
+136
+00:14:19,557 --> 00:14:21,821
+and those who pass the test
+become legend.
+
+137
+00:14:22,460 --> 00:14:25,258
+Would yöu have that era
+come to an end on yöur watch?
+
+138
+00:14:25,797 --> 00:14:28,459
+The most notorious pirates
+from around the world
+
+139
+00:14:28,533 --> 00:14:30,524
+are uniting against our enemy,
+
+140
+00:14:30,602 --> 00:14:33,696
+and yet yöu sit here
+cowering in yöur bathwater!
+
+141
+00:14:39,143 --> 00:14:41,043
+Elizabeth Swann.
+
+142
+00:14:41,579 --> 00:14:45,276
+There is more to yöu
+than meets the eye, isn't there?
+
+143
+00:14:46,050 --> 00:14:50,009
+And the eye does not go wanting.
+
+144
+00:14:51,556 --> 00:14:56,926
+But I cannot help but notice
+yöu have failed to answer my question.
+
+145
+00:14:58,263 --> 00:15:01,664
+What is it yöu seek
+in Davy Jones' Locker?
+
+146
+00:15:01,733 --> 00:15:02,927
+Jack Sparrow.
+
+147
+00:15:04,102 --> 00:15:05,899
+<font color="#808080">[Giggling]</font>
+
+148
+00:15:05,970 --> 00:15:08,029
+He's one of the pirate lords.
+
+149
+00:15:13,912 --> 00:15:15,402
+<font color="#808080">[Sao Feng]</font> The only reason...
+
+150
+00:15:16,414 --> 00:15:20,441
+...I would want Jack Sparrow returned
+from the land of the dead...
+
+151
+00:15:21,152 --> 00:15:24,485
+...is so I can send him back myself!
+
+152
+00:15:28,960 --> 00:15:33,192
+Jack Sparrow holds
+one of the nine pieces of eight.
+
+153
+00:15:33,264 --> 00:15:36,722
+He failed to pass it along
+to a successor before he died.
+
+154
+00:15:36,801 --> 00:15:39,429
+So we must go and get him back.
+
+155
+00:15:44,642 --> 00:15:47,975
+So yöu admit...
+
+156
+00:15:48,313 --> 00:15:50,577
+...yöu have deceived me.
+
+157
+00:15:50,648 --> 00:15:52,047
+Weapons!
+
+158
+00:15:52,116 --> 00:15:53,947
+<font color="#808080">[Yelling]</font>
+
+159
+00:15:55,253 --> 00:15:56,447
+Weapons.
+
+160
+00:15:57,121 --> 00:16:01,114
+Sao Feng, I assure yöu,
+our intentions are strictly honorable.
+
+161
+00:16:08,232 --> 00:16:11,133
+Drop yöur weapons or I kill the man!
+
+162
+00:16:13,571 --> 00:16:15,368
+Kill him. He's not our man.
+
+163
+00:16:17,442 --> 00:16:20,343
+If he's not with yöu,
+and he's not with us...
+
+164
+00:16:21,012 --> 00:16:22,912
+...who's he with?
+
+165
+00:16:22,981 --> 00:16:25,381
+- <font color="#808080">[Door opens]</font>
+- Charge!
+
+166
+00:16:46,237 --> 00:16:47,226
+Will!
+
+167
+00:16:55,113 --> 00:16:56,102
+<font color="#808080">[Gasps]</font>
+
+168
+00:17:01,619 --> 00:17:04,144
+<font color="#808080">[Man]</font> Look out! Look behind yöu!
+
+169
+00:17:04,222 --> 00:17:06,417
+<font color="#808080">[Clamoring]</font>
+
+170
+00:17:07,125 --> 00:17:08,387
+Ready!
+
+171
+00:17:09,961 --> 00:17:10,950
+Fire.
+
+172
+00:17:13,631 --> 00:17:15,292
+<font color="#808080">[Shouts]</font>
+
+173
+00:17:20,772 --> 00:17:21,761
+Chart!
+
+174
+00:17:47,432 --> 00:17:48,456
+Boo!
+
+175
+00:17:52,804 --> 00:17:57,434
+Company! Make ready. Set. Fire!
+
+176
+00:18:04,415 --> 00:18:05,404
+Company!
+
+177
+00:18:05,483 --> 00:18:07,576
+Make ready. Set.
+
+178
+00:18:07,652 --> 00:18:10,450
+<font color="#808080">[Hurdy-gurdy music playing]</font>
+
+179
+00:18:10,521 --> 00:18:12,716
+- Fire!
+- <font color="#808080">[Explosion]</font>
+
+180
+00:18:14,592 --> 00:18:17,254
+<font color="#808080">[Shouting and gunfire continues]</font>
+
+181
+00:18:23,234 --> 00:18:24,565
+<font color="#808080">[Metal clanging on floor]</font>
+
+182
+00:18:28,539 --> 00:18:30,973
+It's an odd coincidence, isn't it?
+
+183
+00:18:31,042 --> 00:18:35,979
+The East India Trading Company finds me
+the day yöu show up in Singapore.
+
+184
+00:18:36,047 --> 00:18:37,480
+It is coincidence only.
+
+185
+00:18:38,649 --> 00:18:40,116
+<font color="#808080">[Gun cocks]</font>
+
+186
+00:18:41,219 --> 00:18:45,087
+If yöu want to make a deal with Beckett,
+yöu need what I offer.
+
+187
+00:18:46,324 --> 00:18:50,818
+yöu cross Barbossa.
+yöu are willing to cross Jack Sparrow.
+
+188
+00:18:51,262 --> 00:18:53,924
+Why should I expect any better?
+
+189
+00:18:53,998 --> 00:18:56,865
+I need the <i>Black Pearl</i>
+to free my father.
+
+190
+00:19:00,138 --> 00:19:01,765
+yöu're helping me to get it.
+
+191
+00:19:10,915 --> 00:19:12,348
+<font color="#808080">[Squawks]</font> Uh-oh.
+
+192
+00:19:17,688 --> 00:19:19,155
+Fire in the hole.
+
+193
+00:19:27,098 --> 00:19:28,827
+<font color="#808080">[Popping and exploding]</font>
+
+194
+00:19:33,838 --> 00:19:35,567
+<font color="#808080">[Man screaming]</font>
+
+195
+00:19:37,341 --> 00:19:38,535
+Thank yöu, Jack.
+
+196
+00:19:38,609 --> 00:19:40,702
+- <font color="#808080">[Screeches]</font>
+- <font color="#808080">[Squawk]</font> Thank yöu, Jack.
+
+197
+00:19:42,947 --> 00:19:45,745
+- yöu have the charts?
+- And better yet.
+
+198
+00:19:46,384 --> 00:19:49,148
+- A ship and a crew.
+- Where's Sao Feng?
+
+199
+00:19:49,220 --> 00:19:52,053
+He'll cover our escape
+and meet us at Shipwreck Cove.
+
+200
+00:19:52,123 --> 00:19:53,954
+This way. Be quick.
+
+201
+00:20:00,298 --> 00:20:02,994
+<font color="#808080">[Gibbs]</font> Haul the snotters with a will!
+
+202
+00:20:03,067 --> 00:20:04,762
+<font color="#808080">[Pintel]</font> Keep it taut.
+
+203
+00:20:05,836 --> 00:20:08,828
+<font color="#808080">[Gibbs]</font> Secure provisions
+and stow the cargo.
+
+204
+00:20:08,906 --> 00:20:11,739
+There's no place left
+for Sao Feng to cower.
+
+205
+00:20:12,343 --> 00:20:14,709
+Do yöu think he will honor the call?
+
+206
+00:20:15,279 --> 00:20:17,247
+I cannot say.
+
+207
+00:20:18,115 --> 00:20:20,379
+There's an evil on these seas
+
+208
+00:20:20,451 --> 00:20:25,787
+that even the most staunch and
+bloodthirsty pirates have come to fear.
+
+209
+00:20:55,453 --> 00:20:57,444
+<font color="#808080">[Cannon fire booming]</font>
+
+210
+00:21:32,890 --> 00:21:34,357
+A piece of eight.
+
+211
+00:21:35,092 --> 00:21:36,821
+Nine of them, yöu say.
+
+212
+00:21:36,894 --> 00:21:39,988
+Our new friend in Singapore
+was very specific, sir.
+
+213
+00:21:40,064 --> 00:21:41,656
+Nine pieces of eight.
+
+214
+00:21:41,732 --> 00:21:44,292
+What's the significance of that,
+I wonder.
+
+215
+00:21:44,368 --> 00:21:46,700
+Nothing can hold against the armada.
+
+216
+00:21:46,771 --> 00:21:49,001
+Not with the <i>Flying Dutchman</i>
+at the lead.
+
+217
+00:21:49,073 --> 00:21:50,597
+Nothing we know of.
+
+218
+00:21:51,976 --> 00:21:55,309
+Did yöur friend mention
+where the Brethren Court are meeting?
+
+219
+00:21:55,379 --> 00:21:58,109
+He was mum on that, sir.
+
+220
+00:21:58,182 --> 00:21:59,649
+Hmm.
+
+221
+00:21:59,717 --> 00:22:02,151
+Then he knows the value of information.
+
+222
+00:22:02,219 --> 00:22:05,017
+Better keep this between ourselves.
+
+223
+00:22:05,089 --> 00:22:08,388
+We don't want anyone
+running off to Singapore, do we?
+
+224
+00:22:10,261 --> 00:22:14,994
+- Ah, admiral.
+- yöu summoned me, Lord Beckett.
+
+225
+00:22:15,066 --> 00:22:17,796
+Yes. Something for yöu there.
+
+226
+00:22:17,868 --> 00:22:21,235
+yöur new station deserves an old friend.
+
+227
+00:22:35,019 --> 00:22:38,352
+- Not more requisition orders.
+- No, sir.
+
+228
+00:22:38,422 --> 00:22:39,980
+Execution.
+
+229
+00:22:40,057 --> 00:22:41,649
+<font color="#808080">[Sword unsheathed]</font>
+
+230
+00:22:45,863 --> 00:22:48,058
+The Brethren know they face extinction.
+
+231
+00:22:49,066 --> 00:22:53,435
+All that remains is for them to decide
+where they make their final stand.
+
+232
+00:23:18,229 --> 00:23:21,426
+No one said anything about cold.
+
+233
+00:23:21,499 --> 00:23:25,265
+I'm sure there must be
+a good reason for our suffering.
+
+234
+00:23:26,270 --> 00:23:29,205
+Why don't that obeah woman
+bring Jack back the same way
+
+235
+00:23:29,273 --> 00:23:33,801
+- she brought back Barbossa?
+- Because Barbossa was only dead.
+
+236
+00:23:35,112 --> 00:23:39,378
+Jack Sparrow is taken, body and soul,
+
+237
+00:23:39,450 --> 00:23:44,615
+to a place not of death, but punishment.
+
+238
+00:23:44,688 --> 00:23:48,522
+The worst fate a person
+can bring upon himself...
+
+239
+00:23:48,959 --> 00:23:51,189
+...stretching on forever.
+
+240
+00:23:51,629 --> 00:23:55,121
+That's what awaits
+at Davy Jones' Locker.
+
+241
+00:23:59,303 --> 00:24:02,670
+Yeah. I knew there was a good reason.
+
+242
+00:24:10,114 --> 00:24:12,105
+<font color="#808080">[Groaning]</font>
+
+243
+00:24:13,651 --> 00:24:15,915
+<font color="#808080">[Shudders]</font> Nothing here is set.
+
+244
+00:24:17,121 --> 00:24:19,282
+These can't be
+as accurate as modern charts.
+
+245
+00:24:19,356 --> 00:24:24,020
+No. But it leads to more places.
+
+246
+00:24:30,100 --> 00:24:31,624
+"Over the edge.
+
+247
+00:24:31,702 --> 00:24:34,136
+Over again."
+
+248
+00:24:35,973 --> 00:24:38,669
+"Sunrise sets.
+
+249
+00:24:38,742 --> 00:24:41,734
+Flash of green."
+
+250
+00:24:42,613 --> 00:24:46,606
+Do yöu care to interpret,
+Captain Barbossa?
+
+251
+00:24:47,418 --> 00:24:52,287
+Ever gazed upon the green flash,
+Master Gibbs?
+
+252
+00:24:52,356 --> 00:24:56,918
+I reckon I seen my fair share.
+Happens on rare occasion.
+
+253
+00:24:56,994 --> 00:25:00,794
+The last glimpse of sunset,
+a green flash shoots up into the sky.
+
+254
+00:25:01,198 --> 00:25:04,190
+Some go their whole lives
+without ever seeing it.
+
+255
+00:25:04,268 --> 00:25:07,101
+Some claim to have seen it who ain't.
+And some say...
+
+256
+00:25:07,171 --> 00:25:11,335
+It signals when a soul
+comes back to this world from the dead.
+
+257
+00:25:15,913 --> 00:25:19,508
+- Sorry.
+- Trust me, yöung Master Turner.
+
+258
+00:25:19,583 --> 00:25:22,916
+It's not getting to the land
+of the dead that's the problem.
+
+259
+00:25:25,155 --> 00:25:26,918
+It's getting back.
+
+260
+00:26:07,464 --> 00:26:07,565
+<font color="#808080">[Man]</font> Bosun!
+Head to wind! Lift the sail!
+
+261
+00:26:07,565 --> 00:26:12,161
+<font color="#808080">[Man]</font> Bosun!
+Head to wind! Lift the sail!
+
+262
+00:26:12,236 --> 00:26:13,464
+<font color="#808080">[Man 2]</font> Aye, aye, sir!
+
+263
+00:26:15,639 --> 00:26:18,733
+Bloody hell. There's nothing left.
+
+264
+00:26:18,809 --> 00:26:22,176
+Jones is a loose cannon, sir.
+
+265
+00:26:22,646 --> 00:26:24,614
+Fetch the chest.
+
+266
+00:26:25,316 --> 00:26:27,477
+And the governor?
+
+267
+00:26:28,252 --> 00:26:32,018
+He's been asking questions
+about the heart.
+
+268
+00:26:32,590 --> 00:26:34,421
+Does he know?
+
+269
+00:26:37,995 --> 00:26:41,658
+Then perhaps his usefulness
+has run its course.
+
+270
+00:26:51,842 --> 00:26:55,243
+- <font color="#808080">[Organ playing]</font>
+- <font color="#808080">[Sighing]</font>
+
+271
+00:27:01,619 --> 00:27:04,611
+<font color="#808080">[Music box playing]</font>
+
+272
+00:27:26,777 --> 00:27:28,108
+<font color="#808080">[Music box stops]</font>
+
+273
+00:27:41,892 --> 00:27:43,917
+<font color="#808080">[Man]</font> Step lively, men.
+
+274
+00:27:44,361 --> 00:27:45,919
+Step lively!
+
+275
+00:27:47,998 --> 00:27:49,192
+Stand fast!
+
+276
+00:27:55,906 --> 00:27:57,601
+Steady, men.
+
+277
+00:28:03,380 --> 00:28:09,250
+Go. All of yöu.
+And take that infernal thing with yöu.
+
+278
+00:28:09,319 --> 00:28:12,288
+I will not have it on my ship!
+
+279
+00:28:12,356 --> 00:28:15,883
+Oh, I'm sorry to hear that...
+because I will.
+
+280
+00:28:15,959 --> 00:28:18,860
+Because it seems to be
+the only way to ensure
+
+281
+00:28:18,929 --> 00:28:22,330
+that this ship do as directed
+by the company.
+
+282
+00:28:27,538 --> 00:28:29,972
+We need prisoners to interrogate,
+
+283
+00:28:30,040 --> 00:28:33,237
+which tends to work best
+when they're alive.
+
+284
+00:28:33,310 --> 00:28:37,212
+The <i>Dutchman</i> sails
+as its captain commands.
+
+285
+00:28:37,281 --> 00:28:41,183
+And its captain
+is to sail it as commanded.
+
+286
+00:28:43,787 --> 00:28:47,883
+I would have thought yöu'd learned that
+when I ordered yöu to kill yöur pet.
+
+287
+00:28:48,859 --> 00:28:52,556
+This is no longer yöur world, Jones.
+
+288
+00:28:53,397 --> 00:28:56,764
+The immaterial has become...
+
+289
+00:28:57,901 --> 00:28:59,630
+...immaterial.
+
+290
+00:29:00,738 --> 00:29:02,831
+<font color="#808080">[Norrington]</font> Charge yöur bayonets.
+
+291
+00:29:03,807 --> 00:29:06,742
+<font color="#808080">[Heartbeat]</font>
+
+292
+00:29:41,812 --> 00:29:44,212
+How long do we continue not talking?
+
+293
+00:29:48,218 --> 00:29:50,743
+Once we rescue Jack,
+everything'll be fine.
+
+294
+00:29:53,857 --> 00:29:55,290
+Then we rescue Jack.
+
+295
+00:30:20,584 --> 00:30:23,781
+For what we want most...
+
+296
+00:30:25,789 --> 00:30:29,088
+...there is a cost
+must be paid in the end.
+
+297
+00:30:40,370 --> 00:30:45,307
+- Barbossa, ahead!
+- Aye, we're good and lost now.
+
+298
+00:30:46,210 --> 00:30:48,838
+- Lost?
+- For certain yöu have to be lost
+
+299
+00:30:48,912 --> 00:30:50,903
+to find a place as can't be found.
+
+300
+00:30:50,981 --> 00:30:53,347
+Elseways, everyone
+would know where it was.
+
+301
+00:30:53,617 --> 00:30:56,085
+- We're gaining speed.
+- Aye.
+
+302
+00:30:57,087 --> 00:30:58,679
+To stations!
+
+303
+00:30:59,790 --> 00:31:01,189
+All hands to stations!
+
+304
+00:31:01,258 --> 00:31:04,022
+- <font color="#808080">[Men shouting]</font>
+- Huh?
+
+305
+00:31:04,094 --> 00:31:06,995
+Rudder full. Hard aport! Gather way.
+
+306
+00:31:07,064 --> 00:31:11,899
+Nay! Belay that!
+Let her run straight and true!
+
+307
+00:31:13,804 --> 00:31:15,032
+Blimey.
+
+308
+00:31:29,052 --> 00:31:32,419
+- yöu've doomed us all.
+- Don't be so unkind.
+
+309
+00:31:32,489 --> 00:31:35,151
+yöu may not survive
+to pass this way again,
+
+310
+00:31:35,225 --> 00:31:39,059
+and these be the last
+friendly words yöu'll hear.
+
+311
+00:31:43,834 --> 00:31:45,062
+Tie her off.
+
+312
+00:31:45,569 --> 00:31:48,732
+<font color="#808080">[Muttering]</font>
+
+313
+00:31:50,741 --> 00:31:52,436
+Hard aport.
+
+314
+00:31:59,149 --> 00:32:01,117
+<font color="#808080">[Men shouting]</font>
+
+315
+00:32:01,184 --> 00:32:03,209
+Hold on!
+
+316
+00:32:31,214 --> 00:32:35,082
+- <font color="#808080">[Music playing]</font>
+- <font color="#808080">[Cannons firing]</font>
+
+317
+00:32:35,152 --> 00:32:39,782
+<i><font color="#808080">[Man laughs]</font>
+Strike yöur colors,</i><i>yöu blooming cockroaches.</i>
+
+318
+00:32:39,856 --> 00:32:45,385
+<i><font color="#808080">[Man 2]</font>
+Dead men tell no tales.</i>
+
+319
+00:32:45,462 --> 00:32:47,293
+<i><font color="#808080">[Echoing]</font></i>
+
+320
+00:32:49,833 --> 00:32:51,892
+<font color="#808080">[Man sniffing]</font>
+
+321
+00:33:18,862 --> 00:33:20,591
+<font color="#808080">[Gunshot]</font>
+
+322
+00:33:33,577 --> 00:33:35,010
+My peanut.
+
+323
+00:33:36,613 --> 00:33:38,672
+Haul the halyard. Slacken braces.
+
+324
+00:33:38,749 --> 00:33:41,047
+Aye, captain.
+Slacken braces.
+
+325
+00:33:41,118 --> 00:33:43,245
+Step lively with a will.
+
+326
+00:33:43,320 --> 00:33:44,912
+- Aye, aye.
+- Right away, sir.
+
+327
+00:33:44,988 --> 00:33:46,683
+I want a fire down below!
+
+328
+00:33:49,793 --> 00:33:53,524
+- Help.
+- Man the yards, yöu filthy toads.
+
+329
+00:33:53,597 --> 00:33:55,929
+<font color="#808080">[Muffled groaning]</font>
+
+330
+00:33:56,767 --> 00:33:58,496
+<font color="#808080">[Clucking]</font>
+
+331
+00:34:04,508 --> 00:34:08,308
+<font color="#808080">[All]</font> Haul! Haul!
+
+332
+00:34:08,378 --> 00:34:11,245
+Haul the sheets handsomely.
+Scandalize the lateens.
+
+333
+00:34:11,314 --> 00:34:13,111
+- Aye, sir.
+- Right away, sir.
+
+334
+00:34:27,130 --> 00:34:29,098
+- Mr. Sparrow?
+- Aye, cap'n.
+
+335
+00:34:29,866 --> 00:34:32,596
+What say yöu about
+the condition of this tack line?
+
+336
+00:34:33,303 --> 00:34:36,739
+- It be proper to my eyes, sir.
+- Proper?
+
+337
+00:34:36,807 --> 00:34:40,675
+It is neither proper nor suitable, sir.
+It is not acceptable nor adequate.
+
+338
+00:34:40,744 --> 00:34:43,178
+It is, in obvious fact, an abomination.
+
+339
+00:34:43,246 --> 00:34:46,773
+Begging yöur pardon, sir,
+but if yöu gave a man another chance.
+
+340
+00:34:47,184 --> 00:34:49,118
+- Shall I?
+- <font color="#808080">[Unsheathes sword]</font>
+
+341
+00:34:53,090 --> 00:34:56,150
+It's that sort of thinking
+got us into this mess.
+
+342
+00:34:58,895 --> 00:35:01,762
+We have lost speed and, therefore, time.
+
+343
+00:35:01,832 --> 00:35:06,064
+Precious time,
+which cannot be recovered once lost.
+
+344
+00:35:06,136 --> 00:35:07,933
+Do yöu understand?
+
+345
+00:35:08,004 --> 00:35:11,132
+- <font color="#808080">[All]</font> Aye, aye, captain.
+- Do yöu now?
+
+346
+00:35:11,675 --> 00:35:14,872
+It will all have to be redone.
+All of it.
+
+347
+00:35:14,945 --> 00:35:17,413
+And let this serve
+as a lesson to the lot of yöu.
+
+348
+00:35:17,481 --> 00:35:20,973
+Doldrums, sir,
+has the entire crew on edge.
+
+349
+00:35:21,051 --> 00:35:24,020
+I have no sympathy
+for any of yöu feculent maggots,
+
+350
+00:35:24,087 --> 00:35:26,988
+and no more patience
+to pretend otherwise.
+
+351
+00:35:29,793 --> 00:35:33,786
+Gentlemen, I wash my hands
+of this weirdness.
+
+352
+00:35:44,341 --> 00:35:45,740
+No wind.
+
+353
+00:35:46,243 --> 00:35:48,211
+Of course, there's no bloody wind.
+
+354
+00:35:49,846 --> 00:35:52,314
+My soul I do swear for a breeze.
+
+355
+00:35:52,382 --> 00:35:57,217
+Gust. Whisper. A tiny, miniature lick.
+
+356
+00:36:10,000 --> 00:36:12,491
+Yes, sir, I know, but why?
+Why would he do that?
+
+357
+00:36:12,569 --> 00:36:14,264
+Because he's a lummox, isn't he?
+
+358
+00:36:14,337 --> 00:36:18,034
+We shall have a magnificent
+garden party and yöu're not invited.
+
+359
+00:36:31,288 --> 00:36:32,721
+Shoo.
+
+360
+00:36:51,741 --> 00:36:53,003
+A rock.
+
+361
+00:37:20,303 --> 00:37:23,864
+Now we're being followed by rocks.
+Never had that before.
+
+362
+00:37:24,174 --> 00:37:25,163
+Oh.
+
+363
+00:37:26,643 --> 00:37:28,201
+A rope.
+
+364
+00:37:34,184 --> 00:37:37,176
+<font color="#808080">[Grunting]</font>
+
+365
+00:37:49,599 --> 00:37:51,590
+<font color="#808080">[Panting]</font>
+
+366
+00:39:08,945 --> 00:39:11,607
+<font color="#808080">[Rumbling]</font>
+
+367
+00:39:41,711 --> 00:39:43,576
+<font color="#808080">[Coughing and gagging]</font>
+
+368
+00:39:48,918 --> 00:39:52,012
+This truly is a godforsaken place.
+
+369
+00:39:52,789 --> 00:39:55,849
+I don't see Jack.
+I don't see anyone.
+
+370
+00:39:57,193 --> 00:39:58,820
+He's here.
+
+371
+00:39:58,895 --> 00:40:02,194
+Davy Jones never once
+gave up that what he took.
+
+372
+00:40:02,265 --> 00:40:03,698
+And does it matter?
+
+373
+00:40:03,767 --> 00:40:06,827
+We're trapped here by yöur doing.
+No different than Jack.
+
+374
+00:40:10,006 --> 00:40:15,171
+Witty Jack is closer than yöu think.
+
+375
+00:40:55,785 --> 00:40:57,343
+Impossible.
+
+376
+00:41:02,992 --> 00:41:03,981
+Boat.
+
+377
+00:41:10,366 --> 00:41:14,268
+Slap me thrice
+and hand me to me mama. It's Jack.
+
+378
+00:41:23,413 --> 00:41:26,109
+- It's the captain!
+- A sight for sore eyes.
+
+379
+00:41:26,182 --> 00:41:27,274
+<font color="#808080">[Parrot]</font> Hide the rum.
+
+380
+00:41:27,350 --> 00:41:29,284
+- Mr. Gibbs.
+- Aye, cap'n.
+
+381
+00:41:29,352 --> 00:41:30,717
+I thought so.
+
+382
+00:41:30,787 --> 00:41:33,756
+I expect yöu're able
+to account for yöur actions, then.
+
+383
+00:41:33,823 --> 00:41:34,812
+Sir?
+
+384
+00:41:34,891 --> 00:41:38,918
+There's been a perpetual and virulent
+lack of discipline upon my vessel. Why?
+
+385
+00:41:38,995 --> 00:41:41,327
+- Why is that, sir?
+- Sir, yöu're...
+
+386
+00:41:42,165 --> 00:41:44,963
+yöu're in Davy Jones' Locker, cap'n.
+
+387
+00:41:48,671 --> 00:41:51,970
+I know that.
+I know where I am.
+
+388
+00:41:52,041 --> 00:41:56,273
+- And don't think I don't.
+- Jack Sparrow.
+
+389
+00:41:56,980 --> 00:41:58,845
+Oh, Hector.
+
+390
+00:41:58,915 --> 00:42:00,849
+It's been too long. Hasn't it?
+
+391
+00:42:00,917 --> 00:42:05,718
+Aye. Isla de Muerta, remember?
+yöu shot me.
+
+392
+00:42:07,123 --> 00:42:08,988
+No, I didn't.
+
+393
+00:42:09,058 --> 00:42:11,151
+Tia Dalma, out and about, eh?
+
+394
+00:42:11,227 --> 00:42:15,129
+yöu add an agreeable sense
+of the macabre to any delirium.
+
+395
+00:42:16,466 --> 00:42:18,366
+He thinks we're a hallucination.
+
+396
+00:42:19,269 --> 00:42:20,930
+William, tell me something:
+
+397
+00:42:21,004 --> 00:42:25,031
+Have yöu come because yöu need my help
+to save a certain distressing damsel,
+
+398
+00:42:25,108 --> 00:42:28,669
+or rather, damsel in distress?
+Either one.
+
+399
+00:42:29,212 --> 00:42:30,201
+No.
+
+400
+00:42:30,280 --> 00:42:32,714
+Well, then,
+yöu wouldn't be here, would yöu?
+
+401
+00:42:32,782 --> 00:42:36,775
+So yöu can't be here.
+Q.E.D., yöu're not really here.
+
+402
+00:42:36,853 --> 00:42:38,218
+<font color="#808080">[Elizabeth]</font> Jack.
+
+403
+00:42:40,390 --> 00:42:42,324
+This is real. We're here.
+
+404
+00:42:53,303 --> 00:42:55,965
+- The Locker, yöu say?
+- Aye.
+
+405
+00:42:56,406 --> 00:42:58,704
+We've come to rescue yöu.
+
+406
+00:43:00,310 --> 00:43:03,837
+Have yöu, now?
+That's very kind of yöu.
+
+407
+00:43:03,913 --> 00:43:07,246
+But it would seem that
+as I possess a ship and yöu don't,
+
+408
+00:43:07,383 --> 00:43:11,479
+yöu're the ones in need of rescuing,
+and I'm not sure as I'm in the mood.
+
+409
+00:43:12,322 --> 00:43:15,849
+I see my ship. Right there.
+
+410
+00:43:19,362 --> 00:43:20,886
+Can't spot it.
+
+411
+00:43:20,964 --> 00:43:24,297
+Must be a tiny little thing
+hiding somewhere behind the <i>Pearl.</i>
+
+412
+00:43:24,367 --> 00:43:27,165
+Jack, Cutler Beckett
+has the heart of Davy Jones.
+
+413
+00:43:27,236 --> 00:43:30,603
+- He controls the <i>Flying Dutchman.</i>
+- He's taking over the seas.
+
+414
+00:43:30,673 --> 00:43:33,540
+The song has been sung.
+The Brethren Court is called.
+
+415
+00:43:33,610 --> 00:43:37,410
+Leave yöu alone for a minute, look
+what happens. Everything's gone to pot.
+
+416
+00:43:37,480 --> 00:43:40,142
+Aye. The world
+needs yöu back something fierce.
+
+417
+00:43:40,216 --> 00:43:42,013
+And yöu need a crew.
+
+418
+00:43:44,120 --> 00:43:46,315
+Why should I sail with any of yöu?
+
+419
+00:43:46,389 --> 00:43:49,881
+Four of yöu have tried to kill me
+in the past. One of yöu succeeded.
+
+420
+00:43:53,630 --> 00:43:57,066
+Oh, she's not told yöu.
+
+421
+00:43:57,133 --> 00:43:59,966
+yöu'll have loads to talk about
+while yöu're here.
+
+422
+00:44:01,337 --> 00:44:02,804
+As for yöu...
+
+423
+00:44:04,040 --> 00:44:09,910
+Now... don't tell me
+yöu didn't enjoy it at the time.
+
+424
+00:44:10,880 --> 00:44:12,939
+Fair enough. All right, yöu're in.
+
+425
+00:44:13,016 --> 00:44:14,950
+Don't need yöu. yöu scare me.
+
+426
+00:44:15,018 --> 00:44:18,886
+Gibbs, yöu can come. Marty. Mm...
+
+427
+00:44:18,955 --> 00:44:20,616
+- Cotton.
+- <font color="#808080">[Parrot squawks]</font>
+
+428
+00:44:20,690 --> 00:44:25,218
+Cotton's parrot, I'm a little iffy, but
+at least I'll have someone to talk to.
+
+429
+00:44:26,396 --> 00:44:27,693
+Who are yöu?
+
+430
+00:44:27,764 --> 00:44:30,062
+Tai Huang. These are my men.
+
+431
+00:44:30,733 --> 00:44:34,567
+- Where do yöur allegiances lie?
+- With the highest bidder.
+
+432
+00:44:35,004 --> 00:44:38,667
+- I have a ship.
+- That makes yöu the highest bidder.
+
+433
+00:44:38,741 --> 00:44:42,768
+Good man. Weigh anchor, all hands.
+Prepare to make sail.
+
+434
+00:44:42,845 --> 00:44:44,039
+<font color="#808080">[Parrot]</font> Weigh anchor.
+
+435
+00:44:47,617 --> 00:44:49,209
+<font color="#808080">[Barbossa]</font> Jack...
+
+436
+00:44:50,553 --> 00:44:54,148
+Which way are yöu going, Jack?
+
+437
+00:44:56,292 --> 00:44:59,591
+Trim that sail.
+Slack windward brace and sheet.
+
+438
+00:44:59,662 --> 00:45:02,222
+- Haul the pennant line.
+- Haul the pennant line.
+
+439
+00:45:02,298 --> 00:45:03,731
+What are yöu doing?
+
+440
+00:45:03,800 --> 00:45:06,394
+- What are yöu doing?
+- No, what are yöu doing?
+
+441
+00:45:06,469 --> 00:45:09,233
+- What are yöu doing?
+- No, what are yöu doing?
+
+442
+00:45:09,305 --> 00:45:11,796
+What are yöu?
+Captain gives orders on the ship.
+
+443
+00:45:11,874 --> 00:45:14,035
+The captain of the ship
+is giving orders.
+
+444
+00:45:14,610 --> 00:45:17,602
+- My ship, makes me captain.
+- They be my charts.
+
+445
+00:45:17,680 --> 00:45:20,171
+That makes yöu "chartman."
+
+446
+00:45:20,249 --> 00:45:25,152
+Stow it! The both of yöu!
+That's an order! Understand?!
+
+447
+00:45:30,993 --> 00:45:34,190
+Sorry. I just thought
+with the captain issue in doubt,
+
+448
+00:45:34,263 --> 00:45:37,198
+I'd throw in my name for consideration.
+
+449
+00:45:37,266 --> 00:45:38,528
+Sorry.
+
+450
+00:45:43,272 --> 00:45:45,570
+- I'd vote for yöu.
+- Yeah?
+
+451
+00:46:20,977 --> 00:46:22,842
+yöu left Jack to the Kraken.
+
+452
+00:46:23,913 --> 00:46:26,040
+He's rescued now. It's done with.
+
+453
+00:46:29,218 --> 00:46:31,186
+Will, I had no choice.
+
+454
+00:46:32,421 --> 00:46:34,286
+yöu chose not to tell me.
+
+455
+00:46:35,224 --> 00:46:36,953
+I couldn't.
+
+456
+00:46:38,294 --> 00:46:39,886
+It wasn't yöur burden to bear.
+
+457
+00:46:40,897 --> 00:46:42,762
+But I did bear it, didn't I?
+
+458
+00:46:44,467 --> 00:46:46,332
+I just didn't know what it was.
+
+459
+00:46:47,136 --> 00:46:48,763
+I thought...
+
+460
+00:46:49,939 --> 00:46:51,930
+yöu thought I loved him.
+
+461
+00:47:00,449 --> 00:47:04,283
+If yöu make yöur choices alone,
+how can I trust yöu?
+
+462
+00:47:07,290 --> 00:47:08,587
+yöu can't.
+
+463
+00:47:27,043 --> 00:47:29,375
+<font color="#808080">[Ship creaking]</font>
+
+464
+00:47:29,445 --> 00:47:31,242
+<font color="#808080">[Gasps]</font>
+
+465
+00:47:37,153 --> 00:47:38,313
+Eerie.
+
+466
+00:47:40,089 --> 00:47:42,250
+That's downright macabre.
+
+467
+00:47:47,797 --> 00:47:51,460
+I wonder what would happen if yöu
+dropped a cannonball on one of them?
+
+468
+00:47:53,970 --> 00:47:56,131
+<font color="#808080">[Both chuckling]</font>
+
+469
+00:48:01,377 --> 00:48:03,572
+Be disrespectful, it would.
+
+470
+00:48:03,646 --> 00:48:07,412
+They should be
+in the care of Davy Jones.
+
+471
+00:48:09,051 --> 00:48:12,214
+That was the duty
+him was charged with...
+
+472
+00:48:12,521 --> 00:48:15,217
+...by the goddess, Calypso.
+
+473
+00:48:17,093 --> 00:48:20,893
+To ferry those who die at sea
+to the other side.
+
+474
+00:48:24,200 --> 00:48:26,168
+And every ten years...
+
+475
+00:48:26,969 --> 00:48:29,096
+...him could come ashore...
+
+476
+00:48:30,139 --> 00:48:34,439
+...to be with she
+who love him... truly.
+
+477
+00:48:38,781 --> 00:48:41,375
+But the man has become a monster.
+
+478
+00:48:41,984 --> 00:48:46,011
+So he wasn't always... tentacley?
+
+479
+00:48:48,124 --> 00:48:49,284
+No.
+
+480
+00:48:51,494 --> 00:48:53,894
+Him was a man...
+
+481
+00:48:53,963 --> 00:48:55,954
+...once.
+
+482
+00:49:03,272 --> 00:49:05,297
+Now there's boats coming.
+
+483
+00:49:12,982 --> 00:49:15,746
+They're not a threat to us. Am I right?
+
+484
+00:49:16,352 --> 00:49:18,946
+We are nothing but ghosts to them.
+
+485
+00:49:19,021 --> 00:49:21,285
+It's best just let them be.
+
+486
+00:49:35,771 --> 00:49:38,239
+It's my father. We've made it back.
+
+487
+00:49:38,307 --> 00:49:40,867
+Father! Father, here, look here!
+
+488
+00:49:42,678 --> 00:49:43,770
+Elizabeth.
+
+489
+00:49:45,715 --> 00:49:47,239
+We're not back.
+
+490
+00:49:54,357 --> 00:49:55,381
+Father!
+
+491
+00:49:58,661 --> 00:50:02,153
+Elizabeth. Are yöu dead?
+
+492
+00:50:03,399 --> 00:50:04,730
+No. No.
+
+493
+00:50:05,735 --> 00:50:07,430
+I think I am.
+
+494
+00:50:07,503 --> 00:50:09,494
+No, yöu can't be.
+
+495
+00:50:10,639 --> 00:50:13,506
+There was this chest, yöu see.
+
+496
+00:50:14,276 --> 00:50:17,939
+It's odd.
+At the time it seemed so important.
+
+497
+00:50:18,614 --> 00:50:19,842
+Come aboard.
+
+498
+00:50:19,915 --> 00:50:21,678
+And a heart.
+
+499
+00:50:21,751 --> 00:50:27,018
+I learned that if yöu stab the heart,
+yöurs must take its place.
+
+500
+00:50:27,089 --> 00:50:30,616
+And yöu will sail the seas for eternity.
+
+501
+00:50:30,693 --> 00:50:33,685
+The <i>Dutchman</i> must have a captain.
+
+502
+00:50:34,764 --> 00:50:36,755
+Silly thing to die for.
+
+503
+00:50:37,133 --> 00:50:40,364
+Someone, cast a line.
+Come back with us!
+
+504
+00:50:42,204 --> 00:50:43,296
+Come on.
+
+505
+00:50:44,373 --> 00:50:48,605
+A touch... of destiny.
+
+506
+00:50:51,480 --> 00:50:52,777
+Take the line.
+
+507
+00:50:55,284 --> 00:50:57,479
+I'm so proud of yöu, Elizabeth.
+
+508
+00:50:57,553 --> 00:50:59,282
+Father, the line! Take the line!
+
+509
+00:51:03,092 --> 00:51:05,424
+- She must not leave the ship!
+- Father!
+
+510
+00:51:05,494 --> 00:51:09,760
+Please come with us!
+Please! No! I won't leave yöu!
+
+511
+00:51:10,399 --> 00:51:12,390
+I'll give yöur love to yöur mother.
+
+512
+00:51:12,468 --> 00:51:15,335
+- Please, I won't let yöu go!
+- Elizabeth.
+
+513
+00:51:15,404 --> 00:51:17,463
+- Elizabeth.
+- <font color="#808080">[Sobbing]</font>
+
+514
+00:51:23,579 --> 00:51:24,841
+Is there a way?
+
+515
+00:51:29,652 --> 00:51:31,347
+Him at peace.
+
+516
+00:51:38,761 --> 00:51:40,319
+No water.
+
+517
+00:51:41,464 --> 00:51:43,557
+Why is all but the rum gone?
+
+518
+00:51:45,201 --> 00:51:46,634
+Rum's gone too.
+
+519
+00:51:54,810 --> 00:51:59,440
+If we cannot escape
+these doldrums before night,
+
+520
+00:51:59,515 --> 00:52:03,417
+I fear we will sail on trackless seas.
+
+521
+00:52:03,486 --> 00:52:06,717
+Doomed to roam the reach between worlds.
+
+522
+00:52:07,523 --> 00:52:08,615
+Forever.
+
+523
+00:52:08,691 --> 00:52:12,650
+With no water, forever
+looks to be arriving a mite too soon.
+
+524
+00:52:13,229 --> 00:52:14,958
+Why doesn't he do something?
+
+525
+00:52:15,364 --> 00:52:18,231
+-<font color="#808080">[Ragetti]</font> Me eye. Give it back!
+- There's no sense to it.
+
+526
+00:52:18,300 --> 00:52:22,634
+And the green flash
+happens at sunset, not sunrise.
+
+527
+00:52:23,005 --> 00:52:27,669
+<font color="#808080">[Gibbs]</font> "Over the edge." Ah, it's
+driving me over the blooming edge.
+
+528
+00:52:28,310 --> 00:52:30,278
+Sunrises don't set.
+
+529
+00:52:34,783 --> 00:52:36,683
+<font color="#808080">[Jack]</font> "Up is down."
+
+530
+00:52:36,752 --> 00:52:39,243
+Well, that's just maddeningly unhelpful.
+
+531
+00:52:39,321 --> 00:52:41,289
+Why are these things never clear?
+
+532
+00:52:41,357 --> 00:52:44,190
+- Clear as mud, Jackie.
+- What? Eh?
+
+533
+00:52:47,863 --> 00:52:50,354
+- Stab the heart.
+- Don't stab the heart.
+
+534
+00:52:50,432 --> 00:52:53,595
+- Come again?
+- The <i>Dutchman</i> must have a captain.
+
+535
+00:52:53,669 --> 00:52:56,194
+That's even more
+than less than unhelpful.
+
+536
+00:52:56,272 --> 00:52:59,036
+Sail the seas for eternity.
+
+537
+00:52:59,108 --> 00:53:02,043
+- I love the sea.
+- What about port?
+
+538
+00:53:02,111 --> 00:53:04,102
+I prefer rum. Rum's good.
+
+539
+00:53:04,180 --> 00:53:09,174
+Making port. Where we can get rum,
+and salty wenches...
+
+540
+00:53:09,585 --> 00:53:13,180
+- Once every 10 years.
+- What'd he say?
+
+541
+00:53:13,255 --> 00:53:16,713
+- Once every 10 years.
+- Ten years is a long time, mate.
+
+542
+00:53:16,792 --> 00:53:19,124
+Even longer given the deficit of rum.
+
+543
+00:53:19,195 --> 00:53:21,459
+But eternity is longer still.
+
+544
+00:53:22,198 --> 00:53:25,224
+And how will yöu be spending it? Dead?
+
+545
+00:53:25,901 --> 00:53:27,300
+Or not?
+
+546
+00:53:27,369 --> 00:53:31,237
+- The immortal Captain Sparrow.
+- Oh, I like that.
+
+547
+00:53:31,540 --> 00:53:33,872
+Come sunset, it won't matter.
+
+548
+00:53:36,679 --> 00:53:38,374
+Not sunset.
+
+549
+00:53:41,650 --> 00:53:42,844
+Sundown.
+
+550
+00:53:43,819 --> 00:53:46,344
+And rise. Up.
+
+551
+00:53:47,623 --> 00:53:48,817
+What's that?
+
+552
+00:53:51,627 --> 00:53:54,755
+What is that?
+I don't know. What do yöu think?
+
+553
+00:53:54,830 --> 00:53:56,525
+- Where?
+- There.
+
+554
+00:54:03,305 --> 00:54:05,569
+<font color="#808080">[Jack grunting, stammers]</font>
+
+555
+00:54:18,320 --> 00:54:19,651
+What is it?
+
+556
+00:54:31,700 --> 00:54:33,531
+He's rocking the ship.
+
+557
+00:54:33,869 --> 00:54:35,496
+We're rocking the ship.
+
+558
+00:54:39,608 --> 00:54:42,475
+Aye. He's onto it.
+
+559
+00:54:42,544 --> 00:54:44,705
+<font color="#808080">[Creaking]</font>
+
+560
+00:54:44,780 --> 00:54:46,509
+He's rocking the ship.
+
+561
+00:54:46,582 --> 00:54:48,982
+We'll tie each other
+to the mast upside down,
+
+562
+00:54:49,051 --> 00:54:51,713
+so when the boat flips
+we'll be the right way up.
+
+563
+00:54:52,821 --> 00:54:54,345
+Time it with the swell.
+
+564
+00:54:55,991 --> 00:54:59,688
+Loose the cannons, yöu lazy bilge rats.
+
+565
+00:55:01,430 --> 00:55:05,059
+Unstow the cargo. Let it shift.
+
+566
+00:55:05,734 --> 00:55:07,531
+<font color="#808080">[Crew shouting in Chinese]</font>
+
+567
+00:55:56,752 --> 00:55:58,379
+<font color="#808080">[Ship creaking]</font>
+
+568
+00:55:59,888 --> 00:56:01,981
+<font color="#808080">[Screaming]</font>
+
+569
+00:56:10,032 --> 00:56:11,397
+Now up...
+
+570
+00:56:12,968 --> 00:56:14,299
+...is down.
+
+571
+00:57:34,283 --> 00:57:36,148
+<font color="#808080">[Coughing]</font>
+
+572
+00:57:45,461 --> 00:57:46,485
+<font color="#808080">[Squawks]</font>
+
+573
+00:57:50,299 --> 00:57:52,290
+This was yöur idea.
+
+574
+00:57:53,869 --> 00:57:56,360
+Blessed sweet westerlies!
+
+575
+00:57:57,506 --> 00:57:58,495
+We're back!
+
+576
+00:58:02,311 --> 00:58:03,608
+It's the sunrise.
+
+577
+00:58:16,758 --> 00:58:18,749
+- <font color="#808080">[Screeches]</font>
+- Parley?
+
+578
+00:58:18,827 --> 00:58:21,295
+We need our pistols!
+Get untied, hurry!
+
+579
+00:58:36,745 --> 00:58:38,144
+All right, then!
+
+580
+00:58:38,213 --> 00:58:41,341
+The Brethren Court
+is a-gathering at Shipwreck Cove.
+
+581
+00:58:41,416 --> 00:58:45,113
+And, Jack, yöu and I are a-going.
+There'll be no arguing that point.
+
+582
+00:58:45,187 --> 00:58:46,586
+I is arguing the point.
+
+583
+00:58:46,655 --> 00:58:50,284
+If there's pirates a-gathering,
+I'm pointing my ship the other way.
+
+584
+00:58:50,359 --> 00:58:53,795
+The pirates are gathering
+to fight Beckett, and yöu're a pirate.
+
+585
+00:58:53,862 --> 00:58:56,160
+Fight or not,
+yöu're not running, Jack.
+
+586
+00:58:56,231 --> 00:58:59,257
+If we don't stand together,
+they'll hunt us down one by one,
+
+587
+00:58:59,334 --> 00:59:00,961
+till there be none left but yöu.
+
+588
+00:59:01,870 --> 00:59:07,331
+Quite like the sound of that.
+Captain Jack Sparrow, the last pirate.
+
+589
+00:59:07,409 --> 00:59:08,433
+Aye.
+
+590
+00:59:08,944 --> 00:59:13,313
+And yöu'll be fighting Jones alone.
+How does that figure into yöur plan?
+
+591
+00:59:13,382 --> 00:59:15,373
+I'm still working on that.
+
+592
+00:59:15,450 --> 00:59:19,944
+But I will not be going back
+to the Locker, mate. Count on that.
+
+593
+00:59:20,022 --> 00:59:21,046
+<font color="#808080">[Clicks]</font>
+
+594
+00:59:22,157 --> 00:59:24,421
+<font color="#808080">[Guns clicking]</font>
+
+595
+00:59:25,627 --> 00:59:26,958
+Wet powder.
+
+596
+00:59:29,698 --> 00:59:33,225
+Wait! We can still use them as clubs!
+
+597
+00:59:35,237 --> 00:59:37,762
+- Ow!
+- Sorry. Effective, though.
+
+598
+00:59:38,874 --> 00:59:40,899
+There's fresh water on this island.
+
+599
+00:59:40,976 --> 00:59:44,605
+We can resupply there and get back
+to shooting each other later.
+
+600
+00:59:44,913 --> 00:59:47,711
+yöu lead the shore party.
+I'll stay with my ship.
+
+601
+00:59:48,183 --> 00:59:50,617
+I'll not be leaving
+my ship in yöur command.
+
+602
+00:59:50,686 --> 00:59:54,315
+Why don't yöu both go ashore
+and leave the ship in my command.
+
+603
+00:59:55,557 --> 00:59:56,888
+Temporarily.
+
+604
+00:59:59,094 --> 01:00:01,494
+<font color="#808080">[Telescope opening]</font>
+
+605
+01:00:09,805 --> 01:00:12,273
+<font color="#808080">[Shouting]</font>
+
+606
+01:00:14,710 --> 01:00:16,268
+<font color="#808080">[Squawks]</font> Mind the boat.
+
+607
+01:00:27,322 --> 01:00:30,223
+- Criminy.
+- Odds bodkins!
+
+608
+01:00:45,374 --> 01:00:47,706
+<font color="#808080">[Seagulls cawing]</font>
+
+609
+01:00:49,244 --> 01:00:51,235
+Careful! Careful!
+
+610
+01:00:52,781 --> 01:00:54,681
+yöu stupid fish!
+
+611
+01:00:54,816 --> 01:00:56,784
+Actually it's a cephalopod.
+
+612
+01:00:57,252 --> 01:00:58,446
+Serves yöu right.
+
+613
+01:00:58,587 --> 01:01:01,579
+<font color="#808080">[Ragetti]</font> Pin, I bet people
+would pay a shilling to see this.
+
+614
+01:01:01,657 --> 01:01:04,820
+And another shilling
+for a sketch of them sitting atop!
+
+615
+01:01:04,893 --> 01:01:07,919
+Pintel and Ragetti, Kraken slayers.
+
+616
+01:01:07,996 --> 01:01:10,829
+<font color="#808080">[Ragetti]</font> We could serve up
+a slice as a souvenir.
+
+617
+01:01:10,899 --> 01:01:13,493
+Still thinking of running, Jack?
+
+618
+01:01:14,269 --> 01:01:16,760
+Think yöu can outrun the world?
+
+619
+01:01:22,444 --> 01:01:26,278
+yöu know, the problem
+with being the last of anything...
+
+620
+01:01:26,348 --> 01:01:29,044
+...by and by, there be none left at all.
+
+621
+01:01:30,452 --> 01:01:35,446
+Sometimes things come back, mate.
+We're living proof, yöu and me.
+
+622
+01:01:35,524 --> 01:01:38,652
+Aye, but that's a gamble
+of long odds, ain't it?
+
+623
+01:01:39,361 --> 01:01:42,023
+There's never
+a guarantee of coming back.
+
+624
+01:01:42,531 --> 01:01:45,193
+But passing on, that's dead certain.
+
+625
+01:01:48,570 --> 01:01:51,562
+Summoning the Brethren Court,
+then, is it?
+
+626
+01:01:51,640 --> 01:01:53,369
+It's our only hope, lad.
+
+627
+01:01:54,776 --> 01:01:57,768
+That's a sad commentary
+in and of itself.
+
+628
+01:01:59,414 --> 01:02:02,076
+The world used to be a bigger place.
+
+629
+01:02:04,753 --> 01:02:06,653
+The world's still the same.
+
+630
+01:02:08,590 --> 01:02:11,354
+There's just... less in it.
+
+631
+01:02:33,648 --> 01:02:35,980
+Poisoned. Fouled by the body.
+
+632
+01:02:38,787 --> 01:02:42,587
+Eh, I know him. He was in Singapore!
+
+633
+01:02:42,657 --> 01:02:44,648
+- <font color="#808080">[Squawks]</font> Singapore.
+- Captain!
+
+634
+01:02:47,496 --> 01:02:48,588
+Hoy!
+
+635
+01:02:49,664 --> 01:02:51,461
+We got company!
+
+636
+01:03:02,944 --> 01:03:04,639
+He's the captain.
+
+637
+01:03:06,448 --> 01:03:08,439
+<font color="#808080">[Shouting]</font>
+
+638
+01:03:15,090 --> 01:03:16,387
+Sao Feng...
+
+639
+01:03:16,458 --> 01:03:20,952
+...yöu showing up here,
+it is truly a remarkable coincidence.
+
+640
+01:03:23,765 --> 01:03:25,392
+<font color="#808080">[Sao Feng]</font> Jack Sparrow.
+
+641
+01:03:27,369 --> 01:03:29,462
+yöu paid me great insult once.
+
+642
+01:03:29,538 --> 01:03:31,028
+That doesn't sound like me.
+
+643
+01:03:33,008 --> 01:03:34,407
+<font color="#808080">[Groans]</font>
+
+644
+01:03:35,944 --> 01:03:38,105
+Shall we just call it square, then?
+
+645
+01:03:38,647 --> 01:03:39,807
+Release her.
+
+646
+01:03:40,615 --> 01:03:44,449
+- She's not part of the bargain.
+- And what bargain be that?
+
+647
+01:03:45,320 --> 01:03:47,311
+yöu heard Captain Turner.
+
+648
+01:03:48,857 --> 01:03:51,451
+- Release her!
+- "Captain Turner"?
+
+649
+01:03:51,526 --> 01:03:54,290
+Aye, the perfidious rotter
+led a mutiny against us!
+
+650
+01:03:54,362 --> 01:03:56,922
+I need the <i>Pearl</i> to free my father.
+
+651
+01:03:56,998 --> 01:03:59,489
+That's the only reason
+I came on this voyage.
+
+652
+01:04:00,035 --> 01:04:02,868
+Why didn't yöu tell me
+yöu were planning this?
+
+653
+01:04:02,938 --> 01:04:05,133
+It was my burden to bear.
+
+654
+01:04:07,375 --> 01:04:11,675
+He needs the <i>Pearl.</i>
+Captain Turner needs the <i>Pearl.</i>
+
+655
+01:04:11,746 --> 01:04:15,807
+And yöu felt guilty.
+And yöu and yöur Brethren Court.
+
+656
+01:04:16,852 --> 01:04:19,787
+Did no one come to save me
+just because they missed me?
+
+657
+01:04:28,997 --> 01:04:30,464
+I'm standing with them.
+
+658
+01:04:32,634 --> 01:04:38,300
+I'm sorry, Jack, but there is an
+old friend who wants to see yöu first.
+
+659
+01:04:38,373 --> 01:04:42,002
+I'm not certain I can survive
+any more visits from old friends.
+
+660
+01:04:44,412 --> 01:04:46,642
+Here is yöur chance to find out.
+
+661
+01:04:56,057 --> 01:04:57,718
+Curious.
+
+662
+01:04:57,792 --> 01:05:00,955
+yöur friends appear
+to be quite desperate, Jack.
+
+663
+01:05:01,029 --> 01:05:05,557
+Perhaps they no longer believe that
+a gathering of squabbling pirates
+
+664
+01:05:05,634 --> 01:05:07,602
+can defeat the <i>Flying Dutchman.</i>
+
+665
+01:05:08,336 --> 01:05:11,772
+And so despair leads to betrayal.
+
+666
+01:05:12,173 --> 01:05:16,166
+But yöu and I are no strangers
+to betrayal, are we?
+
+667
+01:05:18,947 --> 01:05:20,437
+It's not here, Jack.
+
+668
+01:05:21,850 --> 01:05:23,249
+What? What isn't?
+
+669
+01:05:23,318 --> 01:05:27,812
+The heart of Davy Jones.
+It's safely aboard the <i>Dutchman,</i>
+
+670
+01:05:27,889 --> 01:05:30,915
+and so unavailable for use as leverage
+
+671
+01:05:30,992 --> 01:05:33,654
+to satisfy yöur debt
+to the good captain.
+
+672
+01:05:33,728 --> 01:05:36,993
+By my reckoning,
+that account has been settled.
+
+673
+01:05:37,132 --> 01:05:39,191
+<font color="#808080">[Beckett]</font> By yöur death?
+
+674
+01:05:39,267 --> 01:05:41,326
+And yet here yöu are.
+
+675
+01:05:41,870 --> 01:05:44,498
+Close yöur eyes
+and pretend it's all a bad dream.
+
+676
+01:05:44,572 --> 01:05:46,005
+That's how I get by.
+
+677
+01:05:46,908 --> 01:05:50,537
+And if Davy Jones
+were to learn of yöur survival?
+
+678
+01:05:51,146 --> 01:05:52,613
+<font color="#808080">[Man]</font> Ship oars.
+
+679
+01:05:52,681 --> 01:05:54,239
+<font color="#808080">[Man 2]</font> Ship oars.
+
+680
+01:05:54,549 --> 01:05:56,141
+Be on yöur guard, men.
+
+681
+01:05:58,787 --> 01:06:00,652
+My men are crew enough.
+
+682
+01:06:00,722 --> 01:06:02,883
+Company ship, company crew.
+
+683
+01:06:03,959 --> 01:06:06,860
+yöu agreed.
+The <i>Black Pearl</i> was to be mine.
+
+684
+01:06:07,762 --> 01:06:09,161
+And so it was.
+
+685
+01:06:12,233 --> 01:06:15,293
+<font color="#808080">[Beckett]</font> Perhaps yöu'll consider
+an alternative arrangement.
+
+686
+01:06:15,370 --> 01:06:20,603
+One which requires absolutely
+nothing from yöu but information.
+
+687
+01:06:27,048 --> 01:06:31,747
+Regarding the Brethren Court, no doubt.
+In exchange for fair compensation?
+
+688
+01:06:32,821 --> 01:06:34,880
+Square my debt with Jones...
+
+689
+01:06:35,924 --> 01:06:37,789
+...guarantee my freedom?
+
+690
+01:06:37,859 --> 01:06:39,486
+Of course.
+
+691
+01:06:39,561 --> 01:06:41,495
+It's just good business.
+
+692
+01:06:42,564 --> 01:06:47,365
+Were I in a divulgatory mood,
+what then might I divulge?
+
+693
+01:06:47,435 --> 01:06:49,630
+Everything.
+
+694
+01:06:50,105 --> 01:06:51,402
+Where are they meeting?
+
+695
+01:06:52,207 --> 01:06:54,198
+Who are the pirate lords?
+
+696
+01:06:55,176 --> 01:06:58,373
+What is the purpose
+of the nine pieces of eight?
+
+697
+01:06:59,014 --> 01:07:02,142
+<font color="#808080">[Man]</font> Prepare the brig.
+
+698
+01:07:04,819 --> 01:07:09,722
+Beckett agreed the <i>Black Pearl</i>
+was to be mine.
+
+699
+01:07:09,791 --> 01:07:13,454
+He's not going to give up the only ship
+as can outrun the <i>Dutchman,</i> is he?
+
+700
+01:07:20,602 --> 01:07:24,971
+Shame they're not bound to honor
+the code of the Brethren, isn't it?
+
+701
+01:07:25,040 --> 01:07:28,271
+Because honor's
+a hard thing to come by nowadays.
+
+702
+01:07:28,943 --> 01:07:32,140
+There is no honor
+to remaining with the losing side.
+
+703
+01:07:32,213 --> 01:07:36,741
+Leaving it for the winning side,
+that's just good business.
+
+704
+01:07:36,818 --> 01:07:40,686
+- The losing side, yöu say?
+- They have the <i>Dutchman.</i>
+
+705
+01:07:40,755 --> 01:07:42,245
+Now the <i>Pearl!</i>
+
+706
+01:07:43,258 --> 01:07:45,192
+And what do the Brethren have?
+
+707
+01:07:45,894 --> 01:07:48,954
+We have Calypso.
+
+708
+01:07:56,738 --> 01:07:59,104
+<font color="#808080">[Laughs]</font> Calypso.
+
+709
+01:08:01,176 --> 01:08:03,167
+An old legend.
+
+710
+01:08:04,312 --> 01:08:09,249
+No. The goddess herself,
+bound in human form.
+
+711
+01:08:09,684 --> 01:08:14,951
+Imagine all the power of the seas
+brought to bear against our enemy.
+
+712
+01:08:15,023 --> 01:08:20,325
+I intend to release her.
+But for that I need the Brethren Court.
+
+713
+01:08:22,697 --> 01:08:24,289
+All the Court.
+
+714
+01:08:26,167 --> 01:08:27,862
+yöu can keep Barbossa.
+
+715
+01:08:27,936 --> 01:08:31,997
+The belligerent homunculus and
+his friend with the wooden eye, both.
+
+716
+01:08:32,073 --> 01:08:34,598
+And Turner. Especially Turner.
+
+717
+01:08:34,676 --> 01:08:38,134
+The rest go with me on the <i>Pearl.</i>
+I'll lead yöu to Shipwreck Cove,
+
+718
+01:08:38,213 --> 01:08:42,547
+where I will hand yöu the pirates
+and yöu will not hand me to Jones.
+
+719
+01:08:42,617 --> 01:08:47,145
+- Bloody fair deal, don't yöu think?
+- And what becomes of Miss Swann?
+
+720
+01:08:49,891 --> 01:08:52,018
+What interest is she to yöu?
+
+721
+01:08:54,562 --> 01:08:56,928
+What are yöu proposing, captain?
+
+722
+01:08:56,998 --> 01:08:59,990
+What be accepting, cap'n?
+
+723
+01:09:01,469 --> 01:09:03,835
+- The girl.
+- What?
+
+724
+01:09:03,905 --> 01:09:05,463
+Jack.
+
+725
+01:09:06,141 --> 01:09:07,938
+I've just recalled.
+
+726
+01:09:08,009 --> 01:09:13,003
+I've got this wonderful compass,
+which points to whatever I want.
+
+727
+01:09:13,548 --> 01:09:15,812
+So for what do I need yöu?
+
+728
+01:09:15,884 --> 01:09:17,909
+Elizabeth is not part of any bargain.
+
+729
+01:09:18,720 --> 01:09:20,051
+Out of the question.
+
+730
+01:09:20,121 --> 01:09:21,918
+It was not a question.
+
+731
+01:09:21,990 --> 01:09:23,753
+Points to the thing yöu want most.
+
+732
+01:09:23,825 --> 01:09:26,020
+And that is not
+the Brethren Court, is it?
+
+733
+01:09:26,094 --> 01:09:29,325
+- Then what is, Jack?
+- Me.
+
+734
+01:09:30,265 --> 01:09:32,426
+- Dead.
+- Done.
+
+735
+01:09:32,500 --> 01:09:35,162
+What? Not done.
+
+736
+01:09:35,236 --> 01:09:37,796
+yöu got us into this.
+If it frees us, then done!
+
+737
+01:09:37,872 --> 01:09:38,964
+Damn.
+
+738
+01:09:43,178 --> 01:09:46,944
+Although, if I kill yöu,
+then I can use the compass
+
+739
+01:09:47,015 --> 01:09:51,509
+to find Shipwreck Cove,
+is it, on my own.
+
+740
+01:09:51,853 --> 01:09:54,219
+Cut out the middle man, as it were.
+
+741
+01:09:54,289 --> 01:09:56,018
+Elizabeth, they are pirates.
+
+742
+01:09:56,090 --> 01:09:59,582
+I have had more than enough
+experience dealing with pirates!
+
+743
+01:10:00,195 --> 01:10:02,561
+Then we have an accord?
+
+744
+01:10:04,432 --> 01:10:06,992
+With me killed,
+yöu'd arrive at the cove,
+
+745
+01:10:07,068 --> 01:10:10,265
+find it a stronghold,
+nigh impregnable...
+
+746
+01:10:10,338 --> 01:10:13,273
+...able to withstand blockade for years.
+
+747
+01:10:13,341 --> 01:10:17,903
+Then yöu'd be wishing, "If only there
+was someone I had not killed inside
+
+748
+01:10:18,046 --> 01:10:21,482
+to ensure that the pirates
+then come outside."
+
+749
+01:10:22,350 --> 01:10:24,250
+And yöu can accomplish all this?
+
+750
+01:10:25,553 --> 01:10:28,613
+yöu may kill me,
+but yöu may never insult me.
+
+751
+01:10:28,957 --> 01:10:30,015
+Who am I?
+
+752
+01:10:32,327 --> 01:10:34,022
+I'm Captain Jack Sparrow.
+
+753
+01:10:35,063 --> 01:10:36,792
+<font color="#808080">[Rumbling]</font>
+
+754
+01:10:37,865 --> 01:10:39,025
+Done!
+
+755
+01:10:49,310 --> 01:10:52,837
+- <font color="#808080">[Man shouting]</font>
+- <font color="#808080">[Cannon fire]</font>
+
+756
+01:11:12,300 --> 01:11:13,460
+<font color="#808080">[Man]</font> Man overboard!
+
+757
+01:11:27,548 --> 01:11:28,742
+yöu're mad.
+
+758
+01:11:29,050 --> 01:11:32,281
+Thank goodness.
+If I wasn't, this'd probably never work.
+
+759
+01:11:36,891 --> 01:11:39,257
+<font color="#808080">[Jack shouting]</font>
+
+760
+01:11:49,971 --> 01:11:53,134
+And that was without
+even a single drop of rum.
+
+761
+01:12:00,648 --> 01:12:05,415
+Send this pestilent, traitorous,
+cowhearted, yeasty codpiece to the brig.
+
+762
+01:12:07,655 --> 01:12:09,316
+Which ship do we follow?
+
+763
+01:12:09,390 --> 01:12:14,054
+Signal the <i>Dutchman</i> to track down
+Sao Feng. We follow the <i>Pearl.</i>
+
+764
+01:12:15,029 --> 01:12:17,554
+How soon can we have
+the ship ready to pursue?
+
+765
+01:12:17,632 --> 01:12:19,964
+<font color="#808080">[Wood cracking]</font>
+
+766
+01:12:20,435 --> 01:12:21,732
+<font color="#808080">[Man]</font> She's going down!
+
+767
+01:12:21,803 --> 01:12:23,327
+<font color="#808080">[Man 2]</font> Stand clear!
+
+768
+01:12:27,442 --> 01:12:32,345
+Do yöu think he plans it all out,
+or just makes it up as he goes along?
+
+769
+01:12:34,215 --> 01:12:35,204
+Sir.
+
+770
+01:12:54,335 --> 01:12:57,463
+<font color="#808080">[Speaking Chinese]</font>
+
+771
+01:13:17,625 --> 01:13:23,621
+By this time tomorrow, we will arrive
+at Shipwreck Cove and yöu will be free.
+
+772
+01:13:26,167 --> 01:13:27,566
+Calypso.
+
+773
+01:13:28,669 --> 01:13:30,136
+Excuse me?
+
+774
+01:13:31,172 --> 01:13:35,268
+Not a name yöu fancy, I imagine,
+out of the many that yöu have...
+
+775
+01:13:35,843 --> 01:13:37,470
+...but it is what we call yöu.
+
+776
+01:13:39,380 --> 01:13:40,574
+We being who?
+
+777
+01:13:45,319 --> 01:13:47,116
+yöu confirm it.
+
+778
+01:13:48,489 --> 01:13:49,888
+Confirm what?
+
+779
+01:13:51,159 --> 01:13:55,755
+- yöu've told me nothing.
+- The Brethren Court, not I.
+
+780
+01:13:55,830 --> 01:14:00,426
+The First Brethren Court,
+whose decision I would have opposed.
+
+781
+01:14:01,536 --> 01:14:03,436
+They bound yöu to human form
+
+782
+01:14:03,504 --> 01:14:06,962
+so the rule of the seas
+would belong to man and not...
+
+783
+01:14:07,041 --> 01:14:08,804
+To me.
+
+784
+01:14:11,379 --> 01:14:16,248
+But one such as yöu should never
+be anything less than what yöu are.
+
+785
+01:14:16,317 --> 01:14:18,911
+Pretty speech from a captor.
+
+786
+01:14:18,986 --> 01:14:22,979
+But words whispered
+through prison bars lose their charm.
+
+787
+01:14:23,324 --> 01:14:26,316
+Can I be blamed for my efforts?
+
+788
+01:14:28,296 --> 01:14:32,562
+All men are drawn to the sea,
+perilous though it may be.
+
+789
+01:14:32,633 --> 01:14:36,433
+And some men offer desire
+as justification for their crimes.
+
+790
+01:14:37,472 --> 01:14:39,997
+I offer simply my desire.
+
+791
+01:14:41,476 --> 01:14:42,966
+And in return?
+
+792
+01:14:44,078 --> 01:14:48,014
+I would have yöur gifts,
+should yöu choose to give them.
+
+793
+01:14:52,086 --> 01:14:56,079
+And if I should choose not?
+
+794
+01:14:57,592 --> 01:14:59,560
+Then I will take...
+
+795
+01:15:00,895 --> 01:15:01,919
+...yöur fury.
+
+796
+01:15:05,032 --> 01:15:06,761
+<font color="#808080">[Grunting]</font>
+
+797
+01:15:06,834 --> 01:15:08,893
+<font color="#808080">[Elizabeth panting]</font>
+
+798
+01:15:16,878 --> 01:15:19,210
+<font color="#808080">[Pirates shouting]</font>
+
+799
+01:15:27,722 --> 01:15:29,019
+Sao Feng?
+
+800
+01:15:30,591 --> 01:15:31,717
+Here.
+
+801
+01:15:32,126 --> 01:15:33,593
+Please.
+
+802
+01:15:39,467 --> 01:15:42,994
+With all nine pieces of eight...
+
+803
+01:15:45,473 --> 01:15:47,532
+...yöu will be free.
+
+804
+01:15:49,377 --> 01:15:50,503
+Take it!
+
+805
+01:15:52,346 --> 01:15:54,177
+yöu are captain now.
+
+806
+01:15:55,349 --> 01:15:56,373
+Me?
+
+807
+01:15:59,020 --> 01:16:03,616
+Go in my place to Shipwreck Cove.
+
+808
+01:16:05,693 --> 01:16:08,287
+Captain! The ship is taken.
+We cannot...
+
+809
+01:16:09,730 --> 01:16:13,291
+Forgive me... Calypso.
+
+810
+01:16:19,240 --> 01:16:21,367
+<font color="#808080">[Explosions and shouting]</font>
+
+811
+01:16:22,543 --> 01:16:23,635
+Sao.
+
+812
+01:16:28,749 --> 01:16:30,444
+What did he tell yöu?
+
+813
+01:16:35,523 --> 01:16:37,388
+He made me captain.
+
+814
+01:16:39,660 --> 01:16:41,890
+Set! Fire!
+
+815
+01:16:47,335 --> 01:16:49,360
+yöu are not my captain.
+
+816
+01:16:49,637 --> 01:16:50,968
+Elizabeth.
+
+817
+01:16:51,839 --> 01:16:53,397
+James. James.
+
+818
+01:16:58,145 --> 01:17:00,113
+Thank God, yöu're alive.
+
+819
+01:17:00,815 --> 01:17:02,373
+yöur father'll be overjoyed
+
+820
+01:17:02,450 --> 01:17:05,283
+- to know yöu're safe.
+- My father's dead.
+
+821
+01:17:05,753 --> 01:17:08,483
+No, that can't be true.
+He returned to England.
+
+822
+01:17:09,490 --> 01:17:11,424
+Did Lord Beckett tell yöu that?
+
+823
+01:17:12,727 --> 01:17:15,491
+Who among yöu
+do yöu name as captain?
+
+824
+01:17:15,563 --> 01:17:17,053
+Captain. Her.
+
+825
+01:17:17,131 --> 01:17:18,792
+<font color="#808080">[All]</font> Her.
+
+826
+01:17:21,669 --> 01:17:22,761
+Captain?
+
+827
+01:17:22,837 --> 01:17:26,500
+Tow the ship.
+Put the prisoners in the brig.
+
+828
+01:17:27,808 --> 01:17:29,776
+The captain shall have my quarters.
+
+829
+01:17:31,345 --> 01:17:32,812
+Thank yöu, sir.
+
+830
+01:17:32,880 --> 01:17:36,611
+- But I prefer to remain with my crew.
+- Elizabeth.
+
+831
+01:17:36,684 --> 01:17:38,174
+I swear.
+
+832
+01:17:39,120 --> 01:17:40,178
+I did not know.
+
+833
+01:17:40,254 --> 01:17:44,384
+Know what?
+Which side yöu chose?
+
+834
+01:17:52,400 --> 01:17:54,163
+Well, now yöu do.
+
+835
+01:18:02,843 --> 01:18:03,832
+Bootstrap?
+
+836
+01:18:07,081 --> 01:18:09,641
+<font color="#808080">[Chuckling]</font>
+
+837
+01:18:12,453 --> 01:18:13,750
+Bootstrap.
+
+838
+01:18:14,255 --> 01:18:15,483
+Bill Turner?
+
+839
+01:18:16,624 --> 01:18:17,750
+<font color="#808080">[Man]</font> Bootstrap.
+
+840
+01:18:26,934 --> 01:18:28,834
+yöu know my name.
+
+841
+01:18:32,339 --> 01:18:33,704
+Yes, I know yöur son.
+
+842
+01:18:35,776 --> 01:18:37,300
+Will Turner.
+
+843
+01:18:38,746 --> 01:18:39,838
+William.
+
+844
+01:18:45,720 --> 01:18:48,211
+He made it. He's alive.
+
+845
+01:18:48,289 --> 01:18:52,521
+And now he sends yöu to tell me
+that he's coming to get me.
+
+846
+01:18:54,495 --> 01:18:56,861
+God's wounds. He's on his way.
+
+847
+01:18:56,931 --> 01:18:58,296
+Yes, Will is alive.
+
+848
+01:18:59,734 --> 01:19:01,292
+And he wants to help yöu.
+
+849
+01:19:06,774 --> 01:19:10,403
+He can't help me. He won't come.
+
+850
+01:19:11,178 --> 01:19:12,736
+But yöu're his father.
+
+851
+01:19:13,581 --> 01:19:15,344
+I know yöu.
+
+852
+01:19:16,183 --> 01:19:17,741
+He spoke of yöu.
+
+853
+01:19:19,720 --> 01:19:22,883
+He can't save me.
+He can't come because of yöu.
+
+854
+01:19:24,258 --> 01:19:25,282
+Me?
+
+855
+01:19:26,827 --> 01:19:28,556
+yöu're Elizabeth.
+
+856
+01:19:29,930 --> 01:19:31,397
+Yes, I'm Elizabeth.
+
+857
+01:19:33,200 --> 01:19:38,160
+If Jones be slain,
+he who slays him must take his place.
+
+858
+01:19:38,739 --> 01:19:41,606
+Captain... Forever.
+
+859
+01:19:44,478 --> 01:19:47,447
+The <i>Dutchman</i>
+must always have a captain.
+
+860
+01:19:48,149 --> 01:19:50,242
+And if he saves me...
+
+861
+01:19:51,452 --> 01:19:53,317
+...he loses yöu.
+
+862
+01:19:56,290 --> 01:19:57,382
+I see.
+
+863
+01:19:59,360 --> 01:20:01,225
+He won't pick me.
+
+864
+01:20:02,163 --> 01:20:04,324
+I wouldn't pick me.
+
+865
+01:20:09,403 --> 01:20:10,927
+Tell him not to come.
+
+866
+01:20:13,140 --> 01:20:15,267
+Tell him to stay away.
+
+867
+01:20:16,577 --> 01:20:18,602
+Tell him it's too late.
+
+868
+01:20:20,181 --> 01:20:22,445
+I'm already a part of the ship...
+
+869
+01:20:24,518 --> 01:20:26,145
+...and the crew.
+
+870
+01:20:28,322 --> 01:20:29,311
+Bootstrap.
+
+871
+01:20:32,393 --> 01:20:34,293
+yöu know my name.
+
+872
+01:20:35,196 --> 01:20:37,289
+yöu know my name.
+
+873
+01:20:38,532 --> 01:20:40,363
+Yes, I know yöur son.
+
+874
+01:20:41,368 --> 01:20:43,063
+William.
+
+875
+01:20:45,673 --> 01:20:47,641
+He's coming for me.
+
+876
+01:20:48,342 --> 01:20:49,832
+Wait and see.
+
+877
+01:20:50,945 --> 01:20:52,276
+yöu'll see.
+
+878
+01:20:53,681 --> 01:20:55,444
+He promised.
+
+879
+01:21:11,866 --> 01:21:13,800
+<font color="#808080">[Man]</font> Swing her over.
+
+880
+01:21:15,002 --> 01:21:16,765
+Ready those lines.
+
+881
+01:21:28,515 --> 01:21:29,675
+Sir.
+
+882
+01:21:33,053 --> 01:21:34,918
+<font color="#808080">[Beckett]</font> A breadcrumb trail.
+
+883
+01:21:34,989 --> 01:21:39,323
+- And we're meant to follow.
+- A betrayer among them?
+
+884
+01:21:39,393 --> 01:21:44,558
+- Or a trap?
+- A gambit by a skilled opponent.
+
+885
+01:21:45,866 --> 01:21:49,859
+- Adjust course, lieutenant.
+- Sir?
+
+886
+01:21:51,705 --> 01:21:53,969
+We can only hope
+to reach our destination
+
+887
+01:21:54,041 --> 01:21:56,066
+before they run out of bodies.
+
+888
+01:22:09,723 --> 01:22:12,783
+yöu escaped the brig
+even quicker than I expected.
+
+889
+01:22:13,727 --> 01:22:17,128
+William, do yöu notice anything?
+
+890
+01:22:18,799 --> 01:22:20,027
+Rather...
+
+891
+01:22:20,434 --> 01:22:23,961
+...do yöu notice something
+that is not there to be noticed?
+
+892
+01:22:24,738 --> 01:22:27,730
+- yöu haven't raised an alarm.
+- Odd, isn't it?
+
+893
+01:22:27,808 --> 01:22:29,275
+Not as odd as this.
+
+894
+01:22:30,678 --> 01:22:33,146
+Come up with this
+all by yöur lonesome, did yöu?
+
+895
+01:22:33,213 --> 01:22:36,239
+I said to myself, "Think like Jack."
+
+896
+01:22:36,617 --> 01:22:38,812
+This is what yöu've arrived at?
+
+897
+01:22:38,886 --> 01:22:42,219
+Lead Beckett to Shipwreck Cove
+so as to gain his trust...
+
+898
+01:22:42,289 --> 01:22:44,120
+...accomplish yöur own ends?
+
+899
+01:22:44,191 --> 01:22:45,988
+It's like yöu don't know me at all.
+
+900
+01:22:49,296 --> 01:22:52,390
+And how does yöur dearly beloved
+feel about this plan?
+
+901
+01:22:53,767 --> 01:22:55,098
+Ah.
+
+902
+01:22:55,703 --> 01:22:58,228
+yöu've not seen fit
+to trust her with it.
+
+903
+01:23:01,608 --> 01:23:03,166
+I'm losing her, Jack.
+
+904
+01:23:03,911 --> 01:23:07,847
+Every step I make for my father
+is a step away from Elizabeth.
+
+905
+01:23:08,315 --> 01:23:12,012
+If yöu choose to lock yöur heart away,
+yöu'll lose her for certain.
+
+906
+01:23:12,553 --> 01:23:15,750
+If I might lend a machete
+to yöur intellectual thicket...
+
+907
+01:23:16,924 --> 01:23:18,892
+...avoid the choice altogether.
+
+908
+01:23:19,727 --> 01:23:21,194
+Change the facts.
+
+909
+01:23:22,262 --> 01:23:25,254
+Let someone else dispatch Jones.
+
+910
+01:23:26,033 --> 01:23:27,364
+Who?
+
+911
+01:23:31,638 --> 01:23:32,627
+yöu?
+
+912
+01:23:34,975 --> 01:23:38,376
+Death has a curious way
+of reshuffling one's priorities.
+
+913
+01:23:38,445 --> 01:23:41,972
+I slip aboard the <i>Dutchman,</i>
+find the heart, stab the beating thing,
+
+914
+01:23:42,049 --> 01:23:43,812
+yöur father's free from his debt,
+
+915
+01:23:43,884 --> 01:23:46,614
+yöu're free to be
+with yöur charming murderess.
+
+916
+01:23:46,687 --> 01:23:50,521
+yöu're willing to cut out yöur heart
+and bind yöurself to the <i>Dutchman...</i>
+
+917
+01:23:50,591 --> 01:23:54,550
+...forever?
+- No, mate. I'm free forever.
+
+918
+01:23:54,628 --> 01:23:58,655
+Free to sail the seas beyond the edges
+of the map. Free from death itself.
+
+919
+01:23:58,999 --> 01:24:01,058
+yöu have to do the job though, Jack.
+
+920
+01:24:01,135 --> 01:24:04,195
+yöu have to ferry souls
+to the next world.
+
+921
+01:24:04,838 --> 01:24:07,432
+- Or end up just like Jones.
+- <font color="#808080">[Groans]</font>
+
+922
+01:24:09,510 --> 01:24:11,501
+I don't have the face for tentacles.
+
+923
+01:24:13,347 --> 01:24:15,907
+But immortal has to
+count for something, eh?
+
+924
+01:24:19,920 --> 01:24:21,080
+What's this for?
+
+925
+01:24:21,155 --> 01:24:23,851
+Think like me. It'll come to yöu.
+
+926
+01:24:37,104 --> 01:24:39,504
+My regards to Davy Jones.
+
+927
+01:24:44,778 --> 01:24:46,245
+I hate him.
+
+928
+01:24:50,818 --> 01:24:51,944
+Come with me.
+
+929
+01:24:55,522 --> 01:24:56,750
+Quickly.
+
+930
+01:25:05,799 --> 01:25:07,061
+What are yöu doing?
+
+931
+01:25:08,735 --> 01:25:10,760
+Choosing a side.
+
+932
+01:25:29,990 --> 01:25:31,981
+<font color="#808080">[Whispering in Chinese]</font>
+
+933
+01:25:35,295 --> 01:25:39,254
+Do not go to Shipwreck Cove. Beckett
+knows of the meeting of the Brethren.
+
+934
+01:25:39,333 --> 01:25:41,665
+I fear there may be
+a traitor among them.
+
+935
+01:25:43,003 --> 01:25:45,130
+It's too late to earn my forgiveness.
+
+936
+01:25:46,373 --> 01:25:49,171
+I had nothing to do
+with yöur father's death.
+
+937
+01:25:51,378 --> 01:25:54,370
+But that does not absolve me
+of my other sins.
+
+938
+01:25:57,918 --> 01:25:58,976
+Come with us.
+
+939
+01:26:03,056 --> 01:26:04,751
+James, come with me.
+
+940
+01:26:05,959 --> 01:26:07,859
+<font color="#808080">[Bootstrap Bill]</font> Who goes there?
+
+941
+01:26:10,631 --> 01:26:12,565
+Go. I will follow.
+
+942
+01:26:14,168 --> 01:26:15,829
+yöu're lying.
+
+943
+01:26:18,572 --> 01:26:21,473
+Our destinies have been entwined,
+Elizabeth...
+
+944
+01:26:23,844 --> 01:26:25,368
+...but never joined.
+
+945
+01:26:31,885 --> 01:26:33,580
+Go, now.
+
+946
+01:26:39,560 --> 01:26:41,721
+Back to yöur station, sailor.
+
+947
+01:26:43,564 --> 01:26:48,831
+- No one leaves the ship.
+- Stand down. That's an order.
+
+948
+01:26:48,902 --> 01:26:50,597
+That's an order.
+
+949
+01:26:51,672 --> 01:26:54,334
+Part of the crew, part of the ship.
+
+950
+01:26:54,408 --> 01:26:57,172
+Part of the crew,
+part of the ship. Part of the crew...
+
+951
+01:26:57,244 --> 01:27:00,145
+- Steady, man.
+- Part of the crew, part of the ship.
+
+952
+01:27:00,214 --> 01:27:02,614
+All hands, prisoner escape!
+
+953
+01:27:02,950 --> 01:27:05,180
+- Belay that!
+- James!
+
+954
+01:27:12,492 --> 01:27:14,619
+<font color="#808080">[Screaming]</font>
+
+955
+01:27:16,930 --> 01:27:19,023
+<font color="#808080">[Man]</font> Prisoner escape!
+
+956
+01:27:21,468 --> 01:27:23,129
+James! No!
+
+957
+01:27:32,212 --> 01:27:35,010
+- The admiral's dead.
+- Admiral's dead?
+
+958
+01:27:35,082 --> 01:27:37,107
+- The admiral's dead.
+- Admiral's dead.
+
+959
+01:27:40,320 --> 01:27:42,880
+- To the captain's cabin!
+- <font color="#808080">[All]</font> Aye!
+
+960
+01:27:42,956 --> 01:27:44,947
+Back to the ship.
+
+961
+01:27:46,927 --> 01:27:50,863
+James Norrington. Do yöu fear death?
+
+962
+01:28:00,207 --> 01:28:02,266
+I take that as a "no."
+
+963
+01:28:06,780 --> 01:28:08,304
+Nice sword.
+
+964
+01:28:29,269 --> 01:28:34,297
+The <i>Dutchman</i> is under my command.
+
+965
+01:28:36,810 --> 01:28:39,108
+For now.
+
+966
+01:28:54,886 --> 01:28:56,945
+Look alive and keep a weather eye.
+
+967
+01:28:57,022 --> 01:28:59,422
+Not for naught
+it's called Shipwreck Island.
+
+968
+01:28:59,491 --> 01:29:02,927
+Where lies Shipwreck Cove
+and the town of Shipwreck.
+
+969
+01:29:02,994 --> 01:29:05,428
+yöu heard him. Step lively.
+
+970
+01:29:05,497 --> 01:29:07,829
+For all that pirates are clever clogs,
+
+971
+01:29:07,899 --> 01:29:10,732
+we are unimaginative
+when it comes to naming things.
+
+972
+01:29:10,802 --> 01:29:12,030
+Aye.
+
+973
+01:29:12,104 --> 01:29:16,234
+I once sailed with a geezer who lost
+both of his arms and part of his eye.
+
+974
+01:29:16,308 --> 01:29:17,900
+What'd yöu call him?
+
+975
+01:29:19,077 --> 01:29:20,305
+Larry.
+
+976
+01:29:24,015 --> 01:29:26,984
+I do not renege
+on a bargain once struck.
+
+977
+01:29:27,052 --> 01:29:29,043
+But we agreed on ends only.
+
+978
+01:29:29,121 --> 01:29:32,090
+The means are mine to decide.
+
+979
+01:29:32,157 --> 01:29:34,648
+Caution, Barbossa.
+
+980
+01:29:34,726 --> 01:29:38,958
+Do not forget it was by my power
+yöu return from the dead.
+
+981
+01:29:39,030 --> 01:29:42,864
+Or what it mean if yöu fail me.
+
+982
+01:29:46,138 --> 01:29:49,005
+Don't yöu forget
+why yöu had to bring me back.
+
+983
+01:29:49,074 --> 01:29:52,805
+Why I could not leave Jack
+to his well-deserved fate.
+
+984
+01:29:53,712 --> 01:29:56,237
+It took nine pirate lords
+to bind yöu, Calypso.
+
+985
+01:29:56,782 --> 01:30:00,081
+And it'll take no less than nine
+to set yöu free.
+
+986
+01:30:00,152 --> 01:30:02,347
+Masters Pintel and Ragetti.
+
+987
+01:30:04,189 --> 01:30:07,283
+Take this fishwife to the brig.
+
+988
+01:30:09,127 --> 01:30:11,254
+Right this way, Mrs. Fish.
+
+989
+01:30:39,090 --> 01:30:43,083
+I cannot be summoned
+like some mongrel pup.
+
+990
+01:30:43,161 --> 01:30:45,095
+Apparently, yöu can.
+
+991
+01:30:45,630 --> 01:30:47,291
+I believe yöu know each other.
+
+992
+01:30:49,935 --> 01:30:51,835
+<font color="#808080">[Chuckles]</font>
+
+993
+01:30:51,903 --> 01:30:56,033
+Come to join my crew again,
+Master Turner?
+
+994
+01:30:56,107 --> 01:30:57,472
+Not yöurs.
+
+995
+01:30:57,909 --> 01:30:59,103
+His.
+
+996
+01:31:00,011 --> 01:31:02,138
+Jack Sparrow sends his regards.
+
+997
+01:31:03,248 --> 01:31:05,079
+Sparrow?
+
+998
+01:31:06,518 --> 01:31:08,110
+yöu didn't tell him.
+
+999
+01:31:08,186 --> 01:31:11,417
+We rescued Jack from the Locker
+along with the <i>Black Pearl.</i>
+
+1000
+01:31:12,190 --> 01:31:15,091
+What else have yöu not told me?
+
+1001
+01:31:15,861 --> 01:31:19,854
+There is an issue far more troublesome.
+
+1002
+01:31:21,199 --> 01:31:24,794
+I believe yöu're familiar
+with a person called Calypso.
+
+1003
+01:31:27,439 --> 01:31:29,134
+Not a person.
+
+1004
+01:31:29,875 --> 01:31:30,933
+A heathen god.
+
+1005
+01:31:31,009 --> 01:31:34,536
+One who delights in cursing men
+with their wildest dreams
+
+1006
+01:31:34,613 --> 01:31:37,946
+and then revealing them to be
+hollow and naught but ash.
+
+1007
+01:31:38,016 --> 01:31:41,144
+- The world is well rid of her.
+- Not quite so well, actually.
+
+1008
+01:31:42,053 --> 01:31:44,647
+The Brethren Court
+intends to release her.
+
+1009
+01:31:45,457 --> 01:31:47,254
+No! They cannot!
+
+1010
+01:31:47,325 --> 01:31:50,294
+The First Court
+promised to imprison her forever.
+
+1011
+01:31:50,362 --> 01:31:53,331
+- That was our agreement.
+- yöur agreement?
+
+1012
+01:31:55,867 --> 01:31:59,860
+I showed them how to bind her.
+
+1013
+01:31:59,938 --> 01:32:01,906
+She could not be trusted.
+
+1014
+01:32:01,973 --> 01:32:03,804
+I... She gave me no choice.
+
+1015
+01:32:04,376 --> 01:32:07,311
+We must act before they release her.
+
+1016
+01:32:07,379 --> 01:32:09,142
+yöu loved her.
+
+1017
+01:32:10,382 --> 01:32:12,350
+She's the one.
+
+1018
+01:32:12,417 --> 01:32:14,408
+And then yöu betrayed her.
+
+1019
+01:32:14,486 --> 01:32:18,286
+She pretended to love me.
+
+1020
+01:32:18,356 --> 01:32:22,122
+She betrayed me.
+
+1021
+01:32:24,963 --> 01:32:28,490
+And after which betrayal
+did yöu cut out yöur heart, I wonder.
+
+1022
+01:32:31,770 --> 01:32:34,466
+Do not test me.
+
+1023
+01:32:34,539 --> 01:32:36,268
+I hadn't finished that.
+
+1024
+01:32:38,276 --> 01:32:40,403
+yöu will free my father.
+
+1025
+01:32:41,112 --> 01:32:43,580
+And yöu will guarantee
+Elizabeth's safety.
+
+1026
+01:32:43,648 --> 01:32:45,240
+Along with my own.
+
+1027
+01:32:45,317 --> 01:32:47,877
+yöur terms are steep, Mr. Turner.
+
+1028
+01:32:47,953 --> 01:32:50,717
+We will expect fair value in return.
+
+1029
+01:32:51,156 --> 01:32:55,092
+There is only one price I will accept:
+
+1030
+01:32:55,160 --> 01:32:58,220
+Calypso murdered.
+
+1031
+01:33:00,131 --> 01:33:02,463
+Calypso's aboard the <i>Black Pearl.</i>
+
+1032
+01:33:04,536 --> 01:33:07,903
+Jack has sailed
+the <i>Black Pearl</i> to Shipwreck Cove.
+
+1033
+01:33:08,940 --> 01:33:14,173
+And with yöu no longer aboard her,
+how do yöu propose to lead us there?
+
+1034
+01:33:26,024 --> 01:33:28,584
+What is it yöu want most?
+
+1035
+01:34:00,525 --> 01:34:02,083
+Look at them all.
+
+1036
+01:34:02,160 --> 01:34:06,256
+There's not been a gathering
+like this in our lifetime.
+
+1037
+01:34:07,065 --> 01:34:09,056
+And I owe them all money.
+
+1038
+01:34:10,735 --> 01:34:13,203
+<font color="#808080">[Murmuring]</font>
+
+1039
+01:34:14,472 --> 01:34:16,940
+As he who issued summons,
+
+1040
+01:34:17,008 --> 01:34:21,570
+I convene this,
+the Fourth Brethren Court.
+
+1041
+01:34:21,646 --> 01:34:24,444
+<font color="#808080">[Murmuring]</font>
+
+1042
+01:34:25,650 --> 01:34:29,108
+To confirm yöur lordship
+and right to be heard,
+
+1043
+01:34:29,220 --> 01:34:33,953
+present now yöur pieces of eight,
+my fellow cap'ns.
+
+1044
+01:34:42,100 --> 01:34:45,297
+Those aren't pieces of eight.
+They're just pieces of junk.
+
+1045
+01:34:45,370 --> 01:34:49,101
+Aye. The original plan was to use
+nine pieces of eight to bind Calypso.
+
+1046
+01:34:49,174 --> 01:34:53,508
+But when the First Court met,
+the Brethren were to a one skint broke.
+
+1047
+01:34:54,212 --> 01:34:55,270
+So change the name.
+
+1048
+01:34:56,481 --> 01:35:00,679
+To "nine pieces of whatever we happened
+to have in our pockets at the time?"
+
+1049
+01:35:00,752 --> 01:35:03,084
+Oh, yes. That sounds very piratey.
+
+1050
+01:35:06,725 --> 01:35:09,216
+Master Ragetti, if yöu will.
+
+1051
+01:35:10,028 --> 01:35:13,020
+I kept it safe, just like
+yöu said when yöu gave it to me.
+
+1052
+01:35:13,098 --> 01:35:16,192
+Aye, yöu have.
+But now I need it back.
+
+1053
+01:35:19,070 --> 01:35:20,162
+Sparrow.
+
+1054
+01:35:26,277 --> 01:35:29,906
+Might I point out that
+we are still short one pirate lord,
+
+1055
+01:35:29,981 --> 01:35:33,940
+and I'm as content as a cucumber
+to wait until Sao Feng joins us.
+
+1056
+01:35:34,018 --> 01:35:35,610
+<font color="#808080">[Elizabeth]</font> Sao Feng is dead.
+
+1057
+01:35:37,756 --> 01:35:39,849
+He fell to the <i>Flying Dutchman.</i>
+
+1058
+01:35:40,091 --> 01:35:41,217
+The plagued ship.
+
+1059
+01:35:42,460 --> 01:35:45,861
+He made yöu captain? They're
+giving the bloody title away now.
+
+1060
+01:35:45,930 --> 01:35:48,899
+- <i>!Qué lo manden al diablo!</i>
+- Listen. Listen to me.
+
+1061
+01:35:48,967 --> 01:35:51,197
+Our location has been betrayed.
+
+1062
+01:35:51,269 --> 01:35:54,898
+Jones is under the command of
+Lord Beckett. They're on their way here.
+
+1063
+01:35:54,973 --> 01:35:58,670
+- Who is this betrayer?
+- Not likely anyone among us.
+
+1064
+01:35:59,043 --> 01:36:01,068
+- Where's Will?
+- Not among us.
+
+1065
+01:36:01,146 --> 01:36:03,876
+It matters not how they found us.
+The question is,
+
+1066
+01:36:03,948 --> 01:36:06,439
+what will we do now that they have?
+
+1067
+01:36:06,518 --> 01:36:08,008
+We fight.
+
+1068
+01:36:12,090 --> 01:36:15,526
+Shipwreck Cove is a fortress.
+
+1069
+01:36:15,593 --> 01:36:18,391
+A well-supplied fortress.
+
+1070
+01:36:18,997 --> 01:36:22,797
+There is no need to fight
+if they cannot get to us.
+
+1071
+01:36:23,568 --> 01:36:26,935
+There be a third course.
+
+1072
+01:36:28,173 --> 01:36:30,607
+In another age, at this very spot,
+
+1073
+01:36:30,675 --> 01:36:36,170
+the First Brethren Court captured the
+sea goddess and bound her in her bones.
+
+1074
+01:36:38,917 --> 01:36:40,350
+That was a mistake.
+
+1075
+01:36:41,352 --> 01:36:44,116
+Oh, we tamed the seas
+for ourselves, aye.
+
+1076
+01:36:45,089 --> 01:36:48,183
+But opened the door
+to Beckett and his ilk.
+
+1077
+01:36:50,195 --> 01:36:52,629
+Better were the days
+when mastery of seas
+
+1078
+01:36:52,697 --> 01:36:56,531
+came not from bargains
+struck with eldritch creatures,
+
+1079
+01:36:56,601 --> 01:37:00,970
+but from the sweat of a man's brow
+and the strength of his back alone.
+
+1080
+01:37:01,039 --> 01:37:02,870
+yöu all know this to be true.
+
+1081
+01:37:03,708 --> 01:37:05,073
+Gentlemen.
+
+1082
+01:37:06,177 --> 01:37:07,337
+Ladies.
+
+1083
+01:37:11,983 --> 01:37:14,975
+We must free Calypso.
+
+1084
+01:37:22,093 --> 01:37:23,924
+<font color="#808080">[Clamoring]</font>
+
+1085
+01:37:23,995 --> 01:37:26,429
+- Shoot him.
+- Cut out his tongue!
+
+1086
+01:37:26,497 --> 01:37:30,399
+Shoot him, cut out his tongue, then
+shoot his tongue. And trim that beard.
+
+1087
+01:37:30,468 --> 01:37:32,993
+Sao Feng would've agreed with Barbossa.
+
+1088
+01:37:33,071 --> 01:37:35,972
+Calypso was our enemy then,
+she will be our enemy now.
+
+1089
+01:37:36,040 --> 01:37:37,974
+It's unlikely her mood's improved.
+
+1090
+01:37:38,042 --> 01:37:41,876
+I would still agree with Sao Feng.
+We release Calypso.
+
+1091
+01:37:41,946 --> 01:37:44,881
+- yöu threaten me?
+- I silence yöu.
+
+1092
+01:37:45,850 --> 01:37:48,045
+<font color="#808080">[All shouting]</font>
+
+1093
+01:37:57,128 --> 01:38:00,291
+- This is madness.
+- This is politics.
+
+1094
+01:38:00,365 --> 01:38:02,959
+Meanwhile, our enemies
+are bearing down upon us.
+
+1095
+01:38:03,034 --> 01:38:05,559
+If they not be here already.
+
+1096
+01:38:05,637 --> 01:38:05,703
+<font color="#808080">[Shouting and gunfire in distance]</font>
+
+1097
+01:38:05,703 --> 01:38:08,103
+<font color="#808080">[Shouting and gunfire in distance]</font>
+
+1098
+01:38:11,442 --> 01:38:16,436
+<font color="#808080">[Music box playing]</font>
+
+1099
+01:38:27,692 --> 01:38:29,023
+<font color="#808080">[Music box stops]</font>
+
+1100
+01:38:29,093 --> 01:38:32,221
+<font color="#808080">[Another music box playing]</font>
+
+1101
+01:38:41,773 --> 01:38:44,139
+My sweet.
+
+1102
+01:38:44,442 --> 01:38:46,569
+yöu come for me.
+
+1103
+01:38:47,545 --> 01:38:52,505
+- yöu were expecting me.
+- It has been torture.
+
+1104
+01:38:52,583 --> 01:38:56,815
+Trapped in this single form.
+
+1105
+01:38:57,355 --> 01:38:59,721
+Cut off from the sea.
+
+1106
+01:39:00,191 --> 01:39:02,785
+From all that I love.
+
+1107
+01:39:04,062 --> 01:39:05,461
+From yöu.
+
+1108
+01:39:06,164 --> 01:39:10,692
+Ten years I devoted
+to the duty yöu charged to me.
+
+1109
+01:39:12,070 --> 01:39:17,474
+Ten years I looked after
+those who died at sea.
+
+1110
+01:39:18,142 --> 01:39:22,704
+And, finally,
+when we could be together again...
+
+1111
+01:39:24,482 --> 01:39:28,282
+...yöu weren't there.
+- <font color="#808080">[Music box stops]</font>
+
+1112
+01:39:28,686 --> 01:39:31,280
+Why weren't yöu there?
+
+1113
+01:39:34,692 --> 01:39:36,319
+It's my nature.
+
+1114
+01:39:37,528 --> 01:39:42,124
+Would yöu love me
+if I was anything but what I am?
+
+1115
+01:39:43,301 --> 01:39:47,101
+I do not love yöu.
+
+1116
+01:39:49,607 --> 01:39:53,304
+Many things yöu were, Davy Jones.
+
+1117
+01:39:54,379 --> 01:39:56,506
+But never cruel.
+
+1118
+01:39:57,348 --> 01:40:00,317
+yöu have corrupted yöur purpose...
+
+1119
+01:40:01,686 --> 01:40:04,280
+...and so yöur self.
+
+1120
+01:40:05,356 --> 01:40:10,225
+And yöu did hide away
+what should always have been mine.
+
+1121
+01:40:10,294 --> 01:40:12,694
+<font color="#808080">[Gasping]</font>
+
+1122
+01:40:30,114 --> 01:40:33,174
+Calypso.
+
+1123
+01:40:36,220 --> 01:40:38,085
+I will be free.
+
+1124
+01:40:40,024 --> 01:40:43,721
+And when I am,
+I would give yöu my heart.
+
+1125
+01:40:44,495 --> 01:40:47,487
+And we would be together always.
+
+1126
+01:40:48,132 --> 01:40:51,499
+If only yöu had a heart to give.
+
+1127
+01:40:56,274 --> 01:40:58,333
+Why did yöu come?
+
+1128
+01:41:15,626 --> 01:41:20,791
+And what fate have yöu planned
+for yöur captors?
+
+1129
+01:41:21,199 --> 01:41:23,190
+The Brethren Court?
+
+1130
+01:41:25,169 --> 01:41:29,970
+All of them, the last thing
+they will learn in this life...
+
+1131
+01:41:30,041 --> 01:41:32,737
+...is how cruel I can be.
+
+1132
+01:41:37,315 --> 01:41:41,775
+And what of yöur fate, Davy Jones?
+
+1133
+01:41:43,254 --> 01:41:46,746
+My heart will always belong to yöu.
+
+1134
+01:41:52,964 --> 01:41:55,296
+- <font color="#808080">[Shouting]</font>
+- <font color="#808080">[Glass breaking]</font>
+
+1135
+01:42:00,138 --> 01:42:03,938
+It was the First Court
+what imprisoned Calypso.
+
+1136
+01:42:04,008 --> 01:42:06,306
+We should be the ones to set her free.
+
+1137
+01:42:06,377 --> 01:42:10,711
+And in her gratitude,
+she will see fit to grant us boons.
+
+1138
+01:42:10,781 --> 01:42:13,249
+Whose boons? yöur boons?
+
+1139
+01:42:13,317 --> 01:42:16,309
+Utterly deceptive twaddle-speak, says I.
+
+1140
+01:42:16,387 --> 01:42:20,790
+If yöu have a better alternative,
+please, share.
+
+1141
+01:42:22,059 --> 01:42:23,083
+Cuttlefish.
+
+1142
+01:42:24,295 --> 01:42:26,354
+Aye.
+
+1143
+01:42:27,331 --> 01:42:29,959
+Let us not, dear friends,
+
+1144
+01:42:30,034 --> 01:42:33,026
+forget our dear friends, the cuttlefish.
+
+1145
+01:42:33,571 --> 01:42:35,766
+Flipping glorious little sausages.
+
+1146
+01:42:35,840 --> 01:42:39,799
+Pen them up together, they'll devour
+each other without a second thought.
+
+1147
+01:42:39,877 --> 01:42:41,139
+Human nature, isn't it?
+
+1148
+01:42:41,212 --> 01:42:43,237
+Or... Or fish nature.
+
+1149
+01:42:43,314 --> 01:42:47,045
+So, yes, we could hole up here
+well-provisioned and well-armed.
+
+1150
+01:42:47,118 --> 01:42:49,279
+Half of us would be dead
+within the month.
+
+1151
+01:42:49,353 --> 01:42:53,289
+Which seems quite grim to me,
+any way yöu slice it. Or...
+
+1152
+01:42:55,159 --> 01:42:56,490
+Uh...
+
+1153
+01:42:58,229 --> 01:43:03,997
+As my learned colleague
+so naively suggests,
+
+1154
+01:43:04,068 --> 01:43:08,061
+we can release Calypso, and we
+can pray that she will be merciful.
+
+1155
+01:43:09,574 --> 01:43:10,836
+I rather doubt it.
+
+1156
+01:43:11,642 --> 01:43:15,635
+Can we pretend she's anything
+other than a woman scorned
+
+1157
+01:43:15,713 --> 01:43:18,580
+like which fury hell hath no? We cannot.
+
+1158
+01:43:19,750 --> 01:43:23,015
+<i>Res ipsa loquitur, tabula in naufragio.</i>
+
+1159
+01:43:23,087 --> 01:43:25,851
+We are left with but one option.
+
+1160
+01:43:25,923 --> 01:43:29,791
+I agree with, and I cannot believe
+the words are coming out of me mouth...
+
+1161
+01:43:32,096 --> 01:43:35,031
+...Captain Swann. We must fight.
+
+1162
+01:43:35,099 --> 01:43:38,330
+- yöu've always run away from a fight.
+- Have not.
+
+1163
+01:43:38,402 --> 01:43:39,460
+- Have so.
+- Have not.
+
+1164
+01:43:39,604 --> 01:43:40,662
+- Have so.
+- Have not!
+
+1165
+01:43:40,805 --> 01:43:43,968
+- yöu have so, and yöu know it.
+- Have not. Slander and calumny.
+
+1166
+01:43:44,041 --> 01:43:48,341
+I have only ever embraced that
+oldest and noblest of pirate traditions.
+
+1167
+01:43:48,412 --> 01:43:52,610
+I submit that here now
+that is what we all must do:
+
+1168
+01:43:52,683 --> 01:43:54,082
+We must fight...
+
+1169
+01:43:54,852 --> 01:43:56,342
+...to run away.
+
+1170
+01:43:56,420 --> 01:43:58,752
+- Aye!
+- <font color="#808080">[All]</font> Aye!
+
+1171
+01:44:00,524 --> 01:44:04,961
+As per the code, an act of war,
+and this be exactly that,
+
+1172
+01:44:05,029 --> 01:44:07,930
+can only be declared by the pirate king.
+
+1173
+01:44:07,999 --> 01:44:10,559
+- yöu made that up.
+- Did I, now?
+
+1174
+01:44:10,635 --> 01:44:15,163
+I call on Cap'n Teague,
+keeper of the code.
+
+1175
+01:44:16,173 --> 01:44:19,609
+Sri Sumbhajee proclaims
+this all to be folly!
+
+1176
+01:44:21,245 --> 01:44:23,736
+- Hang the code. Who cares a...?
+- <font color="#808080">[Gunshot]</font>
+
+1177
+01:44:31,756 --> 01:44:33,587
+Code is the law.
+
+1178
+01:44:45,603 --> 01:44:47,594
+yöu're in my way, boy.
+
+1179
+01:44:56,814 --> 01:44:59,442
+- The code.
+- The code.
+
+1180
+01:44:59,517 --> 01:45:01,781
+As set forth by Morgan and Bartholomew.
+
+1181
+01:45:12,697 --> 01:45:13,994
+<font color="#808080">[Whistles]</font>
+
+1182
+01:45:19,804 --> 01:45:23,763
+- That can't... How did...
+- Sea turtles, mate.
+
+1183
+01:45:23,841 --> 01:45:25,172
+<font color="#808080">[Barks]</font>
+
+1184
+01:45:26,644 --> 01:45:28,134
+Sea turtles.
+
+1185
+01:45:42,927 --> 01:45:45,623
+Ah. Barbossa is right.
+
+1186
+01:45:45,696 --> 01:45:47,186
+<font color="#808080">[Jack]</font> Hang on a minute.
+
+1187
+01:45:48,666 --> 01:45:50,634
+"It shall be the duties, as the king,
+
+1188
+01:45:50,701 --> 01:45:54,159
+to declare war,
+parley with shared adversaries..."
+
+1189
+01:45:54,238 --> 01:45:55,227
+Fancy that.
+
+1190
+01:45:55,306 --> 01:45:57,774
+There has not been a king
+since the First Court.
+
+1191
+01:45:57,842 --> 01:45:59,503
+And that's not likely to change.
+
+1192
+01:45:59,577 --> 01:46:01,602
+- Not likely.
+- Why not?
+
+1193
+01:46:01,746 --> 01:46:04,374
+See, the pirate king
+is elected by popular vote.
+
+1194
+01:46:04,448 --> 01:46:07,940
+And each pirate
+only ever votes for hisself.
+
+1195
+01:46:08,018 --> 01:46:09,110
+I call for a vote.
+
+1196
+01:46:10,588 --> 01:46:12,749
+- <font color="#808080">[Murmuring]</font>
+- <font color="#808080">[Playing guitar]</font>
+
+1197
+01:46:13,924 --> 01:46:16,290
+I vote for Ammand the corsair.
+
+1198
+01:46:16,360 --> 01:46:18,920
+Capitaine Chevalle,
+the penniless Frenchman.
+
+1199
+01:46:19,296 --> 01:46:21,958
+Sri Sumbhajee
+votes for Sri Sumbhajee.
+
+1200
+01:46:22,867 --> 01:46:24,801
+Mistress Ching.
+
+1201
+01:46:24,869 --> 01:46:26,268
+Gentleman Jocard.
+
+1202
+01:46:26,971 --> 01:46:29,531
+- Elizabeth Swann.
+- Barbossa.
+
+1203
+01:46:29,607 --> 01:46:31,370
+Vallenueva!
+
+1204
+01:46:32,209 --> 01:46:33,540
+Elizabeth Swann.
+
+1205
+01:46:34,578 --> 01:46:36,512
+- What?
+- I know. Curious, isn't it?
+
+1206
+01:46:39,049 --> 01:46:40,676
+Vote for me. Vote for me.
+
+1207
+01:46:43,154 --> 01:46:44,553
+What yöu talking about?
+
+1208
+01:46:44,622 --> 01:46:45,714
+No!
+
+1209
+01:46:45,790 --> 01:46:49,419
+Am I to understand that yöu lot
+will not be keeping to the code, then?
+
+1210
+01:46:49,493 --> 01:46:51,688
+<font color="#808080">[String breaks]</font>
+
+1211
+01:46:58,302 --> 01:46:59,496
+Very well.
+
+1212
+01:47:02,873 --> 01:47:07,867
+What say yöu, Captain Swann,
+king of the Brethren Court?
+
+1213
+01:47:09,847 --> 01:47:12,179
+Prepare every vessel that floats.
+
+1214
+01:47:13,017 --> 01:47:14,177
+At dawn...
+
+1215
+01:47:15,753 --> 01:47:16,947
+...we're at war.
+
+1216
+01:47:20,758 --> 01:47:24,353
+<font color="#808080">[High-pitched]</font>
+And so we shall go to war.
+
+1217
+01:47:24,428 --> 01:47:27,556
+<font color="#808080">[All shouting]</font>
+
+1218
+01:47:38,042 --> 01:47:39,031
+What?
+
+1219
+01:47:40,010 --> 01:47:42,808
+yöu've seen it all,
+done it all. yöu survived.
+
+1220
+01:47:43,347 --> 01:47:46,180
+That's the trick, isn't it?
+To survive?
+
+1221
+01:47:46,750 --> 01:47:50,208
+It's not just about
+living forever, Jackie.
+
+1222
+01:47:54,158 --> 01:47:58,254
+The trick is
+living with yöurself forever.
+
+1223
+01:48:02,299 --> 01:48:03,459
+How's Mum?
+
+1224
+01:48:10,407 --> 01:48:11,931
+She looks great.
+
+1225
+01:48:33,364 --> 01:48:36,959
+The enemy is here! Let's take them!
+
+1226
+01:48:37,201 --> 01:48:39,260
+<font color="#808080">[Shouting]</font>
+
+1227
+01:48:50,347 --> 01:48:51,678
+<font color="#808080">[Shouting stops]</font>
+
+1228
+01:49:00,324 --> 01:49:02,815
+<font color="#808080">[Parrot]</font> Abandon ship. Abandon ship.
+
+1229
+01:49:11,769 --> 01:49:12,929
+Parley?
+
+1230
+01:50:09,727 --> 01:50:13,356
+yöu be the cur that led
+these wolves to our door.
+
+1231
+01:50:13,430 --> 01:50:17,628
+Don't blame Turner.
+He was merely the tool of yöur betrayal.
+
+1232
+01:50:17,701 --> 01:50:22,229
+If yöu wish to see its grand architect,
+look to yöur left.
+
+1233
+01:50:25,643 --> 01:50:27,338
+My hands are clean in this.
+
+1234
+01:50:28,379 --> 01:50:29,539
+Figuratively.
+
+1235
+01:50:30,080 --> 01:50:32,548
+My actions were my own
+and to my own purpose.
+
+1236
+01:50:32,616 --> 01:50:36,052
+- Jack had nothing to do with it.
+- Well spoke. Listen to the tool.
+
+1237
+01:50:36,120 --> 01:50:38,088
+Will, I've been aboard the <i>Dutchman.</i>
+
+1238
+01:50:39,023 --> 01:50:42,356
+I understand the burden yöu bear,
+but I fear that cause is lost.
+
+1239
+01:50:43,193 --> 01:50:47,061
+No cause is lost if there is
+but one fool left to fight for it.
+
+1240
+01:50:49,299 --> 01:50:54,202
+If Turner wasn't acting on yöur behalf,
+then how did he come to give me this?
+
+1241
+01:50:55,406 --> 01:51:00,366
+yöu made a deal with me, Jack, to
+deliver the pirates. And here they are.
+
+1242
+01:51:01,145 --> 01:51:04,512
+Don't be bashful. Step up.
+Claim yöur reward.
+
+1243
+01:51:04,581 --> 01:51:08,483
+<font color="#808080">[Jones]</font> yöur debt to me
+is still to be satisfied.
+
+1244
+01:51:08,552 --> 01:51:13,512
+One hundred years in servitude
+aboard the <i>Dutchman.</i> As a start.
+
+1245
+01:51:14,191 --> 01:51:17,422
+That debt was paid, mate.
+With some help.
+
+1246
+01:51:17,494 --> 01:51:19,894
+- <font color="#808080">[Jones]</font> yöu escaped.
+- Technically.
+
+1247
+01:51:19,963 --> 01:51:22,022
+I propose an exchange.
+
+1248
+01:51:24,101 --> 01:51:25,966
+Will leaves with us...
+
+1249
+01:51:26,704 --> 01:51:28,467
+...and yöu can take Jack.
+
+1250
+01:51:30,574 --> 01:51:31,563
+Done.
+
+1251
+01:51:32,242 --> 01:51:33,937
+- Undone.
+- Done.
+
+1252
+01:51:34,011 --> 01:51:37,538
+Jack's one of the nine pirate lords.
+yöu have no right.
+
+1253
+01:51:37,614 --> 01:51:39,081
+King.
+
+1254
+01:51:41,585 --> 01:51:45,646
+- As yöu command, yöur nibs.
+- Blackguard!
+
+1255
+01:51:50,861 --> 01:51:54,558
+If ye have something to say,
+I might be saying something as well.
+
+1256
+01:51:57,234 --> 01:51:59,259
+First to the finish, then?
+
+1257
+01:52:20,557 --> 01:52:23,117
+Do yöu fear death?
+
+1258
+01:52:24,661 --> 01:52:26,424
+yöu've no idea.
+
+1259
+01:52:29,366 --> 01:52:31,231
+Advise yöur Brethren,
+
+1260
+01:52:31,301 --> 01:52:34,395
+yöu can fight, and all of yöu will die.
+
+1261
+01:52:34,471 --> 01:52:38,999
+Or yöu can not fight,
+in which case only most of yöu will die.
+
+1262
+01:52:39,576 --> 01:52:41,669
+yöu murdered my father.
+
+1263
+01:52:43,046 --> 01:52:45,037
+He chose his own fate.
+
+1264
+01:52:45,682 --> 01:52:48,412
+And yöu have chosen yöurs.
+
+1265
+01:52:48,485 --> 01:52:50,544
+We will fight.
+
+1266
+01:52:51,155 --> 01:52:52,952
+And yöu will die.
+
+1267
+01:52:57,761 --> 01:52:59,388
+So be it.
+
+1268
+01:53:05,402 --> 01:53:06,767
+<font color="#808080">[Will]</font> King?
+
+1269
+01:53:06,837 --> 01:53:09,670
+Of the Brethren Court.
+Courtesy of Jack.
+
+1270
+01:53:10,174 --> 01:53:12,506
+Maybe he really
+does know what he's doing.
+
+1271
+01:53:18,949 --> 01:53:19,938
+Bravo!
+
+1272
+01:53:20,984 --> 01:53:25,182
+yöu've successfully arrived aboard
+the <i>Dutchman</i> as per the overall scheme.
+
+1273
+01:53:25,255 --> 01:53:26,984
+- Look
+- Oh, yes. Chapeau, mate.
+
+1274
+01:53:27,057 --> 01:53:30,117
+Except for this sojourn in the brig,
+it's utter clockwork.
+
+1275
+01:53:31,395 --> 01:53:32,555
+Go away.
+
+1276
+01:53:32,629 --> 01:53:35,792
+- What, back to the Locker?
+- Not without yöu, Jackie.
+
+1277
+01:53:36,633 --> 01:53:37,725
+Stab the heart.
+
+1278
+01:53:43,607 --> 01:53:48,738
+Live forever as captain
+of the <i>Flying Dutchman.</i>
+
+1279
+01:53:52,549 --> 01:53:54,141
+Then again...
+
+1280
+01:53:54,985 --> 01:53:56,680
+...if yöu're in the brig...
+
+1281
+01:53:58,188 --> 01:54:00,179
+...who's to stab the heart?
+
+1282
+01:54:02,693 --> 01:54:05,560
+Does seem to put immortality
+a bit out of reach.
+
+1283
+01:54:07,297 --> 01:54:09,030
+Peanut.
+
+1284
+01:54:09,030 --> 01:54:12,295
+We'll need to use the <i>Black Pearl</i>
+as a flagship to lead the attack.
+
+1285
+01:54:12,366 --> 01:54:16,530
+- Oh, will we now?
+- All right, Mrs. Fish. Come on.
+
+1286
+01:54:17,138 --> 01:54:20,574
+Barbossa, yöu can't release her.
+
+1287
+01:54:20,641 --> 01:54:22,541
+We need to give Jack a chance.
+
+1288
+01:54:23,144 --> 01:54:28,081
+Apologies, yöur Majesty. Too long
+my fate has not been in me own hands.
+
+1289
+01:54:30,951 --> 01:54:32,248
+No longer.
+
+1290
+01:54:34,255 --> 01:54:35,950
+The enemy...
+
+1291
+01:54:37,124 --> 01:54:39,456
+...has opted for oblivion.
+
+1292
+01:54:42,596 --> 01:54:44,223
+Ready the fleet.
+
+1293
+01:54:44,465 --> 01:54:47,195
+- To yöur stations.
+- <font color="#808080">[Man]</font> To yöur stations.
+
+1294
+01:54:53,674 --> 01:54:56,837
+Be there some manner
+of rite or incantation?
+
+1295
+01:54:56,911 --> 01:54:58,173
+Aye.
+
+1296
+01:54:58,612 --> 01:55:01,877
+The items brought together, done.
+
+1297
+01:55:01,949 --> 01:55:04,349
+Items to be burned...
+
+1298
+01:55:05,019 --> 01:55:07,180
+...and someone must speak the words:
+
+1299
+01:55:07,254 --> 01:55:10,746
+"Calypso, I release yöu
+from yöur human bonds."
+
+1300
+01:55:10,825 --> 01:55:11,814
+Is that it?
+
+1301
+01:55:12,393 --> 01:55:16,454
+'Tis said it must be spoken
+as if to a lover.
+
+1302
+01:55:16,530 --> 01:55:18,225
+<font color="#808080">[All]</font> Ooh!
+
+1303
+01:55:22,303 --> 01:55:27,605
+Calypso, I release yöu
+from yöur human bonds!
+
+1304
+01:55:37,184 --> 01:55:41,245
+- Is that it?
+- No, no, no. He didn't say it right.
+
+1305
+01:55:46,193 --> 01:55:47,217
+He didn't...
+
+1306
+01:55:47,695 --> 01:55:49,560
+yöu have to say it right.
+
+1307
+01:55:58,172 --> 01:55:59,161
+Calypso...
+
+1308
+01:56:04,545 --> 01:56:06,979
+...I release yöu from yöur human bonds.
+
+1309
+01:56:25,566 --> 01:56:27,261
+Tia Dalma.
+
+1310
+01:56:29,703 --> 01:56:31,034
+Calypso.
+
+1311
+01:56:33,507 --> 01:56:37,671
+When the Brethren Court imprisoned yöu,
+who was it that told them how?
+
+1312
+01:56:40,114 --> 01:56:44,016
+- Who was it that betrayed yöu?
+- Name him.
+
+1313
+01:56:45,286 --> 01:56:47,049
+Davy Jones.
+
+1314
+01:57:01,068 --> 01:57:04,902
+This is it! This is it!
+
+1315
+01:57:08,943 --> 01:57:10,103
+<font color="#808080">[Rope chafing]</font>
+
+1316
+01:57:23,324 --> 01:57:25,189
+<font color="#808080">[Snapping]</font>
+
+1317
+01:57:47,514 --> 01:57:49,277
+Calypso!
+
+1318
+01:57:51,485 --> 01:57:56,616
+I come before yöu as but a servant,
+humble and contrite.
+
+1319
+01:57:58,525 --> 01:58:03,394
+I have fulfilled me vow
+and now ask yöur favor.
+
+1320
+01:58:06,433 --> 01:58:09,425
+Spare meself, me ship, me crew...
+
+1321
+01:58:09,837 --> 01:58:14,297
+...but unleash yöur fury upon those who
+dare pretend themselves yöur masters...
+
+1322
+01:58:14,808 --> 01:58:15,968
+...or mine.
+
+1323
+01:58:23,350 --> 01:58:26,877
+<font color="#808080">[Yelling indistinct incantation]</font>
+
+1324
+01:59:03,757 --> 01:59:05,748
+<font color="#808080">[Wincing]</font>
+
+1325
+01:59:13,901 --> 01:59:15,163
+Is that it?
+
+1326
+01:59:17,905 --> 01:59:19,896
+Why, she's no help at all.
+
+1327
+01:59:23,610 --> 01:59:24,907
+What now?
+
+1328
+01:59:25,813 --> 01:59:27,075
+Nothing.
+
+1329
+01:59:27,881 --> 01:59:30,816
+Our final hope has failed us.
+
+1330
+01:59:31,952 --> 01:59:34,477
+<font color="#808080">[Wind gusting]</font>
+
+1331
+01:59:58,278 --> 02:00:01,270
+- It's not over.
+- There's still a fight to be had.
+
+1332
+02:00:01,348 --> 02:00:05,284
+We've an armada against us, and
+with the <i>Dutchman,</i> there's no chance.
+
+1333
+02:00:05,352 --> 02:00:07,650
+There's only a fool's chance.
+
+1334
+02:00:07,721 --> 02:00:10,485
+Revenge won't bring
+yöur father back, Miss Swann,
+
+1335
+02:00:10,557 --> 02:00:13,822
+and it's not something
+I'm intending to die for.
+
+1336
+02:00:18,799 --> 02:00:20,289
+yöu're right.
+
+1337
+02:00:25,672 --> 02:00:27,640
+Then what shall we die for?
+
+1338
+02:00:31,345 --> 02:00:32,744
+yöu will listen to me.
+
+1339
+02:00:33,480 --> 02:00:34,742
+Listen!
+
+1340
+02:00:37,684 --> 02:00:42,747
+The Brethren will still be looking here
+to us, to the <i>Black Pearl,</i> to lead.
+
+1341
+02:00:43,323 --> 02:00:44,756
+And what will they see?
+
+1342
+02:00:45,259 --> 02:00:48,592
+Frightened bilge rats
+aboard a derelict ship? No.
+
+1343
+02:00:48,662 --> 02:00:52,894
+No, they will see free men and freedom!
+
+1344
+02:00:52,966 --> 02:00:56,402
+And what the enemy will see
+is the flash of our cannons.
+
+1345
+02:00:56,470 --> 02:01:01,703
+They will hear the ring of our swords,
+and they will know what we can do.
+
+1346
+02:01:04,411 --> 02:01:06,709
+By the sweat of our brows,
+
+1347
+02:01:06,780 --> 02:01:09,112
+and the strength of our backs...
+
+1348
+02:01:09,516 --> 02:01:12,508
+...and the courage of our hearts.
+
+1349
+02:01:15,222 --> 02:01:16,712
+Gentlemen...
+
+1350
+02:01:19,426 --> 02:01:20,893
+...hoist the colors.
+
+1351
+02:01:22,930 --> 02:01:24,363
+Hoist the colors.
+
+1352
+02:01:24,431 --> 02:01:26,729
+- Hoist the colors.
+- Hoist the colors!
+
+1353
+02:01:26,800 --> 02:01:28,859
+Aye.
+
+1354
+02:01:28,936 --> 02:01:32,599
+The wind's on our side, boys.
+That's all we need!
+
+1355
+02:01:32,673 --> 02:01:34,504
+<font color="#808080">[Shouting]</font>
+
+1356
+02:01:34,575 --> 02:01:36,668
+Hoist the colors!
+
+1357
+02:01:37,644 --> 02:01:39,635
+<font color="#808080">[Shouting in Chinese]</font>
+
+1358
+02:02:27,728 --> 02:02:29,923
+We have a favorable wind, sir.
+
+1359
+02:02:30,664 --> 02:02:31,858
+Oh, so we do.
+
+1360
+02:02:32,499 --> 02:02:35,468
+Signal Jones to give no quarter.
+
+1361
+02:02:36,503 --> 02:02:38,562
+That should brighten his day.
+
+1362
+02:02:42,509 --> 02:02:46,445
+To arms! We give no quarter!
+
+1363
+02:02:55,689 --> 02:02:57,486
+Calypso.
+
+1364
+02:02:58,225 --> 02:03:00,750
+- <font color="#808080">[Thunder rumbling]</font>
+- <font color="#808080">[Screeching]</font>
+
+1365
+02:03:24,117 --> 02:03:27,052
+Have yöu noticed,
+on top of everything, it's raining?
+
+1366
+02:03:27,120 --> 02:03:28,178
+That's a bad sign.
+
+1367
+02:03:28,255 --> 02:03:33,192
+Man the capstan. Raise the main topyard.
+Keep that powder dry.
+
+1368
+02:03:33,260 --> 02:03:35,922
+<font color="#808080">[Thunderclap]</font>
+
+1369
+02:03:47,808 --> 02:03:49,639
+Maelstrom!
+
+1370
+02:03:52,846 --> 02:03:54,871
+<font color="#808080">[Elizabeth]</font> Captain Barbossa!
+
+1371
+02:03:55,816 --> 02:03:57,841
+We need yöu at the helm.
+
+1372
+02:04:00,354 --> 02:04:02,720
+Aye, that be true.
+
+1373
+02:04:05,025 --> 02:04:09,985
+Brace up yards,
+yöu cack-handed deck apes.
+
+1374
+02:04:10,230 --> 02:04:14,132
+Dying is the day worth living for.
+
+1375
+02:04:24,444 --> 02:04:26,071
+Veer off!
+
+1376
+02:04:26,146 --> 02:04:28,410
+She'll not harm us.
+
+1377
+02:04:28,915 --> 02:04:31,247
+Full-bore and into the abyss.
+
+1378
+02:04:31,952 --> 02:04:33,283
+Are yöu mad?
+
+1379
+02:04:33,353 --> 02:04:36,322
+Ha! yöu afraid to get wet?
+
+1380
+02:04:45,866 --> 02:04:48,232
+She's on our stern and gaining.
+
+1381
+02:04:48,301 --> 02:04:53,864
+More speed!
+Haul yöur wind and hold yöur water.
+
+1382
+02:05:00,847 --> 02:05:03,247
+Bow cannons!
+
+1383
+02:05:03,750 --> 02:05:06,218
+<font color="#808080">[Man]</font> Blow the cannons!
+
+1384
+02:05:17,097 --> 02:05:19,998
+Take us out or they'll overbear us.
+
+1385
+02:05:20,067 --> 02:05:24,970
+Nay. Further in.
+We'll cut across to faster waters.
+
+1386
+02:05:26,173 --> 02:05:28,266
+Prepare to broadside.
+
+1387
+02:05:38,719 --> 02:05:40,983
+Captain the guns. Bear a hand.
+
+1388
+02:05:41,054 --> 02:05:44,888
+Muster yöur courage, men.
+At the ready.
+
+1389
+02:05:52,065 --> 02:05:55,660
+Think like the whelp. Think like
+the whelp. Think like the whelp.
+
+1390
+02:05:55,736 --> 02:05:57,931
+Hinges. Hinges.
+
+1391
+02:05:58,004 --> 02:05:59,301
+Think like the whelp.
+
+1392
+02:05:59,372 --> 02:06:00,805
+Half-barrel hinges.
+
+1393
+02:06:00,907 --> 02:06:02,204
+Leverage.
+
+1394
+02:06:07,180 --> 02:06:09,410
+Wish us luck, boys. We'll need it.
+
+1395
+02:06:10,884 --> 02:06:13,717
+- I miss him already.
+- He is quite charming, isn't he?
+
+1396
+02:06:13,787 --> 02:06:15,345
+Nobody move.
+
+1397
+02:06:16,423 --> 02:06:18,186
+I dropped me brain.
+
+1398
+02:06:21,194 --> 02:06:23,185
+<font color="#808080">[Thunderclap]</font>
+
+1399
+02:06:28,068 --> 02:06:30,832
+Batten down the hatches!
+
+1400
+02:06:32,139 --> 02:06:34,164
+Stand to yöur guns.
+
+1401
+02:06:34,741 --> 02:06:37,232
+Midship cannoneers, sight the masts.
+
+1402
+02:06:41,481 --> 02:06:43,915
+Main battery at the ready!
+
+1403
+02:06:48,488 --> 02:06:52,754
+Hold there!
+Wait till we're board-and-board.
+
+1404
+02:06:57,330 --> 02:06:59,059
+Fire!
+
+1405
+02:06:59,432 --> 02:07:03,766
+- Fire!
+- Fire! Fire all!
+
+1406
+02:07:04,704 --> 02:07:05,864
+Fire!
+
+1407
+02:07:09,743 --> 02:07:11,301
+Fire!
+
+1408
+02:07:20,887 --> 02:07:22,354
+Come on, men.
+
+1409
+02:07:32,365 --> 02:07:36,995
+It be too late
+to alter course now, mateys.
+
+1410
+02:07:41,374 --> 02:07:43,604
+Halt there or we'll shoot.
+
+1411
+02:07:45,111 --> 02:07:46,237
+Good one.
+
+1412
+02:07:48,715 --> 02:07:50,740
+I just come to get me effects.
+
+1413
+02:07:52,352 --> 02:07:56,550
+Admirable though it may be, why are
+yöu here when yöu could be elsewhere?
+
+1414
+02:07:56,623 --> 02:07:58,887
+Someone has to stay
+and guard the chest.
+
+1415
+02:08:00,360 --> 02:08:04,922
+There's no question, there's a breakdown
+in military discipline on this vessel.
+
+1416
+02:08:04,998 --> 02:08:06,659
+I blame the fish people.
+
+1417
+02:08:06,733 --> 02:08:11,102
+Oh, so fish people,
+by dint of being fish people,
+
+1418
+02:08:11,171 --> 02:08:14,402
+automatically aren't
+as disciplined as non-fish people?
+
+1419
+02:08:14,474 --> 02:08:16,840
+Seems contributory,
+is all I'm suggesting.
+
+1420
+02:08:16,910 --> 02:08:21,813
+It's true, if there were no fish people,
+there'd be no need to guard the chest.
+
+1421
+02:08:21,882 --> 02:08:25,318
+And if there were no chest
+we wouldn't need to be here to guard it.
+
+1422
+02:08:28,288 --> 02:08:31,280
+<font color="#808080">[Men shouting]</font>
+
+1423
+02:08:32,859 --> 02:08:34,884
+Prepare to board!
+
+1424
+02:08:36,529 --> 02:08:37,723
+Cover!
+
+1425
+02:08:42,068 --> 02:08:44,559
+- <font color="#808080">[Groaning]</font>
+- <font color="#808080">[Grunts]</font>
+
+1426
+02:08:54,381 --> 02:08:56,110
+No!
+
+1427
+02:09:03,456 --> 02:09:05,390
+<font color="#808080">[Chuckles]</font>
+
+1428
+02:09:20,807 --> 02:09:21,967
+<font color="#808080">[Jones chuckles]</font>
+
+1429
+02:09:22,042 --> 02:09:27,002
+Lookee here, boys. A lost bird.
+
+1430
+02:09:27,080 --> 02:09:30,982
+A lost bird that never learned to fly.
+
+1431
+02:09:32,285 --> 02:09:34,048
+To my great regret.
+
+1432
+02:09:35,355 --> 02:09:36,481
+But...
+
+1433
+02:09:39,225 --> 02:09:41,216
+...never too late to learn, eh?
+
+1434
+02:09:46,833 --> 02:09:49,324
+<font color="#808080">[Screaming]</font>
+
+1435
+02:09:49,402 --> 02:09:50,869
+Whoa!
+
+1436
+02:09:57,510 --> 02:10:00,843
+The chest, hand it over.
+
+1437
+02:10:00,914 --> 02:10:02,745
+I can set yöu free, mate.
+
+1438
+02:10:02,816 --> 02:10:05,842
+My freedom was forfe!t long ago.
+
+1439
+02:10:52,899 --> 02:10:54,230
+Elizabeth.
+
+1440
+02:10:58,004 --> 02:10:59,232
+Elizabeth.
+
+1441
+02:11:00,273 --> 02:11:01,638
+Will yöu marry me?
+
+1442
+02:11:03,443 --> 02:11:05,274
+I don't think now's the best time.
+
+1443
+02:11:09,082 --> 02:11:11,141
+Now may be the only time.
+
+1444
+02:11:16,356 --> 02:11:17,550
+I love yöu.
+
+1445
+02:11:23,496 --> 02:11:26,021
+I've made my choice. What's yöurs?
+
+1446
+02:11:26,866 --> 02:11:28,163
+Barbossa.
+
+1447
+02:11:29,636 --> 02:11:31,069
+Marry us.
+
+1448
+02:11:32,172 --> 02:11:34,834
+I'm a little busy at the moment.
+
+1449
+02:11:41,047 --> 02:11:43,038
+Barbossa, now.
+
+1450
+02:11:44,717 --> 02:11:46,048
+Fine, then.
+
+1451
+02:11:56,930 --> 02:12:00,058
+Dearly beloved,
+we be gathered here today...
+
+1452
+02:12:00,767 --> 02:12:04,294
+To nail yöur gizzards
+to the mast, yöu poxy cur.
+
+1453
+02:12:09,175 --> 02:12:12,201
+Elizabeth Swann,
+do yöu take me to be yöur husband?
+
+1454
+02:12:12,278 --> 02:12:14,246
+- I do.
+- Great.
+
+1455
+02:12:20,720 --> 02:12:22,984
+Will Turner, do yöu take me...
+
+1456
+02:12:24,257 --> 02:12:25,986
+...to be yöur wife...
+
+1457
+02:12:30,396 --> 02:12:32,364
+...in sickness and in health...
+
+1458
+02:12:33,266 --> 02:12:35,496
+...with health being the less likely?
+
+1459
+02:12:42,709 --> 02:12:43,937
+I do.
+
+1460
+02:12:46,212 --> 02:12:49,113
+As captain, I now pronounce yöu...
+
+1461
+02:12:52,085 --> 02:12:53,916
+yöu may kiss...
+
+1462
+02:12:53,987 --> 02:12:55,386
+<font color="#808080">[cackles]</font>
+
+1463
+02:13:02,795 --> 02:13:04,228
+yöu may kiss...
+
+1464
+02:13:09,202 --> 02:13:10,863
+Just kiss.
+
+1465
+02:13:31,858 --> 02:13:33,257
+<font color="#808080">[Monkey screeches]</font>
+
+1466
+02:13:49,576 --> 02:13:51,237
+Leave it.
+
+1467
+02:14:03,489 --> 02:14:06,151
+yöu can do nothing without the key.
+
+1468
+02:14:06,226 --> 02:14:07,693
+I already have the key.
+
+1469
+02:14:08,962 --> 02:14:10,395
+No, yöu don't.
+
+1470
+02:14:11,898 --> 02:14:13,195
+Oh, that key.
+
+1471
+02:14:49,269 --> 02:14:50,258
+No!
+
+1472
+02:15:17,330 --> 02:15:19,821
+Oi. My pistol.
+
+1473
+02:15:27,073 --> 02:15:28,665
+<font color="#808080">[Screams]</font>
+
+1474
+02:15:47,527 --> 02:15:48,926
+Turner.
+
+1475
+02:15:53,933 --> 02:15:54,922
+Fire!
+
+1476
+02:15:57,937 --> 02:16:00,804
+<font color="#808080">[Muffled grunting]</font>
+
+1477
+02:16:00,873 --> 02:16:02,431
+Thank yöu, Jack.
+
+1478
+02:16:32,271 --> 02:16:33,795
+Stop! It's me.
+
+1479
+02:16:36,309 --> 02:16:39,210
+It's Will. yöur son.
+
+1480
+02:17:08,007 --> 02:17:09,372
+Ha!
+
+1481
+02:17:25,024 --> 02:17:26,958
+<font color="#808080">[Screams]</font>
+
+1482
+02:17:36,903 --> 02:17:38,302
+- <font color="#808080">[Thud]</font>
+- <font color="#808080">[Both grunt]</font>
+
+1483
+02:17:40,339 --> 02:17:41,806
+Go!
+
+1484
+02:18:00,226 --> 02:18:04,287
+Harridan! yöu'll see no mercy from me.
+
+1485
+02:18:04,363 --> 02:18:06,695
+That's why I brought this.
+
+1486
+02:18:20,980 --> 02:18:22,538
+<font color="#808080">[Elizabeth grunting]</font>
+
+1487
+02:18:26,118 --> 02:18:29,349
+I'm not going to kill yöu.
+I made yöu a promise.
+
+1488
+02:18:36,095 --> 02:18:37,892
+<font color="#808080">[Yells]</font>
+
+1489
+02:18:37,964 --> 02:18:39,295
+Missed.
+
+1490
+02:18:40,500 --> 02:18:45,369
+Did yöu forget?
+I'm a heartless wretch.
+
+1491
+02:19:01,921 --> 02:19:05,220
+Ah. Love.
+
+1492
+02:19:05,591 --> 02:19:09,083
+A dreadful bond.
+
+1493
+02:19:09,862 --> 02:19:14,856
+And yet, so easily severed.
+
+1494
+02:19:14,934 --> 02:19:20,133
+Tell me, William Turner,
+do yöu fear death?
+
+1495
+02:19:20,206 --> 02:19:21,639
+<font color="#808080">[Jack]</font> Do yöu?
+
+1496
+02:19:24,076 --> 02:19:26,408
+<font color="#808080">[Heart beating]</font>
+
+1497
+02:19:32,385 --> 02:19:36,082
+Heady tonic, holding life and death
+in the palm of one's hand.
+
+1498
+02:19:36,689 --> 02:19:41,092
+yöu're a cruel man, Jack Sparrow.
+
+1499
+02:19:41,961 --> 02:19:44,395
+Cruel is a matter of perspective.
+
+1500
+02:19:44,964 --> 02:19:46,522
+Is it?
+
+1501
+02:19:48,634 --> 02:19:50,431
+- <font color="#808080">[Groans]</font>
+- <font color="#808080">[Gasps]</font>
+
+1502
+02:20:12,291 --> 02:20:13,417
+Will?
+
+1503
+02:20:15,027 --> 02:20:17,621
+Look at me! Stay with me!
+yöu're all right.
+
+1504
+02:20:23,502 --> 02:20:25,163
+William?
+
+1505
+02:20:25,605 --> 02:20:27,300
+My son.
+
+1506
+02:20:39,185 --> 02:20:42,677
+Will? Will?
+Look at me. Look at me!
+
+1507
+02:20:46,392 --> 02:20:50,294
+yöu will not forestall my judgment.
+
+1508
+02:21:02,975 --> 02:21:04,636
+<font color="#808080">[Gasping]</font>
+
+1509
+02:21:06,078 --> 02:21:07,739
+Calypso.
+
+1510
+02:21:13,586 --> 02:21:19,047
+She's taking us down! Make quick
+or it's the Locker for us all!
+
+1511
+02:21:50,022 --> 02:21:51,080
+No.
+
+1512
+02:21:55,194 --> 02:21:56,684
+No, no.
+
+1513
+02:21:56,762 --> 02:21:58,491
+No!
+
+1514
+02:21:59,765 --> 02:22:04,065
+<font color="#808080">[All]</font> Part of the crew.
+Part of the ship, part of the crew.
+
+1515
+02:22:04,136 --> 02:22:07,628
+Part of the ship, part of the crew.
+
+1516
+02:22:07,707 --> 02:22:09,732
+Don't leave me.
+
+1517
+02:22:11,043 --> 02:22:12,738
+Don't. No!
+
+1518
+02:22:12,812 --> 02:22:14,677
+I won't leave yöu.
+
+1519
+02:22:24,790 --> 02:22:26,985
+The <i>Dutchman</i> must have a captain.
+
+1520
+02:22:30,329 --> 02:22:32,320
+Hold on.
+
+1521
+02:23:26,051 --> 02:23:27,712
+Thank goodness, Jack.
+
+1522
+02:23:27,787 --> 02:23:31,746
+The armada's still out there. The
+<i>Endeavor's</i> coming up hard to starboard,
+
+1523
+02:23:31,824 --> 02:23:35,920
+and I think it's time we embrace that
+oldest and noblest of pirate traditions.
+
+1524
+02:23:35,995 --> 02:23:38,623
+Never actually been one for tradition.
+
+1525
+02:23:43,602 --> 02:23:46,628
+Close haul her.
+Luff the sails and lay her in irons.
+
+1526
+02:23:46,705 --> 02:23:48,969
+Belay that,
+or we'll be a sitting duck.
+
+1527
+02:23:49,041 --> 02:23:50,372
+Belay that "belay that."
+
+1528
+02:23:50,442 --> 02:23:52,205
+- But the arma...
+- Belay.
+
+1529
+02:23:52,311 --> 02:23:54,575
+- The <i>Endeav...</i>
+- Stow. Shut it.
+
+1530
+02:24:07,660 --> 02:24:09,685
+What are they waiting for?
+
+1531
+02:24:10,663 --> 02:24:13,632
+He expects us to honor our agreement.
+
+1532
+02:24:15,801 --> 02:24:18,634
+<font color="#808080">[Man]</font> Ready guns and gun ports.
+
+1533
+02:24:22,374 --> 02:24:27,277
+It's nothing personal, Jack.
+It's just good business.
+
+1534
+02:24:54,139 --> 02:24:56,630
+Ah, she survived.
+
+1535
+02:25:01,447 --> 02:25:03,779
+<font color="#808080">[Grunting and moaning]</font>
+
+1536
+02:25:21,767 --> 02:25:25,134
+- Ready on the guns.
+- <font color="#808080">[All]</font> Guns ready.
+
+1537
+02:25:25,771 --> 02:25:27,932
+Full canvas.
+
+1538
+02:25:28,007 --> 02:25:30,373
+Aye, full canvas.
+
+1539
+02:25:54,900 --> 02:25:56,197
+Orders, sir.
+
+1540
+02:25:59,672 --> 02:26:00,798
+Sir!
+
+1541
+02:26:01,440 --> 02:26:02,429
+Cap'n.
+
+1542
+02:26:02,875 --> 02:26:05,503
+- Fire.
+- Fire!
+
+1543
+02:26:05,577 --> 02:26:07,636
+- Fire!
+- Fire!
+
+1544
+02:26:07,713 --> 02:26:09,681
+Fire, all!
+
+1545
+02:26:20,259 --> 02:26:23,160
+Orders? Orders, sir?
+
+1546
+02:26:35,541 --> 02:26:37,008
+Sir, what do yöu command?
+
+1547
+02:26:37,643 --> 02:26:38,974
+It's just...
+
+1548
+02:26:41,080 --> 02:26:42,775
+...good business.
+
+1549
+02:26:44,483 --> 02:26:45,814
+Abandon ship!
+
+1550
+02:26:45,884 --> 02:26:49,911
+- Abandon ship!
+- All hands, abandon ship!
+
+1551
+02:27:29,028 --> 02:27:31,861
+- <font color="#808080">[Glass shatters]</font>
+- <font color="#808080">[Explosions]</font>
+
+1552
+02:28:15,674 --> 02:28:17,403
+They're turning away!
+
+1553
+02:28:17,476 --> 02:28:20,468
+<font color="#808080">[Shouting]</font>
+
+1554
+02:28:29,755 --> 02:28:31,620
+<font color="#808080">[Squawks]</font> Wind in yöur sails.
+
+1555
+02:28:36,862 --> 02:28:38,921
+Shiver me timbers.
+
+1556
+02:28:48,373 --> 02:28:51,171
+<font color="#808080">[Shouting, cheering]</font>
+
+1557
+02:28:59,918 --> 02:29:01,977
+Captain Turner!
+
+1558
+02:29:16,635 --> 02:29:18,728
+- Mr. Gibbs.
+- Cap'n?
+
+1559
+02:29:19,938 --> 02:29:22,930
+- yöu may throw my hat if yöu like.
+- Aye, aye, cap'n.
+
+1560
+02:29:23,008 --> 02:29:24,703
+Hooray!
+
+1561
+02:29:26,945 --> 02:29:28,708
+Now go and get it.
+
+1562
+02:29:47,132 --> 02:29:48,724
+Orders, sir?
+
+1563
+02:29:53,005 --> 02:29:57,032
+yöu're no longer bound
+to the <i>Dutchman.</i> yöu're free.
+
+1564
+02:29:57,109 --> 02:29:59,100
+Aye.
+
+1565
+02:29:59,178 --> 02:30:01,578
+That's a fine thing, but...
+
+1566
+02:30:03,182 --> 02:30:07,881
+...by my reckoning,
+I still have a debt that has to be paid.
+
+1567
+02:30:07,953 --> 02:30:09,545
+If yöu'll have me.
+
+1568
+02:30:13,592 --> 02:30:15,457
+On the wheel, then, Mr. Turner.
+
+1569
+02:30:16,828 --> 02:30:18,819
+Aye, Captain Turner.
+
+1570
+02:30:33,779 --> 02:30:36,441
+<font color="#808080">[Bootstrap Bill]</font> This ship
+has a purpose again.
+
+1571
+02:30:36,515 --> 02:30:38,540
+And where we are bound...
+
+1572
+02:30:39,218 --> 02:30:41,686
+...she cannot come.
+
+1573
+02:30:41,753 --> 02:30:43,721
+One day ashore.
+
+1574
+02:30:43,789 --> 02:30:45,882
+Ten years at sea.
+
+1575
+02:30:46,858 --> 02:30:49,691
+That's a steep price
+for what's been done.
+
+1576
+02:30:51,863 --> 02:30:53,854
+Depends on the one day.
+
+1577
+02:30:56,635 --> 02:30:59,195
+yöur chariot awaits, yöur Highness.
+
+1578
+02:31:03,008 --> 02:31:04,999
+The oars are inside.
+
+1579
+02:31:16,622 --> 02:31:18,590
+Mrs. Turner.
+
+1580
+02:31:23,495 --> 02:31:25,053
+Goodbye, poppet.
+
+1581
+02:31:30,869 --> 02:31:32,166
+Jack.
+
+1582
+02:31:33,405 --> 02:31:35,930
+It would never
+have worked out between us.
+
+1583
+02:31:39,278 --> 02:31:41,746
+Keep telling yöurself that, darling.
+
+1584
+02:31:45,183 --> 02:31:47,048
+Once was quite enough.
+
+1585
+02:31:49,454 --> 02:31:51,445
+Thank yöu.
+
+1586
+02:32:10,776 --> 02:32:12,767
+I'm going to need the other one.
+
+1587
+02:32:44,776 --> 02:32:46,767
+It's nearly sunset.
+
+1588
+02:33:03,228 --> 02:33:05,219
+<font color="#808080">[Heart beating]</font>
+
+1589
+02:33:05,931 --> 02:33:07,626
+It's always belonged to yöu.
+
+1590
+02:33:13,405 --> 02:33:14,963
+Will yöu keep it safe?
+
+1591
+02:33:16,775 --> 02:33:17,935
+Yes.
+
+1592
+02:33:21,947 --> 02:33:23,039
+Yes.
+
+1593
+02:33:42,968 --> 02:33:43,957
+Will!
+
+1594
+02:33:59,551 --> 02:34:01,712
+Keep a weather eye on the horizon.
+
+1595
+02:34:30,582 --> 02:34:33,881
+Granted it tends to list to port,
+and has been, on occasion,
+
+1596
+02:34:33,952 --> 02:34:36,182
+known to frighten yöung women.
+
+1597
+02:34:36,254 --> 02:34:40,623
+But I promise yöu,
+yöu will not be disappointed.
+
+1598
+02:34:41,326 --> 02:34:42,452
+Is that it?
+
+1599
+02:34:43,061 --> 02:34:44,585
+The <i>Black Pearl?.</i>
+
+1600
+02:34:45,230 --> 02:34:47,323
+It's not very big.
+
+1601
+02:34:47,399 --> 02:34:49,799
+Love, that is a dinghy.
+
+1602
+02:34:49,868 --> 02:34:55,238
+My vessel is magnificent
+and fierce and huge-ish and...
+
+1603
+02:34:55,707 --> 02:34:58,835
+...gone. Why is it gone?
+
+1604
+02:34:59,778 --> 02:35:01,370
+Is that it there?
+
+1605
+02:35:02,581 --> 02:35:03,707
+Yes, there it is.
+
+1606
+02:35:04,716 --> 02:35:05,944
+Why is it there?
+
+1607
+02:35:07,319 --> 02:35:08,877
+It's much larger up close.
+
+1608
+02:35:08,954 --> 02:35:11,320
+<font color="#808080">[Sighs]</font> Jack, yöu promised
+to take us for a ride.
+
+1609
+02:35:11,389 --> 02:35:15,325
+- I was to be given the first ride.
+- What? yöu?
+
+1610
+02:35:15,393 --> 02:35:17,987
+- Not what he said.
+- <font color="#808080">[Gasps]</font> I never!
+
+1611
+02:35:19,798 --> 02:35:23,928
+Mr. Gibbs? Any particular reason
+why my ship is gone?
+
+1612
+02:35:24,002 --> 02:35:26,835
+The ship? We're on the ship.
+
+1613
+02:35:29,474 --> 02:35:32,341
+Jack! The ship's gone!
+
+1614
+02:35:32,410 --> 02:35:33,468
+Really?
+
+1615
+02:35:35,514 --> 02:35:38,779
+Ladies! Will yöu please shut it?
+
+1616
+02:35:38,850 --> 02:35:42,217
+Listen to me.
+Yes, I lied to yöu.
+
+1617
+02:35:42,287 --> 02:35:43,777
+No, I don't love yöu.
+
+1618
+02:35:43,855 --> 02:35:46,949
+Of course it makes yöu look fat.
+I've never been to Brussels.
+
+1619
+02:35:47,025 --> 02:35:49,755
+It is pronounced "egregious."
+
+1620
+02:35:49,828 --> 02:35:53,855
+By the way, no, I've never actually
+met Pizarro, but I love his pies.
+
+1621
+02:35:53,932 --> 02:35:56,628
+And all of this pales
+to utter insignificance
+
+1622
+02:35:56,701 --> 02:36:00,432
+in light of the fact that
+my ship is once again gone. Savvy?
+
+1623
+02:36:12,984 --> 02:36:15,919
+- Take what yöu can.
+- Give nothing back.
+
+1624
+02:36:19,824 --> 02:36:23,851
+Tell me, ladies,
+what do yöu know of sea turtles?
+
+1625
+02:36:23,929 --> 02:36:25,021
+Sea turtles?
+
+1626
+02:36:25,297 --> 02:36:27,527
+Let me tell yöu
+the amazing story of Cap...
+
+1627
+02:36:27,599 --> 02:36:30,261
+<font color="#808080">[Barbossa]</font> All men up the ratlines.
+
+1628
+02:36:30,669 --> 02:36:33,467
+All men up the ratlines!
+
+1629
+02:36:38,610 --> 02:36:40,840
+Oh, yöu want a taste of this?
+
+1630
+02:36:42,347 --> 02:36:45,544
+Oh, that's a good boy!
+yöu're Daddy's boy.
+
+1631
+02:36:45,617 --> 02:36:48,245
+Oh, yes, yöu are.
+Oh, yes, yöu are.
+
+1632
+02:36:48,320 --> 02:36:49,309
+Sir?
+
+1633
+02:36:50,689 --> 02:36:53,214
+Some of the men don't feel
+entirely settled
+
+1634
+02:36:53,291 --> 02:36:55,782
+- about leaving Captain Jack behind.
+- Again.
+
+1635
+02:36:55,927 --> 02:36:58,828
+- Again.
+- Is that so?
+
+1636
+02:36:59,097 --> 02:37:02,760
+It would make us feel a whole lot
+better regarding our fortunes
+
+1637
+02:37:02,834 --> 02:37:05,530
+if we could see that item
+yöu told us about.
+
+1638
+02:37:05,604 --> 02:37:07,765
+- On the charts.
+- Aye.
+
+1639
+02:37:07,872 --> 02:37:09,271
+With our own eyes.
+
+1640
+02:37:09,341 --> 02:37:12,936
+To help put an ease
+to our burden of guilt, so to speak.
+
+1641
+02:37:13,378 --> 02:37:15,209
+Ah.
+
+1642
+02:37:15,280 --> 02:37:17,510
+Feast yöur eyes upon this, Mateys.
+
+1643
+02:37:17,916 --> 02:37:20,441
+There's more than one way
+to live forever.
+
+1644
+02:37:20,518 --> 02:37:24,249
+Gents, I give yöu
+the Fountain of yöuth.
+
+1645
+02:37:35,033 --> 02:37:36,898
+Sparrow.
+
+1646
+02:37:37,402 --> 02:37:41,964
+<i><font color="#808080">[Jack]</font></i> <font color="#00ff00">♪</font>Yo ho, yo ho<font color="#00ff00">♪</font>
+<i>A pirate's life for me</i>
+
+1647
+02:37:42,040 --> 02:37:44,634
+<i><font color="#808080">[humming]</font></i>
+
+1648
+02:38:07,866 --> 02:38:12,496
+<font color="#00ff00">♫</font>We're devils and black sheep<font color="#00ff00">♪</font>
+<font color="#00ff00">♫</font>Really bad eggs<font color="#00ff00">♪</font>
+
+1649
+02:38:31,589 --> 02:38:34,217
+<font color="#00ff00">♫</font>Drink up, me hearties<font color="#00ff00">♪</font>
+<font color="#00ff00">♫</font>Yo ho<font color="#00ff00">♪</font>
+
+1650
+02:38:34,227 --> 02:38:37,237
+
+
+1651
+02:38:37,247 --> 02:47:06,627
+
+
+1652
+02:47:06,637 --> 02:47:11,506
+<i><font color="#808080">[boy]</font></i><font color="#00ff00">♫</font>Yo ho, yo ho<font color="#00ff00">♪</font>
+<font color="#00ff00">♫</font>A pirate's life for me<font color="#00ff00">♪</font>
+
+1653
+02:47:11,576 --> 02:47:14,670
+<font color="#00ff00">♫</font>We pillage, we plunder<font color="#00ff00">♪</font>
+<font color="#00ff00">♫</font>We rifle and loot<font color="#00ff00">♪</font>
+
+1654
+02:47:14,745 --> 02:47:16,542
+<font color="#00ff00">♫</font>Drink up, me hearties<font color="#00ff00">♪</font>
+<font color="#00ff00">♫</font>Yo ho<font color="#00ff00">♪</font>
+
+1655
+02:47:16,614 --> 02:47:19,242
+<font color="#00ff00">♫</font>We kidnap and ravage<font color="#00ff00">♪</font>
+<font color="#00ff00">♫</font>And don't give a hoot<font color="#00ff00">♪</font>
+
+1656
+02:47:19,317 --> 02:47:21,148
+<font color="#00ff00">♫</font>Drink up, me hearties<font color="#00ff00">♪</font>
+<font color="#00ff00">♫</font>Yo ho<font color="#00ff00">♪</font>
+
+1657
+02:47:21,219 --> 02:47:26,816
+<font color="#00ff00">♫</font>Yo ho, yo ho<font color="#00ff00">♪</font>
+<font color="#00ff00">♫</font>A pirate's life for me<font color="#00ff00">♪</font>
+

@@ -1,0 +1,10052 @@
+1
+00:01:09,861 --> 00:01:13,615
+<i>NICK: In my younger
+and more vulnerable years...
+
+2
+00:01:13,823 --> 00:01:16,743
+<i>...my father gave me some advice.
+
+3
+00:01:19,204 --> 00:01:23,209
+<i>"Always try to see the best in people,"
+he would say.
+
+4
+00:01:24,918 --> 00:01:29,840
+<i>As a consequence,
+I'm inclined to reserve all judgments.
+
+5
+00:01:31,382 --> 00:01:35,429
+<i>But even I have a limit.
+
+6
+00:01:37,597 --> 00:01:42,186
+<i>Back then, all of us drank too much.
+
+7
+00:01:43,020 --> 00:01:46,524
+<i>The more in tune with the times we were...
+
+8
+00:01:47,358 --> 00:01:49,902
+<i>...the more we drank.
+
+9
+00:01:50,735 --> 00:01:54,656
+<i>And none of us contributed anything new.
+
+10
+00:01:57,033 --> 00:02:00,537
+When I came back from New York,
+I was disgusted.
+
+11
+00:02:03,248 --> 00:02:05,709
+DOCTOR:
+I see, Mr. Carraway.
+
+12
+00:02:05,918 --> 00:02:10,088
+NICK:
+Disgusted with everyone and everything.
+
+13
+00:02:11,507 --> 00:02:15,093
+Only one man was exempt from my disgust.
+
+14
+00:02:19,431 --> 00:02:21,141
+One man?
+
+15
+00:02:22,016 --> 00:02:23,811
+Mr. Carraway?
+
+16
+00:02:27,605 --> 00:02:29,066
+Gatsby.
+
+17
+00:02:32,152 --> 00:02:34,028
+DOCTOR:
+Was he a friend of yours?
+
+18
+00:02:36,406 --> 00:02:37,866
+He was...
+
+19
+00:02:39,117 --> 00:02:42,621
+...the single most hopeful person
+I've ever met.
+
+20
+00:02:44,456 --> 00:02:46,917
+And am ever likely to meet again.
+
+21
+00:02:49,961 --> 00:02:50,712
+There was something...
+
+22
+00:02:50,879 --> 00:02:53,841
+...about him, a sensitivity.
+
+23
+00:02:54,049 --> 00:02:55,968
+He was like...
+
+24
+00:02:56,176 --> 00:03:01,014
+He was like one of those machines
+that register earthquakes 10,000 miles away.
+
+25
+00:03:02,307 --> 00:03:03,683
+Where'd you meet him?
+
+26
+00:03:09,105 --> 00:03:11,942
+NICK:
+At a... At a party...
+
+27
+00:03:12,651 --> 00:03:14,360
+...in New York.
+
+28
+00:03:14,569 --> 00:03:16,780
+<i>NICK:
+In the summer of 1922...
+
+29
+00:03:16,989 --> 00:03:19,908
+<i>...the tempo of the city approached...
+
+30
+00:03:20,074 --> 00:03:21,534
+. <i>.</i> . <i>hysteria.
+
+31
+00:03:33,756 --> 00:03:34,965
+<i>Stocks reached...
+
+32
+00:03:35,174 --> 00:03:37,050
+...record peaks...
+
+33
+00:03:37,259 --> 00:03:38,093
+<i>...and Wall Street boomed...
+
+34
+00:03:38,259 --> 00:03:39,219
+<i>...in a steady...
+
+35
+00:03:39,385 --> 00:03:40,179
+<i>...golden roar.
+
+36
+00:03:42,389 --> 00:03:43,765
+<i>The parties were bigger.
+
+37
+00:03:44,349 --> 00:03:45,308
+<i>The shows...
+
+38
+00:03:45,516 --> 00:03:46,977
+<i>...were broader.
+
+39
+00:03:47,186 --> 00:03:48,937
+<i>The buildings were higher.
+
+40
+00:03:49,646 --> 00:03:51,564
+<i>The morals were looser and the ban...
+
+41
+00:03:51,731 --> 00:03:53,817
+<i>...on alcohol had backfired...
+
+42
+00:03:54,067 --> 00:03:56,736
+<i>...making the liquor cheaper.
+
+43
+00:04:01,324 --> 00:04:05,454
+<i>Wall Street was luring
+the young and ambitious.
+
+44
+00:04:06,663 --> 00:04:08,790
+<i>And I was one of them.
+
+45
+00:04:12,502 --> 00:04:15,673
+<i>I rented a house 20 miles
+from the city on Long Island.
+
+46
+00:04:15,881 --> 00:04:17,382
+<i>I lived at West Egg...
+
+47
+00:04:17,591 --> 00:04:21,011
+<i>...in a forgotten groundskeeper's cottage,
+squeezed among the mansions...
+
+48
+00:04:21,220 --> 00:04:22,930
+<i>...of the newly rich.
+
+49
+00:04:23,555 --> 00:04:27,810
+<i>To get started, I bought a dozen volumes
+on credit, banking and investments.
+
+50
+00:04:28,018 --> 00:04:29,269
+<i>All new to me.
+
+51
+00:04:29,478 --> 00:04:30,144
+MAN [OVER RADIO]:
+The <i>stock</i> market...
+
+52
+00:04:30,312 --> 00:04:32,398
+...hit another <i>high.</i>
+CLERK: The market's moving up, up, up!
+
+53
+00:04:32,564 --> 00:04:36,819
+Well, of course, nothing is 100 percent.
+I wouldn't go investing every penny.
+
+54
+00:04:37,026 --> 00:04:39,529
+<i>NICK:
+At Yale I dreamed of being</i> a <i>writer...
+
+55
+00:04:39,697 --> 00:04:41,656
+<i>...but I gave all that up.
+
+56
+00:04:42,115 --> 00:04:43,992
+<i>With the sun shining...
+
+57
+00:04:44,201 --> 00:04:46,161
+<i>...and the bursts of leaves on the trees...
+
+58
+00:04:46,370 --> 00:04:47,329
+<i>...I planned to spend...
+
+59
+00:04:47,538 --> 00:04:48,913
+<i>...the summer studying.
+
+60
+00:04:49,163 --> 00:04:50,249
+[MOTORBOAT ENGINE RUNNING]
+
+61
+00:04:50,415 --> 00:04:51,709
+<i>And I probably would have...
+
+62
+00:04:51,917 --> 00:04:53,543
+...were <i>it</i> not...
+
+63
+00:04:53,752 --> 00:04:54,586
+...for the riotous...
+
+64
+00:04:54,752 --> 00:04:56,338
+<i>...amusements that beckoned...
+
+65
+00:04:59,091 --> 00:04:59,882
+...from beyond...
+
+66
+00:05:00,091 --> 00:05:01,843
+...the <i>walls</i> of that...
+
+67
+00:05:02,177 --> 00:05:03,052
+<i>...colossal castle...
+
+68
+00:05:05,264 --> 00:05:07,391
+<i>...owned by a gentleman I had...
+
+69
+00:05:07,598 --> 00:05:09,268
+...not yet met...
+
+70
+00:05:09,810 --> 00:05:12,312
+<i>...named Gatsby.
+
+71
+00:05:13,939 --> 00:05:14,939
+<i>DOCTOR'.
+So...
+
+72
+00:05:15,106 --> 00:05:16,983
+...he was your neighbor.
+
+73
+00:05:17,442 --> 00:05:18,860
+My neighbor.
+
+74
+00:05:19,819 --> 00:05:20,987
+Yeah.
+
+75
+00:05:22,156 --> 00:05:26,492
+When I think about it,
+the history of the summer really began...
+
+76
+00:05:26,701 --> 00:05:29,829
+<i>...the night I drove over
+to my cousin Daisy's for dinner.
+
+77
+00:05:30,038 --> 00:05:35,002
+<i>She lived across the bay in old moneyed...
+
+78
+00:05:35,877 --> 00:05:37,463
+, <i>,.East E99-
+
+79
+00:05:38,213 --> 00:05:40,591
+[INDISTINCT CHATTERING]
+
+80
+00:05:41,925 --> 00:05:46,387
+<i>Her husband was heir to
+one of America's wealthiest families.
+
+81
+00:05:46,805 --> 00:05:47,473
+<i>His name...
+
+82
+00:05:47,639 --> 00:05:49,932
+...was Tom...
+
+83
+00:05:50,141 --> 00:05:51,143
+<i>...Buchanan.
+
+84
+00:05:51,351 --> 00:05:52,894
+[TELEPHONE RINGING]
+
+85
+00:05:53,312 --> 00:05:53,978
+When <i>we</i> were...
+
+86
+00:05:54,146 --> 00:05:55,730
+<i>...at Yale together, he'd been...
+
+87
+00:05:55,898 --> 00:05:59,610
+...a <i>sporting</i> star. <i>But now his glory days
+were behind him and</i> he...
+
+88
+00:05:59,817 --> 00:06:01,903
+-...contented himself with. ..
+- Telephone, Monsieur Buchanan.
+
+89
+00:06:02,112 --> 00:06:03,529
+MYRTLE: It's me.
+NICK: ...other affairs.
+
+90
+00:06:03,738 --> 00:06:05,656
+I thought I told you not to call me here.
+
+91
+00:06:05,865 --> 00:06:06,742
+Boaz!
+
+92
+00:06:07,826 --> 00:06:08,994
+Shakespeare!
+
+93
+00:06:09,202 --> 00:06:11,079
+- Tom! Oh!
+- Ha-ha-ha!
+
+94
+00:06:12,331 --> 00:06:16,250
+- How's the great American novel coming?
+- I'm selling bonds with Walter Chase's outfit.
+
+95
+00:06:16,459 --> 00:06:18,795
+Let's say after dinner,
+you and I, we go into town.
+
+96
+00:06:19,004 --> 00:06:20,338
+- I can't.
+- Catch up with the old wolf pack.
+
+97
+00:06:20,547 --> 00:06:23,509
+- Big day on the job tomorrow.
+- Nonsense! We're going.
+
+98
+00:06:23,925 --> 00:06:26,427
+First team, all-American.
+
+99
+00:06:26,637 --> 00:06:27,303
+You see?
+
+100
+00:06:27,512 --> 00:06:28,889
+Made me who I am today.
+
+101
+00:06:29,098 --> 00:06:30,348
+Forest Hills.
+
+102
+00:06:30,557 --> 00:06:31,975
+Played the Prince of Wales.
+What a sissy.
+
+103
+00:06:32,768 --> 00:06:33,435
+Life is...
+
+104
+00:06:33,644 --> 00:06:34,894
+...something you dominate.
+
+105
+00:06:35,062 --> 00:06:35,937
+If you're any good.
+
+106
+00:06:36,687 --> 00:06:37,355
+Oh!
+
+107
+00:06:37,523 --> 00:06:38,231
+[TOM LAUGHS]
+
+108
+00:06:43,403 --> 00:06:44,529
+Oh.
+
+109
+00:06:50,326 --> 00:06:51,036
+DAISY:
+Hey.
+
+110
+00:06:52,788 --> 00:06:53,872
+[DAISY YAWNS]
+
+111
+00:06:55,040 --> 00:06:55,999
+[DAISY CHUCKLES]
+
+112
+00:07:01,629 --> 00:07:02,713
+TOM:
+Henri!
+
+113
+00:07:02,923 --> 00:07:04,507
+Where are you?
+
+114
+00:07:05,425 --> 00:07:06,093
+The doors.
+
+115
+00:07:06,300 --> 00:07:07,552
+Close them.
+
+116
+00:07:08,345 --> 00:07:09,387
+[HENRI SPEAKS IN FRENCH]
+
+117
+00:07:10,305 --> 00:07:11,932
+Sorry. Thank you.
+
+118
+00:07:12,766 --> 00:07:14,976
+DAISY:
+Is that you, my lovely?
+
+119
+00:07:18,939 --> 00:07:21,858
+<i>NICK:
+Daisy Buchanan, the golden girl.
+
+120
+00:07:22,733 --> 00:07:23,569
+<i>A breathless...
+
+121
+00:07:23,776 --> 00:07:24,987
+...warmth <i>flowed</i> from her.
+
+122
+00:07:25,153 --> 00:07:26,988
+<i>A promise that there was no one else...
+
+123
+00:07:27,197 --> 00:07:28,531
+...in the <i>world</i> she...
+
+124
+00:07:28,740 --> 00:07:29,740
+<i>...so wanted to see.
+
+125
+00:07:29,949 --> 00:07:31,869
+Do they miss me in Chicago?
+
+126
+00:07:32,119 --> 00:07:35,913
+Yes. Um, at least a dozen people
+send their love.
+
+127
+00:07:36,456 --> 00:07:37,790
+How gorgeous.
+
+128
+00:07:38,292 --> 00:07:40,084
+They're absolutely in mourning.
+
+129
+00:07:40,293 --> 00:07:41,461
+- They're crying. Yes.
+DAISY: No.
+
+130
+00:07:41,670 --> 00:07:42,838
+- I don't believe you.
+NICK: Wailing.
+
+131
+00:07:43,045 --> 00:07:44,298
+DAISY: I don't believe you.
+- They're screaming.
+
+132
+00:07:44,505 --> 00:07:45,673
+"Daisy Buchanan...
+
+133
+00:07:45,882 --> 00:07:46,550
+...we can't live...
+
+134
+00:07:46,716 --> 00:07:49,887
+-...without you!"
+- I'm paralyzed with happiness.
+
+135
+00:07:50,052 --> 00:07:50,721
+NICK:
+Whoa!
+
+136
+00:07:51,262 --> 00:07:51,930
+Whoa! Oh!
+
+137
+00:07:54,766 --> 00:07:55,433
+Jordan Baker...
+
+138
+00:07:55,600 --> 00:07:56,268
+...a very...
+
+139
+00:07:56,435 --> 00:07:57,519
+...famous golfer.
+
+140
+00:07:57,728 --> 00:07:58,728
+Oh.
+
+141
+00:07:58,937 --> 00:08:01,648
+<i>NICK: She was the most frightening person
+I'd ever seen.
+
+142
+00:08:01,857 --> 00:08:04,442
+Well, I've seen your face on the cover
+of Sporting <i>Life.
+
+143
+00:08:04,651 --> 00:08:06,110
+Nick Carraway.
+
+144
+00:08:07,028 --> 00:08:08,613
+<i>But I enjoyed looking at her.
+
+145
+00:08:08,822 --> 00:08:10,281
+JORDAN:
+I've been lying on that sofa...
+
+146
+00:08:10,490 --> 00:08:11,867
+...for as long as I can remember.
+
+147
+00:08:12,158 --> 00:08:15,661
+This summer I'll fling you two together.
+I'll push you into linen closets...
+
+148
+00:08:15,870 --> 00:08:17,288
+...and out to sea in boats!
+
+149
+00:08:17,497 --> 00:08:18,915
+- I'm not listening to a word.
+- So, Nick...
+
+150
+00:08:19,124 --> 00:08:20,000
+...Daisy tells me...
+
+151
+00:08:20,167 --> 00:08:21,209
+...that you're over in West Egg...
+
+152
+00:08:22,418 --> 00:08:23,336
+...throwing your lot in...
+
+153
+00:08:23,545 --> 00:08:24,338
+...with those social-climbing...
+
+154
+00:08:24,504 --> 00:08:25,797
+...primitive new-money types.
+
+155
+00:08:26,005 --> 00:08:28,466
+My little shack's just a cardboard box
+at 80 a month.
+
+156
+00:08:28,675 --> 00:08:30,427
+Your life is adorable.
+
+157
+00:08:30,636 --> 00:08:31,677
+JORDAN:
+I know somebody in West Egg.
+
+158
+00:08:31,887 --> 00:08:32,803
+I don't know a single person...
+
+159
+00:08:32,971 --> 00:08:34,431
+...that side of the bay.
+
+160
+00:08:34,639 --> 00:08:36,225
+You must know Gatsby.
+
+161
+00:08:37,433 --> 00:08:38,769
+Gatsby?
+
+162
+00:08:42,940 --> 00:08:43,941
+What Gatsby?
+
+163
+00:08:44,149 --> 00:08:46,235
+Madame, the dinner is servi.
+
+164
+00:08:57,955 --> 00:08:58,956
+<i>DAISY:
+Would you like to hear...
+
+165
+00:08:59,163 --> 00:09:00,624
+<i>...a family secret?
+
+166
+00:09:00,831 --> 00:09:02,750
+- That's why I came over.
+DAISY: It's about the butler's nose.
+
+167
+00:09:02,960 --> 00:09:04,336
+Things went from bad to worse.
+
+168
+00:09:04,503 --> 00:09:06,171
+TOM:
+I hate that word "hulking."
+
+169
+00:09:06,379 --> 00:09:08,048
+I heard a rumor
+that you were getting married...
+
+170
+00:09:08,215 --> 00:09:09,841
+...to a girl out West.
+NICK: It's a libel.
+
+171
+00:09:10,008 --> 00:09:11,259
+- I'm too poor.
+JORDAN: They have to be old...
+
+172
+00:09:11,426 --> 00:09:12,469
+...so they die quickly.
+
+173
+00:09:12,677 --> 00:09:13,678
+NICK:
+Can't we talk about something else?
+
+174
+00:09:13,886 --> 00:09:15,096
+Anything. Crops.
+
+175
+00:09:15,304 --> 00:09:16,557
+You're making me feel uncivilized...
+
+176
+00:09:16,764 --> 00:09:17,432
+...Daisy.
+
+177
+00:09:17,640 --> 00:09:19,142
+TOM:
+Civilization's going to pieces.
+
+178
+00:09:20,726 --> 00:09:23,062
+<i>Have you read
+The Rise of the Colored Empires...
+
+179
+00:09:23,272 --> 00:09:25,856
+...by this fellow Goddard?
+Everybody ought to...
+
+180
+00:09:26,066 --> 00:09:28,235
+...read it. The idea is...
+
+181
+00:09:28,442 --> 00:09:30,571
+...that it's up to us, the dominant race...
+
+182
+00:09:30,778 --> 00:09:31,863
+...to watch out or these...
+
+183
+00:09:32,447 --> 00:09:33,532
+...other races...
+
+184
+00:09:33,698 --> 00:09:34,700
+...will have control of things.
+
+185
+00:09:34,908 --> 00:09:38,828
+Tom's very profound lately. He reads
+deep books with long words in them.
+
+186
+00:09:39,162 --> 00:09:40,038
+TOM:
+It's been proved.
+
+187
+00:09:40,246 --> 00:09:41,289
+It's scientific.
+
+188
+00:09:41,498 --> 00:09:43,542
+We've got to beat them down.
+
+189
+00:09:43,875 --> 00:09:45,543
+[TELEPHONE RINGING]
+
+190
+00:09:52,466 --> 00:09:53,594
+HENRI:
+Buchanan residence.
+
+191
+00:09:54,885 --> 00:09:56,638
+Monsieur Wilson, from the garage.
+
+192
+00:09:57,806 --> 00:09:59,015
+Monsieur Buchanan.
+
+193
+00:09:59,224 --> 00:10:01,268
+Excuse me, I'll be right back.
+
+194
+00:10:05,022 --> 00:10:06,480
+I'm sorry.
+
+195
+00:10:09,109 --> 00:10:11,986
+- Well, this Mr. Gatsby you spoke of...
+TOM: I'm working on it.
+
+196
+00:10:12,195 --> 00:10:14,822
+NICK: ...he's my neighbor.
+- Shh! Don't talk.
+
+197
+00:10:15,032 --> 00:10:16,325
+I wanna hear what happens.
+
+198
+00:10:16,533 --> 00:10:17,533
+DAISY:
+I don't care what you do...
+
+199
+00:10:17,993 --> 00:10:18,951
+Something happening?
+
+200
+00:10:19,161 --> 00:10:21,871
+- Why, I thought everybody knew.
+- Well, I don't.
+
+201
+00:10:22,080 --> 00:10:23,081
+JORDAN:
+Tom's got some...
+
+202
+00:10:23,289 --> 00:10:25,082
+...woman in New York.
+NICK: Got some woman?
+
+203
+00:10:25,292 --> 00:10:29,254
+She might have the decency not to telephone
+at dinnertime. Don't you think?
+
+204
+00:10:30,547 --> 00:10:33,299
+DAISY: Is that too much to ask?
+TOM: Daisy, don't create a scene.
+
+205
+00:10:33,591 --> 00:10:34,967
+I love seeing you at my table.
+
+206
+00:10:36,135 --> 00:10:38,429
+You remind me of a rose.
+An absolute rose...
+
+207
+00:10:38,639 --> 00:10:40,264
+...doesn't he?
+TOM: So after dinner...
+
+208
+00:10:40,474 --> 00:10:41,432
+I'm not like a rose.
+
+209
+00:10:41,642 --> 00:10:42,933
+TOM:
+...Nick wanted to go into town.
+
+210
+00:10:43,100 --> 00:10:43,976
+To the Yale Club.
+
+211
+00:10:44,186 --> 00:10:45,144
+Nicky, stay.
+
+212
+00:10:45,354 --> 00:10:46,020
+I have to work early.
+
+213
+00:10:46,187 --> 00:10:46,980
+Nonsense.
+
+214
+00:10:47,188 --> 00:10:48,981
+DAISY: There's so much to talk about.
+TOM: It's just...
+
+215
+00:10:49,149 --> 00:10:50,024
+...for a drink or two.
+
+216
+00:10:51,442 --> 00:10:52,903
+[TELEPHONE RINGING]
+
+217
+00:10:56,572 --> 00:10:57,282
+NICK:
+None of us...
+
+218
+00:10:57,490 --> 00:10:59,951
+<i>...could ignore that fifth guest's shrill...
+
+219
+00:11:00,159 --> 00:11:02,245
+<i>...metallic urgency.
+
+220
+00:11:04,246 --> 00:11:06,041
+DAISY: Nicky.
+NICK: What?
+
+221
+00:11:06,249 --> 00:11:10,544
+It's just, well, you see,
+I think everything's terrible anyhow.
+
+222
+00:11:11,046 --> 00:11:12,964
+- Really?
+- Yes.
+
+223
+00:11:13,173 --> 00:11:16,301
+I've been everywhere and seen
+everything and done everything.
+
+224
+00:11:16,634 --> 00:11:19,136
+I've had a very bad time, Nicky.
+
+225
+00:11:19,346 --> 00:11:21,932
+I'm pretty cynical about everything.
+
+226
+00:11:25,976 --> 00:11:27,437
+Your daughter, I suppose she...
+
+227
+00:11:27,604 --> 00:11:29,272
+...talks and eats and everything?
+
+228
+00:11:29,480 --> 00:11:30,606
+DAISY:
+Pammy?
+
+229
+00:11:31,692 --> 00:11:32,984
+Oh, yes.
+
+230
+00:11:33,275 --> 00:11:36,571
+Listen, Nick, when she was born...
+
+231
+00:11:36,988 --> 00:11:40,826
+...Tom was God knows where...
+
+232
+00:11:45,621 --> 00:11:47,665
+...with God knows whom.
+
+233
+00:11:48,165 --> 00:11:48,834
+And I asked...
+
+234
+00:11:49,042 --> 00:11:51,669
+...the nurse if it was a boy or a girl.
+
+235
+00:11:53,672 --> 00:11:55,340
+And she said it was a girl...
+
+236
+00:11:56,006 --> 00:11:57,384
+...and I wept:
+
+237
+00:11:57,967 --> 00:11:59,760
+"I'm glad it's a girl.
+
+238
+00:12:02,179 --> 00:12:03,974
+And I hope she'll be a fool.
+
+239
+00:12:04,975 --> 00:12:07,686
+That's the best thing
+a girl in this world can be.
+
+240
+00:12:09,229 --> 00:12:11,731
+A beautiful little fool."
+
+241
+00:12:14,567 --> 00:12:18,739
+All the bright, precious things fade so fast.
+
+242
+00:12:20,698 --> 00:12:22,616
+And they don't come back.
+
+243
+00:12:53,690 --> 00:12:55,232
+NICK:
+When <i>I</i> arrived home...
+
+244
+00:12:55,442 --> 00:12:56,817
+<i>...I noticed that a figure...
+
+245
+00:12:57,027 --> 00:12:59,488
+<i>...had emerged on my neighbor's dock.
+
+246
+00:13:04,576 --> 00:13:06,577
+<i>And something told me it</i> was...
+
+247
+00:13:07,703 --> 00:13:09,371
+<i>...Mr. Gatsby.
+
+248
+00:13:17,422 --> 00:13:19,466
+<i>He seemed to be reaching toward...
+
+249
+00:13:19,673 --> 00:13:21,802
+<i>...something out there in the dark.
+
+250
+00:13:35,065 --> 00:13:36,566
+The green light.
+
+251
+00:13:42,029 --> 00:13:44,323
+I don't wanna talk about this, doctor.
+
+252
+00:13:44,533 --> 00:13:45,826
+Then write about it.
+
+253
+00:13:47,701 --> 00:13:49,995
+- Write about it?
+- Yes.
+
+254
+00:13:50,956 --> 00:13:52,289
+Why would I do that?
+
+255
+00:13:53,124 --> 00:13:54,750
+DOCTOR:
+You said yourself writing...
+
+256
+00:13:54,960 --> 00:13:55,918
+...brought you solace.
+
+257
+00:13:56,503 --> 00:14:01,048
+Yeah, well, it didn't bring
+anyone else much solace.
+
+258
+00:14:01,758 --> 00:14:03,467
+I wasn't any good.
+
+259
+00:14:03,844 --> 00:14:05,345
+No one need ever read it.
+
+260
+00:14:05,720 --> 00:14:07,389
+You could always burn it.
+
+261
+00:14:12,686 --> 00:14:14,144
+What would I write about?
+
+262
+00:14:14,520 --> 00:14:15,897
+Anything-
+
+263
+00:14:17,106 --> 00:14:18,399
+Whatever brings you ease:
+
+264
+00:14:19,567 --> 00:14:21,193
+a memory...
+
+265
+00:14:21,403 --> 00:14:23,071
+...a thought, a place.
+
+266
+00:14:26,198 --> 00:14:27,741
+Write it down.
+
+267
+00:14:31,663 --> 00:14:33,163
+A place.
+
+268
+00:14:35,165 --> 00:14:36,459
+[TRAIN WHISTLE BLOWING]
+
+269
+00:14:39,169 --> 00:14:42,798
+The Valley of Ashes was a grotesque place.
+
+270
+00:14:45,051 --> 00:14:49,681
+<i>New York's dumping ground
+halfway between West Egg and the city...
+
+271
+00:14:49,889 --> 00:14:52,225
+<i>...where the burnt-out coal that powered...
+
+272
+00:14:52,433 --> 00:14:54,644
+<i>...the booming golden city...
+
+273
+00:14:54,852 --> 00:14:57,062
+<i>...was discarded by men who...
+
+274
+00:14:57,272 --> 00:14:59,024
+<i>...moved dimly and already...
+
+275
+00:14:59,231 --> 00:15:01,567
+<i>...crumbling through the powdery air.
+
+276
+00:15:02,568 --> 00:15:04,111
+<i>This fantastic farm...
+
+277
+00:15:04,321 --> 00:15:07,323
+<i>...was ever watched by Dr. T.J. Eckleburg...
+
+278
+00:15:07,532 --> 00:15:11,702
+<i>...a forgotten oculist
+whose eyes brooded over it all...
+
+279
+00:15:11,912 --> 00:15:13,163
+<i>...like the eyes...
+
+280
+00:15:13,580 --> 00:15:14,663
+...of God.
+
+281
+00:15:17,333 --> 00:15:20,836
+<i>Tom had invited me to town,
+apparently for lunch at the Yale Club...
+
+282
+00:15:21,004 --> 00:15:21,837
+...but...
+
+283
+00:15:22,047 --> 00:15:22,923
+<i>...the day took...
+
+284
+00:15:23,130 --> 00:15:23,840
+<i>...an unexpected...
+
+285
+00:15:24,006 --> 00:15:25,174
+...turn.
+
+286
+00:15:25,966 --> 00:15:26,967
+Come on.
+
+287
+00:15:28,052 --> 00:15:29,386
+- Come on!
+- What do you mean?
+
+288
+00:15:29,596 --> 00:15:30,554
+Trust me!
+
+289
+00:15:30,764 --> 00:15:32,849
+NICK: What are we doing?
+CONDUCTOR: Where are you going?
+
+290
+00:15:33,057 --> 00:15:33,725
+Jump!
+
+291
+00:15:33,933 --> 00:15:35,601
+- What are you doing?
+TOM: Jump, come on!
+
+292
+00:15:35,809 --> 00:15:36,811
+- Tom!
+TOM: Come on!
+
+293
+00:15:37,645 --> 00:15:39,147
+NICK:
+Oh, God.
+
+294
+00:15:39,355 --> 00:15:42,067
+Tom, wait. Wait a second, would you?
+
+295
+00:15:42,524 --> 00:15:43,234
+TOM:
+Dominate, Nick!
+
+296
+00:15:43,652 --> 00:15:45,028
+Dominate!
+
+297
+00:15:47,322 --> 00:15:48,822
+Hello, Wilson.
+
+298
+00:15:49,032 --> 00:15:50,533
+How's business?
+
+299
+00:15:51,784 --> 00:15:53,119
+Yeah, I can't complain.
+
+300
+00:15:53,286 --> 00:15:54,120
+Uh...
+
+301
+00:15:55,455 --> 00:15:57,081
+So when are you gonna...
+
+302
+00:15:57,289 --> 00:16:00,585
+-...sell me that car?
+- Oh, I've still got my man working on it.
+
+303
+00:16:00,793 --> 00:16:02,836
+Yeah, well, he works pretty slow, don't he?
+
+304
+00:16:03,046 --> 00:16:04,880
+Maybe I'd better sell it somewhere else.
+
+305
+00:16:05,090 --> 00:16:06,131
+WILSON:
+Oh, no, no, no.
+
+306
+00:16:06,341 --> 00:16:07,759
+I wasn't saying that. I was--
+
+307
+00:16:07,967 --> 00:16:09,219
+MYRTLE:
+If it's business, you should be talking...
+
+308
+00:16:09,385 --> 00:16:10,386
+...to me.
+
+309
+00:16:10,845 --> 00:16:11,679
+Get some chairs...
+
+310
+00:16:11,846 --> 00:16:14,432
+...why don't you,
+so somebody can sit down.
+
+311
+00:16:16,017 --> 00:16:17,309
+WILSON:
+Uh, sure.
+
+312
+00:16:18,394 --> 00:16:19,770
+Yeah, let's talk business.
+
+313
+00:16:20,480 --> 00:16:21,230
+Sure.
+
+314
+00:16:21,438 --> 00:16:22,481
+I'll get the chairs.
+
+315
+00:16:23,399 --> 00:16:24,192
+Myrtle...
+
+316
+00:16:24,400 --> 00:16:25,777
+...why don't you entertain?
+MYRTLE: Hurry up.
+
+317
+00:16:27,361 --> 00:16:28,863
+- Hi.
+- Hi.
+
+318
+00:16:29,905 --> 00:16:30,782
+WILSON:
+Mr. Buchanan.
+
+319
+00:16:30,990 --> 00:16:31,700
+Candy?
+
+320
+00:16:31,908 --> 00:16:33,701
+- No, thank you.
+WILSON: No?
+
+321
+00:16:33,909 --> 00:16:35,327
+TOM:
+Mrs. Wilson, Nick Carraway.
+
+322
+00:16:35,495 --> 00:16:36,328
+Oh.
+
+323
+00:16:36,495 --> 00:16:37,496
+A pleasure.
+
+324
+00:16:37,706 --> 00:16:38,748
+Nick's a writer.
+
+325
+00:16:38,914 --> 00:16:39,749
+Oh.
+
+326
+00:16:39,957 --> 00:16:41,084
+I'm in bonds actually.
+
+327
+00:16:41,459 --> 00:16:42,836
+I want you...
+
+328
+00:16:44,294 --> 00:16:45,547
+...get on the next train.
+
+329
+00:16:45,754 --> 00:16:46,423
+MYRTLE:
+Now?
+
+330
+00:16:46,630 --> 00:16:47,798
+Yes.
+
+331
+00:16:48,008 --> 00:16:49,009
+Can we get the dog?
+
+332
+00:16:49,216 --> 00:16:51,010
+- For the apartment?
+- Whatever you want.
+
+333
+00:16:51,219 --> 00:16:52,095
+Hey, Mr. Buchanan!
+
+334
+00:16:52,302 --> 00:16:53,388
+You want a soda?
+
+335
+00:16:53,554 --> 00:16:54,471
+- I'm fine.
+WILSON: No?
+
+336
+00:16:56,390 --> 00:16:58,143
+Call your sister. She'll like him.
+
+337
+00:16:58,350 --> 00:17:00,186
+No, no, no. That's all right, thank you.
+
+338
+00:17:00,394 --> 00:17:02,647
+Catherine's said to be very good-looking
+by people who know.
+
+339
+00:17:02,855 --> 00:17:03,981
+Oh, really, I can't.
+
+340
+00:17:04,190 --> 00:17:04,982
+Hey-
+
+341
+00:17:05,191 --> 00:17:06,901
+You wanna embarrass Myrtle?
+
+342
+00:17:08,944 --> 00:17:10,070
+That's rude.
+
+343
+00:17:18,579 --> 00:17:21,165
+[BED SPRINGS SQUEAKING]
+
+344
+00:17:23,625 --> 00:17:25,461
+[MYRTLE SQUEALS]
+
+345
+00:17:27,130 --> 00:17:29,339
+[TOM MOANS]
+
+346
+00:17:31,675 --> 00:17:32,969
+[WHIMPERS]
+
+347
+00:17:34,220 --> 00:17:37,222
+[MYRTLE AND TOM MOANING]
+
+348
+00:17:49,568 --> 00:17:50,444
+I'm Catherine.
+
+349
+00:17:50,653 --> 00:17:52,614
+Ain't we having a party?
+
+350
+00:17:53,155 --> 00:17:54,907
+Um, I'm not sure...
+
+351
+00:17:55,115 --> 00:17:55,866
+...now's a good time.
+
+352
+00:17:56,076 --> 00:17:58,077
+I'm just going. Actually, there are peop--
+
+353
+00:17:58,286 --> 00:17:59,244
+Hello!
+
+354
+00:17:59,453 --> 00:18:01,163
+Oh, Chester, this must be the cousin.
+
+355
+00:18:01,372 --> 00:18:03,540
+- Oh, you are adorable.
+- Oh, thank you.
+
+356
+00:18:03,750 --> 00:18:05,292
+Chester McKee. Pleasure to meet you.
+
+357
+00:18:05,501 --> 00:18:07,045
+NICK: Nick Carraway.
+CATHERINE: Come on...
+
+358
+00:18:07,252 --> 00:18:09,088
+-...don't you like me?
+- Oh. Heh. A plant.
+
+359
+00:18:09,547 --> 00:18:10,298
+Myrtle!
+
+360
+00:18:11,048 --> 00:18:12,424
+Myrtle!
+
+361
+00:18:13,425 --> 00:18:14,094
+[GASPS]
+
+362
+00:18:14,594 --> 00:18:16,096
+[MRS. MCKEE & MYRTLE SQUEAL]
+
+363
+00:18:16,512 --> 00:18:17,721
+Myrtle turtle!
+
+364
+00:18:19,891 --> 00:18:21,226
+I really must go.
+
+365
+00:18:21,433 --> 00:18:23,103
+Get everybody a drink
+before they fall asleep.
+
+366
+00:18:23,310 --> 00:18:24,813
+Torn, I'm just leaving now.
+
+367
+00:18:25,480 --> 00:18:26,230
+Nick.
+
+368
+00:18:26,396 --> 00:18:27,065
+Wait.
+
+369
+00:18:27,272 --> 00:18:29,567
+- I'm going. I've gotta get out of here.
+- Nonsense!
+
+370
+00:18:29,776 --> 00:18:32,112
+Go on in there and talk to Catherine.
+
+371
+00:18:32,319 --> 00:18:33,947
+I'm not comfortable. Daisy's my cousin.
+
+372
+00:18:34,154 --> 00:18:37,282
+Listen, I know you like to watch.
+I remember that from college.
+
+373
+00:18:37,491 --> 00:18:39,368
+No, no, no, I don't make any judgment.
+
+374
+00:18:39,576 --> 00:18:40,744
+We have all summer.
+
+375
+00:18:40,953 --> 00:18:45,290
+Now, do you wanna sit on the sideline
+and watch, or do you wanna play ball?
+
+376
+00:18:45,500 --> 00:18:46,500
+Play ball.
+
+377
+00:18:46,709 --> 00:18:48,795
+- Ain't we good enough for you?
+MYRTLE: Come on!
+
+378
+00:18:49,253 --> 00:18:51,381
+Come on! Come on.
+
+379
+00:18:51,588 --> 00:18:54,134
+He's gonna sit on the side and watch, huh?
+
+380
+00:18:54,342 --> 00:18:55,593
+Or is he gonna play ball?
+
+381
+00:18:56,344 --> 00:18:58,846
+Take off your hat and stay a while.
+
+382
+00:18:59,055 --> 00:19:00,682
+TOM:
+Oh, hey, Nick. McKee...
+
+383
+00:19:00,890 --> 00:19:02,683
+-...is in the artistic game.
+- Photography.
+
+384
+00:19:02,892 --> 00:19:04,394
+TOM: Nick's artistic.
+- No.
+
+385
+00:19:04,602 --> 00:19:06,061
+- No, no, no.
+- Really?
+
+386
+00:19:06,770 --> 00:19:09,022
+- I write a little, but...
+CATHERINE: Really?
+
+387
+00:19:09,231 --> 00:19:10,775
+Do you live on Long Island too?
+
+388
+00:19:10,983 --> 00:19:13,068
+- I live at West Egg.
+- I was there at a party...
+
+389
+00:19:13,278 --> 00:19:16,990
+...about a month ago. A man named Gatsbys.
+Do you know him?
+
+390
+00:19:18,074 --> 00:19:19,659
+I live right next door to him.
+
+391
+00:19:20,410 --> 00:19:22,578
+He's a cousin of Kaiser Wilhelm's.
+
+392
+00:19:22,912 --> 00:19:24,788
+- You know, the evil German king?
+- Really?
+
+393
+00:19:25,414 --> 00:19:26,165
+TOM:
+Hey, McKee!
+
+394
+00:19:27,250 --> 00:19:28,375
+- Take a picture of that.
+MYRTLE: Ah!
+
+395
+00:19:30,002 --> 00:19:31,628
+Don't, I'm not one of those models.
+
+396
+00:19:32,713 --> 00:19:33,714
+You can if you want.
+
+397
+00:19:37,343 --> 00:19:40,096
+Neither of them can stand
+the person they're married to.
+
+398
+00:19:40,971 --> 00:19:42,432
+Doesn't she like Wilson either?
+
+399
+00:19:42,640 --> 00:19:43,516
+MYRTLE:
+He's a greasy...
+
+400
+00:19:43,724 --> 00:19:44,642
+...little scumbag.
+
+401
+00:19:44,851 --> 00:19:47,769
+No, thanks, I feel just as good
+on nothing at all.
+
+402
+00:19:48,438 --> 00:19:49,480
+Nerve pills.
+
+403
+00:19:49,814 --> 00:19:51,566
+I get them from a doctor in Queens.
+
+404
+00:19:52,066 --> 00:19:52,942
+Do you want one?
+
+405
+00:19:53,358 --> 00:19:55,236
+Oh, no. My nerves are fine, thanks.
+
+406
+00:20:05,747 --> 00:20:08,958
+<i>NICK:
+I had been drunk just twice in my life.
+
+407
+00:20:09,334 --> 00:20:13,837
+<i>And the second time was that afternoon.
+
+408
+00:20:52,335 --> 00:20:54,420
+[PLAYING]
+
+409
+00:20:56,256 --> 00:20:57,464
+<i>That night, in the hidden...
+
+410
+00:20:57,673 --> 00:21:00,218
+<i>...flat that Torn kept for Myrtle...
+
+411
+00:21:00,425 --> 00:21:02,053
+<i>...we were buoyed by a sort of...
+
+412
+00:21:02,261 --> 00:21:03,136
+<i>...chemical madness.
+
+413
+00:21:04,388 --> 00:21:05,306
+<i>A willingness...
+
+414
+00:21:05,515 --> 00:21:06,891
+<i>...of the heart that burst...
+
+415
+00:21:07,099 --> 00:21:08,393
+<i>...thunderously upon us all.
+
+416
+00:21:09,685 --> 00:21:10,853
+<i>And suddenly, I began...
+
+417
+00:21:11,061 --> 00:21:12,563
+<i>...to like New York.
+
+418
+00:21:12,771 --> 00:21:14,648
+This is better than the Yale Club.
+
+419
+00:21:47,015 --> 00:21:47,682
+<i>High...
+
+420
+00:21:47,848 --> 00:21:49,267
+<i>...over the city...
+
+421
+00:21:49,726 --> 00:21:50,727
+<i>...our yellow...
+
+422
+00:21:50,893 --> 00:21:53,061
+<i>...windows must have
+contributed their share...
+
+423
+00:21:53,229 --> 00:21:55,189
+<i>...of human secrets...
+
+424
+00:21:56,398 --> 00:21:57,232
+<i>...to the casual...
+
+425
+00:21:57,400 --> 00:21:59,402
+<i>...watcher in the street.
+
+426
+00:22:02,321 --> 00:22:03,071
+<i>And I was him...
+
+427
+00:22:03,280 --> 00:22:04,574
+...too...
+
+428
+00:22:04,781 --> 00:22:06,326
+<i>...looking up and wondering.
+
+429
+00:22:06,534 --> 00:22:08,118
+<i>I was within...
+
+430
+00:22:09,162 --> 00:22:10,788
+...and without.
+
+431
+00:22:13,499 --> 00:22:16,085
+<i>Enchanted and repelled...
+
+432
+00:22:17,127 --> 00:22:21,507
+<i>...by the inexhaustible variety of life.
+
+433
+00:22:29,515 --> 00:22:30,682
+TOM:
+You have got no right...
+
+434
+00:22:30,892 --> 00:22:32,184
+...to speak her name.
+
+435
+00:22:32,643 --> 00:22:33,603
+Daisy, Daisy, Daisy!
+
+436
+00:22:33,769 --> 00:22:37,147
+- You got no right to speak her name!
+<i>- I'll</i> speak her name whenever--
+
+437
+00:22:40,526 --> 00:22:42,862
+- Oh, my God, you are crazy!
+TOM: You whore!
+
+438
+00:22:43,028 --> 00:22:44,447
+MYRTLE:
+They're gonna arrest you!
+
+439
+00:22:58,586 --> 00:23:00,837
+<i>I have no clue how I got home...
+
+440
+00:23:01,047 --> 00:23:02,382
+...but <i>I</i> do know that I...
+
+441
+00:23:02,632 --> 00:23:04,717
+<i>...awoke with a distinctly...
+
+442
+00:23:04,925 --> 00:23:05,926
+<i>...uneasy feeling...
+
+443
+00:23:06,134 --> 00:23:08,805
+<i>...that Gatsby was watching me.
+
+444
+00:23:11,057 --> 00:23:12,517
+DOCTOR:
+Watching you?
+
+445
+00:23:13,893 --> 00:23:14,894
+Yes.
+
+446
+00:23:15,519 --> 00:23:16,186
+<i>Gatsby...
+
+447
+00:23:16,395 --> 00:23:18,439
+<i>...was always watching me.
+
+448
+00:23:19,648 --> 00:23:21,442
+And how did you know that?
+
+449
+00:23:22,109 --> 00:23:23,819
+I got an invitation.
+
+450
+00:23:26,114 --> 00:23:26,864
+<i>I was...
+
+451
+00:23:27,030 --> 00:23:28,199
+...the only one.
+
+452
+00:23:28,407 --> 00:23:31,201
+<i>By which I mean no one except me...
+
+453
+00:23:31,411 --> 00:23:35,998
+<i>...ever received an actual invitation
+to Gatsby's.
+
+454
+00:23:37,375 --> 00:23:38,542
+<i>You see, the rest of New York...
+
+455
+00:23:38,750 --> 00:23:41,546
+<i>...simply came uninvited.
+
+456
+00:23:44,048 --> 00:23:46,800
+<i>The whole city packed into automobiles.
+
+457
+00:23:46,968 --> 00:23:49,886
+<i>And all weekend, every weekend...
+
+458
+00:23:50,304 --> 00:23:53,391
+<i>...ended up at Gatsby's.
+
+459
+00:23:57,269 --> 00:23:58,729
+MAN:
+Yeah!
+
+460
+00:24:02,023 --> 00:24:03,151
+<i>NICK:
+And I mean everyone...
+
+461
+00:24:04,277 --> 00:24:05,153
+<i>...from every walk of life...
+
+462
+00:24:05,361 --> 00:24:06,237
+<i>...from every corner...
+
+463
+00:24:06,403 --> 00:24:07,488
+<i>...of New York City...
+
+464
+00:24:07,696 --> 00:24:08,865
+<i>...this kaleidoscopic.</i> ..
+
+465
+00:24:09,073 --> 00:24:10,074
+...carnival...
+
+466
+00:24:10,490 --> 00:24:11,284
+<i>...spilled...
+
+467
+00:24:11,451 --> 00:24:14,036
+-...through <i>Gatsby's</i> door.
+MAN: Out of the way!
+
+468
+00:24:14,244 --> 00:24:15,413
+My invitation. Oh.
+
+469
+00:24:16,079 --> 00:24:17,330
+[CHATTERING]
+
+470
+00:24:22,420 --> 00:24:24,130
+Sir, my invitation.
+
+471
+00:24:24,463 --> 00:24:25,423
+This Way!
+
+472
+00:24:26,548 --> 00:24:27,842
+[ORGAN PLAYING UPBEAT
+DRAMATIC MUSIC]
+
+473
+00:24:40,938 --> 00:24:42,481
+Hey!
+
+474
+00:24:51,490 --> 00:24:52,282
+NICK:
+<i>A</i> caravanserai...
+
+475
+00:24:52,491 --> 00:24:56,996
+...of <i>billionaire playboy publishers
+and their blond nurses.
+
+476
+00:24:57,663 --> 00:25:01,166
+<i>Heiresses comparing inheritances
+on Gatsby's beach.
+
+477
+00:25:01,375 --> 00:25:05,337
+<i>My boss, Walter Chase,
+losing money at the roulette tables.
+
+478
+00:25:05,546 --> 00:25:07,798
+<i>Gossip columnists alongside...
+
+479
+00:25:08,007 --> 00:25:11,259
+<i>...gangsters and governors
+exchanging telephone numbers.
+
+480
+00:25:11,469 --> 00:25:13,054
+<i>Film stars...
+
+481
+00:25:13,261 --> 00:25:14,931
+<i>...Broadway directors...
+
+482
+00:25:15,138 --> 00:25:16,516
+<i>...morality protectors...
+
+483
+00:25:16,723 --> 00:25:18,351
+<i>...high school defectors.
+
+484
+00:25:18,558 --> 00:25:22,438
+<i>And Ewing Klipspringer,
+dubious descendent of Beethoven.
+
+485
+00:25:27,943 --> 00:25:31,321
+Do you know where I might find
+the host, Mr. Gatsby? I live next door.
+
+486
+00:25:31,905 --> 00:25:32,615
+BARTENDER:
+Gatsby?
+
+487
+00:25:32,823 --> 00:25:33,865
+I've never seen Mr. Gatsby.
+
+488
+00:25:34,450 --> 00:25:36,035
+Why, no one has.
+
+489
+00:25:36,493 --> 00:25:37,161
+<i>NICK:
+Alone...
+
+490
+00:25:37,369 --> 00:25:38,371
+<i>...and embarrassed...
+
+491
+00:25:39,288 --> 00:25:40,080
+<i>...I decided...
+
+492
+00:25:40,288 --> 00:25:40,998
+...to <i>get</i> roaring...
+
+493
+00:25:41,707 --> 00:25:42,500
+<i>...drunk.
+
+494
+00:26:06,273 --> 00:26:07,441
+[CROWD CHEERS]
+
+495
+00:26:10,861 --> 00:26:11,903
+Wow.
+
+496
+00:26:12,070 --> 00:26:13,614
+JORDAN:
+I thought I might see you here.
+
+497
+00:26:16,741 --> 00:26:18,827
+- Hello.
+- I remembered...
+
+498
+00:26:19,036 --> 00:26:19,912
+...you live next door.
+
+499
+00:26:20,121 --> 00:26:21,413
+It's like an amusement park.
+
+500
+00:26:21,622 --> 00:26:22,999
+Shall we?
+
+501
+00:26:23,583 --> 00:26:25,292
+NICK: Did you get an invitation?
+- People aren't...
+
+502
+00:26:25,500 --> 00:26:26,836
+...invited to Gatsby's.
+
+503
+00:26:27,044 --> 00:26:28,128
+Well, I was.
+
+504
+00:26:28,336 --> 00:26:29,838
+Seems I'm the only one.
+
+505
+00:26:30,047 --> 00:26:31,339
+Who is this Gatsby?
+
+506
+00:26:31,548 --> 00:26:34,551
+- He was a German spy during the war.
+JORDAN: Teddy Barton...
+
+507
+00:26:34,759 --> 00:26:35,885
+...Nick Carraway.
+
+508
+00:26:36,095 --> 00:26:37,346
+NICK:
+A German spy?
+
+509
+00:26:37,555 --> 00:26:39,598
+No, no, no. He's the Kaiser's assassin.
+
+510
+00:26:39,807 --> 00:26:41,474
+I heard he killed a man once.
+
+511
+00:26:41,683 --> 00:26:43,477
+MAN 1: True.
+MAN 2: Kills for fun, free of charge.
+
+512
+00:26:43,685 --> 00:26:45,145
+He's certainly richer than God.
+
+513
+00:26:46,814 --> 00:26:49,107
+You don't really believe
+he killed a man, do you?
+
+514
+00:26:49,317 --> 00:26:51,611
+Let's go find him
+and you can ask him yourself.
+
+515
+00:26:51,818 --> 00:26:54,404
+TRIMALCHIO: Ladies and gentlemen,
+please welcome to the stage...
+
+516
+00:26:54,614 --> 00:26:55,823
+...the incredible...
+
+517
+00:26:56,031 --> 00:26:57,950
+...Miss Gilda Gray!
+
+518
+00:26:58,576 --> 00:26:59,743
+[CROWD CHEERS & APPLAUDS]
+
+519
+00:27:01,453 --> 00:27:03,538
+[FERGIE'S "A LITTLE PARTY NEVER
+KILLED NOBODY" PLAYS]
+
+520
+00:27:03,913 --> 00:27:05,374
+The Charleston!
+
+521
+00:27:05,583 --> 00:27:07,042
+<i>At least I miss
+
+522
+00:27:07,335 --> 00:27:08,627
+<i>Trips around the world
+
+523
+00:27:09,127 --> 00:27:10,253
+<i>Don't mean a thing
+
+524
+00:27:10,462 --> 00:27:12,256
+<i>If I ain't your girl
+
+525
+00:27:12,923 --> 00:27:13,883
+<i>I ain't got time
+
+526
+00:27:14,090 --> 00:27:15,550
+<i>For you baby
+
+527
+00:27:16,509 --> 00:27:18,511
+<i>Either you're mine
+Or you're not
+
+528
+00:27:19,888 --> 00:27:21,473
+Mr. Gatsby?
+
+529
+00:27:21,641 --> 00:27:22,474
+<i>Sweet baby
+
+530
+00:27:22,642 --> 00:27:23,601
+Come on.
+
+531
+00:27:23,933 --> 00:27:25,144
+<i>Right here, right now
+
+532
+00:27:25,310 --> 00:27:26,354
+[JORDAN GASPS]
+
+533
+00:27:27,188 --> 00:27:28,564
+JORDAN:
+But you are mistaken!
+
+534
+00:27:29,022 --> 00:27:30,148
+For I am...
+
+535
+00:27:30,357 --> 00:27:31,275
+...the mysterious...
+
+536
+00:27:31,483 --> 00:27:33,443
+...Mr. Gatsby.
+
+537
+00:27:33,653 --> 00:27:35,112
+OWL EYES:
+You won't find him.
+
+538
+00:27:35,863 --> 00:27:36,947
+This house...
+
+539
+00:27:38,281 --> 00:27:39,491
+...and everything in it...
+
+540
+00:27:39,991 --> 00:27:40,826
+...are all part...
+
+541
+00:27:41,035 --> 00:27:42,619
+...of an elaborate disguise.
+
+542
+00:27:46,207 --> 00:27:48,917
+But Mr. Gatsby doesn't exist.
+
+543
+00:27:50,961 --> 00:27:52,962
+Phooey. I've met him.
+
+544
+00:27:53,172 --> 00:27:54,882
+Really? Which one?
+
+545
+00:27:55,340 --> 00:27:56,467
+The prince?
+
+546
+00:27:57,343 --> 00:27:58,760
+The spy?
+
+547
+00:27:58,969 --> 00:28:00,471
+The murderer?
+
+548
+00:28:00,930 --> 00:28:02,390
+I cannot find anyone...
+
+549
+00:28:03,265 --> 00:28:05,476
+...who knows anything real about...
+
+550
+00:28:05,684 --> 00:28:06,727
+...Mr. Gatsby.
+
+551
+00:28:06,935 --> 00:28:08,729
+Well, I don't care.
+
+552
+00:28:09,105 --> 00:28:10,439
+He gives large parties...
+
+553
+00:28:10,647 --> 00:28:11,981
+...and I like large parties.
+
+554
+00:28:12,191 --> 00:28:13,858
+They're so intimate.
+
+555
+00:28:14,067 --> 00:28:16,612
+Small parties, there isn't any privacy.
+
+556
+00:28:16,820 --> 00:28:18,405
+But if that's true...
+
+557
+00:28:18,614 --> 00:28:20,281
+...what's all this for?
+
+558
+00:28:20,700 --> 00:28:22,742
+OWL EYES:
+That, my dear fellow...
+
+559
+00:28:22,951 --> 00:28:24,912
+...is the question.
+
+560
+00:28:25,453 --> 00:28:27,038
+<i>A little party never
+
+561
+00:28:27,248 --> 00:28:28,708
+<i>Killed nobody
+
+562
+00:28:28,874 --> 00:28:30,166
+<i>So we gonna dance
+
+563
+00:28:30,334 --> 00:28:32,086
+<i>Until we drop
+
+564
+00:28:32,961 --> 00:28:34,797
+<i>A little party never killed
+
+565
+00:28:35,005 --> 00:28:36,214
+<i>Nobody
+
+566
+00:28:36,382 --> 00:28:38,092
+<i>Right here, right now
+ls all we got
+
+567
+00:28:40,385 --> 00:28:41,261
+<i>A little party
+
+568
+00:28:41,429 --> 00:28:42,846
+<i>Never killed nobody
+
+569
+00:28:44,097 --> 00:28:45,348
+NICK:
+May I have this dance?
+
+570
+00:28:45,557 --> 00:28:46,474
+TEDDY:
+You penniless pantywaist.
+
+571
+00:28:47,727 --> 00:28:49,603
+<i>A little party never killed
+
+572
+00:28:49,854 --> 00:28:50,520
+Oh, yeah.
+
+573
+00:28:50,688 --> 00:28:51,355
+<i>Nobody
+
+574
+00:28:55,942 --> 00:28:57,737
+[CROWD CHEERS]
+
+575
+00:29:02,700 --> 00:29:03,366
+TEDDY:
+I'm stealing...
+
+576
+00:29:03,576 --> 00:29:04,451
+...her away.
+
+577
+00:29:05,536 --> 00:29:07,496
+TRIMALCHIO: Ladies and gentlemen...
+TEDDY: Come on.
+
+578
+00:29:07,704 --> 00:29:10,124
+...a jazz history of the world...
+
+579
+00:29:10,624 --> 00:29:11,666
+...and accompanying...
+
+580
+00:29:13,001 --> 00:29:14,545
+...fireworks!
+
+581
+00:29:18,339 --> 00:29:20,425
+JORDAN: Come on. Nick.
+TEDDY: Look around you.
+
+582
+00:29:20,634 --> 00:29:22,761
+Rich girls don't marry poor boys.
+
+583
+00:29:23,971 --> 00:29:25,055
+She's mine.
+
+584
+00:29:25,263 --> 00:29:26,432
+MAN:
+Your face is familiar.
+
+585
+00:29:26,640 --> 00:29:27,724
+Weren't you in the Third Division
+during the war?
+
+586
+00:29:28,726 --> 00:29:30,894
+NICK: Oh, yes, the 9th Battalion.
+MAN: I was in the 7th.
+
+587
+00:29:31,103 --> 00:29:33,939
+MAN: I knew you looked familiar.
+Having a good time, old sport?
+
+588
+00:29:34,147 --> 00:29:35,273
+NICK:
+The whole thing's incredible.
+
+589
+00:29:35,482 --> 00:29:36,733
+I live just next door.
+
+590
+00:29:38,193 --> 00:29:40,945
+He sent me an actual invitation.
+Seems I'm the only one.
+
+591
+00:29:41,154 --> 00:29:42,990
+I still haven't met Mr. Gatsby.
+
+592
+00:29:43,199 --> 00:29:44,157
+No one's met him.
+
+593
+00:29:44,365 --> 00:29:47,702
+They say he's third cousin to the Kaiser
+and second cousin to the devil.
+
+594
+00:29:47,912 --> 00:29:49,246
+MAN: I'm afraid I haven't been
+a very good host...
+
+595
+00:29:49,454 --> 00:29:50,205
+...old sport.
+
+596
+00:29:50,873 --> 00:29:51,915
+You see...
+
+597
+00:29:55,461 --> 00:29:56,878
+...I'm Gatsby.
+
+598
+00:29:58,047 --> 00:29:58,713
+You're...
+
+599
+00:29:59,381 --> 00:30:00,465
+[BAND PLAYING
+"RHAPSODY IN BLUE"]
+
+600
+00:30:03,551 --> 00:30:05,136
+<i>NICK:
+His smile was one of those...
+
+601
+00:30:05,346 --> 00:30:06,931
+<i>...rare smiles that you may come across...
+
+602
+00:30:07,138 --> 00:30:09,266
+<i>...four or five times in life.
+
+603
+00:30:09,682 --> 00:30:10,851
+<i>It seemed to understand...
+
+604
+00:30:11,059 --> 00:30:14,605
+<i>...you and believe in you
+just as you would like to be understood...
+
+605
+00:30:14,814 --> 00:30:16,231
+<i>...and believed in.
+
+606
+00:30:16,440 --> 00:30:18,400
+Sorry, old sport. I thought you knew.
+
+607
+00:30:18,733 --> 00:30:21,194
+Please just-- I don't know what to say.
+
+608
+00:30:21,403 --> 00:30:23,614
+- Please forgive me. I've had...
+-it's quite all right.
+
+609
+00:30:23,823 --> 00:30:25,031
+-...so much to drink.
+- Yes?
+
+610
+00:30:25,240 --> 00:30:26,325
+Mr. Gatsby, sir.
+
+611
+00:30:26,534 --> 00:30:27,910
+Chicago on the wire.
+
+612
+00:30:28,117 --> 00:30:29,411
+I'll be in in just a minute.
+
+613
+00:30:29,619 --> 00:30:32,539
+I'm taking my new hydroplane out
+in the morning.
+
+614
+00:30:32,748 --> 00:30:34,333
+Would you like to go with me?
+
+615
+00:30:35,166 --> 00:30:36,251
+What time?
+
+616
+00:30:36,460 --> 00:30:37,961
+The time that suits you.
+
+617
+00:30:38,170 --> 00:30:40,047
+Well, that's very kind of you.
+
+618
+00:30:40,839 --> 00:30:43,259
+Lovely to see you again, Miss Baker.
+
+619
+00:30:44,801 --> 00:30:45,510
+If there's...
+
+620
+00:30:45,677 --> 00:30:47,512
+...anything that you want...
+
+621
+00:30:47,721 --> 00:30:49,722
+...just ask for it, old sport.
+
+622
+00:30:52,768 --> 00:30:54,435
+Excuse me. I will...
+
+623
+00:30:54,644 --> 00:30:56,230
+...rejoin you later.
+
+624
+00:31:01,902 --> 00:31:03,695
+I expected him to be...
+
+625
+00:31:04,238 --> 00:31:06,115
+JORDAN: Old and fat?
+NICK: Yes.
+
+626
+00:31:06,949 --> 00:31:09,535
+Young men don't just drift coolly
+out of nowhere...
+
+627
+00:31:09,742 --> 00:31:11,871
+...and buy a palace on Long Island.
+
+628
+00:31:12,037 --> 00:31:13,163
+[FIREWORKS EXPLODE]
+
+629
+00:31:13,622 --> 00:31:14,455
+JORDAN:
+He told me once...
+
+630
+00:31:14,664 --> 00:31:16,791
+...he was an Oxford man.
+
+631
+00:31:16,959 --> 00:31:18,085
+However, I don't believe it.
+
+632
+00:31:18,919 --> 00:31:19,836
+Why not?
+
+633
+00:31:20,045 --> 00:31:23,007
+JORDAN: I don't know.
+I just don't believe he went there.
+
+634
+00:31:23,173 --> 00:31:23,840
+HERZOG:
+I beg your pardon.
+
+635
+00:31:25,259 --> 00:31:27,678
+Miss Baker,
+Mr. Gatsby would like to speak to you.
+
+636
+00:31:28,345 --> 00:31:29,680
+Alone.
+
+637
+00:31:30,138 --> 00:31:30,806
+Me?
+
+638
+00:31:31,432 --> 00:31:32,432
+HERZOG:
+Yes, madam.
+
+639
+00:32:33,868 --> 00:32:35,828
+[PEOPLE CHATTERING]
+
+640
+00:33:10,823 --> 00:33:12,156
+[LAUGHS]
+
+641
+00:33:12,865 --> 00:33:14,034
+JORDAN:
+Nick!
+
+642
+00:33:14,242 --> 00:33:15,411
+Nick!
+
+643
+00:33:15,618 --> 00:33:16,828
+Nick!
+
+644
+00:33:17,121 --> 00:33:19,330
+I've just heard the most shocking thing.
+
+645
+00:33:19,789 --> 00:33:21,791
+Where have you been? The car's waiting.
+
+646
+00:33:22,000 --> 00:33:24,627
+JORDAN:
+Simply amazing. It all makes sense.
+
+647
+00:33:25,378 --> 00:33:27,381
+It all makes sense.
+
+648
+00:33:27,714 --> 00:33:29,048
+Come on.
+
+649
+00:33:29,424 --> 00:33:31,343
+- What makes sense?
+JORDAN: Everything!
+
+650
+00:33:31,551 --> 00:33:33,220
+Come on, this is crazy! We gotta...
+
+651
+00:33:33,429 --> 00:33:35,722
+...get out of here.
+JORDAN: Here I am tantalizing you...
+
+652
+00:33:35,931 --> 00:33:36,932
+...when I swore I wouldn't tell.
+
+653
+00:33:37,098 --> 00:33:38,224
+Just tell me.
+
+654
+00:33:38,433 --> 00:33:40,144
+Oh, Nick, I'm sorry, I swore.
+
+655
+00:33:40,352 --> 00:33:42,438
+I swore I wouldn't tell.
+
+656
+00:33:48,736 --> 00:33:50,403
+Sorry to keep her from you, old sport.
+
+657
+00:33:51,238 --> 00:33:52,948
+- Ah.
+- Don't forget...
+
+658
+00:33:53,156 --> 00:33:54,741
+...we're going up
+in that hydroplane tomorrow.
+
+659
+00:33:56,160 --> 00:33:57,118
+Yes.
+
+660
+00:33:57,326 --> 00:33:58,619
+Mr. Gatsby, sir...
+
+661
+00:33:58,828 --> 00:34:00,163
+-...Philadelphia on the phone.
+- Yes.
+
+662
+00:34:02,915 --> 00:34:04,000
+Night, old sport.
+
+663
+00:34:04,667 --> 00:34:05,836
+Good night.
+
+664
+00:34:06,461 --> 00:34:07,128
+Thank you.
+
+665
+00:34:11,759 --> 00:34:13,177
+[CAR CRASHES]
+
+666
+00:34:13,927 --> 00:34:14,762
+OWL EYES:
+What's the matter?
+
+667
+00:34:14,969 --> 00:34:16,387
+You run out of gas?
+
+668
+00:34:16,597 --> 00:34:18,724
+Nick! Come and see me!
+
+669
+00:34:18,931 --> 00:34:21,101
+We'll have tea next week.
+
+670
+00:34:21,309 --> 00:34:22,811
+I'm in the phone book.
+
+671
+00:34:23,394 --> 00:34:24,896
+I'll call you up.
+
+672
+00:34:55,135 --> 00:34:57,471
+<i>NICK:
+Well, we rode in the hydroplane.
+
+673
+00:34:57,679 --> 00:34:58,639
+<i>And I attended...
+
+674
+00:34:58,847 --> 00:35:00,641
+<i>...two more of his parties.
+
+675
+00:35:00,849 --> 00:35:03,059
+<i>Even made use of his beach.
+
+676
+00:35:03,811 --> 00:35:06,563
+<i>But you know, doctor, I realized...
+
+677
+00:35:06,730 --> 00:35:11,693
+<i>...that I knew absolutely nothing
+about Gatsby at all.
+
+678
+00:35:12,902 --> 00:35:14,195
+<i>Until.</i> ...
+
+679
+00:35:15,405 --> 00:35:17,407
+[CAR APPROACHES]
+
+680
+00:35:20,202 --> 00:35:21,036
+[WALLS RATTLE]
+
+681
+00:35:36,092 --> 00:35:38,929
+It's pretty, isn't it, old sport?
+Haven't you ever seen it before?
+
+682
+00:35:40,347 --> 00:35:41,974
+It's all a custom job.
+
+683
+00:35:42,181 --> 00:35:43,224
+Supercharged engine.
+
+684
+00:35:44,434 --> 00:35:45,561
+Get dressed.
+
+685
+00:35:45,978 --> 00:35:47,186
+We're going to lunch.
+
+686
+00:36:00,992 --> 00:36:02,911
+- Oh, well.
+- Yeah.
+
+687
+00:36:04,163 --> 00:36:05,289
+GATSBY:
+Look here, old sport.
+
+688
+00:36:06,039 --> 00:36:08,333
+What is your opinion of me, anyhow?
+
+689
+00:36:08,833 --> 00:36:09,710
+'Yes! '
+
+690
+00:36:09,918 --> 00:36:10,960
+Yes, your opinion.
+
+691
+00:36:12,003 --> 00:36:12,628
+[CAR HORN HONKS]
+
+692
+00:36:12,795 --> 00:36:14,922
+I don't want you
+to get the wrong impression...
+
+693
+00:36:15,132 --> 00:36:17,800
+...from all these bizarre accusations
+you must be hearing.
+
+694
+00:36:18,010 --> 00:36:20,512
+A pack of lies, I guarantee.
+You've heard the stories?
+
+695
+00:36:20,679 --> 00:36:21,637
+Oh.
+
+696
+00:36:21,889 --> 00:36:24,224
+I will tell you God's truth.
+God's truth about myself.
+
+697
+00:36:24,432 --> 00:36:27,059
+I am the son of very wealthy people
+from the Middle West.
+
+698
+00:36:27,268 --> 00:36:28,103
+Sadly, all of them are dead.
+
+699
+00:36:30,938 --> 00:36:32,190
+I was brought up in America...
+
+700
+00:36:32,398 --> 00:36:33,317
+...but educated at Oxford...
+
+701
+00:36:33,483 --> 00:36:34,318
+...because all my ancestors...
+
+702
+00:36:34,525 --> 00:36:37,195
+...have been educated there for years.
+It's a family tradition.
+
+703
+00:36:37,403 --> 00:36:39,280
+<i>NICK:
+The way he spoke.
+
+704
+00:36:39,489 --> 00:36:41,867
+<i>No wonder people thought he was lying.
+
+705
+00:36:42,074 --> 00:36:44,869
+After my family died,
+I ran into a great deal of money.
+
+706
+00:36:45,077 --> 00:36:46,829
+After that, I lived like a prince...
+
+707
+00:36:47,039 --> 00:36:47,998
+...in all the capitals of Europe.
+
+708
+00:36:48,916 --> 00:36:50,000
+NICK:
+Oh, Europe.
+
+709
+00:36:50,208 --> 00:36:51,501
+GATBSY:
+Yes, Europe.
+
+710
+00:36:51,710 --> 00:36:52,960
+Paris, Venice...
+
+711
+00:36:53,170 --> 00:36:53,836
+...Rome, Vienna...
+
+712
+00:36:54,045 --> 00:36:55,172
+...Zurich, Helsinki...
+
+713
+00:36:55,380 --> 00:36:56,757
+...Moscow, Istanbul...
+
+714
+00:36:56,965 --> 00:36:58,050
+...collecting jewels...
+
+715
+00:36:58,257 --> 00:36:59,217
+...chiefly rubies...
+
+716
+00:36:59,425 --> 00:37:00,135
+...hunting big game...
+
+717
+00:37:00,302 --> 00:37:04,181
+...painting a little, things for myself only.
+Trying to forget something sad...
+
+718
+00:37:04,389 --> 00:37:05,431
+<i>NICK:
+Just when I thought...
+
+719
+00:37:05,641 --> 00:37:07,976
+<i>...it couldn't be any more fantastical...
+
+720
+00:37:08,184 --> 00:37:10,186
+- Then came the war, old sport.
+-...he became...
+
+721
+00:37:10,394 --> 00:37:13,898
+<i>...a war hero, single-handedly
+defeating the German army.
+
+722
+00:37:14,106 --> 00:37:17,235
+In the Argonne Forest,
+I took two machine gun detachments so far...
+
+723
+00:37:17,443 --> 00:37:18,987
+We were outnumbered 5 to 1.
+
+724
+00:37:19,195 --> 00:37:20,489
+There was a half a mile gap...
+
+725
+00:37:20,697 --> 00:37:22,782
+There wasn't a single German soldier
+left standing.
+
+726
+00:37:22,990 --> 00:37:24,284
+We stayed there two days and two nights.
+
+727
+00:37:24,492 --> 00:37:25,284
+--Saw were piles of dead.
+
+728
+00:37:25,494 --> 00:37:28,496
+One hundred and thirty men
+with only 16 Lewis guns.
+
+729
+00:37:28,704 --> 00:37:30,706
+Every Allied government gave me a medal.
+
+730
+00:37:30,916 --> 00:37:31,666
+Even Montenegro.
+
+731
+00:37:34,253 --> 00:37:35,003
+Here.
+
+732
+00:37:35,170 --> 00:37:36,713
+That's from Montenegro.
+
+733
+00:37:37,005 --> 00:37:38,798
+NICK:
+"Major Jay Gatsby for...
+
+734
+00:37:39,007 --> 00:37:41,342
+-...valor extraordinary."
+- Valor extraordinary. That's right.
+
+735
+00:37:41,550 --> 00:37:44,762
+And this is something I always carry
+with me, a souvenir of Oxford days.
+
+736
+00:37:45,304 --> 00:37:47,932
+That was taken in Trinity quad.
+The man on my left...
+
+737
+00:37:48,141 --> 00:37:50,936
+...is now the Earl of Doncaster.
+NICK: What <i>could I</i> say?
+
+738
+00:37:52,103 --> 00:37:54,690
+<i>The photograph was undoubtedly authentic.
+
+739
+00:37:54,898 --> 00:37:57,108
+<i>Could it all be true?
+
+740
+00:37:57,317 --> 00:38:00,152
+GATSBY: Of course, you don't need to take
+my word for it, old sport.
+
+741
+00:38:00,362 --> 00:38:04,699
+At lunch, I'm going to introduce you to one of
+New York's most distinguished businessmen...
+
+742
+00:38:04,907 --> 00:38:07,159
+...a Mr. Meyer Wolfshiem, my good friend.
+
+743
+00:38:07,369 --> 00:38:08,869
+He will confirm all I have told you...
+
+744
+00:38:09,079 --> 00:38:11,373
+-...and vouch for my good character.
+- That's not necessary.
+
+745
+00:38:11,581 --> 00:38:12,791
+GATSBY:
+Oh, but it is, though.
+
+746
+00:38:14,208 --> 00:38:17,128
+I thought you ought to know something
+about my life. I didn't want you to think I was...
+
+747
+00:38:17,753 --> 00:38:18,505
+Well...
+
+748
+00:38:18,713 --> 00:38:20,423
+...I didn't want you to think
+I was some nobody.
+
+749
+00:38:21,215 --> 00:38:25,219
+You see, old sport, I'm going to make
+a very big request of you today.
+
+750
+00:38:25,721 --> 00:38:26,929
+A big request?
+
+751
+00:38:27,139 --> 00:38:27,931
+Yes.
+
+752
+00:38:28,139 --> 00:38:29,932
+Miss Baker will explain everything...
+
+753
+00:38:30,141 --> 00:38:31,268
+...when you take her to tea.
+
+754
+00:38:33,103 --> 00:38:35,146
+NICK:
+Jordan? What's she got to do with it?
+
+755
+00:38:36,148 --> 00:38:36,940
+GATSBY:
+Well, I assure you...
+
+756
+00:38:37,106 --> 00:38:38,108
+...it's nothing underhand.
+
+757
+00:38:38,317 --> 00:38:40,527
+Miss Baker's an honest sportswoman.
+She wouldn't do...
+
+758
+00:38:40,693 --> 00:38:41,485
+...anything that wasn't all right.
+
+759
+00:38:41,652 --> 00:38:42,320
+[SIREN WAILING]
+
+760
+00:38:42,487 --> 00:38:43,155
+Pull over!
+
+761
+00:38:43,322 --> 00:38:46,657
+- Pull over to the curb!
+- All right, old sport. All right.
+
+762
+00:38:52,079 --> 00:38:52,873
+Right you are!
+
+763
+00:38:53,081 --> 00:38:53,956
+I'll know you next time...
+
+764
+00:38:54,123 --> 00:38:55,041
+...Mr. Gatsby!
+
+765
+00:38:55,208 --> 00:38:57,501
+- Excuse me.
+- Thank you.
+
+766
+00:38:59,338 --> 00:39:00,672
+One of your old Oxford pals?
+
+767
+00:39:00,880 --> 00:39:04,342
+Well, I was able to do the commissioner
+a favor once.
+
+768
+00:39:04,550 --> 00:39:06,385
+He sends me a Christmas card every year.
+
+769
+00:39:07,929 --> 00:39:10,139
+I imagine he'll be at lunch too. Heh.
+
+770
+00:39:15,186 --> 00:39:15,853
+<i>NICK:
+By the time...
+
+771
+00:39:16,063 --> 00:39:18,440
+...we <i>reached the bridge,
+I was impossibly confused.
+
+772
+00:39:30,911 --> 00:39:33,163
+<i>I didn't know what to think.
+
+773
+00:39:33,871 --> 00:39:36,583
+<i>But the city seen
+from the Queensboro Bridge...
+
+774
+00:39:36,750 --> 00:39:40,878
+<i>...is always the city seen
+for the first time...
+
+775
+00:39:41,128 --> 00:39:44,925
+<i>...in its first wild promise
+of all the mystery...
+
+776
+00:39:45,132 --> 00:39:46,134
+<i>...and the beauty...
+
+777
+00:39:46,342 --> 00:39:48,135
+<i>...in the world.
+
+778
+00:39:48,552 --> 00:39:49,221
+<i>Anything...
+
+779
+00:39:49,429 --> 00:39:52,224
+<i>...can happen now that we've slid over...
+
+780
+00:39:52,431 --> 00:39:53,641
+<i>...this bridge, I thought.
+
+781
+00:39:54,101 --> 00:39:55,559
+<i>Anything at all.
+
+782
+00:39:55,768 --> 00:39:58,105
+<i>Even Gatsby could happen.
+
+783
+00:40:00,106 --> 00:40:02,233
+MAN:
+Yes, absolutely.
+
+784
+00:40:03,610 --> 00:40:04,402
+Oh!
+
+785
+00:40:04,568 --> 00:40:06,028
+Ah!
+
+786
+00:40:07,114 --> 00:40:08,824
+My boy!
+
+787
+00:40:09,199 --> 00:40:10,199
+GATSBY:
+Meyer, Meyer, Meyer.
+
+788
+00:40:10,784 --> 00:40:12,452
+Mm. Smell so good.
+
+789
+00:40:12,661 --> 00:40:13,869
+- Look at you!
+GATSBY: Look at you.
+
+790
+00:40:14,079 --> 00:40:16,831
+Mr. Carraway, this is my good friend,
+Mr. Meyer Wolfshiem.
+
+791
+00:40:17,039 --> 00:40:18,083
+A wonderful pleasure...
+
+792
+00:40:18,291 --> 00:40:19,668
+-...Mr. Carraway.
+- My pleasure.
+
+793
+00:40:19,876 --> 00:40:21,210
+I know all about you.
+
+794
+00:40:21,545 --> 00:40:23,213
+- I see.
+WOLFSHIEM: Yes! Mr. Gatsby's...
+
+795
+00:40:23,380 --> 00:40:24,797
+...always talking about you.
+NICK: Really?
+
+796
+00:40:26,715 --> 00:40:27,509
+Shall we?
+
+797
+00:40:28,552 --> 00:40:29,552
+WOLFSHIEM:
+Come.
+
+798
+00:40:31,221 --> 00:40:31,972
+Join us for a little...
+
+799
+00:40:32,179 --> 00:40:33,556
+"lunch.
+
+800
+00:40:51,074 --> 00:40:54,119
+<i>[SINGING]
+Hundred, hundred, hundred dollar bills
+
+801
+00:40:57,038 --> 00:40:58,289
+Yeah!
+
+802
+00:40:58,498 --> 00:40:59,958
+- Hands off!
+OFFICER: Out! Out you go!
+
+803
+00:41:00,166 --> 00:41:00,916
+MAN 1:
+Get off me!
+
+804
+00:41:01,585 --> 00:41:04,211
+Tell Walter Chase he keeps his mouth shut...
+
+805
+00:41:04,420 --> 00:41:05,380
+...or he doesn't get a penny.
+
+806
+00:41:05,797 --> 00:41:06,672
+GATSBY:
+We'll talk about...
+
+807
+00:41:06,882 --> 00:41:09,050
+...that later.
+HEAD WAITER: Highballs, Mr. Gatsby?
+
+808
+00:41:09,259 --> 00:41:10,217
+Highballs it is.
+
+809
+00:41:10,427 --> 00:41:11,927
+HEAD WAITER: All right.
+- You take care of my friend.
+
+810
+00:41:13,637 --> 00:41:15,139
+Look who's here.
+
+811
+00:41:15,347 --> 00:41:16,307
+GATSBY:
+You see these fists?
+
+812
+00:41:16,516 --> 00:41:17,851
+He's the next heavyweight...
+
+813
+00:41:18,059 --> 00:41:19,894
+-...champion.
+- Pay my respects to your boss.
+
+814
+00:41:20,436 --> 00:41:21,521
+Hey, Jay!
+
+815
+00:41:21,730 --> 00:41:23,356
+You're under arrest!
+Ha-ha-ha!
+
+816
+00:41:23,565 --> 00:41:27,777
+You be careful, now. You're turning
+into a real jazz hound, commissioner.
+
+817
+00:41:27,943 --> 00:41:29,487
+Bang,bang!
+
+818
+00:41:31,114 --> 00:41:33,032
+- That's the commissioner.
+WAITER 1: Mr. Gatsby...
+
+819
+00:41:33,240 --> 00:41:34,576
+...your table is ready.
+
+820
+00:41:34,784 --> 00:41:36,702
+MAN 2: Gatsby!
+- Good to see you.
+
+821
+00:41:37,077 --> 00:41:38,496
+WOLFSHIEM:
+Yeah, that's fantastic.
+
+822
+00:41:39,831 --> 00:41:41,625
+You be careful at those tables now...
+
+823
+00:41:41,833 --> 00:41:43,083
+...senator.
+
+824
+00:41:43,293 --> 00:41:44,835
+I'll put a bet on for you, Jay!
+
+825
+00:41:45,003 --> 00:41:46,505
+<i>Hundred dollar bills
+
+826
+00:41:50,217 --> 00:41:51,259
+We'll have the lobster.
+
+827
+00:41:51,467 --> 00:41:53,469
+It's decorated with truffles and fine herbs.
+
+828
+00:42:01,061 --> 00:42:02,269
+<i>Hundred dollar bills
+
+829
+00:42:02,978 --> 00:42:03,646
+WOLFSHIEM:
+So...
+
+830
+00:42:03,813 --> 00:42:06,525
+...how is the bond business,
+Mr. Carraway?
+
+831
+00:42:07,608 --> 00:42:08,652
+Fine. Thank you.
+
+832
+00:42:08,860 --> 00:42:10,237
+I understand you're looking for...
+
+833
+00:42:10,445 --> 00:42:12,655
+-...a business connection.
+- No. No, no, no.
+
+834
+00:42:12,822 --> 00:42:13,532
+No, no, no.
+
+835
+00:42:13,697 --> 00:42:14,907
+This isn't the man, Meyer.
+
+836
+00:42:15,324 --> 00:42:16,409
+This is the friend...
+
+837
+00:42:16,617 --> 00:42:18,202
+...that I told you about.
+
+838
+00:42:18,411 --> 00:42:20,163
+Oh, I beg your pardon.
+
+839
+00:42:20,371 --> 00:42:21,414
+I had a wrong man.
+
+840
+00:42:21,706 --> 00:42:22,414
+[CHUCKLES]
+
+841
+00:42:23,833 --> 00:42:25,168
+GATSBY:
+If you'll excuse me, I have to make...
+
+842
+00:42:25,585 --> 00:42:26,628
+...that call.
+
+843
+00:42:30,382 --> 00:42:31,048
+Any luck, senator?
+
+844
+00:42:31,257 --> 00:42:32,550
+WOLFSH I EM:
+What a gentleman.
+
+845
+00:42:32,759 --> 00:42:34,927
+From one of the finest families
+in the Midwest.
+
+846
+00:42:36,304 --> 00:42:37,722
+Sadly, all dead now.
+
+847
+00:42:38,431 --> 00:42:43,478
+When I first made the pleasure of
+Mr. Gatsby's acquaintance just after the war...
+
+848
+00:42:44,061 --> 00:42:47,315
+...I knew I'd discovered
+a man of fine breeding.
+
+849
+00:42:47,523 --> 00:42:48,358
+A war hero.
+
+850
+00:42:48,567 --> 00:42:49,985
+Such medals.
+
+851
+00:42:50,777 --> 00:42:51,695
+And...
+
+852
+00:42:52,195 --> 00:42:53,112
+And...
+
+853
+00:42:53,280 --> 00:42:54,530
+...an Oxford man.
+
+854
+00:42:55,114 --> 00:42:56,240
+You know Oxford?
+
+855
+00:42:56,449 --> 00:42:58,201
+Yes, I've heard of it.
+
+856
+00:42:58,409 --> 00:43:00,869
+WOLFSHIEM: Then you'd know
+that when it comes to married women...
+
+857
+00:43:01,036 --> 00:43:02,414
+...a man like this can be trusted.
+
+858
+00:43:03,373 --> 00:43:04,623
+With a friend...
+
+859
+00:43:04,833 --> 00:43:06,126
+...with someone like you...
+
+860
+00:43:06,458 --> 00:43:09,670
+...he'd never so much as look at your wife.
+
+861
+00:43:10,880 --> 00:43:12,007
+I'm not married.
+
+862
+00:43:12,215 --> 00:43:14,509
+But you work on Wall Street, right?
+
+863
+00:43:14,842 --> 00:43:15,885
+Yes.
+
+864
+00:43:16,219 --> 00:43:16,969
+Ah.
+
+865
+00:43:18,554 --> 00:43:20,097
+Looking at my tiepin?
+
+866
+00:43:20,306 --> 00:43:21,807
+Finest specimen of human...
+
+867
+00:43:22,016 --> 00:43:23,101
+...molar.
+
+868
+00:43:23,268 --> 00:43:23,934
+GATSBY:
+Gentlemen.
+
+869
+00:43:25,478 --> 00:43:26,478
+Everything all right?
+
+870
+00:43:26,896 --> 00:43:28,940
+Yes! Yes. We...
+
+871
+00:43:29,148 --> 00:43:31,775
+We were just talking about
+other people's wives.
+
+872
+00:43:31,985 --> 00:43:33,110
+Other people's wives?
+
+873
+00:43:33,320 --> 00:43:34,278
+- Yes.
+- Really?
+
+874
+00:43:34,445 --> 00:43:37,157
+WOLFSHIEM: Well, my work here is done.
+I'm going to leave you gentlemen...
+
+875
+00:43:37,364 --> 00:43:39,409
+...to talk about your sports
+and your women.
+
+876
+00:43:40,117 --> 00:43:41,119
+Other people's wives.
+
+877
+00:43:41,327 --> 00:43:43,038
+WOLFSHIEM:
+Hello, ladies.
+
+878
+00:43:43,538 --> 00:43:45,039
+Ooh.
+
+879
+00:43:45,956 --> 00:43:46,875
+NICK:
+Who is he, anyhow?
+
+880
+00:43:47,083 --> 00:43:47,751
+An actor?
+
+881
+00:43:47,958 --> 00:43:48,876
+Meyer?
+
+882
+00:43:49,085 --> 00:43:51,045
+No, no. He's a gambler.
+
+883
+00:43:53,757 --> 00:43:56,134
+He's the man who fixed
+the 1919 World Series.
+
+884
+00:43:57,260 --> 00:43:58,094
+Fixed it?
+
+885
+00:43:58,302 --> 00:43:58,969
+Fixed it.
+
+886
+00:43:59,179 --> 00:44:00,429
+Well, how'd he manage that?
+
+887
+00:44:01,639 --> 00:44:03,599
+Saw the opportunity, I suppose.
+
+888
+00:44:04,266 --> 00:44:06,018
+He's a very smart man.
+
+889
+00:44:10,273 --> 00:44:12,442
+[AUDIENCE APPLAUDS]
+
+890
+00:44:15,945 --> 00:44:19,574
+Now, old sport, about Miss Baker
+and that request we spoke of.
+
+891
+00:44:19,782 --> 00:44:22,159
+TOM:
+Nick? Nick!
+
+892
+00:44:22,369 --> 00:44:24,036
+NICK:
+Tom! Funny seeing you!
+
+893
+00:44:24,244 --> 00:44:26,039
+TOM: How have you been?
+NICK: Yeah.
+
+894
+00:44:26,246 --> 00:44:28,541
+- Good.
+- Nick, Daisy is furious...
+
+895
+00:44:28,750 --> 00:44:30,585
+-...that you haven't called.
+- Hey...
+
+896
+00:44:30,793 --> 00:44:33,630
+...Mr. Gatsby, this is Mr. Buchanan.
+
+897
+00:44:35,255 --> 00:44:37,217
+It's a pleasure to make your acquaintance.
+
+898
+00:44:37,759 --> 00:44:38,550
+Yeah.
+
+899
+00:44:39,552 --> 00:44:41,887
+Never would have expected
+to find you in this temple...
+
+900
+00:44:42,097 --> 00:44:43,514
+...of virtue.
+NICK: I was having lunch...
+
+901
+00:44:43,722 --> 00:44:45,016
+...with Mr. Gatsby.
+
+902
+00:44:53,733 --> 00:44:55,443
+MAITRED': Can I help you, sir?
+NICK: Jordan Baker...
+
+903
+00:44:55,652 --> 00:44:58,362
+...the famous sporting star?
+The golfer? I see.
+
+904
+00:44:58,570 --> 00:44:59,989
+I've spotted her. Thank you.
+
+905
+00:45:00,197 --> 00:45:01,032
+There you are.
+
+906
+00:45:01,240 --> 00:45:02,242
+What game are you and Gatsby...
+
+907
+00:45:02,409 --> 00:45:03,076
+---Playing at?
+
+908
+00:45:03,242 --> 00:45:04,494
+- The gentleman will be joining--?
+- Excuse me.
+
+909
+00:45:04,702 --> 00:45:05,829
+- Nick, please.
+NICK: It's all rather...
+
+910
+00:45:05,994 --> 00:45:07,706
+...strange. He picks me up in his fancy car.
+
+911
+00:45:07,914 --> 00:45:08,914
+- Going on about...
+- Keep your...
+
+912
+00:45:09,081 --> 00:45:09,998
+-...his life.
+-...voice down.
+
+913
+00:45:10,166 --> 00:45:10,833
+People can hear you.
+
+914
+00:45:11,000 --> 00:45:11,668
+What is...
+
+915
+00:45:11,835 --> 00:45:13,420
+...this enormous request?
+
+916
+00:45:13,628 --> 00:45:15,838
+He wants you to invite Daisy to tea.
+
+917
+00:45:16,880 --> 00:45:18,048
+Daisy?
+
+918
+00:45:19,884 --> 00:45:21,385
+And Gatsby.
+
+919
+00:45:22,429 --> 00:45:23,554
+Why?
+
+920
+00:45:23,762 --> 00:45:25,764
+I don't quite know where to start.
+
+921
+00:45:26,099 --> 00:45:29,143
+You see, I didn't realize
+until the other night that...
+
+922
+00:45:29,351 --> 00:45:30,853
+...I'd met Gatsby.
+
+923
+00:45:31,563 --> 00:45:34,690
+Five years ago. In Louisville.
+
+924
+00:45:35,608 --> 00:45:38,318
+<i>It was the day I got
+my new English golf shoes.
+
+925
+00:45:42,157 --> 00:45:42,824
+<i>Daisy...
+
+926
+00:45:42,990 --> 00:45:45,452
+<i>...was by far the most popular girl with...
+
+927
+00:45:45,659 --> 00:45:46,869
+<i>...the officers from Camp Taylor.
+
+928
+00:45:47,286 --> 00:45:48,746
+DAISY:
+Hello, Jordan.
+
+929
+00:45:49,246 --> 00:45:49,998
+<i>One of them was...
+
+930
+00:45:50,206 --> 00:45:51,331
+<i>...in the car with her.
+
+931
+00:45:51,541 --> 00:45:53,751
+<i>It was Gatsby.
+
+932
+00:45:53,960 --> 00:45:55,753
+<i>The way he looked at her is the way...
+
+933
+00:45:55,961 --> 00:45:57,713
+<i>...all girls want to be looked at.
+
+934
+00:45:58,465 --> 00:45:59,423
+NICK:
+So...
+
+935
+00:45:59,590 --> 00:46:00,759
+...tell me what happened.
+
+936
+00:46:01,134 --> 00:46:02,469
+Well, I don't know.
+
+937
+00:46:02,677 --> 00:46:03,719
+Charge!
+
+938
+00:46:06,931 --> 00:46:07,931
+<i>JORDAN".
+Gatsby was sent off...
+
+939
+00:46:08,141 --> 00:46:08,807
+...to war.
+
+940
+00:46:09,851 --> 00:46:10,934
+<i>When the war ended...
+
+941
+00:46:11,351 --> 00:46:12,394
+<i>...Daisy waited.
+
+942
+00:46:12,603 --> 00:46:16,815
+<i>But for some unknown reason,
+Gatsby couldn't return.
+
+943
+00:46:17,317 --> 00:46:22,447
+<i>A year later, Tom Buchanan of Chicago
+swept in and stole her</i> away.
+
+944
+00:46:22,739 --> 00:46:25,699
+<i>He gave her a string of pearls
+worth $350,000.
+
+945
+00:46:28,619 --> 00:46:30,204
+<i>But the morning of the wedding...
+
+946
+00:46:30,413 --> 00:46:32,206
+<i>-...Daisy received</i> a <i>letter.
+DAISY: Tell them...
+
+947
+00:46:32,414 --> 00:46:33,583
+<i>...Daisy's changed her mind!
+
+948
+00:46:33,833 --> 00:46:35,710
+DAISY'S MOTHER: What is this?
+JORDAN: Daisy, please!
+
+949
+00:46:36,168 --> 00:46:37,503
+- Hand it to me!
+- No!
+
+950
+00:46:38,086 --> 00:46:39,047
+Leave me alone!
+
+951
+00:46:39,255 --> 00:46:41,340
+DAISY'S MOTHER:
+Jordan, no one must know about this.
+
+952
+00:46:41,548 --> 00:46:43,259
+<i>NICK: What was in the letter?
+JORDAN: I don't know.
+
+953
+00:46:43,467 --> 00:46:45,052
+<i>She wouldn't tell me.
+
+954
+00:46:45,677 --> 00:46:46,887
+<i>But it was too late.
+
+955
+00:46:47,889 --> 00:46:50,307
+<i>That day at 5:00, Daisy Fay...
+
+956
+00:46:50,516 --> 00:46:51,391
+...married Tom Buchanan...
+
+957
+00:46:51,601 --> 00:46:53,894
+<i>...with more pomp and circumstance
+than Louisville had ever seen.
+
+958
+00:46:54,896 --> 00:46:56,606
+MAN:
+Congratulations, Mr. Buchanan!
+
+959
+00:47:00,318 --> 00:47:03,695
+After the honeymoon,
+I saw them in Santa Barbara.
+
+960
+00:47:03,905 --> 00:47:08,076
+Well, it was touching, really. I'd never seen
+a girl so in love with her husband.
+
+961
+00:47:08,284 --> 00:47:09,494
+A week later, Tom...
+
+962
+00:47:09,702 --> 00:47:11,079
+...crashed his car.
+
+963
+00:47:11,286 --> 00:47:13,414
+The girl with him was a chambermaid
+at the Santa Barbara Hotel.
+
+964
+00:47:13,706 --> 00:47:15,791
+It got into all the papers.
+
+965
+00:47:16,918 --> 00:47:19,545
+NICK: It's a strange coincidence.
+JORDAN: What is?
+
+966
+00:47:19,753 --> 00:47:22,632
+NICK: The fact that Gatsby's house
+is just across the bay.
+
+967
+00:47:23,590 --> 00:47:24,842
+It's no coincidence.
+
+968
+00:47:25,342 --> 00:47:28,054
+He bought that house to be near her.
+
+969
+00:47:28,262 --> 00:47:31,682
+He threw all those parties
+hoping she'd wander in one night.
+
+970
+00:47:31,891 --> 00:47:36,311
+He constantly asked about Daisy.
+I was just the first person that knew her.
+
+971
+00:47:37,438 --> 00:47:40,065
+All that for a girl
+he hasn't seen in five years.
+
+972
+00:47:40,400 --> 00:47:42,943
+And now he just wants me
+to invite her over to tea.
+
+973
+00:47:43,777 --> 00:47:45,405
+The modesty of it.
+
+974
+00:47:45,864 --> 00:47:46,989
+JORDAN:
+Kind of takes your breath...
+
+975
+00:47:47,155 --> 00:47:49,784
+-...away, doesn't it?
+- Evening, sweethearts. Where are...
+
+976
+00:47:49,951 --> 00:47:50,784
+...you kids going?
+
+977
+00:47:50,994 --> 00:47:52,996
+JORDAN: Long Island, please.
+NICK: And you think...
+
+978
+00:47:53,161 --> 00:47:56,373
+...I should. I mean, does Daisy
+want to see Gatsby?
+
+979
+00:47:56,583 --> 00:47:58,126
+She's absolutely not to know.
+
+980
+00:47:58,333 --> 00:48:00,043
+You're supposed to invite her over...
+
+981
+00:48:00,253 --> 00:48:01,713
+...so he can happen to pass by.
+
+982
+00:48:02,630 --> 00:48:05,132
+NICK:
+I remember feeling torn.
+
+983
+00:48:05,340 --> 00:48:09,137
+<i>Was it right to bring my cousin Daisy,
+a married woman...
+
+984
+00:48:09,344 --> 00:48:12,056
+<i>...together with a man I hardly knew?
+
+985
+00:48:17,394 --> 00:48:21,315
+<i>When I returned home,
+Gatsby's was lit from tower to cellar...
+
+986
+00:48:21,481 --> 00:48:23,943
+...as if for another <i>wild</i> party.
+
+987
+00:48:28,072 --> 00:48:30,365
+<i>But there wasn't a sound.
+
+988
+00:48:44,547 --> 00:48:45,547
+NICK: Thank you.
+TAXI DRIVER: Have a good night.
+
+989
+00:48:56,099 --> 00:48:58,061
+Your place looks like the World's Fair...
+
+990
+00:48:58,268 --> 00:49:00,271
+...or Coney Island.
+
+991
+00:49:00,480 --> 00:49:02,231
+- Does it?
+- Yes.
+
+992
+00:49:02,440 --> 00:49:05,108
+Well, I've just been glancing...
+
+993
+00:49:05,275 --> 00:49:07,195
+...into some of the rooms.
+What do you say we...
+
+994
+00:49:07,402 --> 00:49:09,697
+...go to Coney Island?
+We could take my car.
+
+995
+00:49:09,864 --> 00:49:11,907
+Oh, uh, it's too late tonight.
+
+996
+00:49:12,115 --> 00:49:14,911
+We could take a plunge in the pool.
+I haven't made use of it all summer.
+
+997
+00:49:15,119 --> 00:49:16,536
+I must go to bed.
+
+998
+00:49:17,789 --> 00:49:18,789
+All right.
+
+999
+00:49:26,922 --> 00:49:28,007
+Happy to do it.
+
+1000
+00:49:29,467 --> 00:49:30,842
+I'm going to call Daisy and...
+
+1001
+00:49:31,052 --> 00:49:33,012
+-...invite her to tea.
+- That's all right--
+
+1002
+00:49:33,221 --> 00:49:35,014
+- What day would suit you?
+- What day would suit you?
+
+1003
+00:49:35,222 --> 00:49:37,057
+I don't want to put you to any trouble.
+
+1004
+00:49:37,266 --> 00:49:38,601
+Day after tomorrow all right?
+
+1005
+00:49:39,268 --> 00:49:40,936
+Day after tomorrow?
+
+1006
+00:49:41,771 --> 00:49:42,771
+Well, I-- I'd--
+
+1007
+00:49:44,565 --> 00:49:46,317
+See, I'd want to get the grass cut.
+
+1008
+00:49:49,403 --> 00:49:50,237
+Uh...
+
+1009
+00:49:52,239 --> 00:49:53,615
+Well, look here, old sport.
+
+1010
+00:49:53,824 --> 00:49:55,409
+You don't make much money, do you?
+
+1011
+00:49:55,909 --> 00:49:57,619
+- Not really.
+- If you'll forgive me...
+
+1012
+00:49:58,788 --> 00:50:03,543
+You see, I happen to run a little business
+on the side. A sort of sideline.
+
+1013
+00:50:03,876 --> 00:50:06,503
+You understand what I'm saying, right?
+You do sell bonds...
+
+1014
+00:50:06,713 --> 00:50:07,838
+...don't you, old sport?
+
+1015
+00:50:08,047 --> 00:50:09,132
+- I'm trying to.
+- Right.
+
+1016
+00:50:09,340 --> 00:50:10,882
+Well, happens to be a rather...
+
+1017
+00:50:11,050 --> 00:50:12,092
+...confidential sort of thing...
+
+1018
+00:50:12,300 --> 00:50:13,719
+...but you might make
+a nice bit of money.
+
+1019
+00:50:13,927 --> 00:50:16,514
+- No, thank you. I have my hands full.
+- You wouldn't have to do...
+
+1020
+00:50:16,681 --> 00:50:18,181
+...any business with Wolfshiem,
+I assure you.
+
+1021
+00:50:18,391 --> 00:50:20,476
+It's a favor, Jay. Just a favor.
+
+1022
+00:50:23,186 --> 00:50:25,523
+Yes. Happy to do it.
+
+1023
+00:50:26,106 --> 00:50:27,692
+- Favor?
+- Yes.
+
+1024
+00:50:29,360 --> 00:50:30,485
+Hm.
+
+1025
+00:50:32,864 --> 00:50:33,655
+Well, good night.
+
+1026
+00:50:33,864 --> 00:50:35,449
+Good night.
+
+1027
+00:50:41,998 --> 00:50:43,750
+[CHATTERING]
+
+1028
+00:50:53,885 --> 00:50:55,302
+Good morning.
+
+1029
+00:50:59,474 --> 00:51:01,893
+[THUNDER RUMBLING]
+
+1030
+00:51:23,498 --> 00:51:26,458
+One of the papers says they thought
+the rain would stop about 4.
+
+1031
+00:51:28,335 --> 00:51:31,047
+I think it was the...
+I think it was the Journal.
+
+1032
+00:51:31,213 --> 00:51:32,422
+Ah.
+
+1033
+00:51:34,342 --> 00:51:36,135
+GATSBY: Just in to the right, gentlemen.
+To the right...
+
+1034
+00:51:36,344 --> 00:51:37,719
+...in the living room. Thank you.
+
+1035
+00:51:43,184 --> 00:51:44,976
+Is everything all right?
+
+1036
+00:51:45,186 --> 00:51:46,603
+NICK: The grass looks fine,
+if that's what you mean.
+
+1037
+00:51:47,896 --> 00:51:48,563
+Grass?
+
+1038
+00:51:49,023 --> 00:51:50,900
+What grass?
+
+1039
+00:51:54,487 --> 00:51:56,155
+I bought cakes.
+
+1040
+00:51:58,032 --> 00:52:00,117
+[TICKING]
+
+1041
+00:52:07,541 --> 00:52:08,208
+Have you--
+
+1042
+00:52:08,416 --> 00:52:09,668
+Have you got everything you need?
+
+1043
+00:52:10,168 --> 00:52:11,628
+Perhaps more flowers.
+
+1044
+00:52:12,963 --> 00:52:14,882
+I think they did a fine job, don't you?
+
+1045
+00:52:15,090 --> 00:52:16,342
+Beautiful.
+
+1046
+00:52:16,717 --> 00:52:18,302
+You think it's too much?
+
+1047
+00:52:18,844 --> 00:52:21,472
+Uh, I think it's what you want.
+
+1048
+00:52:22,014 --> 00:52:23,766
+I think so too.
+
+1049
+00:52:24,641 --> 00:52:26,226
+[THUNDER RUMBLING]
+
+1050
+00:52:45,663 --> 00:52:46,329
+I can't...
+
+1051
+00:52:46,539 --> 00:52:47,789
+...wait all day.
+
+1052
+00:52:48,248 --> 00:52:49,291
+I'm leaving.
+
+1053
+00:52:49,500 --> 00:52:51,251
+Don't be silly. It's two minutes to 4.
+
+1054
+00:52:51,460 --> 00:52:52,795
+No one's coming to tea! It's too--
+
+1055
+00:52:52,961 --> 00:52:53,670
+[CAR HORN HONKS]
+
+1056
+00:53:02,012 --> 00:53:03,264
+It's her!
+
+1057
+00:53:17,527 --> 00:53:20,155
+Is this absolutely where you live,
+my dearest one?
+
+1058
+00:53:20,364 --> 00:53:21,282
+NICK:
+Yes, it suits me.
+
+1059
+00:53:22,324 --> 00:53:23,159
+<i>DAISY:
+Why did I have...
+
+1060
+00:53:23,367 --> 00:53:25,827
+...to come alone? Are you in love with me?
+
+1061
+00:53:26,036 --> 00:53:28,121
+<i>NICK:
+Oh, it's the secret of Carraway Castle.
+
+1062
+00:53:28,331 --> 00:53:31,083
+- Tell your chauffeur to go far away.
+- Come back in an hour...
+
+1063
+00:53:31,291 --> 00:53:32,418
+...Ferdie.
+
+1064
+00:53:32,626 --> 00:53:33,960
+His name is Ferdie.
+
+1065
+00:53:40,092 --> 00:53:41,469
+[GASPS]
+
+1066
+00:53:41,635 --> 00:53:42,802
+DAISY:
+Oh.
+
+1067
+00:53:46,306 --> 00:53:49,601
+Oh. My goodness.
+
+1068
+00:53:49,809 --> 00:53:52,146
+I can't believe it.
+
+1069
+00:53:53,396 --> 00:53:57,108
+You... Did you ransack a greenhouse?
+
+1070
+00:53:58,068 --> 00:54:00,237
+He is in love with me.
+
+1071
+00:54:14,376 --> 00:54:15,043
+Would you?
+
+1072
+00:54:16,045 --> 00:54:17,003
+That's funny.
+
+1073
+00:54:17,213 --> 00:54:18,505
+What's funny?
+
+1074
+00:54:20,173 --> 00:54:21,259
+[RAPPING ON DOOR]
+
+1075
+00:54:22,385 --> 00:54:23,385
+Ah.
+
+1076
+00:54:27,556 --> 00:54:28,474
+What are you doing?
+
+1077
+00:55:19,650 --> 00:55:22,402
+I'm certainly glad to see you again.
+
+1078
+00:55:24,739 --> 00:55:27,490
+Hi. I'm...
+
+1079
+00:55:27,657 --> 00:55:30,452
+I'm certainly glad to see you, as well.
+
+1080
+00:55:38,585 --> 00:55:40,463
+[WATER BOILING]
+
+1081
+00:55:58,606 --> 00:56:00,523
+We've... We've...
+
+1082
+00:56:01,442 --> 00:56:02,318
+We've met before.
+
+1083
+00:56:06,155 --> 00:56:08,490
+I'll have someone come repair this...
+
+1084
+00:56:08,699 --> 00:56:09,909
+...immediately.
+
+1085
+00:56:26,217 --> 00:56:28,052
+Sorry about the clock.
+
+1086
+00:56:28,927 --> 00:56:30,721
+- That's an old clock.
+- Lovely, though.
+
+1087
+00:56:30,929 --> 00:56:32,389
+- A lovely clock.
+- Yes.
+
+1088
+00:56:34,557 --> 00:56:36,059
+We haven't met for many years.
+
+1089
+00:56:36,268 --> 00:56:37,894
+Five years next November.
+
+1090
+00:56:40,856 --> 00:56:41,815
+Tea?
+
+1091
+00:56:42,023 --> 00:56:43,943
+- Yes, thank you, old sport.
+- Thank you.
+
+1092
+00:56:44,193 --> 00:56:45,777
+NICK: Lemon or sugar?
+- Neither.
+
+1093
+00:56:46,027 --> 00:56:47,530
+Plain. Thank you.
+
+1094
+00:57:06,215 --> 00:57:07,215
+I just have to pop...
+
+1095
+00:57:07,382 --> 00:57:08,300
+-...into town.
+- Town?
+
+1096
+00:57:08,509 --> 00:57:09,385
+I'll be right back.
+
+1097
+00:57:09,592 --> 00:57:10,552
+Nick, I've...
+
+1098
+00:57:10,719 --> 00:57:11,469
+...gotta speak to you.
+
+1099
+00:57:11,679 --> 00:57:14,181
+NICK: Yes. I'll be right back.
+GATSBY: God.
+
+1100
+00:57:14,389 --> 00:57:17,016
+This was a mistake.
+This was a terrible, terrible mistake.
+
+1101
+00:57:17,226 --> 00:57:18,936
+You're just embarrassed.
+Daisy's embarrassed too.
+
+1102
+00:57:21,771 --> 00:57:23,440
+- She's embarrassed?
+- Yes.
+
+1103
+00:57:23,648 --> 00:57:24,400
+Just as much as you are.
+
+1104
+00:57:24,608 --> 00:57:25,860
+- Don't talk so loud.
+- Hey.
+
+1105
+00:57:26,068 --> 00:57:28,903
+You're acting like a little boy.
+You're being rude. Daisy's...
+
+1106
+00:57:29,112 --> 00:57:30,864
+-...in there all alone and you're--
+- Shh.
+
+1107
+00:58:06,317 --> 00:58:08,818
+<i>NICK:
+Looking over my story so far...
+
+1108
+00:58:08,985 --> 00:58:13,324
+<i>...I'm reminded that
+for the second time that summer...
+
+1109
+00:58:13,490 --> 00:58:16,619
+<i>...I was guarding other people's secrets.
+
+1110
+00:58:17,869 --> 00:58:20,873
+<i>Once again, I was within...
+
+1111
+00:58:21,581 --> 00:58:23,208
+...and without.
+
+1112
+00:58:23,541 --> 00:58:25,878
+[DAISY AND GATSBY
+CHATTERING INDISTINCTLY]
+
+1113
+00:58:29,923 --> 00:58:30,798
+[RATTLING]
+
+1114
+00:58:48,358 --> 00:58:49,610
+NICK:
+Ahem!
+
+1115
+00:58:51,445 --> 00:58:52,987
+It's stopped raining.
+
+1116
+00:58:56,824 --> 00:58:57,952
+GATSBY:
+Yes.
+
+1117
+00:58:58,327 --> 00:58:59,786
+It has, hasn't it?
+
+1118
+00:59:12,215 --> 00:59:14,092
+What do you think of that, Daisy?
+
+1119
+00:59:16,344 --> 00:59:17,387
+Come look.
+
+1120
+00:59:17,887 --> 00:59:20,014
+DAISY:
+Oh, Nicky. How funny.
+
+1121
+00:59:21,641 --> 00:59:23,851
+Look, it's my house.
+
+1122
+00:59:26,771 --> 00:59:28,856
+Just there across the bay.
+
+1123
+00:59:35,030 --> 00:59:36,364
+GATSBY:
+I know.
+
+1124
+00:59:38,032 --> 00:59:40,619
+I have the same view from my place.
+
+1125
+00:59:42,204 --> 00:59:43,329
+Where's your place?
+
+1126
+00:59:46,416 --> 00:59:47,083
+Nick...
+
+1127
+00:59:48,585 --> 00:59:52,213
+...I want you and Daisy to come over
+to my house. I'd like to show her around.
+
+1128
+00:59:52,422 --> 00:59:53,882
+You sure you want me to come?
+
+1129
+00:59:54,090 --> 00:59:56,260
+Absolutely, old sport.
+
+1130
+00:59:56,719 --> 00:59:58,387
+Absolutely.
+
+1131
+00:59:59,929 --> 01:00:01,347
+Ladner, open the gates.
+
+1132
+01:00:01,556 --> 01:00:02,557
+LADNER:
+Open the gates!
+
+1133
+01:00:02,766 --> 01:00:05,184
+I had the gates brought in
+from a castle in Normandy.
+
+1134
+01:00:08,105 --> 01:00:08,771
+Oh, Jay.
+
+1135
+01:00:08,981 --> 01:00:10,690
+-It's so grand.
+GATSBY: You like it?
+
+1136
+01:00:12,818 --> 01:00:13,485
+I love it.
+
+1137
+01:00:14,737 --> 01:00:16,030
+But how do you live here...
+
+1138
+01:00:16,237 --> 01:00:18,157
+-...all alone?
+- Well, I don't.
+
+1139
+01:00:18,364 --> 01:00:22,702
+I keep it always full of
+interesting, celebrated people.
+
+1140
+01:00:23,746 --> 01:00:25,204
+Come with me.
+
+1141
+01:00:30,210 --> 01:00:31,795
+The house looks well, doesn't it?
+
+1142
+01:00:32,003 --> 01:00:34,047
+See the way the whole front
+catches the light like that?
+
+1143
+01:00:34,213 --> 01:00:35,715
+Oh, it's splendid.
+
+1144
+01:00:39,135 --> 01:00:40,679
+DAISY:
+Come on, you two. I want...
+
+1145
+01:00:40,846 --> 01:00:41,512
+...the royal tour.
+
+1146
+01:00:41,679 --> 01:00:44,432
+You must understand that I like all things
+that are modern. Presses the orange...
+
+1147
+01:00:44,641 --> 01:00:46,476
+...it all comes out there.
+
+1148
+01:00:53,900 --> 01:00:55,402
+NICK:
+Yay!
+
+1149
+01:00:55,943 --> 01:00:57,195
+GATSBY:
+Anyone for a round of golf?
+
+1150
+01:00:57,403 --> 01:01:00,865
+DAISY: You do know I'm a champion golfer?
+- Great!
+
+1151
+01:01:01,074 --> 01:01:02,201
+GATSBY:
+Well, go on.
+
+1152
+01:01:02,367 --> 01:01:03,202
+I thought we could...
+
+1153
+01:01:03,452 --> 01:01:05,329
+GATSBY: Remarkable little camera.
+Latest design.
+
+1154
+01:01:05,536 --> 01:01:06,954
+DAISY:
+I'll show you how it's done.
+
+1155
+01:01:07,164 --> 01:01:08,456
+GATSBY: Nick, keep filming.
+NICK: All right.
+
+1156
+01:01:08,666 --> 01:01:09,541
+GATSBY: She's gonna take a swing.
+NICK: I'm ready.
+
+1157
+01:01:09,750 --> 01:01:11,126
+Aim. Fore!
+
+1158
+01:01:14,088 --> 01:01:15,047
+DAISY:
+I'm such a brute.
+
+1159
+01:01:15,255 --> 01:01:17,340
+NICK: You ready for your close-up?
+- I don't want to forget...
+
+1160
+01:01:17,507 --> 01:01:18,592
+...a single moment.
+NICK: You're shimmering.
+
+1161
+01:01:18,800 --> 01:01:20,719
+GATSBY: She looks like she could be
+on the cover of Vogue.
+
+1162
+01:01:20,927 --> 01:01:21,929
+DAISY:
+Turn on the camera!
+
+1163
+01:01:23,972 --> 01:01:26,266
+NICK: Where did you go?
+GATSBY: Slow down.
+
+1164
+01:01:26,891 --> 01:01:27,893
+Slow down.
+
+1165
+01:01:32,481 --> 01:01:33,815
+DAISY:
+Ahh.
+
+1166
+01:01:34,400 --> 01:01:35,067
+It's beautiful.
+
+1167
+01:01:35,650 --> 01:01:37,485
+GATSBY: It's a custom Wurlitzer.
+DAISY: Can anyone...
+
+1168
+01:01:37,735 --> 01:01:38,778
+...play that?
+
+1169
+01:01:38,945 --> 01:01:40,364
+Klipspringer can. Someone wake Ewing.
+
+1170
+01:01:40,530 --> 01:01:42,615
+- Of course, sir.
+DAISY: Music!
+
+1171
+01:01:42,824 --> 01:01:43,659
+And then we can dance...
+
+1172
+01:01:43,826 --> 01:01:46,161
+...all night.
+GATSBY: Ewing's a genius, plays anything.
+
+1173
+01:01:46,577 --> 01:01:49,081
+DAISY: Then I demand a Charleston.
+- She makes it look so splendid...
+
+1174
+01:01:49,289 --> 01:01:50,916
+...don't you think, old sport?
+
+1175
+01:01:53,293 --> 01:01:54,503
+GATSBY:
+I have a man in England...
+
+1176
+01:01:54,711 --> 01:01:56,130
+...who buys me clothes.
+
+1177
+01:01:56,422 --> 01:01:57,965
+DAISY:
+I've never seen anything like it.
+
+1178
+01:01:58,172 --> 01:01:59,215
+Something for the lady.
+
+1179
+01:02:00,217 --> 01:02:01,719
+He sends over a selection at...
+
+1180
+01:02:01,927 --> 01:02:02,927
+...the beginning of each season.
+
+1181
+01:02:04,804 --> 01:02:05,556
+These are silk.
+
+1182
+01:02:05,764 --> 01:02:07,599
+DAISY: Jay!
+GATSBY: These are flannel.
+
+1183
+01:02:07,766 --> 01:02:09,351
+DAISY:
+They're so beautiful!
+
+1184
+01:02:09,559 --> 01:02:10,309
+GATSBY:
+Indian cotton.
+
+1185
+01:02:10,518 --> 01:02:12,146
+DAISY:
+Stop it. Jay!
+
+1186
+01:02:12,353 --> 01:02:13,605
+Linen.
+
+1187
+01:02:14,021 --> 01:02:14,690
+Nicky...
+
+1188
+01:02:14,856 --> 01:02:16,442
+...he's a madman!
+NICK: I can't help you!
+
+1189
+01:02:16,733 --> 01:02:17,400
+GATSBY:
+Flannel!
+
+1190
+01:02:17,650 --> 01:02:18,902
+DAISY:
+You're going to have to refold...
+
+1191
+01:02:19,110 --> 01:02:19,987
+...every single one of them.
+
+1192
+01:02:21,237 --> 01:02:22,030
+You'll ruin them!
+
+1193
+01:02:23,157 --> 01:02:24,074
+[DAISY GIGGLES]
+
+1194
+01:02:26,034 --> 01:02:26,827
+Jay! Stop it.
+
+1195
+01:02:27,869 --> 01:02:28,911
+GATSBY: Right here!
+DAISY: No!
+
+1196
+01:02:29,204 --> 01:02:30,289
+Jay!
+
+1197
+01:02:35,251 --> 01:02:36,295
+[DAISY CRIES]
+
+1198
+01:02:47,222 --> 01:02:48,306
+What is it?
+
+1199
+01:02:50,976 --> 01:02:53,728
+Daisy, Daisy, darling, what is it?
+
+1200
+01:02:58,608 --> 01:03:00,443
+It makes me sad.
+
+1201
+01:03:02,653 --> 01:03:03,489
+Why?
+
+1202
+01:03:03,947 --> 01:03:05,490
+<i>Because...
+
+1203
+01:03:09,077 --> 01:03:11,204
+NICK:
+Five lost years...
+
+1204
+01:03:11,413 --> 01:03:13,873
+<i>...struggled on Daisy's lips.
+
+1205
+01:03:15,125 --> 01:03:18,003
+<i>But all she could manage was:
+
+1206
+01:03:20,463 --> 01:03:21,757
+Why?
+
+1207
+01:03:23,967 --> 01:03:26,719
+Because I've never seen
+such beautiful shirts before.
+
+1208
+01:03:48,367 --> 01:03:50,619
+If it wasn't for the mist...
+
+1209
+01:03:51,202 --> 01:03:53,496
+...we could see the green light.
+
+1210
+01:03:59,085 --> 01:04:00,963
+What green light?
+
+1211
+01:04:02,172 --> 01:04:03,715
+The one that burns all night...
+
+1212
+01:04:03,923 --> 01:04:05,800
+...at the end of your dock.
+
+1213
+01:04:09,012 --> 01:04:09,721
+<i>NICK:
+Possibly...
+
+1214
+01:04:09,929 --> 01:04:12,099
+<i>...it had occurred to Gatsby that...
+
+1215
+01:04:12,306 --> 01:04:14,518
+<i>...the colossal significance
+of that light...
+
+1216
+01:04:14,726 --> 01:04:16,769
+<i>...had vanished forever.
+
+1217
+01:04:17,603 --> 01:04:19,648
+<i>Now it was once again...
+
+1218
+01:04:19,856 --> 01:04:20,983
+<i>...just a green light on a dock.
+
+1219
+01:04:21,148 --> 01:04:25,570
+<i>And his count of enchanted objects
+had diminished by one.
+
+1220
+01:04:27,447 --> 01:04:28,114
+Who's this?
+
+1221
+01:04:28,322 --> 01:04:29,699
+- Your father?
+GATSBY: Oh, no.
+
+1222
+01:04:29,907 --> 01:04:31,702
+That's Mr. Dan Cody, old sport.
+
+1223
+01:04:33,077 --> 01:04:34,413
+He's dead now.
+
+1224
+01:04:34,621 --> 01:04:37,039
+He used to be my best friend
+many years ago.
+
+1225
+01:04:37,958 --> 01:04:38,876
+DAISY:
+You never told me...
+
+1226
+01:04:39,083 --> 01:04:40,918
+...you had a pompadour. Or a yacht.
+
+1227
+01:04:41,378 --> 01:04:42,838
+I wanna show you something.
+
+1228
+01:04:44,840 --> 01:04:46,257
+Have a seat.
+
+1229
+01:04:46,967 --> 01:04:48,885
+These are a lot of clippings I collected.
+
+1230
+01:04:50,262 --> 01:04:51,679
+About you.
+
+1231
+01:04:55,141 --> 01:04:56,518
+DAISY:
+You saved my letters.
+
+1232
+01:04:58,061 --> 01:04:59,438
+This was my first...
+
+1233
+01:04:59,646 --> 01:05:00,856
+...photo of you.
+
+1234
+01:05:02,356 --> 01:05:03,025
+You remember...
+
+1235
+01:05:03,190 --> 01:05:05,402
+...this letter here?
+DAISY: We can't lose each other...
+
+1236
+01:05:05,568 --> 01:05:06,612
+...and let all this...
+
+1237
+01:05:06,777 --> 01:05:07,612
+<i>...glorious love...
+
+1238
+01:05:07,778 --> 01:05:09,614
+<i>...end in nothing. Come home.
+
+1239
+01:05:10,324 --> 01:05:11,824
+<i>I'll be here waiting and hoping...
+
+1240
+01:05:12,742 --> 01:05:13,409
+...for every...
+
+1241
+01:05:13,577 --> 01:05:15,786
+<i>...long dream of you to come true.
+
+1242
+01:05:16,204 --> 01:05:17,496
+[TELEPHONE RINGS]
+
+1243
+01:05:19,750 --> 01:05:21,208
+GATSBY:
+Excuse me.
+
+1244
+01:05:28,467 --> 01:05:32,387
+MAN: <i>Sir, Slagle's in Detroit.</i>
+- I can't talk <i>now, old sport.
+
+1245
+01:05:34,597 --> 01:05:37,559
+He must know what a small town is.
+
+1246
+01:05:37,768 --> 01:05:39,894
+No, you listen to me. Listen to me.
+
+1247
+01:05:43,606 --> 01:05:45,608
+I said a small town.
+
+1248
+01:05:46,443 --> 01:05:47,610
+He must know what a small...
+
+1249
+01:05:47,818 --> 01:05:48,612
+...town is.
+
+1250
+01:05:52,740 --> 01:05:55,744
+Listen to me, he's of no use to us
+if Detroit is his idea...
+
+1251
+01:05:55,952 --> 01:05:57,871
+...of a small town, you understand?
+
+1252
+01:06:03,626 --> 01:06:05,545
+We'll chat later, old sport.
+
+1253
+01:06:06,713 --> 01:06:08,090
+All right.
+
+1254
+01:06:08,840 --> 01:06:10,634
+[ORGAN PLAYING
+UPBEAT JAZZ MUSIC]
+
+1255
+01:06:11,802 --> 01:06:12,510
+Klipspringer.
+
+1256
+01:06:14,679 --> 01:06:15,806
+He must be awake.
+
+1257
+01:06:19,059 --> 01:06:20,268
+Shall we?
+
+1258
+01:06:28,235 --> 01:06:29,193
+DAISY:
+Whoo!
+
+1259
+01:06:29,902 --> 01:06:30,862
+NICK:
+Ho!
+
+1260
+01:07:12,070 --> 01:07:15,657
+I wish I'd done everything on earth with you.
+
+1261
+01:07:22,121 --> 01:07:23,831
+All my life.
+
+1262
+01:07:26,626 --> 01:07:29,211
+I wish it could always be like this.
+
+1263
+01:07:36,469 --> 01:07:38,262
+It Will be.
+
+1264
+01:07:42,184 --> 01:07:45,478
+<i>NICK:
+If only it had been enough for Gatsby...
+
+1265
+01:07:45,686 --> 01:07:47,521
+<i>...just to hold Daisy.
+
+1266
+01:07:47,688 --> 01:07:52,568
+<i>But he had a grand vision for his life
+and Daisy's part in it.
+
+1267
+01:07:54,195 --> 01:07:56,907
+<i>It wasn't until the end of that summer...
+
+1268
+01:07:57,114 --> 01:08:00,452
+<i>...on the last night I saw Gatsby...
+
+1269
+01:08:00,619 --> 01:08:04,206
+<i>...that he told me of the life
+he had dreamed for himself since...
+
+1270
+01:08:04,414 --> 01:08:05,791
+<i>...he was a boy.
+
+1271
+01:08:05,998 --> 01:08:07,541
+<i>You see, doctor...
+
+1272
+01:08:08,210 --> 01:08:10,961
+...Gatsby's real name was...
+
+1273
+01:08:12,422 --> 01:08:14,132
+...James Gatz.
+
+1274
+01:08:15,175 --> 01:08:19,887
+<i>His parents were dirt-poor farmers
+from North Dakota.
+
+1275
+01:08:20,262 --> 01:08:23,557
+<i>But he never accepted them
+as his parents at all.
+
+1276
+01:08:24,266 --> 01:08:28,188
+<i>In his own imagination,
+he was a son of God...
+
+1277
+01:08:29,480 --> 01:08:30,731
+<i>...destined for...
+
+1278
+01:08:30,940 --> 01:08:32,442
+<i>...future glory.
+
+1279
+01:08:33,234 --> 01:08:38,573
+<i>Chasing this destiny,</i> a <i>16-year-old
+Gatz ran far, far</i> away.
+
+1280
+01:08:39,032 --> 01:08:43,286
+<i>One afternoon, off the coast of Lake Superior,
+he spotted a yacht in peril.
+
+1281
+01:08:44,078 --> 01:08:45,913
+<i>He rowed out and rescued the vessel...
+
+1282
+01:08:46,122 --> 01:08:49,917
+<i>...and its captain,
+alcoholic millionaire Dan Cody.
+
+1283
+01:08:50,502 --> 01:08:51,168
+CODY:
+Where's the boat?
+
+1284
+01:08:52,462 --> 01:08:53,712
+GATSBY:
+You're gonna hit the shoal!
+
+1285
+01:08:53,921 --> 01:08:55,256
+We're gonna hit the shoal!
+
+1286
+01:08:55,465 --> 01:08:56,507
+What the hell are you doing...
+
+1287
+01:08:58,135 --> 01:09:00,554
+...old sport?
+NICK: <i>This</i> was...
+
+1288
+01:09:00,761 --> 01:09:03,097
+<i>...his opportunity and he seized it.
+
+1289
+01:09:03,265 --> 01:09:04,181
+<i>GATSBY:
+And I decided...
+
+1290
+01:09:04,349 --> 01:09:07,435
+...right then and there
+to call myself Jay Gatsby.
+
+1291
+01:09:07,644 --> 01:09:09,020
+<i>NICK:
+He sailed the yacht out of danger...
+
+1292
+01:09:09,229 --> 01:09:11,523
+<i>...and into his future.
+
+1293
+01:09:12,524 --> 01:09:14,693
+<i>Gatsby showed skill and ambition.
+
+1294
+01:09:14,900 --> 01:09:17,529
+<i>And for five years, they sailed the world.
+
+1295
+01:09:17,737 --> 01:09:19,197
+<i>GATSBY'.
+He was all right, old Dan.
+
+1296
+01:09:19,698 --> 01:09:20,990
+He taught me everything.
+
+1297
+01:09:21,198 --> 01:09:23,201
+<i>NICK: How to dress, act
+and speak like a gentleman.
+
+1298
+01:09:23,368 --> 01:09:25,328
+Gatsby. Jay Gatsby.
+
+1299
+01:09:25,537 --> 01:09:27,204
+She looks well, doesn't she...
+
+1300
+01:09:27,497 --> 01:09:29,373
+NICK:
+Gatsby hoped to inherit Cody's fortune.
+
+1301
+01:09:29,582 --> 01:09:31,585
+<i>-...old sport?
+NICK: But when Cody died...
+
+1302
+01:09:31,792 --> 01:09:35,505
+<i>...Gatsby was cheated of his inheritance
+by Cody's family.
+
+1303
+01:09:35,713 --> 01:09:38,925
+<i>He'd been left with the ability
+to play the gentleman...
+
+1304
+01:09:39,134 --> 01:09:42,511
+<i>...but he was once again dirt-poor.
+
+1305
+01:09:44,972 --> 01:09:50,103
+<i>By midsummer,
+Gatsby was front page news.
+
+1306
+01:10:01,530 --> 01:10:03,992
+<i>Where did the money come from?
+
+1307
+01:10:04,826 --> 01:10:06,912
+[BAND PLAYING
+AND CROWD LAUGHING]
+
+1308
+01:10:17,296 --> 01:10:18,672
+<i>That's what all of New York...
+
+1309
+01:10:18,840 --> 01:10:20,425
+<i>...wanted to know.
+
+1310
+01:10:20,591 --> 01:10:23,845
+<i>And it was the same question
+on Tom's mind...
+
+1311
+01:10:24,011 --> 01:10:29,350
+<i>...when he accompanied Daisy
+to one of Gatsby's glittering parties.
+
+1312
+01:10:30,851 --> 01:10:32,186
+I'll be right back.
+
+1313
+01:10:32,938 --> 01:10:33,979
+You know, a lot of these...
+
+1314
+01:10:34,146 --> 01:10:35,689
+...newly rich people are just...
+
+1315
+01:10:35,856 --> 01:10:37,859
+-...filthy bootleggers.
+- Not Gatsby.
+
+1316
+01:10:38,025 --> 01:10:40,110
+He's a businessman.
+He owned a lot of drugstores.
+
+1317
+01:10:40,278 --> 01:10:41,154
+TOM:
+Businessman!
+
+1318
+01:10:41,320 --> 01:10:43,907
+May I introduce Senator Gulick?
+This is...
+
+1319
+01:10:44,073 --> 01:10:45,324
+-...Mr. Carraway.
+- Senator.
+
+1320
+01:10:46,576 --> 01:10:48,828
+- Mrs. Buchanan.
+- Charmed.
+
+1321
+01:10:48,994 --> 01:10:50,537
+Delighted.
+
+1322
+01:10:50,704 --> 01:10:51,789
+Oh, and Mr. Buchanan...
+
+1323
+01:10:51,957 --> 01:10:53,792
+...the polo player.
+
+1324
+01:10:55,710 --> 01:10:57,378
+- No, not me.
+GULICK: Always a pleasure...
+
+1325
+01:10:57,545 --> 01:10:58,755
+...to meet a Buchanan.
+
+1326
+01:10:58,921 --> 01:11:00,756
+TOM: Likewise.
+<i>- I'll</i> catch up with you later.
+
+1327
+01:11:00,923 --> 01:11:04,010
+- Perhaps at the craps table.
+- I'd rather not be the polo player.
+
+1328
+01:11:04,176 --> 01:11:07,596
+Tom. You should be proud
+of your achievements.
+
+1329
+01:11:09,515 --> 01:11:11,350
+May I show you around?
+
+1330
+01:11:11,518 --> 01:11:12,769
+Sure.
+
+1331
+01:11:14,979 --> 01:11:15,980
+GATSBY:
+You must know the faces...
+
+1332
+01:11:16,146 --> 01:11:18,065
+...of many people you've heard of!
+DAISY: Absolutely.
+
+1333
+01:11:18,233 --> 01:11:21,069
+We don't go around very much.
+I don't think I recognize...
+
+1334
+01:11:21,235 --> 01:11:23,195
+...a single person.
+GATSBY: Is that so?
+
+1335
+01:11:23,363 --> 01:11:24,738
+Perhaps you know that lady...
+
+1336
+01:11:24,905 --> 01:11:28,368
+...right there.
+DAISY: It's Marlene Moon. I adore her pictures.
+
+1337
+01:11:28,534 --> 01:11:30,662
+Would you like me to introduce you?
+
+1338
+01:11:32,579 --> 01:11:35,125
+I'd really rather not be the polo player.
+
+1339
+01:11:35,625 --> 01:11:37,877
+[CROWD CHANTS INDISTINCTLY]
+
+1340
+01:11:41,797 --> 01:11:43,675
+These things excite me so.
+
+1341
+01:11:44,591 --> 01:11:45,426
+NICK:
+Nice little dance.
+
+1342
+01:11:45,592 --> 01:11:46,802
+[DAISY LAUGHS]
+
+1343
+01:11:49,805 --> 01:11:51,932
+I believe we've met before,
+Mr. Buchanan.
+
+1344
+01:11:52,100 --> 01:11:53,810
+About a month ago.
+
+1345
+01:11:56,438 --> 01:11:58,273
+That's right.
+
+1346
+01:11:58,480 --> 01:11:59,983
+And you were with Nick here.
+
+1347
+01:12:00,149 --> 01:12:02,109
+- At the barbershop.
+- No, thank you.
+
+1348
+01:12:02,735 --> 01:12:04,029
+That's right.
+
+1349
+01:12:04,570 --> 01:12:06,363
+See, I know your wife.
+
+1350
+01:12:08,867 --> 01:12:09,908
+That so?
+
+1351
+01:12:10,534 --> 01:12:11,536
+Yes.
+
+1352
+01:12:15,789 --> 01:12:17,333
+HERZOG:
+Mr. Gatsby, sir.
+
+1353
+01:12:18,585 --> 01:12:20,878
+- Mr. Slagle is here.
+- Not now. Not now.
+
+1354
+01:12:21,046 --> 01:12:23,047
+TRIMALCHIO:
+--and Guitars with:
+
+1355
+01:12:23,213 --> 01:12:25,257
+"The Foxtrot."
+
+1356
+01:12:26,842 --> 01:12:28,427
+[BAND PLAYS UPBEAT JAZZ MUSIC]
+
+1357
+01:12:39,271 --> 01:12:40,774
+Mr. Buchanan.
+
+1358
+01:12:42,399 --> 01:12:44,069
+Would you mind terribly?
+
+1359
+01:12:46,820 --> 01:12:48,073
+Of course not.
+
+1360
+01:12:52,284 --> 01:12:53,912
+I think I can keep myself amused.
+
+1361
+01:12:55,913 --> 01:12:58,750
+In case you need to take down
+any addresses.
+
+1362
+01:13:11,720 --> 01:13:14,224
+Please move aside. Excuse me.
+
+1363
+01:13:18,019 --> 01:13:19,479
+Another swell party, Jay.
+
+1364
+01:13:19,645 --> 01:13:22,273
+Be careful for the snake charmer,
+Mr. McLennehan.
+
+1365
+01:13:23,024 --> 01:13:24,359
+DAISY:
+ls all this made entirely...
+
+1366
+01:13:24,525 --> 01:13:26,735
+...from your own imagination?
+
+1367
+01:13:27,737 --> 01:13:28,822
+GATSBY:
+No.
+
+1368
+01:13:30,155 --> 01:13:32,449
+You see, you were there all along...
+
+1369
+01:13:33,158 --> 01:13:35,078
+...in every idea...
+
+1370
+01:13:35,787 --> 01:13:37,413
+...in every decision.
+
+1371
+01:13:38,456 --> 01:13:40,625
+Of course, if anything is not to your liking...
+
+1372
+01:13:40,792 --> 01:13:42,167
+...I'll change it.
+
+1373
+01:13:45,212 --> 01:13:46,672
+It's perfect.
+
+1374
+01:13:47,756 --> 01:13:49,300
+From your perfect...
+
+1375
+01:13:49,466 --> 01:13:51,594
+...irresistible imagination.
+
+1376
+01:13:56,265 --> 01:13:57,015
+I wonder...
+
+1377
+01:13:57,182 --> 01:13:59,185
+...where the devil he met Daisy.
+
+1378
+01:14:07,777 --> 01:14:10,279
+<i>- I'll</i> find you.
+- All right.
+
+1379
+01:14:14,576 --> 01:14:15,952
+Come with me.
+
+1380
+01:14:18,829 --> 01:14:19,788
+SERVANT:
+Coming through, please.
+
+1381
+01:14:19,956 --> 01:14:21,123
+Pardon me.
+
+1382
+01:14:24,252 --> 01:14:25,587
+Thank you.
+
+1383
+01:15:38,993 --> 01:15:41,537
+[JAZZ MUSIC PLAYING]
+
+1384
+01:15:45,291 --> 01:15:47,710
+[SINGING] There's a man
+There's a man
+
+1385
+01:15:48,377 --> 01:15:50,087
+TOM:
+Have you seen my wife?
+
+1386
+01:15:52,715 --> 01:15:53,966
+No.
+
+1387
+01:15:54,591 --> 01:15:55,926
+Not for a while.
+
+1388
+01:15:59,389 --> 01:16:00,640
+Whiskey.
+
+1389
+01:16:01,015 --> 01:16:03,600
+It's funny, the senator
+just saw her down here.
+
+1390
+01:16:07,980 --> 01:16:10,608
+I wish we could just run away.
+
+1391
+01:16:20,076 --> 01:16:21,077
+Run away?
+
+1392
+01:16:21,868 --> 01:16:22,869
+No.
+
+1393
+01:16:23,496 --> 01:16:25,414
+Daisy, darling, that--
+
+1394
+01:16:25,582 --> 01:16:28,167
+- That wouldn't be respectable.
+TOM: You <i>live...
+
+1395
+01:16:28,333 --> 01:16:29,210
+...around here, Nick?
+
+1396
+01:16:32,005 --> 01:16:33,256
+Just next door.
+
+1397
+01:16:34,340 --> 01:16:36,050
+Is that so?
+
+1398
+01:16:39,470 --> 01:16:41,055
+<i>GATSBY'.
+We're gonna live here...
+
+1399
+01:16:41,430 --> 01:16:42,724
+...in this house.
+
+1400
+01:16:43,390 --> 01:16:44,057
+You...
+
+1401
+01:16:44,641 --> 01:16:46,144
+...and me.
+
+1402
+01:16:49,439 --> 01:16:50,606
+Darling...
+
+1403
+01:16:53,025 --> 01:16:54,402
+...it's time to tell Tom.
+
+1404
+01:16:54,569 --> 01:16:56,988
+[GLASS SHATTERING
+AND CROWD CLAMORING]
+
+1405
+01:16:57,613 --> 01:16:58,448
+WAITER:
+Come on, boys.
+
+1406
+01:16:58,698 --> 01:16:59,364
+Scram!
+
+1407
+01:17:00,574 --> 01:17:01,701
+Good night, gentlemen.
+
+1408
+01:17:03,493 --> 01:17:04,621
+What a circus.
+
+1409
+01:17:08,666 --> 01:17:09,375
+Well...
+
+1410
+01:17:09,542 --> 01:17:11,543
+...if you see her...
+
+1411
+01:17:12,295 --> 01:17:14,255
+...I'll be looking for her.
+
+1412
+01:17:14,421 --> 01:17:15,506
+You tell her.
+
+1413
+01:17:16,798 --> 01:17:18,216
+Remember how much fun we had?
+
+1414
+01:17:18,384 --> 01:17:20,886
+I don't know why we can't
+just have fun like that again.
+
+1415
+01:17:21,054 --> 01:17:22,055
+NICK:
+Hello?
+
+1416
+01:17:25,265 --> 01:17:26,600
+Hello, Nicky.
+
+1417
+01:17:26,768 --> 01:17:28,101
+We're having a row.
+
+1418
+01:17:28,269 --> 01:17:30,104
+- What about?
+DAISY: About...
+
+1419
+01:17:30,270 --> 01:17:31,314
+...things.
+
+1420
+01:17:32,731 --> 01:17:34,359
+About the future.
+
+1421
+01:17:36,027 --> 01:17:36,944
+The future of...
+
+1422
+01:17:37,110 --> 01:17:38,570
+...the colored empires.
+
+1423
+01:17:40,030 --> 01:17:40,989
+It's Tom.
+
+1424
+01:17:41,157 --> 01:17:43,618
+- He's wandering around the party looking--
+HERZOG: Sir.
+
+1425
+01:17:44,827 --> 01:17:45,787
+Mr. Gatsby, sir.
+
+1426
+01:17:46,119 --> 01:17:49,582
+It's Mr. Slagle. He's quite emotional.
+
+1427
+01:17:50,750 --> 01:17:52,210
+GATSBY:
+Excuse me.
+
+1428
+01:17:56,005 --> 01:17:58,675
+Nick. Would you mind terribly?
+
+1429
+01:17:58,841 --> 01:18:00,385
+Of course.
+
+1430
+01:18:03,845 --> 01:18:05,180
+NICK:
+Gatsby disappeared...
+
+1431
+01:18:05,347 --> 01:18:08,600
+<i>...to deal with a dispute of some sort.
+
+1432
+01:18:09,935 --> 01:18:11,979
+<i>Daisy waited...
+
+1433
+01:18:15,315 --> 01:18:18,444
+<i>...but Gatsby was unable to return.
+
+1434
+01:18:21,029 --> 01:18:24,242
+WOLFSHIEM: With these hot-headed types
+in here, I rely on you.
+
+1435
+01:18:24,408 --> 01:18:26,993
+But you were not available.
+A scene was made.
+
+1436
+01:18:27,953 --> 01:18:29,287
+What's going on with you, Jay?
+
+1437
+01:18:32,625 --> 01:18:33,792
+TOM:
+Where were you?
+
+1438
+01:18:33,960 --> 01:18:37,046
+DAISY: With Nicky. Mr. Gatsby
+was showing us the grounds.
+
+1439
+01:18:37,880 --> 01:18:38,965
+TOM:
+He certainly must have...
+
+1440
+01:18:39,131 --> 01:18:41,509
+...strained himself
+to get this menagerie together.
+
+1441
+01:18:44,136 --> 01:18:47,974
+I'd like to know who he is
+and what he does.
+
+1442
+01:18:48,765 --> 01:18:51,769
+And I think I'll make a point
+of finding out.
+
+1443
+01:19:09,119 --> 01:19:11,663
+GATSBY: I'm not sure. Ask them in the kitchen.
+SERVANT 1: To the left.
+
+1444
+01:19:12,832 --> 01:19:13,498
+SERVANT 2:
+Yeah...
+
+1445
+01:19:13,666 --> 01:19:16,961
+...we'll pile that stuff in the garage,
+it's going back to town.
+
+1446
+01:19:30,099 --> 01:19:30,766
+<i>NICK:
+Well...
+
+1447
+01:19:30,932 --> 01:19:32,894
+...there you are. Daisy just left.
+
+1448
+01:19:33,060 --> 01:19:34,520
+She asked me to tell you...
+
+1449
+01:19:34,686 --> 01:19:35,813
+...she had a wonderful time.
+
+1450
+01:19:36,396 --> 01:19:37,564
+She didn't like it.
+
+1451
+01:19:37,731 --> 01:19:38,858
+Of course she did.
+
+1452
+01:19:39,149 --> 01:19:40,609
+No, no, no.
+
+1453
+01:19:41,485 --> 01:19:45,030
+No, she didn't like it.
+She did not have a good time.
+
+1454
+01:19:45,782 --> 01:19:46,490
+I feel so far...
+
+1455
+01:19:46,657 --> 01:19:47,658
+...away from her now.
+
+1456
+01:19:47,824 --> 01:19:49,702
+It's so hard to make her understand.
+
+1457
+01:19:49,868 --> 01:19:51,162
+You mean about the party?
+
+1458
+01:19:51,328 --> 01:19:52,329
+The party?
+
+1459
+01:19:54,623 --> 01:19:57,042
+I couldn't care less about the parties.
+
+1460
+01:19:57,210 --> 01:19:58,877
+That'll be all for now, gentlemen.
+
+1461
+01:19:59,045 --> 01:20:00,505
+- Thank you.
+SERVANT 3: Thank you, sir.
+
+1462
+01:20:01,171 --> 01:20:02,006
+GATSBY:
+You see...
+
+1463
+01:20:04,341 --> 01:20:07,427
+...she has to tell Tom
+that she never loved him.
+
+1464
+01:20:07,595 --> 01:20:08,429
+What?
+
+1465
+01:20:08,595 --> 01:20:09,764
+Yes.
+
+1466
+01:20:09,930 --> 01:20:12,975
+Then we can go back to Louisville
+to her parents' house.
+
+1467
+01:20:13,600 --> 01:20:16,770
+Her parents are lovely people,
+old sport. We'll be...
+
+1468
+01:20:16,938 --> 01:20:17,939
+...married there.
+
+1469
+01:20:19,148 --> 01:20:20,149
+See...
+
+1470
+01:20:20,817 --> 01:20:24,403
+See, Daisy and I are gonna start over
+just as if it were five years ago.
+
+1471
+01:20:24,569 --> 01:20:26,154
+I wouldn't ask too much of her.
+
+1472
+01:20:26,322 --> 01:20:27,614
+Wouldn't ask too much?
+
+1473
+01:20:27,782 --> 01:20:28,824
+No.
+
+1474
+01:20:33,119 --> 01:20:35,331
+I beg your pardon, old sport. It's just--
+
+1475
+01:20:36,289 --> 01:20:38,417
+It's so sad,
+because it's so hard to make her...
+
+1476
+01:20:38,583 --> 01:20:40,252
+...understand.
+
+1477
+01:20:40,586 --> 01:20:43,463
+It's so hard to make her understand.
+
+1478
+01:20:43,672 --> 01:20:49,011
+I've gotten all these things for her,
+and now she just wants to run away.
+
+1479
+01:20:50,345 --> 01:20:51,137
+She even wants...
+
+1480
+01:20:51,305 --> 01:20:52,849
+...to leave that.
+NICK: Jay.
+
+1481
+01:20:54,057 --> 01:20:56,269
+You can't repeat the past.
+
+1482
+01:20:57,645 --> 01:20:59,564
+Can't repeat the past?
+
+1483
+01:20:59,771 --> 01:21:01,023
+No.
+
+1484
+01:21:02,190 --> 01:21:04,193
+Why, of course you can.
+
+1485
+01:21:04,902 --> 01:21:06,570
+Of course you can.
+
+1486
+01:21:07,904 --> 01:21:09,030
+I'm gonna fix things...
+
+1487
+01:21:09,198 --> 01:21:11,074
+...just the way they were before.
+
+1488
+01:21:11,617 --> 01:21:16,247
+Everything's been so confused
+since then. I...
+
+1489
+01:21:17,372 --> 01:21:20,042
+<i>NICK:
+He talked</i> a <i>lot about the past...
+
+1490
+01:21:20,585 --> 01:21:22,627
+<i>...as if he wanted to recover something.
+
+1491
+01:21:23,253 --> 01:21:28,050
+If I could just get back to the start...
+
+1492
+01:21:29,551 --> 01:21:31,720
+If I could just get back to the start...
+
+1493
+01:21:31,887 --> 01:21:33,890
+...I could find it again.
+
+1494
+01:21:34,180 --> 01:21:35,640
+<i>NICK:
+Some vision...
+
+1495
+01:21:35,807 --> 01:21:39,604
+...of <i>himself that he had
+put into loving Daisy.
+
+1496
+01:21:40,770 --> 01:21:44,567
+<i>One night in Louisville, five years ago...
+
+1497
+01:21:44,734 --> 01:21:50,072
+<i>...Gatsby found himself at Daisy's
+house by colossal accident.
+
+1498
+01:21:50,448 --> 01:21:54,159
+<i>GATSBY". I went to her house first with some
+of the officers from Camp Taylor.
+
+1499
+01:21:54,577 --> 01:21:56,537
+<i>I'd never been in such a beautiful house.
+
+1500
+01:21:56,703 --> 01:21:58,204
+May I save the next dance?
+
+1501
+01:21:58,372 --> 01:21:59,916
+NICK:
+His uniform hid...
+
+1502
+01:22:00,082 --> 01:22:01,626
+<i>...the truth that he</i> was...
+
+1503
+01:22:01,792 --> 01:22:03,252
+<i>...a penniless young man...
+
+1504
+01:22:03,877 --> 01:22:04,921
+<i>...with only that...
+
+1505
+01:22:05,087 --> 01:22:07,256
+<i>...grand vision of himself.
+
+1506
+01:22:07,422 --> 01:22:09,382
+- Daisy, don't scamper.
+DAISY: I was not, Mother.
+
+1507
+01:22:09,550 --> 01:22:11,676
+So many dashing young officers here.
+
+1508
+01:22:11,844 --> 01:22:14,220
+And from such illustrious families.
+
+1509
+01:22:14,387 --> 01:22:16,890
+<i>GATSBY'.
+I always knew that I could climb.
+
+1510
+01:22:17,390 --> 01:22:18,391
+<i>But I could only climb...
+
+1511
+01:22:18,559 --> 01:22:20,936
+<i>...if I climbed alone.
+
+1512
+01:22:24,273 --> 01:22:24,940
+<i>I knew...
+
+1513
+01:22:25,106 --> 01:22:26,692
+...that when I...
+
+1514
+01:22:27,025 --> 01:22:28,903
+...kissed this girl...
+
+1515
+01:22:30,613 --> 01:22:31,363
+...I would be...
+
+1516
+01:22:31,529 --> 01:22:33,532
+...forever wed to her.
+
+1517
+01:22:37,703 --> 01:22:39,537
+So I stopped.
+
+1518
+01:22:41,832 --> 01:22:43,458
+I stopped and I...
+
+1519
+01:22:44,377 --> 01:22:45,836
+I Waited.
+
+1520
+01:22:47,296 --> 01:22:47,963
+<i>I Waited...
+
+1521
+01:22:48,130 --> 01:22:49,881
+<i>...for a moment longer.
+
+1522
+01:22:50,048 --> 01:22:51,341
+<i>NICK:
+He knew...
+
+1523
+01:22:51,509 --> 01:22:56,471
+...his mind would never again
+be free to romp like...
+
+1524
+01:22:57,515 --> 01:22:59,641
+<i>...the mind of God.
+
+1525
+01:23:02,560 --> 01:23:04,188
+<i>That falling in love...
+
+1526
+01:23:04,354 --> 01:23:06,606
+<i>...would change his destiny...
+
+1527
+01:23:07,608 --> 01:23:08,984
+<i>...forever.
+
+1528
+01:23:13,072 --> 01:23:15,615
+And then I just let myself go.
+
+1529
+01:23:24,207 --> 01:23:27,336
+<i>NICK: She blossomed for him
+like</i> a <i>flower...
+
+1530
+01:23:29,880 --> 01:23:32,298
+<i>...and the incarnation was complete.
+
+1531
+01:23:42,225 --> 01:23:46,271
+GATSBY: I knew it was a great mistake
+for a man like me to fall in love.
+
+1532
+01:23:46,689 --> 01:23:50,234
+I'm only 32. I might still be a great man
+if I could forget that I once...
+
+1533
+01:23:50,400 --> 01:23:51,860
+...lost Daisy, but...
+
+1534
+01:23:52,819 --> 01:23:55,405
+...my life, old sport, my life...
+
+1535
+01:23:55,864 --> 01:23:57,908
+My life has got to be like this.
+
+1536
+01:24:02,246 --> 01:24:03,581
+It's got to keep going up.
+
+1537
+01:24:10,587 --> 01:24:12,840
+She has to go to Tom...
+
+1538
+01:24:13,548 --> 01:24:16,426
+...and tell him that she never loved him.
+
+1539
+01:24:21,474 --> 01:24:24,225
+I just need to give her more time, old sport.
+
+1540
+01:24:24,393 --> 01:24:25,935
+More time.
+
+1541
+01:24:32,193 --> 01:24:34,987
+Don't worry, old sport. Don't worry.
+
+1542
+01:24:35,154 --> 01:24:37,073
+I can protect her here.
+
+1543
+01:24:39,365 --> 01:24:41,034
+Good night, old sport.
+
+1544
+01:24:49,126 --> 01:24:50,877
+You're wrong about the past, old sport.
+
+1545
+01:24:54,172 --> 01:24:55,673
+You're wrong.
+
+1546
+01:25:20,115 --> 01:25:21,992
+<i>NICK: There had been music
+from my neighbor's...
+
+1547
+01:25:22,158 --> 01:25:23,159
+...all summer.
+
+1548
+01:25:23,327 --> 01:25:26,162
+In his blue gardens, men and girls
+came and went like moths...
+
+1549
+01:25:26,329 --> 01:25:30,000
+...among the whisperings
+and the laughter and the stars.
+
+1550
+01:25:30,501 --> 01:25:31,752
+Breakfast.
+
+1551
+01:25:31,918 --> 01:25:32,920
+Yes.
+
+1552
+01:25:33,087 --> 01:25:34,671
+Thank you, thank you.
+
+1553
+01:25:35,547 --> 01:25:36,923
+Laughter.
+
+1554
+01:25:37,841 --> 01:25:39,092
+Thank you.
+
+1555
+01:25:40,010 --> 01:25:43,555
+No. The whisperings
+and the champagne and the stars.
+
+1556
+01:25:45,099 --> 01:25:46,141
+But...
+
+1557
+01:25:46,307 --> 01:25:47,309
+[TYPING]
+
+1558
+01:25:47,475 --> 01:25:50,270
+...after Tom and Daisy's visit...
+
+1559
+01:25:51,104 --> 01:25:54,149
+<i>...Gatsby's lights went out one by one.
+
+1560
+01:25:54,899 --> 01:25:56,944
+<i>There were no more parties.
+
+1561
+01:25:59,404 --> 01:26:01,614
+<i>Daisy visited discreetly.
+
+1562
+01:26:01,782 --> 01:26:03,324
+[REPORTERS CHATTERING]
+
+1563
+01:26:05,286 --> 01:26:08,037
+<i>For the very same fame
+that had all summer...
+
+1564
+01:26:08,204 --> 01:26:11,750
+<i>...been a source of satisfaction
+to Jay Gatsby...
+
+1565
+01:26:12,501 --> 01:26:14,252
+<i>...had become a threat.
+
+1566
+01:26:43,657 --> 01:26:45,826
+I don't wanna go home.
+
+1567
+01:26:48,703 --> 01:26:51,707
+<i>NICK</i> [OVER <i>PHONE]:
+I hear you fired all your servants.
+
+1568
+01:26:51,873 --> 01:26:54,960
+Daisy comes over sometimes
+in the afternoon.
+
+1569
+01:26:55,127 --> 01:27:00,341
+I wanted people who wouldn't gossip
+until we decide what we're going to do.
+
+1570
+01:27:00,966 --> 01:27:01,966
+You see, these towns...
+
+1571
+01:27:02,134 --> 01:27:05,304
+<i>...are very close together, old sport...
+
+1572
+01:27:05,470 --> 01:27:07,931
+...and, well, it gets in the papers,
+you understand.
+
+1573
+01:27:08,097 --> 01:27:10,893
+They're all people Wolfshiem
+wanted to do something for.
+
+1574
+01:27:11,435 --> 01:27:13,645
+<i>What's the difference
+as long as they can cook...
+
+1575
+01:27:13,811 --> 01:27:14,939
+...and make beds, right?
+
+1576
+01:27:19,234 --> 01:27:20,069
+Nick...
+
+1577
+01:27:20,235 --> 01:27:22,779
+<i>...Daisy's ready. She's ready.
+
+1578
+01:27:22,947 --> 01:27:24,698
+There's just one thing.
+
+1579
+01:27:24,864 --> 01:27:30,203
+She's requested that you and Miss Baker
+be there for lunch tomorrow at her house.
+
+1580
+01:27:31,663 --> 01:27:33,457
+Will you come, old sport?
+
+1581
+01:27:34,457 --> 01:27:36,042
+<i>Daisy needs you.
+
+1582
+01:27:37,962 --> 01:27:39,421
+I'll
+
+1583
+01:27:39,921 --> 01:27:41,506
+We need you.
+
+1584
+01:27:48,471 --> 01:27:50,265
+Can you come, old sport?
+
+1585
+01:28:07,658 --> 01:28:09,284
+TOM:
+You know, I read somewhere...
+
+1586
+01:28:09,493 --> 01:28:12,287
+...that the sun
+is getting hotter every year.
+
+1587
+01:28:13,579 --> 01:28:14,539
+Wait a minute.
+
+1588
+01:28:15,123 --> 01:28:16,375
+It's the opposite.
+
+1589
+01:28:16,750 --> 01:28:17,876
+Sun is getting colder...
+
+1590
+01:28:18,042 --> 01:28:19,295
+...every year.
+
+1591
+01:28:21,296 --> 01:28:23,423
+Oh, I would like to be out...
+
+1592
+01:28:23,590 --> 01:28:25,175
+...on that bay today.
+
+1593
+01:28:28,429 --> 01:28:30,221
+I'm right across from you.
+
+1594
+01:28:33,641 --> 01:28:34,893
+Right there.
+
+1595
+01:28:38,521 --> 01:28:39,939
+Oh.
+
+1596
+01:28:40,524 --> 01:28:42,109
+So you are.
+
+1597
+01:28:47,530 --> 01:28:48,573
+GATSBY:
+You see...
+
+1598
+01:28:49,033 --> 01:28:49,742
+...every night...
+
+1599
+01:28:49,908 --> 01:28:51,076
+...I can see...
+
+1600
+01:28:51,784 --> 01:28:53,328
+...that light...
+
+1601
+01:28:53,953 --> 01:28:55,706
+...at the end of your dock blinking.
+
+1602
+01:28:57,166 --> 01:28:58,417
+What light?
+
+1603
+01:29:06,759 --> 01:29:07,926
+GATSBY:
+You see, Mr. Buchanan...
+
+1604
+01:29:08,092 --> 01:29:09,052
+...I wanted to be close.
+
+1605
+01:29:15,684 --> 01:29:17,226
+- Daisy and I have both--
+- It's so hot!
+
+1606
+01:29:17,394 --> 01:29:18,103
+Everything's...
+
+1607
+01:29:18,270 --> 01:29:19,354
+...so confused.
+
+1608
+01:29:19,520 --> 01:29:21,023
+What'll we do this afternoon...
+
+1609
+01:29:21,899 --> 01:29:23,775
+...or the day after that,
+or for the next 3O years?
+
+1610
+01:29:23,942 --> 01:29:24,693
+Oh, don't be morbid.
+
+1611
+01:29:25,652 --> 01:29:27,363
+Let's go to town.
+Who wants to go to town?
+
+1612
+01:29:27,529 --> 01:29:28,197
+Town?
+
+1613
+01:29:30,073 --> 01:29:31,367
+Women get these...
+
+1614
+01:29:31,533 --> 01:29:32,283
+...notions.
+
+1615
+01:29:51,511 --> 01:29:52,720
+[WHISPERS]
+Daisy.
+
+1616
+01:29:58,394 --> 01:29:59,853
+You look so cool.
+
+1617
+01:30:02,898 --> 01:30:05,359
+You always look so cool...
+
+1618
+01:30:05,525 --> 01:30:06,652
+...like the advertisement...
+
+1619
+01:30:06,819 --> 01:30:08,278
+...of the man in Times Square.
+
+1620
+01:30:10,488 --> 01:30:11,155
+The man...
+
+1621
+01:30:11,323 --> 01:30:13,492
+...in the cool, beautiful shirts.
+
+1622
+01:30:19,914 --> 01:30:20,957
+<i>NICK:
+She had told...
+
+1623
+01:30:21,125 --> 01:30:22,417
+<i>...Gatsby that she loved him...
+
+1624
+01:30:24,043 --> 01:30:24,711
+...and Tom...
+
+1625
+01:30:24,877 --> 01:30:26,212
+<i>...had seen.
+
+1626
+01:30:27,338 --> 01:30:28,047
+TOM:
+Let's go to town.
+
+1627
+01:30:28,881 --> 01:30:30,134
+I'm perfectly willing.
+
+1628
+01:30:30,300 --> 01:30:31,385
+It's a marvelous idea.
+
+1629
+01:30:31,551 --> 01:30:32,386
+Henri! Have the car...
+
+1630
+01:30:32,552 --> 01:30:33,554
+...brought around now.
+
+1631
+01:30:33,720 --> 01:30:34,887
+DAISY:
+Can't anyone at least have...
+
+1632
+01:30:35,055 --> 01:30:36,849
+-...a cigarette first?
+- We smoked through lunch.
+
+1633
+01:30:37,015 --> 01:30:39,893
+Come on, let's have fun.
+It's too hot to fuss.
+
+1634
+01:30:40,060 --> 01:30:41,603
+TOM:
+Daisy, it was your great idea.
+
+1635
+01:30:41,770 --> 01:30:43,313
+Why don't we? Let's all go to town.
+
+1636
+01:30:43,564 --> 01:30:45,899
+I changed my mind, you brute.
+
+1637
+01:30:46,065 --> 01:30:46,942
+TOM:
+Come on. We'll get...
+
+1638
+01:30:47,109 --> 01:30:49,194
+...a great big room at the Plaza...
+
+1639
+01:30:49,360 --> 01:30:50,487
+...a bucket of ice...
+
+1640
+01:30:50,779 --> 01:30:51,947
+...a bottle of whiskey...
+
+1641
+01:30:52,113 --> 01:30:54,158
+...and it will be fun.
+
+1642
+01:30:54,323 --> 01:30:55,324
+Come on.
+
+1643
+01:30:55,701 --> 01:30:56,993
+It was your idea.
+
+1644
+01:30:58,871 --> 01:31:00,788
+Fine. Have it your own way, Tom.
+
+1645
+01:31:00,956 --> 01:31:02,207
+Come on, Jordan.
+
+1646
+01:31:07,421 --> 01:31:09,631
+Will you join us, Mr. Gatsby?
+
+1647
+01:31:10,716 --> 01:31:12,384
+Two bottles of whiskey.
+Wrap them in a towel.
+
+1648
+01:31:12,801 --> 01:31:13,760
+Come on, Nick!
+
+1649
+01:31:18,849 --> 01:31:19,932
+TOM:
+Mr. Gatsby...
+
+1650
+01:31:20,850 --> 01:31:22,435
+...would you be good enough to take...
+
+1651
+01:31:22,603 --> 01:31:24,438
+...my coupe,
+and I'll drive everyone else...
+
+1652
+01:31:24,604 --> 01:31:25,855
+...in your circus wagon.
+GATSBY: I don't think...
+
+1653
+01:31:26,023 --> 01:31:27,774
+...there's much gas, old sport.
+
+1654
+01:31:28,024 --> 01:31:29,234
+TOM:
+No, plenty of gas.
+
+1655
+01:31:30,027 --> 01:31:31,319
+Well, if I run out, I'll stop...
+
+1656
+01:31:31,487 --> 01:31:33,029
+...at a drugstore. I hear you can...
+
+1657
+01:31:33,197 --> 01:31:34,739
+...buy anything at a drugstore
+nowadays.
+
+1658
+01:31:36,574 --> 01:31:37,576
+You take Nick and Jordan.
+
+1659
+01:31:37,743 --> 01:31:38,868
+GATSBY:
+I suppose you can...
+
+1660
+01:31:39,036 --> 01:31:42,079
+-...yes.
+- We'll meet you at the Plaza.
+
+1661
+01:31:42,247 --> 01:31:43,164
+I'll be the man on the corner...
+
+1662
+01:31:43,332 --> 01:31:45,082
+...smoking two cigarettes!
+
+1663
+01:31:52,006 --> 01:31:54,091
+TOM: You must think I'm pretty dumb,
+don't you?
+
+1664
+01:31:54,259 --> 01:31:57,011
+Well, I have a second sight sometimes
+that tells me what to do.
+
+1665
+01:31:57,345 --> 01:31:59,264
+I've made a small investigation
+into this fellow.
+
+1666
+01:31:59,430 --> 01:32:00,474
+JORDAN:
+And you found he was...
+
+1667
+01:32:00,640 --> 01:32:02,350
+-...an Oxford man?
+- Oxford, New Mexico.
+
+1668
+01:32:02,518 --> 01:32:04,478
+He wears a pink suit, for chrissake.
+
+1669
+01:32:06,354 --> 01:32:07,355
+[CAR HORN HONKS]
+
+1670
+01:32:18,492 --> 01:32:19,243
+[MAN SHOUTS INDISTINCTLY]
+
+1671
+01:32:20,786 --> 01:32:21,744
+[CAR HORN HONKS]
+
+1672
+01:32:29,002 --> 01:32:31,462
+JORDAN:
+Tom, we're almost out of gas.
+
+1673
+01:32:36,176 --> 01:32:37,719
+[CAR HORN HONKS]
+
+1674
+01:32:38,302 --> 01:32:39,179
+TOM:
+Wilson!
+
+1675
+01:32:39,805 --> 01:32:40,471
+Wilson!
+
+1676
+01:32:40,764 --> 01:32:41,765
+What are you waiting for?
+
+1677
+01:32:41,931 --> 01:32:43,766
+- Let's have some gas!
+- Uhh.
+
+1678
+01:32:44,309 --> 01:32:45,560
+Do I have to do it myself?
+
+1679
+01:32:46,019 --> 01:32:47,604
+You think I come here
+to admire the view?
+
+1680
+01:32:47,770 --> 01:32:50,189
+- I'm sorry, I'm sick.
+TOM: Why?
+
+1681
+01:32:51,358 --> 01:32:53,025
+- Why, what's the matter?
+WILSON: I don't know.
+
+1682
+01:32:53,652 --> 01:32:54,319
+I'm all run down.
+
+1683
+01:32:55,319 --> 01:32:56,029
+I need money...
+
+1684
+01:32:56,195 --> 01:32:57,613
+-...real bad.
+- What?
+
+1685
+01:32:57,780 --> 01:32:59,490
+My wife and I, we wanna go West.
+
+1686
+01:33:01,743 --> 01:33:02,743
+Oh, your wife does?
+
+1687
+01:33:04,371 --> 01:33:05,497
+NICK:
+Tom was feeling...
+
+1688
+01:33:05,663 --> 01:33:08,708
+<i>...the hot whips of panic. His mistress...
+
+1689
+01:33:08,875 --> 01:33:09,917
+...and wife...
+
+1690
+01:33:10,085 --> 01:33:11,712
+<i>...an hour ago so secure...
+
+1691
+01:33:12,503 --> 01:33:14,756
+<i>...were both slipping from his control.
+
+1692
+01:33:15,673 --> 01:33:16,800
+WILSON:
+I wised up to something...
+
+1693
+01:33:16,966 --> 01:33:18,342
+...funny these last two days.
+
+1694
+01:33:19,845 --> 01:33:20,845
+Yeah, she's going West...
+
+1695
+01:33:21,012 --> 01:33:22,722
+...whether she wants to or not.
+
+1696
+01:33:24,807 --> 01:33:25,600
+What do I owe you?
+
+1697
+01:33:25,766 --> 01:33:26,685
+WILSON:
+A dollar.
+
+1698
+01:33:26,851 --> 01:33:28,936
+-$1.20.
+TOM: You can have the car.
+
+1699
+01:33:29,104 --> 01:33:30,271
+I'll send it over tomorrow!
+
+1700
+01:34:25,034 --> 01:34:26,787
+Okay, fine, fine, fine.
+
+1701
+01:34:28,704 --> 01:34:30,332
+DAISY:
+Open another window.
+
+1702
+01:34:30,498 --> 01:34:31,541
+There aren't any more.
+
+1703
+01:34:31,707 --> 01:34:32,626
+DAISY:
+Then telephone...
+
+1704
+01:34:32,792 --> 01:34:34,168
+...for an ax.
+
+1705
+01:34:34,336 --> 01:34:36,003
+TOM:
+Will you forget about the heat?
+
+1706
+01:34:36,421 --> 01:34:38,090
+You make it worse by crabbing about it.
+
+1707
+01:34:38,256 --> 01:34:39,716
+Why not let her alone, old sport?
+
+1708
+01:34:42,761 --> 01:34:44,179
+TOM:
+That's a great expression...
+
+1709
+01:34:44,345 --> 01:34:45,680
+...of yours, isn't it?
+
+1710
+01:34:45,846 --> 01:34:46,972
+GATSBY:
+What is?
+
+1711
+01:34:47,515 --> 01:34:49,141
+"Old sport."
+
+1712
+01:34:49,309 --> 01:34:50,810
+- Where'd you pick it up?
+- See here.
+
+1713
+01:34:50,976 --> 01:34:52,520
+If you're going to make personal remarks...
+
+1714
+01:34:52,688 --> 01:34:54,398
+...I won't stay here a minute.
+
+1715
+01:34:54,564 --> 01:34:56,233
+Mr. Gatsby...
+
+1716
+01:34:56,733 --> 01:34:58,402
+...I understand that you're an Oxford man.
+
+1717
+01:35:03,030 --> 01:35:04,282
+No, not exactly, no.
+
+1718
+01:35:04,448 --> 01:35:05,742
+Oh, yes, I understand that...
+
+1719
+01:35:05,908 --> 01:35:07,077
+...you went to Oxford.
+
+1720
+01:35:09,287 --> 01:35:11,331
+- Well, yes, I went there.
+TOM: Sure.
+
+1721
+01:35:12,164 --> 01:35:14,710
+- The man in the pink suit went to Oxford.
+- Tom.
+
+1722
+01:35:15,836 --> 01:35:17,462
+I said I went there, didn't I?
+
+1723
+01:35:17,628 --> 01:35:18,796
+TOM:
+Oh, I heard you.
+
+1724
+01:35:19,088 --> 01:35:21,048
+I'd like to know when.
+
+1725
+01:35:21,675 --> 01:35:23,426
+You'd like to know when.
+
+1726
+01:35:33,895 --> 01:35:35,188
+Well, Mr. Gatsby?
+
+1727
+01:35:38,149 --> 01:35:40,735
+It was in 1919.
+I only stayed there five months.
+
+1728
+01:35:40,902 --> 01:35:43,029
+That's why I can't exactly call myself...
+
+1729
+01:35:43,195 --> 01:35:44,613
+...an Oxford man.
+
+1730
+01:35:44,780 --> 01:35:47,617
+You see, it was an opportunity
+they gave to some of us officers...
+
+1731
+01:35:47,783 --> 01:35:49,202
+...who fought in the war.
+
+1732
+01:35:51,371 --> 01:35:52,581
+<i>NICK:
+I wanted to get up and slap...
+
+1733
+01:35:52,747 --> 01:35:54,123
+<i>...Gatsby on the back.
+
+1734
+01:35:54,291 --> 01:35:55,375
+DAISY:
+I'll make you a drink, Tom.
+
+1735
+01:35:56,501 --> 01:35:58,837
+- Then you won't seem so stupid to yourself.
+TOM: Wait a minute.
+
+1736
+01:35:59,712 --> 01:36:02,423
+I want to ask Mr. Gatsby
+one more question.
+
+1737
+01:36:02,591 --> 01:36:05,260
+Oh, please, please, go on,
+Mr. Buchanan. Go on.
+
+1738
+01:36:05,761 --> 01:36:09,639
+What kind of a row are you trying
+to cause in my house anyhow?
+
+1739
+01:36:10,181 --> 01:36:14,185
+He isn't causing a row, you're causing
+a row. Please have a little self-control.
+
+1740
+01:36:14,351 --> 01:36:15,770
+Self-control?
+
+1741
+01:36:16,688 --> 01:36:17,480
+Oh, I suppose...
+
+1742
+01:36:17,646 --> 01:36:19,690
+...the latest thing is to sit back...
+
+1743
+01:36:19,858 --> 01:36:22,234
+...and let Mr. Nobody From Nowhere...
+
+1744
+01:36:22,402 --> 01:36:23,904
+...make love to your wife.
+
+1745
+01:36:24,069 --> 01:36:25,613
+Well, if that's the idea...
+
+1746
+01:36:25,780 --> 01:36:26,948
+...you can count me out.
+
+1747
+01:36:27,114 --> 01:36:28,073
+See, nowadays people...
+
+1748
+01:36:28,240 --> 01:36:29,074
+...begin by sneering...
+
+1749
+01:36:29,242 --> 01:36:31,368
+...at family life and family institutions...
+
+1750
+01:36:32,037 --> 01:36:33,497
+...and the next you'll know, we'll...
+
+1751
+01:36:33,662 --> 01:36:35,414
+...throw everything overboard,
+we'll have intermarriage...
+
+1752
+01:36:35,582 --> 01:36:36,957
+...between black and white!
+
+1753
+01:36:37,125 --> 01:36:38,083
+GATSBY:
+Your wife doesn't love you.
+
+1754
+01:36:44,256 --> 01:36:44,925
+She never...
+
+1755
+01:36:45,091 --> 01:36:46,051
+...loved you.
+
+1756
+01:36:46,217 --> 01:36:47,551
+You see, she loves me.
+
+1757
+01:36:52,431 --> 01:36:53,432
+You must be crazy.
+
+1758
+01:36:53,891 --> 01:36:55,726
+No, old sport.
+
+1759
+01:36:55,976 --> 01:36:59,271
+No, you see, she never loved you.
+
+1760
+01:36:59,648 --> 01:37:01,358
+She only married you
+because I was poor...
+
+1761
+01:37:01,524 --> 01:37:03,568
+...and she was tired of waiting.
+It was a terrible...
+
+1762
+01:37:04,277 --> 01:37:07,072
+...terrible mistake, but in her heart...
+
+1763
+01:37:07,238 --> 01:37:08,657
+In her heart, she never loved...
+
+1764
+01:37:08,823 --> 01:37:10,115
+...anyone but me.
+
+1765
+01:37:10,283 --> 01:37:11,784
+- We should go.
+- Let's all go home.
+
+1766
+01:37:11,952 --> 01:37:13,828
+- Sit down, Daisy!
+GATSBY: Please.
+
+1767
+01:37:14,662 --> 01:37:15,454
+Please, take a seat.
+
+1768
+01:37:16,706 --> 01:37:18,123
+Go on, Daisy.
+
+1769
+01:37:19,835 --> 01:37:21,127
+TOM:
+Daisy...
+
+1770
+01:37:22,503 --> 01:37:23,587
+...what's been going on?
+
+1771
+01:37:23,755 --> 01:37:25,881
+- I want to hear about it.
+- I told you what's going on.
+
+1772
+01:37:26,048 --> 01:37:27,759
+It's been going on for five years.
+
+1773
+01:37:28,051 --> 01:37:29,802
+You've been seeing him...
+
+1774
+01:37:31,054 --> 01:37:32,346
+...for five years?
+
+1775
+01:37:32,514 --> 01:37:35,809
+No, no, no, not seeing.
+Not seeing, we couldn't. But...
+
+1776
+01:37:35,975 --> 01:37:38,979
+...both of us loved each other
+all that time. Didn't we?
+
+1777
+01:37:39,354 --> 01:37:40,354
+TOM:
+Oh, that's all.
+
+1778
+01:37:41,398 --> 01:37:43,108
+Ha-ha-ha! You're crazy!
+
+1779
+01:37:43,733 --> 01:37:44,568
+I can't speak about...
+
+1780
+01:37:44,734 --> 01:37:48,113
+...what happened five years ago
+because I didn't know Daisy then.
+
+1781
+01:37:48,279 --> 01:37:51,240
+And I'll be damned if I see how
+you got within a mile of her...
+
+1782
+01:37:51,408 --> 01:37:54,159
+...unless you brought the groceries
+to the back door.
+
+1783
+01:37:54,368 --> 01:37:55,578
+But all the rest of that...
+
+1784
+01:37:55,744 --> 01:37:57,122
+...is a goddamn lie.
+
+1785
+01:37:57,288 --> 01:37:57,997
+Daisy loved me...
+
+1786
+01:37:58,163 --> 01:37:59,791
+...when she married me...
+
+1787
+01:38:00,207 --> 01:38:01,626
+...and she loves me now.
+GATSBY: No.
+
+1788
+01:38:01,792 --> 01:38:04,212
+- No. I'm sorry, Mr. Buchanan, no.
+TOM: She does! She does, though.
+
+1789
+01:38:04,378 --> 01:38:05,255
+No, she does, though.
+
+1790
+01:38:05,421 --> 01:38:08,007
+She does. And what's more, I love Daisy too.
+
+1791
+01:38:09,301 --> 01:38:10,260
+No.
+
+1792
+01:38:11,386 --> 01:38:12,386
+I love you, Daisy.
+
+1793
+01:38:13,470 --> 01:38:14,555
+Now, once in a while...
+
+1794
+01:38:14,722 --> 01:38:17,182
+...I go off on a spree. I always come back.
+
+1795
+01:38:17,350 --> 01:38:19,853
+- A spree.
+TOM: And in my heart I love her all the time.
+
+1796
+01:38:20,020 --> 01:38:21,354
+You're revolting.
+
+1797
+01:38:21,520 --> 01:38:22,396
+You know why we left...
+
+1798
+01:38:22,564 --> 01:38:24,565
+...Chicago? I'm surprised
+they didn't treat you...
+
+1799
+01:38:24,733 --> 01:38:26,275
+...to the story of that little spree!
+
+1800
+01:38:26,443 --> 01:38:29,445
+That's all over now, Daisy, darling.
+That's all over.
+
+1801
+01:38:29,613 --> 01:38:31,155
+Just tell him the truth. Go on.
+
+1802
+01:38:31,323 --> 01:38:35,201
+That you never loved him
+and this will all be wiped out forever.
+
+1803
+01:38:35,368 --> 01:38:36,493
+How could I love him...
+
+1804
+01:38:36,661 --> 01:38:38,829
+...possibly?
+GATSBY: Remember our plans.
+
+1805
+01:38:38,997 --> 01:38:40,873
+You tell him that you never loved him
+and all...
+
+1806
+01:38:41,041 --> 01:38:42,667
+...this pain will be wiped out...
+
+1807
+01:38:42,833 --> 01:38:43,792
+...forever.
+
+1808
+01:38:44,668 --> 01:38:45,795
+Daisy.
+
+1809
+01:38:47,421 --> 01:38:49,466
+Daisy, tell him.
+
+1810
+01:38:49,673 --> 01:38:51,009
+I never loved him.
+
+1811
+01:38:52,719 --> 01:38:53,845
+Never?
+
+1812
+01:38:54,179 --> 01:38:56,055
+- No.
+- No.
+
+1813
+01:38:57,349 --> 01:38:59,059
+Not at Kapiolani?
+
+1814
+01:39:02,895 --> 01:39:06,106
+Not that day I carried you down from
+the Punch Bowl to keep your shoes dry?
+
+1815
+01:39:11,070 --> 01:39:11,904
+Never?
+
+1816
+01:39:12,863 --> 01:39:14,615
+Please don't.
+
+1817
+01:39:15,240 --> 01:39:16,408
+Daisy.
+
+1818
+01:39:17,702 --> 01:39:19,412
+There, Jay.
+
+1819
+01:39:20,037 --> 01:39:21,247
+You want too much.
+
+1820
+01:39:21,706 --> 01:39:22,707
+I love you now...
+
+1821
+01:39:22,873 --> 01:39:24,333
+...isn't that enough? I can't help...
+
+1822
+01:39:24,501 --> 01:39:25,668
+...what's past.
+
+1823
+01:39:25,835 --> 01:39:28,253
+I did love him once,
+but I loved you too.
+
+1824
+01:39:31,048 --> 01:39:33,426
+You loved me too?
+
+1825
+01:39:33,592 --> 01:39:34,802
+You loved me...?
+
+1826
+01:39:34,970 --> 01:39:35,970
+Even that is a lie!
+
+1827
+01:39:36,136 --> 01:39:37,096
+She didn't know you were alive!
+
+1828
+01:39:37,262 --> 01:39:38,931
+There are things between Daisy and me...
+
+1829
+01:39:39,099 --> 01:39:40,432
+...Gatsby, that you'll never know.
+
+1830
+01:39:40,600 --> 01:39:42,351
+- Things that neither of us can ever forget.
+GATSBY: I need to...
+
+1831
+01:39:42,519 --> 01:39:43,686
+...speak to Daisy alone.
+
+1832
+01:39:43,853 --> 01:39:47,189
+You see, you've got her
+all excited now, don't you...
+
+1833
+01:39:47,356 --> 01:39:49,192
+...old sport? Daisy.
+DAISY: Even alone...
+
+1834
+01:39:49,359 --> 01:39:52,153
+...I can't say I never loved Torn.
+It wouldn't be true.
+
+1835
+01:39:52,319 --> 01:39:53,488
+- What?
+- Of course it wouldn't.
+
+1836
+01:39:53,654 --> 01:39:55,698
+- As if it mattered to you.
+TOM: Of course it matters!
+
+1837
+01:39:55,864 --> 01:39:57,658
+I'm gonna take better care of you
+from now on.
+
+1838
+01:39:57,826 --> 01:40:01,078
+You're not taking care of Daisy
+anymore. She's leaving you.
+
+1839
+01:40:01,246 --> 01:40:02,413
+Nonsense!
+
+1840
+01:40:02,579 --> 01:40:04,457
+- I am, though!
+TOM: No, no, no.
+
+1841
+01:40:04,623 --> 01:40:05,667
+She is not leaving me.
+
+1842
+01:40:05,833 --> 01:40:06,751
+Certainly not...
+
+1843
+01:40:06,917 --> 01:40:08,336
+...for a common swindler...
+
+1844
+01:40:08,502 --> 01:40:09,503
+...like you.
+
+1845
+01:40:09,671 --> 01:40:12,131
+Mr. Gatsby, exactly who are you, anyhow?
+
+1846
+01:40:12,297 --> 01:40:13,341
+I made an investigation...
+
+1847
+01:40:13,507 --> 01:40:14,884
+...into your affairs. You're one...
+
+1848
+01:40:15,051 --> 01:40:16,219
+...of Meyer Wolfshiem's bunch.
+
+1849
+01:40:16,386 --> 01:40:17,761
+Please, let's go home.
+
+1850
+01:40:17,929 --> 01:40:19,346
+See, he and this Wolfshiem...
+
+1851
+01:40:19,514 --> 01:40:20,931
+...they bought up drugstores.
+
+1852
+01:40:21,099 --> 01:40:22,350
+And sold bootlegged...
+
+1853
+01:40:22,516 --> 01:40:23,643
+...alcohol over the counter.
+
+1854
+01:40:23,810 --> 01:40:25,145
+What about it, old sport?
+
+1855
+01:40:25,310 --> 01:40:26,520
+Don't you call me "old sport."
+
+1856
+01:40:26,688 --> 01:40:28,105
+And this drugstore business...
+
+1857
+01:40:28,273 --> 01:40:30,774
+...is just small change
+compared to this bonds stunt...
+
+1858
+01:40:30,942 --> 01:40:32,402
+...that you and Wolfshiem
+have got going.
+
+1859
+01:40:32,569 --> 01:40:33,610
+Your friend Walter Chase...
+
+1860
+01:40:33,778 --> 01:40:35,404
+-...isn't too proud to come in?
+-I gave u..
+
+1861
+01:40:35,572 --> 01:40:36,405
+...that some thought.
+
+1862
+01:40:36,573 --> 01:40:37,907
+How does a reputable banker...
+
+1863
+01:40:38,073 --> 01:40:39,743
+...like Walter Chase find himself...
+
+1864
+01:40:39,908 --> 01:40:41,368
+...up to his eyeballs in debt...
+
+1865
+01:40:41,536 --> 01:40:43,371
+GATSBY: I'll tell you.
+-...to a little kike like Wolfshiem?
+
+1866
+01:40:43,537 --> 01:40:45,789
+-It's called greed, old sport.
+TOM: That's right!
+
+1867
+01:40:46,123 --> 01:40:48,917
+And you have half of Wall Street
+out there swilling your...
+
+1868
+01:40:49,085 --> 01:40:51,837
+...free booze at that fun park
+every weekend.
+
+1869
+01:40:52,005 --> 01:40:53,506
+I'm surprised he hasn't
+tried to drag you in.
+
+1870
+01:40:56,301 --> 01:40:57,426
+My God, he has.
+
+1871
+01:40:57,594 --> 01:40:58,845
+He's got nothing to do with--
+
+1872
+01:40:59,011 --> 01:41:00,305
+With your little racket.
+
+1873
+01:41:02,640 --> 01:41:03,850
+Daisy.
+
+1874
+01:41:04,059 --> 01:41:05,310
+Daisy.
+
+1875
+01:41:06,269 --> 01:41:08,563
+Can't you see who this guy is...
+
+1876
+01:41:08,729 --> 01:41:13,609
+...with his house and his parties
+and his fancy clothes?
+
+1877
+01:41:14,277 --> 01:41:16,237
+He is just a front...
+
+1878
+01:41:16,404 --> 01:41:18,530
+...for Wolfshiem, a gangster...
+
+1879
+01:41:18,698 --> 01:41:21,033
+...to get his claws into respectable folk
+like Walter Chase.
+
+1880
+01:41:21,201 --> 01:41:24,496
+The only respectable thing about you,
+old sport, is your money.
+
+1881
+01:41:24,662 --> 01:41:26,497
+Your money, that's it.
+Now I've just as much...
+
+1882
+01:41:26,663 --> 01:41:28,041
+...as you. That means we're equal.
+
+1883
+01:41:28,207 --> 01:41:29,167
+Oh, no. No.
+
+1884
+01:41:30,585 --> 01:41:31,586
+We're different.
+
+1885
+01:41:32,587 --> 01:41:33,962
+I am.
+
+1886
+01:41:34,255 --> 01:41:35,465
+They are.
+
+1887
+01:41:35,631 --> 01:41:36,757
+She is.
+
+1888
+01:41:36,925 --> 01:41:38,259
+We're all different from you.
+
+1889
+01:41:38,842 --> 01:41:40,386
+You see, we were born...
+
+1890
+01:41:40,845 --> 01:41:42,387
+...different.
+
+1891
+01:41:43,347 --> 01:41:44,849
+It's in our blood...
+
+1892
+01:41:45,225 --> 01:41:48,978
+...and nothing that you do
+or say or steal...
+
+1893
+01:41:49,395 --> 01:41:51,730
+...or dream up can ever change that.
+
+1894
+01:41:52,606 --> 01:41:53,858
+A girl like Daisy--
+
+1895
+01:41:54,024 --> 01:41:55,234
+You shut up!
+
+1896
+01:41:55,400 --> 01:41:56,152
+Shut up!
+
+1897
+01:41:56,319 --> 01:41:58,654
+You shut up! Shut up!
+
+1898
+01:41:58,822 --> 01:42:00,532
+Shut up!
+
+1899
+01:42:08,497 --> 01:42:11,126
+NICK:
+Gatsby looked, in that moment...
+
+1900
+01:42:11,835 --> 01:42:13,586
+<i>...as if he had...
+
+1901
+01:42:14,212 --> 01:42:15,963
+<i>...killed a man.
+
+1902
+01:42:16,588 --> 01:42:17,756
+[TOM CHUCKLES]
+
+1903
+01:42:31,229 --> 01:42:33,064
+My sincerest--
+
+1904
+01:42:33,480 --> 01:42:35,149
+My sincerest apologies.
+
+1905
+01:42:39,444 --> 01:42:40,988
+I seem to have...
+
+1906
+01:42:41,989 --> 01:42:43,658
+...lost my temper.
+
+1907
+01:42:43,949 --> 01:42:45,493
+That's right, Mr. Gatsby.
+
+1908
+01:42:47,162 --> 01:42:48,662
+Show us some of those fine...
+
+1909
+01:42:48,829 --> 01:42:50,622
+...Oxford manners.
+GATSBY: Daisy, darling.
+
+1910
+01:42:51,498 --> 01:42:54,752
+None of this has any consequence.
+
+1911
+01:42:55,670 --> 01:42:56,753
+Daisy.
+
+1912
+01:42:57,671 --> 01:42:59,841
+Daisy, talk to me, darling.
+
+1913
+01:43:00,091 --> 01:43:02,385
+I just lost my temper, that's all.
+
+1914
+01:43:02,551 --> 01:43:03,720
+<i>NICK:
+He began talking...
+
+1915
+01:43:03,886 --> 01:43:06,305
+<i>...excitedly, but with every word...
+
+1916
+01:43:06,471 --> 01:43:09,225
+<i>...Daisy was drawing
+further and further into herself.
+
+1917
+01:43:09,391 --> 01:43:11,269
+--to go to your parents' house
+in Louisville.
+
+1918
+01:43:11,435 --> 01:43:12,311
+Please, Tom, I can't...
+
+1919
+01:43:12,478 --> 01:43:14,063
+...stand it anymore!
+
+1920
+01:43:17,108 --> 01:43:19,610
+Why don't you two start on home...
+
+1921
+01:43:20,485 --> 01:43:21,570
+...in Mr. Gatsby's car.
+
+1922
+01:43:21,863 --> 01:43:23,488
+- Daisy, darling, look at me.
+TOM: Go on.
+
+1923
+01:43:23,655 --> 01:43:24,657
+Daisy.
+
+1924
+01:43:24,823 --> 01:43:25,824
+He won't annoy you.
+
+1925
+01:43:26,576 --> 01:43:27,409
+I think he realizes...
+
+1926
+01:43:27,577 --> 01:43:30,078
+-...that this little flirtation is over.
+- Daisy?!
+
+1927
+01:43:30,579 --> 01:43:31,622
+Daisy!
+
+1928
+01:43:45,636 --> 01:43:47,430
+You want any of this?
+
+1929
+01:43:47,846 --> 01:43:48,931
+Jordan?
+
+1930
+01:43:49,097 --> 01:43:50,140
+Nick?
+
+1931
+01:43:52,976 --> 01:43:54,020
+Nick.
+
+1932
+01:43:54,645 --> 01:43:55,313
+What?
+
+1933
+01:43:56,730 --> 01:43:58,065
+You want any?
+
+1934
+01:43:58,440 --> 01:43:59,650
+No.
+
+1935
+01:44:00,734 --> 01:44:02,362
+I just remembered...
+
+1936
+01:44:04,613 --> 01:44:05,864
+...today's my birthday.
+
+1937
+01:44:10,536 --> 01:44:11,787
+TOM:
+Happy birthday.
+
+1938
+01:44:14,707 --> 01:44:18,962
+<i>NICK: Thirty. The promise of</i>
+a <i>decade of loneliness.
+
+1939
+01:44:19,127 --> 01:44:22,590
+<i>The formidable stroke of 30
+died away...
+
+1940
+01:44:22,756 --> 01:44:27,220
+<i>...as Gatsby and Daisy drove on
+through the cooling twilight...
+
+1941
+01:44:29,096 --> 01:44:31,015
+<i>...towards death.
+
+1942
+01:44:34,601 --> 01:44:35,770
+WILSON:
+Don't you lie to me!
+
+1943
+01:44:36,436 --> 01:44:37,771
+Hey, where'd you get these from?
+
+1944
+01:44:37,939 --> 01:44:39,481
+You might fool me, but you don't...
+
+1945
+01:44:39,649 --> 01:44:40,440
+...fool God!
+
+1946
+01:44:40,608 --> 01:44:42,150
+God sees everything!
+
+1947
+01:44:42,985 --> 01:44:44,112
+[WILSON SCREAMS]
+
+1948
+01:44:44,779 --> 01:44:46,447
+Myrtle!
+
+1949
+01:44:46,613 --> 01:44:47,823
+Where are you?
+
+1950
+01:44:54,037 --> 01:44:55,206
+MYRTLE:
+Tom?
+
+1951
+01:44:55,372 --> 01:44:56,498
+Torn!
+
+1952
+01:44:57,332 --> 01:44:58,333
+Torn!
+
+1953
+01:44:59,002 --> 01:44:59,877
+WILSON:
+Myrtle!
+
+1954
+01:45:00,043 --> 01:45:00,877
+MYRTLE:
+I'm here! Stop!
+
+1955
+01:45:01,045 --> 01:45:01,753
+Baby!
+
+1956
+01:45:01,921 --> 01:45:02,587
+Torn!
+
+1957
+01:45:03,588 --> 01:45:04,256
+Wait!
+
+1958
+01:45:39,833 --> 01:45:40,667
+POLICEMAN 1:
+Slow down.
+
+1959
+01:45:40,835 --> 01:45:41,668
+Slow down!
+
+1960
+01:45:41,836 --> 01:45:43,337
+Bad trouble up ahead, sir!
+
+1961
+01:45:43,503 --> 01:45:46,466
+TOM: Good. Wilson'll have
+a little business at last.
+
+1962
+01:45:46,966 --> 01:45:47,966
+Let's take a look.
+
+1963
+01:45:48,134 --> 01:45:49,676
+Oh, must we?
+
+1964
+01:45:50,302 --> 01:45:51,636
+Just a look.
+
+1965
+01:45:52,305 --> 01:45:53,139
+Come on.
+
+1966
+01:45:54,222 --> 01:45:55,850
+[PEOPLE CHATTERING]
+
+1967
+01:45:58,519 --> 01:46:01,564
+POLICEMAN 2:
+Move back! Clear the space here!
+
+1968
+01:46:02,398 --> 01:46:03,774
+Have a little respect!
+
+1969
+01:46:03,940 --> 01:46:06,360
+If you don't have a legitimate reason
+to be in the building...
+
+1970
+01:46:06,527 --> 01:46:08,695
+...I want you outside!
+
+1971
+01:46:11,615 --> 01:46:13,951
+[HUMMING GOSPEL HYMN]
+
+1972
+01:46:14,659 --> 01:46:18,872
+If you saw anything tonight you'd like
+to talk to me about, well, then you can...
+
+1973
+01:46:19,039 --> 01:46:20,457
+...talk to me outside.
+
+1974
+01:46:20,625 --> 01:46:22,502
+I don't want you in here. Okay?
+
+1975
+01:46:23,002 --> 01:46:24,462
+[SOBS]
+
+1976
+01:46:25,171 --> 01:46:26,963
+POLICEMAN 2:
+Please. Stand back. Please.
+
+1977
+01:46:27,131 --> 01:46:29,091
+WILSON:
+My God.
+
+1978
+01:46:31,094 --> 01:46:32,052
+POLICEMAN 2:
+All right, folks.
+
+1979
+01:46:32,220 --> 01:46:35,055
+Make some room, huh?
+Make some room back there!
+
+1980
+01:46:35,305 --> 01:46:37,516
+If you have no business, clear out!
+
+1981
+01:46:51,405 --> 01:46:52,073
+POLICEMAN 2:
+Sir.
+
+1982
+01:46:52,239 --> 01:46:54,199
+What are you doing? Sir!
+
+1983
+01:46:55,534 --> 01:46:56,368
+Sir, I'm asking you--
+
+1984
+01:46:56,536 --> 01:46:57,578
+Get off me!
+
+1985
+01:46:58,578 --> 01:47:00,038
+I'm fine.
+
+1986
+01:47:01,998 --> 01:47:03,417
+I'm fine.
+
+1987
+01:47:04,836 --> 01:47:06,128
+POLICEMAN 2:
+You knew her, eh?
+
+1988
+01:47:13,301 --> 01:47:15,720
+Not really. No.
+
+1989
+01:47:17,140 --> 01:47:18,765
+POLICEMAN 2:
+I gotta ask you to step back, sir.
+
+1990
+01:47:22,686 --> 01:47:24,396
+So, what happened?
+
+1991
+01:47:25,230 --> 01:47:26,940
+She ran out in the road.
+
+1992
+01:47:27,524 --> 01:47:30,735
+- Son of a bitch didn't even stop his car.
+MAN 1: Hey.
+
+1993
+01:47:30,903 --> 01:47:32,822
+I saw it. It was a yellow car.
+
+1994
+01:47:33,280 --> 01:47:34,407
+A big yellow car.
+
+1995
+01:47:34,573 --> 01:47:35,740
+MAN 2:
+Damn thing came out of nowhere.
+
+1996
+01:47:35,908 --> 01:47:37,409
+Yeah. Yeah, a big yellow...
+
+1997
+01:47:37,577 --> 01:47:39,619
+...Duesy. Custom job.
+
+1998
+01:47:40,496 --> 01:47:43,416
+WILSON: You don't have to tell me
+what kind of car it was.
+
+1999
+01:47:44,000 --> 01:47:46,168
+I know what kind of car it was.
+
+2000
+01:47:47,086 --> 01:47:47,752
+Wilson.
+
+2001
+01:47:47,920 --> 01:47:50,338
+- Just pull yourself together!
+- I know what kind of car it was!
+
+2002
+01:47:50,506 --> 01:47:51,923
+He's upset! Everybody out!
+
+2003
+01:47:52,091 --> 01:47:54,176
+Can't you see the man
+needs peace and quiet?
+
+2004
+01:47:54,342 --> 01:47:56,887
+Wilson! I just got here from New York.
+
+2005
+01:47:57,846 --> 01:47:59,265
+No! Hey! Wilson!
+
+2006
+01:47:59,431 --> 01:48:01,809
+I was bringing you the coupé.
+
+2007
+01:48:01,975 --> 01:48:03,435
+Sit down! Sit down.
+
+2008
+01:48:03,603 --> 01:48:05,354
+Get him a drink. Get him a drink.
+
+2009
+01:48:05,520 --> 01:48:06,814
+That yellow car wasn't mine!
+
+2010
+01:48:06,980 --> 01:48:08,399
+You hear? I haven't...
+
+2011
+01:48:08,565 --> 01:48:10,693
+...seen it all afternoon.
+POLICEMAN 2: Hey!
+
+2012
+01:48:11,694 --> 01:48:12,694
+What color's your car?
+
+2013
+01:48:13,820 --> 01:48:14,947
+It's blue.
+
+2014
+01:48:15,113 --> 01:48:16,657
+Coupé.
+
+2015
+01:48:16,823 --> 01:48:18,201
+We just got here from New York.
+
+2016
+01:48:18,367 --> 01:48:19,493
+They just stopped!
+
+2017
+01:48:26,667 --> 01:48:27,792
+0K8)'-
+
+2018
+01:48:29,127 --> 01:48:30,378
+Blue.
+
+2019
+01:48:33,632 --> 01:48:34,841
+Right.
+
+2020
+01:48:35,009 --> 01:48:36,135
+Here.
+
+2021
+01:48:37,136 --> 01:48:38,554
+Leave us alone.
+
+2022
+01:48:39,889 --> 01:48:40,722
+Wilson.
+
+2023
+01:48:45,144 --> 01:48:46,729
+Who owns the yellow car?
+
+2024
+01:48:51,024 --> 01:48:52,859
+A fella named Gatsby.
+
+2025
+01:48:53,235 --> 01:48:54,737
+Jay Gatsby.
+
+2026
+01:48:56,154 --> 01:48:57,698
+He's a crook, George.
+
+2027
+01:48:58,198 --> 01:49:01,243
+Yes. Throws those parties
+the papers are always talking about.
+
+2028
+01:49:07,832 --> 01:49:11,628
+Maybe he was the one that was
+fooling around with Myrtle.
+
+2029
+01:49:12,212 --> 01:49:12,921
+[SOBS]
+Maybe...
+
+2030
+01:49:13,088 --> 01:49:14,798
+...that's why he killed her.
+
+2031
+01:49:14,966 --> 01:49:17,426
+Yeah, maybe.
+
+2032
+01:49:18,677 --> 01:49:19,720
+Guy like that, who knows?
+
+2033
+01:49:22,974 --> 01:49:26,018
+He didn't have to kill her.
+
+2034
+01:49:35,903 --> 01:49:37,195
+TOM:
+Gatsby.
+
+2035
+01:49:38,989 --> 01:49:42,033
+Something ought to be done
+about a fella like that.
+
+2036
+01:49:44,912 --> 01:49:46,247
+<i>He'll pay.
+
+2037
+01:49:47,289 --> 01:49:49,041
+<i>Oh, he'll pay.
+
+2038
+01:49:55,672 --> 01:49:57,091
+Coward.
+
+2039
+01:49:58,426 --> 01:50:00,469
+He didn't even stop his car.
+
+2040
+01:50:02,721 --> 01:50:04,431
+You gonna defend him now?
+
+2041
+01:50:05,307 --> 01:50:06,725
+Huh?
+
+2042
+01:50:24,618 --> 01:50:26,287
+TOM:
+I'll telephone for a taxi, Nick.
+
+2043
+01:50:26,453 --> 01:50:28,497
+Why don't you come inside
+and have some supper...
+
+2044
+01:50:28,663 --> 01:50:29,372
+...while you wait?
+
+2045
+01:50:29,539 --> 01:50:31,458
+No, thanks. I'll wait outside.
+
+2046
+01:50:33,668 --> 01:50:34,545
+What is the matter...
+
+2047
+01:50:34,712 --> 01:50:35,796
+- . .With you?
+
+2048
+01:50:40,801 --> 01:50:41,844
+Won't you come in, Nick?
+
+2049
+01:50:42,011 --> 01:50:43,011
+No, thanks.
+
+2050
+01:50:43,179 --> 01:50:44,055
+It's only half past 9.
+
+2051
+01:50:44,220 --> 01:50:45,180
+No, I've had enough.
+
+2052
+01:50:45,805 --> 01:50:46,931
+Of everyone.
+
+2053
+01:51:03,032 --> 01:51:04,699
+GATSBY:
+Hello, old sport.
+
+2054
+01:51:13,417 --> 01:51:14,835
+NICK:
+What are you doing?
+
+2055
+01:51:16,462 --> 01:51:17,921
+GATSBY:
+Just sitting here.
+
+2056
+01:51:18,088 --> 01:51:19,547
+Yes, I see that.
+
+2057
+01:51:19,715 --> 01:51:21,509
+You see any trouble out on the road?
+
+2058
+01:51:21,676 --> 01:51:22,426
+That woman...
+
+2059
+01:51:22,592 --> 01:51:24,679
+-...you ran down is dead, Jay.
+- I thought so.
+
+2060
+01:51:24,929 --> 01:51:25,845
+<i>L.
+
+2061
+01:51:26,012 --> 01:51:27,222
+I told Daisy that I thought so.
+
+2062
+01:51:27,390 --> 01:51:29,350
+Daisy? Do you hear yourself?
+
+2063
+01:51:29,516 --> 01:51:30,475
+How could you?
+
+2064
+01:51:30,643 --> 01:51:31,560
+How could you do that?
+
+2065
+01:51:31,726 --> 01:51:32,728
+[WHISPERS]
+Keep your voice down.
+
+2066
+01:51:32,895 --> 01:51:33,813
+NICK:
+You're nothing...
+
+2067
+01:51:33,979 --> 01:51:36,148
+-...but a goddamn coward!
+- Keep your voice down!
+
+2068
+01:51:36,314 --> 01:51:38,650
+Please. There was no point in stop--
+
+2069
+01:51:38,818 --> 01:51:42,070
+No point'? No point?
+What about that woman?
+
+2070
+01:51:42,238 --> 01:51:44,614
+No point. She was killed instantly.
+
+2071
+01:51:44,782 --> 01:51:46,617
+Yes, it ripped her open!
+I was there! I saw her!
+
+2072
+01:51:46,783 --> 01:51:49,828
+I understand! I understand! It was my fault.
+
+2073
+01:51:49,994 --> 01:51:51,247
+It was my fault. This woman...
+
+2074
+01:51:51,413 --> 01:51:55,208
+...she rushed out at us
+as if she was trying to speak to us.
+
+2075
+01:51:55,376 --> 01:51:58,921
+It all happened so quickly.
+She tried-- I tried...
+
+2076
+01:51:59,087 --> 01:52:00,131
+-...to turn in time...
+-"She"?
+
+2077
+01:52:00,296 --> 01:52:01,506
+...but--
+
+2078
+01:52:18,481 --> 01:52:19,692
+It was Daisy.
+
+2079
+01:52:25,113 --> 01:52:26,698
+[IN NORMAL VOICE]
+Well, I...
+
+2080
+01:52:29,243 --> 01:52:33,538
+You see, after we left New York,
+she was very nervous.
+
+2081
+01:52:33,706 --> 01:52:37,001
+She thought that driving would steady her.
+
+2082
+01:52:38,502 --> 01:52:41,130
+But this woman, she rushed...
+
+2083
+01:52:41,296 --> 01:52:42,506
+<i>...out at us.
+
+2084
+01:52:44,800 --> 01:52:45,592
+It all happened so quickly.
+
+2085
+01:52:47,677 --> 01:52:48,636
+It wasn't her fault...
+
+2086
+01:52:48,804 --> 01:52:49,846
+<i>...do you see?
+
+2087
+01:53:11,409 --> 01:53:14,371
+No one must know that Daisy was driving.
+
+2088
+01:53:15,706 --> 01:53:16,707
+Promise me.
+
+2089
+01:53:18,375 --> 01:53:21,670
+Jay, you should go home
+and get some rest.
+
+2090
+01:53:21,837 --> 01:53:24,881
+I'm going to wait here.
+I'm going to wait here all night...
+
+2091
+01:53:25,048 --> 01:53:26,216
+-...if necessary.
+- No, no, no.
+
+2092
+01:53:26,382 --> 01:53:27,801
+- That's not a good idea.
+- If he tries...
+
+2093
+01:53:27,967 --> 01:53:30,429
+...to bother her about that
+unpleasantness this afternoon...
+
+2094
+01:53:30,595 --> 01:53:31,639
+If he tries to bother her...
+
+2095
+01:53:32,222 --> 01:53:34,682
+If he tries any brutality on her whatsoever--
+
+2096
+01:53:34,850 --> 01:53:37,019
+Torn won't touch her.
+He's not even thinking about her.
+
+2097
+01:53:37,185 --> 01:53:38,979
+I don't trust him.
+
+2098
+01:53:39,145 --> 01:53:41,815
+- I don't trust him.
+- All right.
+
+2099
+01:53:42,274 --> 01:53:42,942
+All right.
+
+2100
+01:53:46,487 --> 01:53:47,863
+You wait here.
+
+2101
+01:53:49,364 --> 01:53:50,783
+I'll see if there's any commotion.
+
+2102
+01:53:52,326 --> 01:53:53,452
+Would you?
+
+2103
+01:53:58,289 --> 01:54:00,042
+Thank you, old sport.
+
+2104
+01:54:06,506 --> 01:54:09,051
+TOM: Listen, she was in the wrong,
+running out on the road.
+
+2105
+01:54:09,844 --> 01:54:11,220
+Sweetheart, you have...
+
+2106
+01:54:11,386 --> 01:54:12,762
+...nothing to worry about.
+
+2107
+01:54:12,930 --> 01:54:15,181
+Let me take care of things.
+
+2108
+01:54:15,349 --> 01:54:16,850
+Take care of you.
+
+2109
+01:54:17,100 --> 01:54:18,644
+I'll make some calls.
+
+2110
+01:54:18,810 --> 01:54:20,645
+We'll go away.
+
+2111
+01:54:21,354 --> 01:54:23,690
+Just go away, get out of town.
+
+2112
+01:54:24,315 --> 01:54:25,984
+Get some rest. Don't worry.
+
+2113
+01:54:26,860 --> 01:54:28,904
+It'll be all right.
+
+2114
+01:54:31,073 --> 01:54:32,408
+Hey-
+
+2115
+01:54:42,667 --> 01:54:44,252
+[CAR APPROACHES]
+
+2116
+01:55:00,060 --> 01:55:03,188
+Oh. Hello, old sport.
+
+2117
+01:55:03,439 --> 01:55:04,439
+J8)'-
+
+2118
+01:55:05,231 --> 01:55:06,817
+- Everything all right?
+- Yes.
+
+2119
+01:55:07,568 --> 01:55:09,235
+Everything's just fine.
+
+2120
+01:55:09,737 --> 01:55:12,989
+Around 4:00, she came to the window.
+
+2121
+01:55:13,823 --> 01:55:15,492
+She stood there, then...
+
+2122
+01:55:16,827 --> 01:55:18,996
+Then she turned out the light, so...
+
+2123
+01:55:19,662 --> 01:55:20,872
+Well...
+
+2124
+01:55:22,207 --> 01:55:24,251
+Give me a hand, will you, old sport?
+
+2125
+01:55:24,960 --> 01:55:28,421
+<i>NICK: I should have told him
+what I had just seen, but...
+
+2126
+01:55:29,381 --> 01:55:30,757
+<i>...all I could manage was:
+
+2127
+01:55:32,134 --> 01:55:34,094
+You know, Jay,
+with everything that's happened...
+
+2128
+01:55:34,261 --> 01:55:35,845
+...you ought to go away.
+
+2129
+01:55:36,012 --> 01:55:37,430
+Tonight. They'll trace your car.
+
+2130
+01:55:37,597 --> 01:55:39,515
+Go away? No, I can't leave now.
+
+2131
+01:55:39,682 --> 01:55:40,684
+Not tonight.
+
+2132
+01:55:40,850 --> 01:55:42,936
+Jay, do you understand
+that a woman has been killed?
+
+2133
+01:55:43,103 --> 01:55:44,771
+Daisy's going to call in the morning.
+
+2134
+01:55:45,271 --> 01:55:48,108
+Then we'll make plans
+to go away together.
+
+2135
+01:55:50,152 --> 01:55:51,444
+- Yeah.
+- Daisy, she--
+
+2136
+01:55:51,612 --> 01:55:53,863
+She just needs time
+to think things through. Herzog...
+
+2137
+01:55:54,030 --> 01:55:55,865
+...we're talking. Thank you.
+
+2138
+01:56:00,037 --> 01:56:01,956
+She just needs time to think.
+
+2139
+01:56:02,122 --> 01:56:04,582
+No, Jay. With Daisy--
+
+2140
+01:56:04,875 --> 01:56:09,712
+She just needs time to think.
+She's going to call in the morning.
+
+2141
+01:56:17,971 --> 01:56:18,639
+Wait up with me.
+
+2142
+01:56:24,103 --> 01:56:25,145
+The sun's almost up.
+
+2143
+01:56:29,649 --> 01:56:32,903
+<i>NICK: That was the night
+he finally told me the truth.
+
+2144
+01:56:33,069 --> 01:56:34,320
+<i>All of it.
+
+2145
+01:56:37,323 --> 01:56:39,909
+GATSBY:
+You know, I've thought for a while...
+
+2146
+01:56:40,077 --> 01:56:44,872
+...I had a lot of things,
+but the truth is I'm empty.
+
+2147
+01:56:45,039 --> 01:56:47,960
+I suppose that's why
+I make things up about myself.
+
+2148
+01:56:48,127 --> 01:56:50,921
+But I've wanted to tell you
+the whole story for...
+
+2149
+01:56:51,087 --> 01:56:52,506
+...a very long time.
+
+2150
+01:56:53,673 --> 01:56:56,635
+See, I grew up terribly, terribly poor,
+old sport.
+
+2151
+01:56:56,844 --> 01:57:00,180
+<i>- My folks were...
+NICK: He revealed his humble beginnings...
+
+2152
+01:57:00,346 --> 01:57:03,559
+<i>...his transformative voyage
+with Dan Cody...
+
+2153
+01:57:03,725 --> 01:57:06,353
+<i>...the war, Oxford...
+
+2154
+01:57:06,520 --> 01:57:09,814
+<i>...and how he joined Wolfshiem
+in the business.
+
+2155
+01:57:11,233 --> 01:57:12,693
+<i>It was also that night...
+
+2156
+01:57:12,859 --> 01:57:16,947
+<i>...that I became aware of Gatsby's
+extraordinary gift for hope.
+
+2157
+01:57:17,113 --> 01:57:20,158
+I can't describe how surprised I was
+to find out that I loved her.
+
+2158
+01:57:20,324 --> 01:57:21,452
+And that she loved me too.
+
+2159
+01:57:21,618 --> 01:57:24,579
+<i>NICK: A gift that I have never found
+in any other person.
+
+2160
+01:57:24,747 --> 01:57:27,332
+I never realized how extraordinary...
+
+2161
+01:57:27,498 --> 01:57:29,417
+...a nice girl could be.
+
+2162
+01:57:29,585 --> 01:57:33,130
+<i>And which it is not likely
+I shall ever find again.
+
+2163
+01:57:33,296 --> 01:57:35,173
+I thought out my life with Daisy in it...
+
+2164
+01:57:35,340 --> 01:57:38,635
+...trying to figure out how we could marry
+and struggle along on so many dollars a month.
+
+2165
+01:57:40,720 --> 01:57:42,472
+What was in the letter?
+
+2166
+01:57:45,059 --> 01:57:49,645
+The reason why after the war
+I hadn't been able to return.
+
+2167
+01:57:50,314 --> 01:57:54,568
+I asked her to wait until I made
+something of myself, but she was...
+
+2168
+01:57:56,319 --> 01:57:58,613
+See, I felt married to her.
+
+2169
+01:58:01,533 --> 01:58:02,868
+That was all.
+
+2170
+01:58:03,786 --> 01:58:05,203
+<i>NICK:
+It was all for her.
+
+2171
+01:58:05,662 --> 01:58:07,872
+<i>The house, the parties.
+
+2172
+01:58:08,039 --> 01:58:09,207
+<i>Everything.
+
+2173
+01:58:16,715 --> 01:58:18,634
+<i>WILSON:
+God sees everything.
+
+2174
+01:58:27,559 --> 01:58:29,520
+HERZOG:
+Mr. Gatsby, sir, excuse me.
+
+2175
+01:58:29,936 --> 01:58:31,479
+Chicago calling, sir.
+
+2176
+01:58:31,646 --> 01:58:32,898
+Not now.
+
+2177
+01:58:33,564 --> 01:58:36,318
+Keep it open for a personal call.
+
+2178
+01:58:36,902 --> 01:58:39,863
+HERZOG: A personal call? Of course.
+GARDENER: Excuse me, sir.
+
+2179
+01:58:40,029 --> 01:58:41,573
+Mr. Gatsby, I'm gonna drain the pool.
+
+2180
+01:58:41,739 --> 01:58:43,617
+Before the leaves start falling in.
+
+2181
+01:58:43,783 --> 01:58:45,243
+Not today.
+
+2182
+01:58:47,871 --> 01:58:49,872
+Not today, it's so beautiful.
+
+2183
+01:58:50,998 --> 01:58:56,337
+You know, old sport, I haven't used that
+pool once all summer. Let's take a swim.
+
+2184
+01:58:57,756 --> 01:58:59,632
+Have the phone brought down to the pool.
+
+2185
+01:59:13,604 --> 01:59:15,356
+I have to go, Jay.
+
+2186
+01:59:18,025 --> 01:59:19,444
+I have to work.
+
+2187
+01:59:19,944 --> 01:59:21,363
+I understand.
+
+2188
+01:59:23,073 --> 01:59:24,323
+Well...
+
+2189
+01:59:24,490 --> 01:59:26,033
+...I'll walk you out.
+
+2190
+01:59:33,708 --> 01:59:36,502
+Well, I'll call you up.
+
+2191
+01:59:36,712 --> 01:59:39,172
+Please do, old sport. Please do.
+
+2192
+01:59:42,009 --> 01:59:42,717
+I supposed.
+
+2193
+01:59:42,885 --> 01:59:44,677
+...that Daisy will call too.
+
+2194
+01:59:48,472 --> 01:59:49,932
+<i>L.
+
+2195
+01:59:51,018 --> 01:59:52,310
+I suppose.
+
+2196
+01:59:53,436 --> 01:59:54,563
+Yes.
+
+2197
+01:59:56,773 --> 01:59:58,692
+Well, goodbye.
+
+2198
+02:00:17,543 --> 02:00:18,795
+NICK:
+Jay!
+
+2199
+02:00:20,963 --> 02:00:22,506
+They're a rotten crowd.
+
+2200
+02:00:24,592 --> 02:00:27,304
+You're worth the whole
+damn bunch put together.
+
+2201
+02:00:37,271 --> 02:00:38,314
+<i>NICK:
+I was always glad...
+
+2202
+02:00:38,481 --> 02:00:39,733
+<i>...I said that.
+
+2203
+02:00:41,984 --> 02:00:42,735
+<i>It was the only...
+
+2204
+02:00:42,903 --> 02:00:44,363
+<i>...compliment I ever paid him.
+
+2205
+02:00:48,617 --> 02:00:49,618
+<i>That morning...
+
+2206
+02:00:50,368 --> 02:00:52,662
+<i>...Wall Street boomed its usual...
+
+2207
+02:00:52,828 --> 02:00:53,997
+<i>...golden roar.
+
+2208
+02:00:54,163 --> 02:00:57,960
+<i>But I wasn't worth a decent stroke of work.
+
+2209
+02:00:58,877 --> 02:01:01,837
+<i>I waited for Gatsby to call with news.
+
+2210
+02:01:04,298 --> 02:01:05,967
+<i>While he waited...
+
+2211
+02:01:06,134 --> 02:01:07,469
+...for Daisy.
+
+2212
+02:01:32,159 --> 02:01:33,828
+[TELEPHONE RINGING]
+
+2213
+02:01:49,845 --> 02:01:51,345
+HERZOG:
+Gatsby's.
+
+2214
+02:01:52,764 --> 02:01:55,975
+I know Mr. Gatsby will be
+very happy that you've called.
+
+2215
+02:01:56,143 --> 02:01:57,476
+[GUNSHOT]
+
+2216
+02:02:18,414 --> 02:02:20,167
+Daisy.
+
+2217
+02:02:39,310 --> 02:02:40,686
+[GUNSHOT]
+
+2218
+02:02:41,520 --> 02:02:43,899
+Hello! Hello!
+
+2219
+02:02:44,065 --> 02:02:46,568
+<i>Hello! ls everything all right?
+
+2220
+02:02:52,323 --> 02:02:55,077
+Hello! Hello!
+
+2221
+02:02:55,243 --> 02:02:56,619
+Hello!
+
+2222
+02:02:56,787 --> 02:02:58,829
+<i>Hello! ls everything all right?
+
+2223
+02:03:08,965 --> 02:03:13,177
+<i>NICK: I remember the rest of that day
+as an endless drill...
+
+2224
+02:03:13,345 --> 02:03:17,974
+...of <i>police and photographers
+and tabloid reporters.
+
+2225
+02:03:18,682 --> 02:03:20,935
+<i>The headlines were a nightmare.
+
+2226
+02:03:22,104 --> 02:03:24,146
+<i>They pinned everything on Gatsby.
+
+2227
+02:03:24,314 --> 02:03:28,693
+<i>The affair with Myrtle.
+The hit-and-run. Everything.
+
+2228
+02:03:28,902 --> 02:03:30,904
+<i>And there was nothing I could say...
+
+2229
+02:03:31,070 --> 02:03:36,118
+<i>...except the one unutterable fact
+that none of it was true.
+
+2230
+02:03:36,451 --> 02:03:39,912
+DAISY: Darling, Daddy's taking care
+of his two favorite girls.
+
+2231
+02:03:40,079 --> 02:03:41,288
+PAMMY:
+Where are we going?
+
+2232
+02:03:41,832 --> 02:03:43,792
+- We're going on a holiday.
+TOM: We should go.
+
+2233
+02:03:43,958 --> 02:03:45,252
+DAISY:
+Just you...
+
+2234
+02:03:45,418 --> 02:03:47,002
+...me and Daddy.
+
+2235
+02:03:47,170 --> 02:03:48,671
+[TELEPHONE RINGING]
+
+2236
+02:03:49,338 --> 02:03:50,590
+Buchanan residence.
+
+2237
+02:03:50,756 --> 02:03:52,175
+NICK:
+May I speak to Mrs. Buchanan?
+
+2238
+02:03:52,634 --> 02:03:54,136
+It's Mr. Carraway, her cousin.
+
+2239
+02:03:54,301 --> 02:03:54,970
+<i>HENRY.
+Madame...
+
+2240
+02:03:55,136 --> 02:03:57,012
+...is not available, Monsieur Carraway.
+
+2241
+02:03:57,471 --> 02:04:00,350
+If you speak to her,
+tell her the funeral's tomorrow.
+
+2242
+02:04:00,516 --> 02:04:02,476
+I'm sorry, monsieur,
+they have gone away.
+
+2243
+02:04:02,644 --> 02:04:03,478
+<i>Gone away?
+
+2244
+02:04:03,936 --> 02:04:05,479
+Do you know when they'll be back?
+
+2245
+02:04:08,149 --> 02:04:09,024
+No.
+
+2246
+02:04:09,192 --> 02:04:11,153
+<i>They have already departed.
+
+2247
+02:04:15,114 --> 02:04:19,368
+Please. I know that she would
+want to be there. She would--
+
+2248
+02:04:19,578 --> 02:04:21,454
+If you would just get a message to her.
+
+2249
+02:04:21,621 --> 02:04:24,832
+<i>- Let</i> me talk to her, <i>please.</i>
+HENRI: You wish to contact her?
+
+2250
+02:04:25,625 --> 02:04:27,461
+I have no further information, monsieur.
+
+2251
+02:04:27,836 --> 02:04:29,003
+Please!
+
+2252
+02:04:29,171 --> 02:04:30,296
+[HENRI SPEAKS IN FRENCH]
+
+2253
+02:04:31,756 --> 02:04:33,091
+Hello?
+
+2254
+02:04:40,015 --> 02:04:41,224
+TOM:
+Come on.
+
+2255
+02:04:41,975 --> 02:04:44,394
+<i>NICK:
+They were careless people, Tom and Daisy.
+
+2256
+02:04:46,104 --> 02:04:48,273
+<i>They smashed up things and people...
+
+2257
+02:04:48,439 --> 02:04:51,109
+<i>...and then retreated back
+into their money and their...
+
+2258
+02:04:51,275 --> 02:04:52,985
+<i>...vast carelessness.
+
+2259
+02:04:54,695 --> 02:04:55,947
+Hey-
+
+2260
+02:04:56,113 --> 02:04:57,782
+Hey! Get out of here!
+
+2261
+02:04:58,240 --> 02:04:59,493
+Go on!
+
+2262
+02:04:59,658 --> 02:05:01,203
+Get the hell out of here!
+
+2263
+02:05:14,925 --> 02:05:16,176
+NICK:
+<i>I</i> rang...
+
+2264
+02:05:16,342 --> 02:05:17,927
+...I wrote...
+
+2265
+02:05:18,094 --> 02:05:20,095
+<i>...I implored.
+
+2266
+02:05:20,680 --> 02:05:26,019
+<i>But not a single one of the sparkling
+hundreds that enjoyed his hospitality...
+
+2267
+02:05:26,895 --> 02:05:29,396
+<i>...attended the funeral.
+
+2268
+02:05:29,855 --> 02:05:31,649
+<i>And from Daisy...
+
+2269
+02:05:32,359 --> 02:05:34,319
+<i>...not even a flower.
+
+2270
+02:05:36,029 --> 02:05:38,364
+<i>I was all he had.
+
+2271
+02:05:38,948 --> 02:05:41,368
+<i>The only one who cared.
+
+2272
+02:06:12,481 --> 02:06:14,568
+<i>After Gatsby's death...
+
+2273
+02:06:15,527 --> 02:06:17,988
+<i>...New York was haunted for me.
+
+2274
+02:06:19,154 --> 02:06:20,532
+<i>That city...
+
+2275
+02:06:22,492 --> 02:06:26,203
+<i>...my once golden shimmering mirage...
+
+2276
+02:06:27,663 --> 02:06:29,873
+<i>...now made me sick.
+
+2277
+02:06:33,502 --> 02:06:34,378
+<i>On my last night...
+
+2278
+02:06:34,546 --> 02:06:35,963
+...in New York...
+
+2279
+02:06:36,965 --> 02:06:38,882
+<i>...I returned to that huge...
+
+2280
+02:06:39,050 --> 02:06:41,927
+<i>...incoherent house once more.
+
+2281
+02:06:42,095 --> 02:06:43,470
+<i>Wolfshiem's associates...
+
+2282
+02:06:43,637 --> 02:06:45,140
+<i>...had cleaned it out.
+
+2283
+02:06:45,306 --> 02:06:46,682
+<i>JORDAN".
+He threw all those parties...
+
+2284
+02:06:46,850 --> 02:06:48,560
+<i>...hoping she'd wander in one night.
+
+2285
+02:06:48,726 --> 02:06:50,060
+NICK:
+It's like an amusement park.
+
+2286
+02:06:50,228 --> 02:06:52,146
+<i>DAISY:
+But how do you live here all alone?
+
+2287
+02:06:52,314 --> 02:06:54,524
+GATSBY:
+She makes it look so splendid...
+
+2288
+02:06:54,690 --> 02:06:55,859
+...don't you think, old sport?
+
+2289
+02:06:56,025 --> 02:06:57,944
+DAISY:
+Music! And then we can...
+
+2290
+02:06:58,110 --> 02:06:59,738
+...dance all night!
+
+2291
+02:07:01,530 --> 02:07:02,823
+<i>GATSBY:
+Will you come, old sport?
+
+2292
+02:07:02,990 --> 02:07:04,117
+<i>We need you.
+
+2293
+02:07:04,283 --> 02:07:06,411
+DAISY:
+I wish it could always be like this.
+
+2294
+02:07:06,578 --> 02:07:08,246
+It Will be.
+
+2295
+02:07:10,039 --> 02:07:15,377
+<i>NICK: I remembered how we had all come to
+Gatsby's and guessed at his corruption...
+
+2296
+02:07:16,503 --> 02:07:18,547
+<i>...while he stood before</i> us...
+
+2297
+02:07:18,715 --> 02:07:19,381
+<i>...concealing...
+
+2298
+02:07:19,548 --> 02:07:22,092
+<i>...an incorruptible dream.
+
+2299
+02:07:23,094 --> 02:07:28,015
+<i>DAISY: It's perfect. From your perfect,
+irresistible imagination.
+
+2300
+02:07:34,104 --> 02:07:35,939
+<i>NICK:
+The moon rose higher.
+
+2301
+02:07:37,650 --> 02:07:40,862
+<i>And as I stood there,
+brooding on the old, unknown world...
+
+2302
+02:07:41,904 --> 02:07:43,948
+<i>...I thought of Gatsby's wonder...
+
+2303
+02:07:44,114 --> 02:07:47,868
+<i>...when he first picked out the green light
+at the end of Daisy's dock.
+
+2304
+02:07:53,457 --> 02:07:55,793
+<i>He had come such a long way.
+
+2305
+02:07:56,586 --> 02:07:59,046
+<i>And his dream
+must have seemed so close...
+
+2306
+02:07:59,213 --> 02:08:02,175
+<i>...that he could hardly fail to grasp it.
+
+2307
+02:08:06,512 --> 02:08:07,639
+<i>But he did not know...
+
+2308
+02:08:07,805 --> 02:08:09,932
+<i>...that it was already behind him.
+
+2309
+02:08:11,768 --> 02:08:14,729
+<i>Gatsby believed in the green light...
+
+2310
+02:08:14,938 --> 02:08:18,315
+<i>...the orgastic future
+that year by year recedes...
+
+2311
+02:08:18,483 --> 02:08:19,609
+<i>...before us.
+
+2312
+02:08:19,775 --> 02:08:22,529
+<i>It eluded us then, but that's no matter.
+
+2313
+02:08:22,904 --> 02:08:25,657
+<i>Tomorrow, we will run faster...
+
+2314
+02:08:25,823 --> 02:08:28,368
+<i>...stretch out our arms farther...
+
+2315
+02:08:28,827 --> 02:08:31,371
+<i>...and one fine morning...
+
+2316
+02:08:31,537 --> 02:08:33,622
+<i>So we beat on...
+
+2317
+02:08:34,082 --> 02:08:36,417
+<i>...boats against the current...
+
+2318
+02:08:37,001 --> 02:08:38,752
+<i>...borne back...
+
+2319
+02:08:38,920 --> 02:08:40,755
+<i>...ceaselessly...
+
+2320
+02:08:41,131 --> 02:08:43,173
+<i>...into the past.
+
